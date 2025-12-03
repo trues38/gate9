@@ -70,12 +70,8 @@ function DashboardContent() {
             let query = supabase
                 .from('ingest_news')
                 .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score, short_summary, title_ko, summary_ko')
-                .order('published_at', { ascending: false })
-                .limit(50)
 
-            // Filter by refinement score (only show high quality news)
-            // We apply this in SQL so that 'limit(50)' applies to the filtered set.
-            // This prevents the "empty feed" issue where the latest 50 items are all unrefined/low-quality.
+            // 1. Apply Filters FIRST
             query = query.gte('importance_score', 6)
 
             if (selectedCountry !== 'ALL') {
@@ -89,6 +85,10 @@ function DashboardContent() {
             if (selectedCategory !== 'ALL') {
                 query = query.eq('category', selectedCategory)
             }
+
+            // 2. Apply Sort & Limit LAST
+            query = query.order('published_at', { ascending: false })
+                .limit(50)
 
             const { data, error } = await query
 
