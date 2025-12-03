@@ -74,15 +74,9 @@ function DashboardContent() {
                 .limit(50)
 
             // Filter by refinement score (only show high quality news)
-            // Note: For now, we fetch all and filter in client or we can add .gte('importance_score', 6)
-            // But since legacy data has score 0, we might want to be careful.
-            // Let's enforce quality: Score >= 6 OR (is_refined is null/false AND recent)
-            // Actually, user requested "importance_score >= 6".
-            // We will add the filter but also allow unrefined news for now so the board isn't empty until refinement runs.
-            // query = query.or('importance_score.gte.6,is_refined.is.false') 
-
-            // Strict Mode as requested:
-            // query = query.gte('importance_score', 6)
+            // We apply this in SQL so that 'limit(50)' applies to the filtered set.
+            // This prevents the "empty feed" issue where the latest 50 items are all unrefined/low-quality.
+            query = query.gte('importance_score', 6)
 
             if (selectedCountry !== 'ALL') {
                 if (selectedCountry === 'CRYPTO') {
@@ -99,14 +93,7 @@ function DashboardContent() {
             const { data, error } = await query
 
             if (data) {
-                // Client-side filter: Strict Mode
-                // Only show refined news with Score >= 6 to ensure no ads/noise appear.
-                const filtered = data.filter(item => {
-                    return item.importance_score !== null &&
-                        item.importance_score !== undefined &&
-                        item.importance_score >= 6
-                })
-                setNews(filtered)
+                setNews(data)
             }
             setLoading(false)
         }
