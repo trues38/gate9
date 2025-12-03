@@ -20,6 +20,25 @@ interface NewsItem {
     url?: string
     source?: string
     country?: string
+    category?: string
+    importance_score?: number
+    short_summary?: string
+    title_ko?: string
+    summary_ko?: string
+}
+
+function getCountryFlag(country: string) {
+    const map: Record<string, string> = {
+        'US': '🇺🇸',
+        'KR': '🇰🇷',
+        'CN': '🇨🇳',
+        'JP': '🇯🇵',
+        'EU': '🇪🇺',
+        'UK': '🇬🇧',
+        'CRYPTO': '🪙',
+        'ALL': '🌍'
+    }
+    return map[country] || '🌍'
 }
 
 function DashboardContent() {
@@ -28,11 +47,13 @@ function DashboardContent() {
 
     const [selectedFactor, setSelectedFactor] = useState<string | null>(null)
     const [selectedCountry, setSelectedCountry] = useState<string>(initialCountry)
+    const [selectedCategory, setSelectedCategory] = useState<string>('ALL')
     const [news, setNews] = useState<NewsItem[]>([])
     const [loading, setLoading] = useState(true)
     const [currentDate, setCurrentDate] = useState<string>("")
 
     const countries = ['ALL', 'US', 'KR', 'CN', 'JP', 'EU', 'CRYPTO']
+    const categories = ['ALL', 'ECONOMY', 'FINANCE', 'TECH', 'POLITICS', 'WORLD', 'COMMODITIES', 'OTHER']
 
     useEffect(() => {
         setCurrentDate(new Date().toLocaleDateString('en-US', {
@@ -48,25 +69,44 @@ function DashboardContent() {
             setLoading(true)
             let query = supabase
                 .from('ingest_news')
-                .select('id, title, clean_title, published_at, summary, url, source, country')
+                .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score, short_summary, title_ko, summary_ko')
                 .order('published_at', { ascending: false })
                 .limit(50)
 
+            // Filter by refinement score (only show high quality news)
+            // Note: For now, we fetch all and filter in client or we can add .gte('importance_score', 6)
+            // But since legacy data has score 0, we might want to be careful.
+            // Let's enforce quality: Score >= 6 OR (is_refined is null/false AND recent)
+            // Actually, user requested "importance_score >= 6".
+            // We will add the filter but also allow unrefined news for now so the board isn't empty until refinement runs.
+            // query = query.or('importance_score.gte.6,is_refined.is.false') 
+
+            // Strict Mode as requested:
+            // query = query.gte('importance_score', 6)
+
             if (selectedCountry !== 'ALL') {
                 if (selectedCountry === 'CRYPTO') {
-                    // Assuming crypto news might be tagged or we filter by keywords/category
-                    // For now, let's try a text search or specific country code if used
-                    // If no specific column, we might fallback to text search
                     query = query.textSearch('title', "'bitcoin' | 'crypto' | 'btc' | 'eth'")
                 } else {
                     query = query.eq('country', selectedCountry)
                 }
             }
 
+            if (selectedCategory !== 'ALL') {
+                query = query.eq('category', selectedCategory)
+            }
+
             const { data, error } = await query
 
             if (data) {
-                setNews(data)
+                // Client-side filter: Strict Mode
+                // Only show refined news with Score >= 6 to ensure no ads/noise appear.
+                const filtered = data.filter(item => {
+                    return item.importance_score !== null &&
+                        item.importance_score !== undefined &&
+                        item.importance_score >= 6
+                })
+                setNews(filtered)
             }
             setLoading(false)
         }
@@ -84,7 +124,7 @@ function DashboardContent() {
         return () => {
             supabase.removeChannel(channel)
         }
-    }, [selectedCountry])
+    }, [selectedCountry, selectedCategory])
 
     // Mock Data for Macro Bar
     const macroIndicators = [
@@ -253,30 +293,55 @@ function DashboardContent() {
                     </div>
                 </div>
 
-                {/* LAYER 3: LIVE INTELLIGENCE FEED (Bottom) */}
+                {/* 2. Live Intelligence Feed (Bottom Layer) */}
                 <div className="lg:col-span-12 mt-4">
-                    <div className="flex flex-col md:flex-row justify-between items-center mb-4 gap-4">
-                        <h3 className="text-xs font-bold text-slate-500 uppercase tracking-widest flex items-center gap-2">
-                            <Zap size={12} className="text-amber-400" /> Live Intelligence Feed
-                        </h3>
-                        <div className="flex flex-wrap gap-1 bg-white/5 p-1 rounded-lg border border-white/5">
-                            {countries.map(country => (
-                                <button
-                                    key={country}
-                                    onClick={() => setSelectedCountry(country)}
-                                    className={cn(
-                                        "px-3 py-1 text-[10px] font-bold rounded-md transition-all font-mono",
-                                        selectedCountry === country
-                                            ? "bg-indigo-600 text-white shadow-lg"
-                                            : "text-slate-500 hover:text-slate-300 hover:bg-white/5"
-                                    )}
-                                >
-                                    {country}
-                                </button>
-                            ))}
+                    <div className="flex flex-col gap-4 mb-4">
+                        <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+                            <h2 className="text-sm font-bold text-white tracking-wider flex items-center gap-2">
+                                <Globe size={16} className="text-indigo-500" />
+                                LIVE INTELLIGENCE
+                            </h2>
+
+                            <div className="flex flex-col items-start md:items-end gap-2 w-full md:w-auto">
+                                {/* Country Filter */}
+                                <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide w-full md:w-auto">
+                                    {countries.map(country => (
+                                        <button
+                                            key={country}
+                                            onClick={() => setSelectedCountry(country)}
+                                            className={cn(
+                                                "text-[10px] px-3 py-1 rounded border transition-all whitespace-nowrap flex items-center gap-1",
+                                                selectedCountry === country
+                                                    ? "bg-indigo-500/20 border-indigo-500 text-indigo-300"
+                                                    : "border-white/10 hover:border-white/30 text-slate-500 hover:text-slate-300"
+                                            )}
+                                        >
+                                            <span>{getCountryFlag(country)}</span>
+                                            <span>{country}</span>
+                                        </button>
+                                    ))}
+                                </div>
+
+                                {/* Category Filter */}
+                                <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide w-full md:w-auto">
+                                    {categories.map(category => (
+                                        <button
+                                            key={category}
+                                            onClick={() => setSelectedCategory(category)}
+                                            className={cn(
+                                                "text-[10px] px-3 py-1 rounded border transition-all whitespace-nowrap",
+                                                selectedCategory === category
+                                                    ? "bg-emerald-500/20 border-emerald-500 text-emerald-300"
+                                                    : "border-white/10 hover:border-white/30 text-slate-500 hover:text-slate-300"
+                                            )}
+                                        >
+                                            {category}
+                                        </button>
+                                    ))}
+                                </div>
+                            </div>
                         </div>
                     </div>
-
                     <div className="bg-[#0a0a0a] border border-white/10 rounded-xl overflow-hidden min-h-[400px]">
                         {loading ? (
                             <div className="flex flex-col items-center justify-center h-[400px] text-slate-500 gap-3">
@@ -296,32 +361,49 @@ function DashboardContent() {
                                         href={item.url || "#"}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="flex items-center gap-4 p-4 hover:bg-white/5 transition-colors group"
+                                        className="flex items-start gap-4 p-4 hover:bg-white/5 transition-colors group"
                                     >
-                                        <div className="shrink-0 w-16 text-center">
+                                        <div className="shrink-0 w-24 text-center pt-1 flex flex-col items-center gap-1.5">
+                                            {/* Top: Category Badge */}
                                             <span className={cn(
-                                                "text-[10px] font-bold px-1.5 py-0.5 rounded border",
-                                                item.country === 'US' ? "text-blue-400 border-blue-500/30 bg-blue-500/10" :
-                                                    item.country === 'KR' ? "text-rose-400 border-rose-500/30 bg-rose-500/10" :
-                                                        item.country === 'CN' ? "text-red-400 border-red-500/30 bg-red-500/10" :
-                                                            item.country === 'JP' ? "text-white border-white/30 bg-white/10" :
-                                                                item.country === 'EU' ? "text-indigo-400 border-indigo-500/30 bg-indigo-500/10" :
-                                                                    "text-slate-400 border-slate-500/30 bg-slate-500/10"
+                                                "text-[10px] font-bold px-2 py-0.5 rounded border w-full text-center truncate",
+                                                item.category === 'ECONOMY' ? "text-emerald-400 border-emerald-500/30 bg-emerald-500/10" :
+                                                    item.category === 'FINANCE' ? "text-blue-400 border-blue-500/30 bg-blue-500/10" :
+                                                        item.category === 'CRYPTO' ? "text-amber-400 border-amber-500/30 bg-amber-500/10" :
+                                                            item.category === 'POLITICS' ? "text-rose-400 border-rose-500/30 bg-rose-500/10" :
+                                                                "text-slate-400 border-slate-500/30 bg-slate-500/10"
                                             )}>
-                                                {item.country || "GLO"}
+                                                {item.category || "GEN"}
                                             </span>
+
+                                            {/* Bottom: Flag + Score */}
+                                            <div className="flex items-center justify-center gap-2">
+                                                <span className="text-lg leading-none" title={item.country || "Global"}>
+                                                    {getCountryFlag(item.country || 'ALL')}
+                                                </span>
+                                                {item.importance_score && item.importance_score > 0 ? (
+                                                    <span className="text-xs font-bold font-mono text-slate-400">
+                                                        {item.importance_score}
+                                                    </span>
+                                                ) : (
+                                                    <span className="text-[9px] font-mono text-slate-600 animate-pulse">
+                                                        ...
+                                                    </span>
+                                                )}
+                                            </div>
                                         </div>
                                         <div className="flex-1 min-w-0">
-                                            <h4 className="text-sm font-medium text-slate-200 group-hover:text-indigo-300 transition-colors truncate font-mono">
-                                                {item.clean_title || item.title}
+                                            <h4 className="text-sm font-medium text-slate-200 group-hover:text-indigo-300 transition-colors font-mono leading-tight mb-1">
+                                                {/* Use Korean title if selectedCountry is KR and translation exists */}
+                                                {(selectedCountry === 'KR' && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
                                             </h4>
                                         </div>
-                                        <div className="shrink-0 text-right">
-                                            <span className="text-[10px] text-slate-600 font-mono">
+                                        <div className="shrink-0 text-right pt-1">
+                                            <span className="text-[10px] text-slate-600 font-mono block">
                                                 {new Date(item.published_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                                             </span>
                                         </div>
-                                        <ArrowUpRight size={14} className="text-slate-700 group-hover:text-indigo-400 transition-colors opacity-0 group-hover:opacity-100" />
+                                        <ArrowUpRight size={14} className="text-slate-700 group-hover:text-indigo-400 transition-colors opacity-0 group-hover:opacity-100 mt-1" />
                                     </a>
                                 ))}
                             </div>
