@@ -54,6 +54,14 @@ def call_llm(model, messages):
         response_format={"type": "json_object"}
     )
 
+# Models to try in order
+MODELS = [
+    "google/gemini-2.0-flash-exp:free",
+    "amazon/nova-2-lite-v1:free",
+    "meta-llama/llama-3.2-11b-vision-instruct:free",
+    "microsoft/phi-3-medium-128k-instruct:free"
+]
+
 def refine_news_batch(articles):
     """
     Refines a batch of articles using LLM with fallback.
@@ -99,71 +107,42 @@ def refine_news_batch(articles):
     }
     """
 
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": articles_text}
-    ]
-
-    def clean_json(text):
-        # Remove markdown code blocks if present
-        text = text.strip()
-        if text.startswith("```json"):
-            text = text[7:]
-        if text.startswith("```"):
-            text = text[3:]
-        if text.endswith("```"):
-            text = text[:-3]
-        return text.strip()
-
-    try:
-        # Try Primary Model
-        print(f"      👉 Trying Primary: {PRIMARY_MODEL}...")
-        response = call_llm(PRIMARY_MODEL, messages)
-        content = response.choices[0].message.content
+    for model in MODELS:
         try:
-            result_json = json.loads(clean_json(content))
-            return result_json.get("results", [])
-        except json.JSONDecodeError:
-            print(f"      ⚠️ Primary JSON Error. Raw content: {content[:100]}...")
-            raise # Trigger fallback
-
-    except Exception as e:
-        print(f"      ⚠️ Primary failed: {e}")
-        
-        try:
-            # Try Backup Model
-            print(f"      👉 Trying Backup: {BACKUP_MODEL}...")
-            response = call_llm(BACKUP_MODEL, messages)
+            # print(f"      Trying model: {model}")
+            completion = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": articles_text}
+                ],
+                response_format={"type": "json_object"}
+            )
             
-            if not response or not response.choices:
-                print("      ❌ Error: Empty response or choices")
-                return []
-
-            content = response.choices[0].message.content
+            content = completion.choices[0].message.content
+            data = json.loads(content)
+            results = data.get("results", [])
+            if results:
+                return results
             
-            try:
-                result_json = json.loads(clean_json(content))
-                return result_json.get("results", [])
-            except json.JSONDecodeError:
-                print(f"      ❌ Backup JSON Error. Raw content: {content[:100]}...")
-                return []
+        except Exception as e:
+            print(f"      ❌ Error with {model}: {e}")
+            continue
             
-        except Exception as e2:
-            print(f"      ❌ Backup failed: {e2}")
-            return []
+    return []
 
 def run_refinement():
     print(f"🚀 REGIME ZERO REFINEMENT ENGINE [{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}]")
     
     # 1. Fetch Unrefined News
-    # Limit to 20 to avoid timeouts/rate limits per run
+    # Limit to 50 to handle bursts better (was 20)
     response = supabase.table("ingest_news") \
         .select("id, title, summary") \
         .eq("is_refined", False) \
         .order("published_at", desc=True) \
-        .limit(20) \
+        .limit(50) \
         .execute()
-        
+    
     articles = response.data
     
     if not articles:
