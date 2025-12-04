@@ -70,12 +70,16 @@ function DashboardContent() {
             setLoading(true)
             console.log(`Fetching news for Country: ${selectedCountry}, Category: ${selectedCategory}`)
 
+            const sevenDaysAgo = new Date()
+            sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7)
+
             let query = supabase
                 .from('ingest_news')
                 .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score, short_summary, title_ko, summary_ko')
 
             // 1. Apply Filters FIRST
             query = query.gte('importance_score', 6)
+                .gte('published_at', sevenDaysAgo.toISOString()) // FIX: Limit scan range
 
             if (selectedCountry !== 'ALL') {
                 if (selectedCountry === 'CRYPTO') {
