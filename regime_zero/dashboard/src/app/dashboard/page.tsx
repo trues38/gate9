@@ -48,6 +48,7 @@ function DashboardContent() {
     const [selectedFactor, setSelectedFactor] = useState<string | null>(null)
     const [selectedCountry, setSelectedCountry] = useState<string>(initialCountry)
     const [selectedCategory, setSelectedCategory] = useState<string>('ALL')
+    const [selectedLanguage, setSelectedLanguage] = useState<string>('EN') // EN, KO
     const [news, setNews] = useState<NewsItem[]>([])
     const [loading, setLoading] = useState(true)
     const [currentDate, setCurrentDate] = useState<string>("")
@@ -67,6 +68,8 @@ function DashboardContent() {
     useEffect(() => {
         async function fetchData() {
             setLoading(true)
+            console.log(`Fetching news for Country: ${selectedCountry}, Category: ${selectedCategory}`)
+
             let query = supabase
                 .from('ingest_news')
                 .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score, short_summary, title_ko, summary_ko')
@@ -92,7 +95,12 @@ function DashboardContent() {
 
             const { data, error } = await query
 
+            if (error) {
+                console.error("Error fetching news:", error)
+            }
+
             if (data) {
+                console.log(`Fetched ${data.length} items`)
                 setNews(data)
             }
             setLoading(false)
@@ -113,6 +121,7 @@ function DashboardContent() {
         }
     }, [selectedCountry, selectedCategory])
 
+    // ... (Macro Data omitted for brevity, keeping existing) ...
     // Mock Data for Macro Bar
     const macroIndicators = [
         { label: "RATES", value: "Hawkish Hold", trend: "neutral", icon: Activity },
@@ -290,23 +299,41 @@ function DashboardContent() {
                             </h2>
 
                             <div className="flex flex-col items-start md:items-end gap-2 w-full md:w-auto">
-                                {/* Country Filter */}
-                                <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide w-full md:w-auto">
-                                    {countries.map(country => (
+                                <div className="flex items-center gap-4">
+                                    {/* Language Toggle */}
+                                    <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
                                         <button
-                                            key={country}
-                                            onClick={() => setSelectedCountry(country)}
-                                            className={cn(
-                                                "text-[10px] px-3 py-1 rounded border transition-all whitespace-nowrap flex items-center gap-1",
-                                                selectedCountry === country
-                                                    ? "bg-indigo-500/20 border-indigo-500 text-indigo-300"
-                                                    : "border-white/10 hover:border-white/30 text-slate-500 hover:text-slate-300"
-                                            )}
+                                            onClick={() => setSelectedLanguage('EN')}
+                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", selectedLanguage === 'EN' ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
                                         >
-                                            <span>{getCountryFlag(country)}</span>
-                                            <span>{country}</span>
+                                            EN
                                         </button>
-                                    ))}
+                                        <button
+                                            onClick={() => setSelectedLanguage('KO')}
+                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", selectedLanguage === 'KO' ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
+                                        >
+                                            KR
+                                        </button>
+                                    </div>
+
+                                    {/* Country Filter */}
+                                    <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide w-full md:w-auto">
+                                        {countries.map(country => (
+                                            <button
+                                                key={country}
+                                                onClick={() => setSelectedCountry(country)}
+                                                className={cn(
+                                                    "text-[10px] px-3 py-1 rounded border transition-all whitespace-nowrap flex items-center gap-1",
+                                                    selectedCountry === country
+                                                        ? "bg-indigo-500/20 border-indigo-500 text-indigo-300"
+                                                        : "border-white/10 hover:border-white/30 text-slate-500 hover:text-slate-300"
+                                                )}
+                                            >
+                                                <span>{getCountryFlag(country)}</span>
+                                                <span>{country}</span>
+                                            </button>
+                                        ))}
+                                    </div>
                                 </div>
 
                                 {/* Category Filter */}
@@ -381,8 +408,8 @@ function DashboardContent() {
                                         </div>
                                         <div className="flex-1 min-w-0">
                                             <h4 className="text-sm font-medium text-slate-200 group-hover:text-indigo-300 transition-colors font-mono leading-tight mb-1">
-                                                {/* Use Korean title if selectedCountry is KR and translation exists */}
-                                                {(selectedCountry === 'KR' && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
+                                                {/* Use selectedLanguage for translation */}
+                                                {(selectedLanguage === 'KO' && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
                                             </h4>
                                         </div>
                                         <div className="shrink-0 text-right pt-1">
