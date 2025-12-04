@@ -75,7 +75,7 @@ function DashboardContent() {
 
             let query = supabase
                 .from('ingest_news')
-                .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score, short_summary, title_ko, summary_ko')
+                .select('id, title, clean_title, published_at, summary, url, source, country, category, importance_score')
 
             // 1. Apply Filters FIRST
             query = query.gte('importance_score', 6)
@@ -413,7 +413,7 @@ function DashboardContent() {
                                         <div className="flex-1 min-w-0">
                                             <h4 className="text-sm font-medium text-slate-200 group-hover:text-indigo-300 transition-colors font-mono leading-tight mb-1">
                                                 {/* Use selectedLanguage for translation */}
-                                                {(selectedLanguage === 'KO' && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
+                                                {(selectedLanguage === 'KO') ? (item.clean_title || item.title) : item.title}
                                             </h4>
                                         </div>
                                         <div className="shrink-0 text-right pt-1">
