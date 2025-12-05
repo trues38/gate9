@@ -5,6 +5,7 @@ import feedparser
 import yfinance as yf
 import pandas as pd
 import re
+import json
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from supabase import create_client
@@ -17,14 +18,19 @@ load_dotenv()
 supabase = create_client(os.environ.get("SUPABASE_URL"), os.environ.get("SUPABASE_KEY"))
 
 # --- CONFIGURATION ---
+# --- CONFIGURATION ---
 ASSETS = {
     "DX-Y.NYB": "Dollar Index",
     "GC=F": "Gold",
     "CL=F": "Crude Oil",
     "^TNX": "US 10Y Yield",
+    "^IRX": "US 13W Yield", # Proxy for short term if 2Y not available
     "^VIX": "VIX Volatility Index",
     "SPY": "S&P 500",
-    "BTC-USD": "Bitcoin"
+    "BTC-USD": "Bitcoin",
+    "KRW=X": "USD/KRW",
+    "JPY=X": "USD/JPY",
+    "HG=F": "Copper"
 }
 
 NEWS_COUNTRIES = ["US", "KR", "JP", "CN"]
@@ -47,13 +53,43 @@ def clean_html_summary(html_content):
 
 # --- MODULE 1: MARKET DATA INGEST ---
 
+def update_dashboard_json(market_data):
+    """Updates the dashboard_data.json file with latest market data."""
+    json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "dashboard/public/dashboard_data.json")
+    
+    # Default structure
+    data = {
+        "weather": "Stable",
+        "weather_summary": "Market conditions are normal.",
+        "market_snapshot": {},
+        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
+    
+    # Load existing if possible to preserve other fields
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r') as f:
+                existing = json.load(f)
+                data.update(existing)
+        except:
+            pass
+            
+    # Update market snapshot
+    data["market_snapshot"] = market_data
+    data["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    with open(json_path, 'w') as f:
+        json.dump(data, f, indent=2)
+    print(f"   💾 Updated dashboard_data.json at {json_path}")
+
 def fetch_market_data():
     print("\n📊 [1/2] Fetching Market Data (yfinance)...")
     
     today = datetime.now().strftime("%Y-%m-%d")
-    start_date = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d") # Just fetch recent to be safe
+    start_date = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d")
     
     total_saved = 0
+    latest_snapshot = {}
     
     for ticker, name in ASSETS.items():
         print(f"   📥 {name} ({ticker})...", end=" ")
@@ -68,6 +104,14 @@ def fetch_market_data():
             df = df.reset_index()
             if isinstance(df.columns, pd.MultiIndex):
                 df.columns = df.columns.get_level_values(0)
+                
+            # Get latest row for snapshot
+            latest_row = df.iloc[-1]
+            latest_price = float(latest_row['Close'].iloc[0]) if isinstance(latest_row['Close'], pd.Series) else float(latest_row['Close'])
+            latest_snapshot[name] = {
+                "price": latest_price,
+                "change": 0.0 # TODO: Calculate change
+            }
                 
             # Prepare DB Rows
             db_rows = []
@@ -103,6 +147,9 @@ def fetch_market_data():
                 
         except Exception as e:
             print(f"❌ Error: {e}")
+            
+    # Update JSON for Frontend
+    update_dashboard_json(latest_snapshot)
             
     print(f"   ✨ Market Data Complete. ({total_saved} updates)")
 
