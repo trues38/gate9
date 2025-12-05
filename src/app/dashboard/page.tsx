@@ -474,14 +474,14 @@ function DashboardContent() {
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className={cn(
-                                        "flex items-start gap-3 md:gap-4 p-3 md:p-4 transition-colors group",
+                                        "flex items-start gap-2 md:gap-4 p-2 md:p-4 transition-colors group",
                                         theme === 'dark' ? "hover:bg-white/5" : "hover:bg-slate-50"
                                     )}
                                 >
-                                    <div className="shrink-0 w-20 md:w-28 text-center pt-1 flex flex-col items-center gap-1.5">
+                                    <div className="shrink-0 w-16 md:w-28 text-center pt-1 flex flex-col items-center gap-1">
                                         {/* Top: Category Badge */}
                                         <span className={cn(
-                                            "text-[9px] md:text-[10px] font-bold px-1.5 md:px-2 py-0.5 rounded border w-full text-center truncate",
+                                            "text-[8px] md:text-[10px] font-bold px-1 md:px-2 py-0.5 rounded border w-full text-center truncate",
                                             item.category === 'ECONOMY' ? "text-emerald-500 border-emerald-500/30 bg-emerald-500/10" :
                                                 item.category === 'FINANCE' ? "text-blue-500 border-blue-500/30 bg-blue-500/10" :
                                                     item.category === 'CRYPTO' ? "text-amber-500 border-amber-500/30 bg-amber-500/10" :
@@ -492,12 +492,12 @@ function DashboardContent() {
                                         </span>
 
                                         {/* Bottom: Flag + Score */}
-                                        <div className="flex items-center justify-center gap-2">
-                                            <span className="text-base md:text-lg leading-none" title={item.country || "Global"}>
+                                        <div className="flex items-center justify-center gap-1 md:gap-2">
+                                            <span className="text-sm md:text-lg leading-none" title={item.country || "Global"}>
                                                 {getCountryFlag(item.country || 'ALL')}
                                             </span>
                                             {item.importance_score && item.importance_score > 0 ? (
-                                                <span className="text-xs font-bold font-mono text-slate-400">
+                                                <span className="text-[10px] md:text-xs font-bold font-mono text-slate-400">
                                                     {item.importance_score}
                                                 </span>
                                             ) : (
@@ -509,7 +509,7 @@ function DashboardContent() {
                                     </div>
                                     <div className="flex-1 min-w-0">
                                         <h4 className={cn(
-                                            "text-sm font-medium transition-colors font-mono leading-tight mb-1",
+                                            "text-xs md:text-sm font-medium transition-colors font-mono leading-tight mb-1",
                                             theme === 'dark' ? "text-slate-200 group-hover:text-indigo-300" : "text-slate-800 group-hover:text-indigo-600"
                                         )}>
                                             {/* Use selectedLanguage for translation */}
