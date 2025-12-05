@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils"
 import { ArrowUpRight } from "lucide-react"
-import { getCountryFlag } from "@/lib/config"
+import { getCountryFlag } from "../../lib/config"
 
 export interface NewsItem {
     id: number

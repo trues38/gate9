@@ -9,7 +9,7 @@ import {
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { supabase } from "@/lib/supabase"
-import { DASHBOARD_CONFIG, getCountryFlag } from "@/lib/config"
+import { DASHBOARD_CONFIG, getCountryFlag } from "../../lib/config"
 import { NewsCard, NewsItem } from "@/components/dashboard/NewsCard"
 import { RegimeCard } from "@/components/dashboard/RegimeCard"
 import { MacroIndicator } from "@/components/dashboard/MacroIndicator"
