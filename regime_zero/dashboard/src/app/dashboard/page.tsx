@@ -7,13 +7,13 @@ import { useSearchParams } from "next/navigation"
 import {
     Activity, ChevronDown, CloudLightning, DollarSign, Globe, Info, Lock, LogOut, Moon, Sun, Terminal, Unlock
 } from "lucide-react"
-import { cn } from "@/lib/utils"
-import { supabase } from "@/lib/supabase"
+import { cn } from "../../lib/utils"
+import { supabase } from "../../lib/supabase"
 import { DASHBOARD_CONFIG, getCountryFlag } from "../../lib/config"
-import { NewsCard, NewsItem } from "@/components/dashboard/NewsCard"
-import { RegimeCard } from "@/components/dashboard/RegimeCard"
-import { MacroIndicator } from "@/components/dashboard/MacroIndicator"
-import { MarketBoard } from "@/components/dashboard/MarketBoard"
+import { NewsCard, NewsItem } from "../../components/dashboard/NewsCard"
+import { RegimeCard } from "../../components/dashboard/RegimeCard"
+import { MacroIndicator } from "../../components/dashboard/MacroIndicator"
+import { MarketBoard } from "../../components/dashboard/MarketBoard"
 
 function DashboardContent() {
     const router = useRouter()
