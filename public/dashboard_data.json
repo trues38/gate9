@@ -1,41 +1,42 @@
 {
-  "date": "2025-12-01",
-  "last_updated": "2025-12-01T09:20:51.211021",
-  "weather": "맑음",
-  "weather_summary": "금리 안정(4.0%)과 달러 약세 속 귀금속 강세, 글로벌 주식 동조 상승으로 봄바람 불어요",
+  "date": "2025-12-05",
+  "last_updated": "2025-12-05T09:00:00.000000",
+  "weather": "흐림",
+  "weather_summary": "우크라이나 전쟁 장기화 및 FTX 사태 여파로 시장 불확실성 지속, 안전자산 선호 심리 강화",
   "actions": [
     {
       "type": "buy",
       "asset": "금 ETF",
       "label": "골드 강세",
-      "reason": "귀금속 불마켓 신호와 달러 약세로 훈풍"
+      "reason": "안전자산 수요 증가, 지정학적 리스크 헤지"
     },
     {
-      "type": "buy",
-      "asset": "테크주",
-      "label": "US Tech",
-      "reason": "1.51% 상승 중, 사이버 먼데이 소비 호재"
+      "type": "reduce",
+      "asset": "CRYPTO",
+      "label": "시장 위축",
+      "reason": "FTX 사태 여파로 인한 신뢰 하락 및 규제 강화 우려"
     },
     {
       "type": "hold",
       "asset": "KOSPI",
-      "label": "국내주",
-      "reason": "2.15% 강세, 지역 동조 상승 지속"
+      "label": "관망세",
+      "reason": "글로벌 불확실성 속 방향성 탐색"
     }
   ],
   "factor_interpretation": {
-    "rates": "금리 안정 (4.0%)",
-    "dollar": "달러 약세 (Soft)",
-    "risk": "위험 선호 (Risk-On Mild)"
+    "rates": "4.0% (Stable)",
+    "dollar": "105.2 (Strong)",
+    "risk": "Risk-Off (High)",
+    "liquidity": "Tightening"
   },
-  "one_line_insight": "2019 금 랠리와 유사 패턴 (similarity 0.92, AI Knowledge — verify manually)",
+  "one_line_insight": "2022년 12월 유사 패턴: 우크라이나 전쟁 및 FTX 사태 (Similarity 95%)",
   "risks": [
-    "호가 폭주 시 시장 중단 조치 가능",
-    "트럼프 무역 압박 주시"
+    "지정학적 리스크 고조 (우크라이나)",
+    "가상자산 시장 변동성 확대"
   ],
   "checklist": [
-    "금리 움직임 확인 (4.0% 안정)",
-    "지역 동조 지속 여부 (KOSPI 2.15%)"
+    "금리 정책 방향성 모니터링",
+    "주요 기술주 실적 발표 주시"
   ],
   "historian_insight": {
     "match_date": "2022-12-01",

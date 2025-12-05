@@ -186,7 +186,7 @@ function DashboardContent() {
 
     return (
         <div className={cn(
-            "min-h-screen font-sans selection:bg-indigo-500/30 flex flex-col transition-colors duration-300",
+            "min-h-screen font-sans selection:bg-indigo-500/30 flex flex-col transition-colors duration-300 overflow-x-hidden",
             theme === 'dark' ? "bg-[#050505] text-slate-200" : "bg-slate-50 text-slate-900"
         )}>
 
@@ -263,7 +263,7 @@ function DashboardContent() {
                 </div>
             </div>
 
-            <div className="flex-1 max-w-[1600px] w-full mx-auto p-6 grid grid-cols-1 lg:grid-cols-12 gap-8">
+            <div className="flex-1 max-w-[1600px] w-full mx-auto p-4 md:p-6 grid grid-cols-1 lg:grid-cols-12 gap-8">
 
                 {/* LAYER 2: DAILY REGIME SUMMARY (Middle) */}
                 <div className="lg:col-span-12 grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -308,7 +308,7 @@ function DashboardContent() {
                                     <p className={cn("text-xs leading-relaxed", theme === 'dark' ? "text-slate-400" : "text-slate-600")}>
                                         {macroData?.one_line_insight || "Analyzing market structure..."}
                                     </p>
-                                    <div className="flex gap-2 mt-3">
+                                    <div className="flex gap-2 mt-3 flex-wrap">
                                         {macroData?.risks?.map((risk: string, idx: number) => (
                                             <span key={idx} className="px-2 py-1 rounded bg-rose-500/10 text-rose-500 text-[10px] font-bold border border-rose-500/20">
                                                 RISK: {risk}
@@ -478,7 +478,7 @@ function DashboardContent() {
                                         theme === 'dark' ? "hover:bg-white/5" : "hover:bg-slate-50"
                                     )}
                                 >
-                                    <div className="shrink-0 w-24 text-center pt-1 flex flex-col items-center gap-1.5">
+                                    <div className="shrink-0 w-28 text-center pt-1 flex flex-col items-center gap-1.5">
                                         {/* Top: Category Badge */}
                                         <span className={cn(
                                             "text-[10px] font-bold px-2 py-0.5 rounded border w-full text-center truncate",
