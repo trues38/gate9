@@ -55,7 +55,12 @@ def clean_html_summary(html_content):
 
 def update_dashboard_json(market_data):
     """Updates the dashboard_data.json file with latest market data."""
-    json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "dashboard/public/dashboard_data.json")
+    # Target the ROOT public folder for the deployed app
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    json_path = os.path.join(root_dir, "public/dashboard_data.json")
+    
+    # Also update the local dashboard folder for dev
+    local_dashboard_path = os.path.join(root_dir, "regime_zero/dashboard/public/dashboard_data.json")
     
     # Default structure
     data = {
@@ -78,9 +83,23 @@ def update_dashboard_json(market_data):
     data["market_snapshot"] = market_data
     data["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
-    with open(json_path, 'w') as f:
-        json.dump(data, f, indent=2)
-    print(f"   💾 Updated dashboard_data.json at {json_path}")
+    # Write to ROOT public folder
+    try:
+        os.makedirs(os.path.dirname(json_path), exist_ok=True)
+        with open(json_path, 'w') as f:
+            json.dump(data, f, indent=2)
+        print(f"   💾 Updated dashboard_data.json at {json_path}")
+    except Exception as e:
+        print(f"   ❌ Failed to update root dashboard_data.json: {e}")
+
+    # Write to LOCAL dashboard folder
+    try:
+        os.makedirs(os.path.dirname(local_dashboard_path), exist_ok=True)
+        with open(local_dashboard_path, 'w') as f:
+            json.dump(data, f, indent=2)
+        print(f"   💾 Updated local dashboard_data.json at {local_dashboard_path}")
+    except Exception as e:
+        print(f"   ⚠️ Failed to update local dashboard_data.json: {e}")
 
 def fetch_market_data():
     print("\n📊 [1/2] Fetching Market Data (yfinance)...")
