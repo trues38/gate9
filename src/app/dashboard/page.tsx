@@ -186,7 +186,7 @@ function DashboardContent() {
 
     return (
         <div className={cn(
-            "min-h-screen font-sans selection:bg-indigo-500/30 flex flex-col transition-colors duration-300 overflow-x-hidden",
+            "min-h-screen font-sans selection:bg-indigo-500/30 flex flex-col transition-colors duration-300",
             theme === 'dark' ? "bg-[#050505] text-slate-200" : "bg-slate-50 text-slate-900"
         )}>
 
@@ -195,7 +195,7 @@ function DashboardContent() {
                 "sticky top-0 z-50 backdrop-blur-md border-b shadow-lg transition-colors duration-300",
                 theme === 'dark' ? "bg-[#0a0a0a]/95 border-white/5" : "bg-white/95 border-slate-200"
             )}>
-                <div className="max-w-[1600px] mx-auto px-4 h-12 flex items-center justify-between overflow-x-auto no-scrollbar">
+                <div className="max-w-7xl mx-auto px-4 h-12 flex items-center justify-between overflow-x-auto no-scrollbar">
                     <div className="flex items-center gap-6 text-xs font-mono whitespace-nowrap">
                         <button
                             onClick={handleRefresh}
@@ -263,7 +263,7 @@ function DashboardContent() {
                 </div>
             </div>
 
-            <div className="flex-1 max-w-[1600px] w-full mx-auto p-4 md:p-6 grid grid-cols-1 lg:grid-cols-12 gap-8">
+            <div className="flex-1 max-w-7xl w-full mx-auto p-4 md:p-6 grid grid-cols-1 lg:grid-cols-12 gap-8">
 
                 {/* LAYER 2: DAILY REGIME SUMMARY (Middle) */}
                 <div className="lg:col-span-12 grid grid-cols-1 lg:grid-cols-3 gap-6">
