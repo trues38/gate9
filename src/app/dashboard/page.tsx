@@ -22,7 +22,7 @@ function DashboardContent() {
 
     const [selectedCountry, setSelectedCountry] = useState<string>(initialCountry)
     const [selectedCategory, setSelectedCategory] = useState<string>('ALL')
-    const [selectedLanguage, setSelectedLanguage] = useState<string>('EN') // EN, KO
+    const [showTranslated, setShowTranslated] = useState<boolean>(false) // false = Original, true = Korean
     const [news, setNews] = useState<NewsItem[]>([])
     const [loading, setLoading] = useState(true)
     const [macroData, setMacroData] = useState<any>(null)
@@ -329,16 +329,16 @@ function DashboardContent() {
                                     {/* Language Toggle */}
                                     <div className={cn("flex rounded-lg p-0.5 border", theme === 'dark' ? "bg-white/5 border-white/10" : "bg-white border-slate-200")}>
                                         <button
-                                            onClick={() => setSelectedLanguage('EN')}
-                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", selectedLanguage === 'EN' ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
+                                            onClick={() => setShowTranslated(false)}
+                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", !showTranslated ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
                                         >
-                                            EN
+                                            ORIGINAL
                                         </button>
                                         <button
-                                            onClick={() => setSelectedLanguage('KO')}
-                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", selectedLanguage === 'KO' ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
+                                            onClick={() => setShowTranslated(true)}
+                                            className={cn("px-2 py-0.5 text-[10px] rounded font-bold transition-all", showTranslated ? "bg-indigo-500 text-white" : "text-slate-500 hover:text-slate-300")}
                                         >
-                                            KR
+                                            KOREAN
                                         </button>
                                     </div>
 
@@ -450,7 +450,7 @@ function DashboardContent() {
                                         key={idx}
                                         item={item}
                                         theme={theme}
-                                        selectedLanguage={selectedLanguage}
+                                        showTranslated={showTranslated}
                                     />
                                 ))}
                             </div>

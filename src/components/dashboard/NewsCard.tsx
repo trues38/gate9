@@ -21,10 +21,10 @@ export interface NewsItem {
 interface NewsCardProps {
     item: NewsItem
     theme: 'dark' | 'light'
-    selectedLanguage: string
+    showTranslated: boolean
 }
 
-export function NewsCard({ item, theme, selectedLanguage }: NewsCardProps) {
+export function NewsCard({ item, theme, showTranslated }: NewsCardProps) {
     return (
         <a
             href={item.url || "#"}
@@ -69,8 +69,8 @@ export function NewsCard({ item, theme, selectedLanguage }: NewsCardProps) {
                     "text-sm font-medium transition-colors font-mono leading-tight mb-1",
                     theme === 'dark' ? "text-slate-200 group-hover:text-indigo-300" : "text-slate-800 group-hover:text-indigo-600"
                 )}>
-                    {/* Use selectedLanguage for translation */}
-                    {(selectedLanguage === 'KO' && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
+                    {/* Use showTranslated for translation */}
+                    {(showTranslated && item.title_ko) ? item.title_ko : (item.clean_title || item.title)}
                 </h4>
             </div>
             <div className="shrink-0 text-right pt-1 hidden sm:block">
