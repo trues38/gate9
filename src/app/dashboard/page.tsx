@@ -474,14 +474,14 @@ function DashboardContent() {
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className={cn(
-                                        "flex items-start gap-4 p-4 transition-colors group",
+                                        "flex items-start gap-3 md:gap-4 p-3 md:p-4 transition-colors group",
                                         theme === 'dark' ? "hover:bg-white/5" : "hover:bg-slate-50"
                                     )}
                                 >
-                                    <div className="shrink-0 w-28 text-center pt-1 flex flex-col items-center gap-1.5">
+                                    <div className="shrink-0 w-20 md:w-28 text-center pt-1 flex flex-col items-center gap-1.5">
                                         {/* Top: Category Badge */}
                                         <span className={cn(
-                                            "text-[10px] font-bold px-2 py-0.5 rounded border w-full text-center truncate",
+                                            "text-[9px] md:text-[10px] font-bold px-1.5 md:px-2 py-0.5 rounded border w-full text-center truncate",
                                             item.category === 'ECONOMY' ? "text-emerald-500 border-emerald-500/30 bg-emerald-500/10" :
                                                 item.category === 'FINANCE' ? "text-blue-500 border-blue-500/30 bg-blue-500/10" :
                                                     item.category === 'CRYPTO' ? "text-amber-500 border-amber-500/30 bg-amber-500/10" :
@@ -493,7 +493,7 @@ function DashboardContent() {
 
                                         {/* Bottom: Flag + Score */}
                                         <div className="flex items-center justify-center gap-2">
-                                            <span className="text-lg leading-none" title={item.country || "Global"}>
+                                            <span className="text-base md:text-lg leading-none" title={item.country || "Global"}>
                                                 {getCountryFlag(item.country || 'ALL')}
                                             </span>
                                             {item.importance_score && item.importance_score > 0 ? (
@@ -516,7 +516,7 @@ function DashboardContent() {
                                             {(selectedLanguage === 'KO') ? (item.clean_title || item.title) : item.title}
                                         </h4>
                                     </div>
-                                    <div className="shrink-0 text-right pt-1">
+                                    <div className="shrink-0 text-right pt-1 hidden sm:block">
                                         <span className="text-[10px] text-slate-600 font-mono block">
                                             {new Date(item.published_at).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/New_York' })} EST
                                         </span>
