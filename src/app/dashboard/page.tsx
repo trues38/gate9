@@ -452,7 +452,7 @@ function DashboardContent() {
                     </div>
                 </div>
                 <div className={cn(
-                    "border rounded-xl overflow-hidden min-h-[400px]",
+                    "lg:col-span-12 border rounded-xl overflow-hidden min-h-[400px]",
                     theme === 'dark' ? "bg-[#0a0a0a] border-white/10" : "bg-white border-slate-200 shadow-sm"
                 )}>
                     {loading ? (
