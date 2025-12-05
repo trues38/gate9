@@ -7,7 +7,7 @@ import { useSearchParams } from "next/navigation"
 import {
     CloudSun, TrendingUp, Shield, DollarSign, Activity, Zap,
     ChevronRight, Info, CloudRain, CloudLightning, Sun, Moon, Terminal,
-    ArrowUpRight, ArrowDownRight, Globe, Lock, Unlock, LogOut, RefreshCw
+    ArrowUpRight, ArrowDownRight, Globe, Lock, Unlock, LogOut, RefreshCw, ChevronDown
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { supabase } from "@/lib/supabase"
@@ -56,6 +56,7 @@ function DashboardContent() {
     const [currentDate, setCurrentDate] = useState<string>("")
     const [macroData, setMacroData] = useState<any>(null)
     const [theme, setTheme] = useState<'dark' | 'light'>('dark')
+    const [isCountryDropdownOpen, setIsCountryDropdownOpen] = useState(false)
 
     const countries = ['ALL', 'US', 'KR', 'CN', 'JP']
     const comingSoonCountries = ['EU', 'CRYPTO']
@@ -395,38 +396,70 @@ function DashboardContent() {
                                         </button>
                                     </div>
 
-                                    {/* Country Filter */}
-                                    <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide w-full md:w-auto">
-                                        {countries.map(country => (
-                                            <button
-                                                key={country}
-                                                onClick={() => setSelectedCountry(country)}
-                                                className={cn(
-                                                    "text-[10px] px-3 py-1 rounded border transition-all whitespace-nowrap flex items-center gap-1",
-                                                    selectedCountry === country
-                                                        ? "bg-indigo-500/20 border-indigo-500 text-indigo-500"
-                                                        : (theme === 'dark' ? "border-white/10 hover:border-white/30 text-slate-500 hover:text-slate-300" : "border-slate-200 hover:border-slate-300 text-slate-500 hover:text-slate-700")
-                                                )}
-                                            >
-                                                <span>{getCountryFlag(country)}</span>
-                                                <span>{country}</span>
-                                            </button>
-                                        ))}
-                                        {/* Coming Soon Countries */}
-                                        {comingSoonCountries.map(country => (
-                                            <button
-                                                key={country}
-                                                disabled
-                                                className={cn(
-                                                    "text-[10px] px-3 py-1 rounded border whitespace-nowrap flex items-center gap-1 cursor-not-allowed opacity-50",
-                                                    theme === 'dark' ? "border-white/5 bg-white/5 text-slate-600" : "border-slate-100 bg-slate-100 text-slate-400"
-                                                )}
-                                            >
-                                                <span>{getCountryFlag(country)}</span>
-                                                <span>{country}</span>
-                                                <Lock size={8} className="ml-1" />
-                                            </button>
-                                        ))}
+                                    {/* Country Dropdown */}
+                                    <div className="relative z-20">
+                                        <button
+                                            onClick={() => setIsCountryDropdownOpen(!isCountryDropdownOpen)}
+                                            className={cn(
+                                                "flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-all min-w-[100px] justify-between",
+                                                theme === 'dark'
+                                                    ? "bg-white/5 border-white/10 hover:bg-white/10 text-slate-200"
+                                                    : "bg-white border-slate-200 hover:bg-slate-50 text-slate-700"
+                                            )}
+                                        >
+                                            <div className="flex items-center gap-2">
+                                                <span>{getCountryFlag(selectedCountry)}</span>
+                                                <span className="text-xs font-bold">{selectedCountry}</span>
+                                            </div>
+                                            <ChevronDown size={14} className={cn("transition-transform", isCountryDropdownOpen ? "rotate-180" : "")} />
+                                        </button>
+
+                                        {isCountryDropdownOpen && (
+                                            <div className={cn(
+                                                "absolute top-full left-0 mt-2 w-40 rounded-xl border shadow-xl overflow-hidden p-1 backdrop-blur-xl",
+                                                theme === 'dark'
+                                                    ? "bg-[#0a0a0a]/95 border-white/10"
+                                                    : "bg-white/95 border-slate-200"
+                                            )}>
+                                                <div className="space-y-0.5">
+                                                    {countries.map(country => (
+                                                        <button
+                                                            key={country}
+                                                            onClick={() => {
+                                                                setSelectedCountry(country)
+                                                                setIsCountryDropdownOpen(false)
+                                                            }}
+                                                            className={cn(
+                                                                "w-full text-left px-3 py-2 rounded-lg text-xs font-bold flex items-center gap-2 transition-colors",
+                                                                selectedCountry === country
+                                                                    ? "bg-indigo-500 text-white"
+                                                                    : (theme === 'dark' ? "hover:bg-white/10 text-slate-400 hover:text-slate-200" : "hover:bg-slate-100 text-slate-600 hover:text-slate-900")
+                                                            )}
+                                                        >
+                                                            <span>{getCountryFlag(country)}</span>
+                                                            <span>{country}</span>
+                                                        </button>
+                                                    ))}
+                                                    <div className={cn("my-1 border-t", theme === 'dark' ? "border-white/5" : "border-slate-100")} />
+                                                    {comingSoonCountries.map(country => (
+                                                        <button
+                                                            key={country}
+                                                            disabled
+                                                            className={cn(
+                                                                "w-full text-left px-3 py-2 rounded-lg text-xs font-bold flex items-center justify-between opacity-50 cursor-not-allowed",
+                                                                theme === 'dark' ? "text-slate-600" : "text-slate-400"
+                                                            )}
+                                                        >
+                                                            <div className="flex items-center gap-2">
+                                                                <span>{getCountryFlag(country)}</span>
+                                                                <span>{country}</span>
+                                                            </div>
+                                                            <Lock size={10} />
+                                                        </button>
+                                                    ))}
+                                                </div>
+                                            </div>
+                                        )}
                                     </div>
                                 </div>
 
