@@ -228,44 +228,42 @@ function RosterPreview({ teamId }: { teamId: number }) {
     const [data, setData] = useState<any[]>([]);
 
     useEffect(() => {
-        useEffect(() => {
-            // Fetch from LIVE SUPABASE API (fact_rosters)
-            // This ensures the dashboard reflects the exact state of the pipeline
-            fetch('/api/admin/roster')
-                .then(r => r.json())
-                .then(json => {
-                    const teamData = json[teamId] || [];
-                    setData(teamData);
-                })
-                .catch(e => console.log("Roster API Error:", e));
-        }, [teamId]);
+        // Fetch from LIVE SUPABASE API (fact_rosters)
+        fetch('/api/admin/roster')
+            .then(r => r.json())
+            .then(json => {
+                const teamData = json[teamId] || [];
+                setData(teamData);
+            })
+            .catch(e => console.log("Roster API Error:", e));
+    }, [teamId]);
 
-        if (!data.length) return <div className="text-slate-500 italic">No Roster Data Loaded.</div>;
+    if (!data.length) return <div className="text-slate-500 italic">No Roster Data Loaded.</div>;
 
-        return (
-            <div className="bg-slate-800 rounded border border-slate-700 overflow-hidden">
-                <table className="w-full text-sm text-left">
-                    <thead className="bg-slate-900 text-slate-400 uppercase">
-                        <tr>
-                            <th className="px-4 py-3">선수명</th>
-                            <th className="px-4 py-3">상태</th>
-                            <th className="px-4 py-3">최근 득점</th>
-                            <th className="px-4 py-3">역할</th>
+    return (
+        <div className="bg-slate-800 rounded border border-slate-700 overflow-hidden">
+            <table className="w-full text-sm text-left">
+                <thead className="bg-slate-900 text-slate-400 uppercase">
+                    <tr>
+                        <th className="px-4 py-3">선수명</th>
+                        <th className="px-4 py-3">상태</th>
+                        <th className="px-4 py-3">최근 득점</th>
+                        <th className="px-4 py-3">역할</th>
+                    </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-700 text-slate-300">
+                    {data.map((p, i) => (
+                        <tr key={i} className="hover:bg-slate-700/50">
+                            <td className="px-4 py-3 font-medium text-white">{p.name}</td>
+                            <td className="px-4 py-3 text-green-400">{p.status}</td>
+                            <td className="px-4 py-3">{p.last_pts}</td>
+                            <td className="px-4 py-3">
+                                {p.starter ? <span className="text-amber-400">선발 (STARTER)</span> : "교체 (Reserve)"}
+                            </td>
                         </tr>
-                    </thead>
-                    <tbody className="divide-y divide-slate-700 text-slate-300">
-                        {data.map((p, i) => (
-                            <tr key={i} className="hover:bg-slate-700/50">
-                                <td className="px-4 py-3 font-medium text-white">{p.name}</td>
-                                <td className="px-4 py-3 text-green-400">{p.status}</td>
-                                <td className="px-4 py-3">{p.last_pts}</td>
-                                <td className="px-4 py-3">
-                                    {p.starter ? <span className="text-amber-400">선발 (STARTER)</span> : "교체 (Reserve)"}
-                                </td>
-                            </tr>
-                        ))}
-                    </tbody>
-                </table>
-            </div>
-        );
-    }
+                    ))}
+                </tbody>
+            </table>
+        </div>
+    );
+}
