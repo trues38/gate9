@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400111",
+  "espn_id": "400578403",
+  "date": "Nov 12, 2014",
+  "matchup": "OKC @ BOS",
+  "headline": "Jackson carries Thunder past Celtics, 109-94",
+  "cleaned_body": "BOSTON --  Reggie Jackson stood at his locker, getting dressed in Oklahoma City Thunder colors with orange pants and a blue sweat shirt. His teammates were long gone.\n\nThe way the Thunder have been going so far this season, he's quickly grown from a role player into one who garners plenty of attention.\n\nJackson had 28 points and eight assists, and Anthony Morrow scored 28 to lift the injury-riddled Thunder to a 109-94 victory over the Boston Celtics on Wednesday night.\n\n\"I'm just trying to figure out how to play this role,\" Jackson said. \"But I'm having fun with it, making the most of my opportunity until we get fully healthy. Until we get fully healthy, we're just doing what we can to keep this team rolling.\"\n\nIt was the second win in six games for the Thunder, who are missing stars Kevin Durant and Russell Westbrook.\n\n\"Reggie played well. He did a great job of controlling the tempo of the game,\" coach Scott Brooks said. \"I thought he was terrific.\"\n\nJackson, a standout at nearby Boston College from 2008-11 before turning pro after his junior year, posted his big game a night after scoring a career-high 29 in a loss at Milwaukee.\n\nRajon Rondo just missed his second triple-double of the season with 20 points, 12 assists and nine rebounds. Avery Bradley added 17 points for Boston, which had won its last two.\n\nThe Celtics went 9 for 33 from beyond the 3-point line.\n\n\"I told everyone before the game -- at least I thought I did -- that I thought it was going to be really tough for us,\" Boston coach Brad Stevens said.\n\nLeading by four entering the final quarter, the Thunder -- behind Morrow and Jackson -- hit eight of their first 10 shots from the floor and opened a 94-81 lead on Morrow's floater from the right baseline with 6:13 to play.\n\nThey kept up their strong shooting, opening a 105-88 advantage on consecutive 3-pointers by Nick Collison and Morrow.\n\nAlternating between zone and man-to-man defense, Oklahoma City seemed to frustrate the Celtics, who fired up a number of long-range jumpers -- missing most of them.\n\n\"The way we play, we play with speed and back cuts, and all that good stuff,\" Boston forward Jared Sullinger said. \"It just changed the pace.\"\n\nThe Thunder trailed 64-59 midway through the third quarter, but went on a 9-2 run to take their first lead on Steven Adams' free throw. Jackson, who had 14 points and four assists in the quarter, swished a 3 from deep with 0.3 seconds left, giving Oklahoma City a 76-72 edge.\n\nIn a first half filled with poor 3-point shooting, the Celtics owned a 51-42 lead at halftime. Boston missed 14 of 19 from beyond the arc, including at least four airballs. The Thunder went 3 for 10 on their 3-point attempts.\n\nBoston jumped out to an 18-3 lead in the opening 6 minutes en route to a 24-15 advantage after one despite going 1 for 7 on 3-pointers.\n\n---\n\nSTAY HERE\n\nThunder center Kendrick Perkins, a good friend and former teammate of Rondo's, thinks the point guard should re-sign with Boston when his contract expires at the end of the season. \"He should,\" Perkins said. \"I think this is a great place for him. I think he wants to stay here. We talk regularly. I think he should stay. If I was him, I would stay.\" The pair won an NBA title together in 2008.\n\nCHANGE THAT SHOT\n\nBoston F Jeff Green saw his former coach before the game, gave Brooks a hug and the pair joked about how Green had changed his shot. \"You're not taking that flat shot anymore,\" Brooks told Green, who went 4 for 14 from the floor.\n\nTIP-INS\n\nThunder: Brooks was asked if he was tired of giving updates on Durant (broken foot) and Westbrook (broken finger). \"I haven't been asked that in like three weeks,\" Brooks said. \"No updates. The rehab is going along as planned. We'll give updates when we know more.\" ... Four other Thunder players also were out: Perry Jones, Grant Jerrett, Andre Roberson and Mitch McGary. \"We have 10 finally. We can go 5-on-5 now (in practice),\" Brooks joked.\n\nCeltics: G Marcus Thornton missed the game with a sprained right ankle that he sustained in practice on Tuesday. \"He could very reasonably be available Friday,\" Stevens said. ... Boston entered second in the NBA in scoring, but fourth-worst in points allowed. \"The offense hasn't been as good in my eyes as the numbers say and the defense hasn't been as bad as the numbers say,\" Stevens said.\n\nUP NEXT\n\nThunder: Open a two-game homestand Friday against Detroit.\n\nCeltics: Host LeBron James and the Cleveland Cavaliers on Friday.",
+  "tags_rule": [
+    "TripleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "EarlyRun",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.391829",
+  "pipeline_version": "v1"
+}

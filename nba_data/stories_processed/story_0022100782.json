@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100782",
+  "espn_id": "401360601",
+  "date": "Feb 03, 2022",
+  "matchup": "DET vs. MIN",
+  "headline": "Edwards, Towns lead Timberwolves past Pistons, 128-117",
+  "cleaned_body": "DETROIT -- — Anthony Edwards scored 25 points, and Karl-Anthony Towns added 21 points and 14 rebounds and the Minnesota Timberwolves beat the Detroit Pistons 128-117 on Thursday night.\n\nTaurean Prince added 23 points to help Minnesota win its third straight and fifth in six games.\n\nSaddiq Bey had 21 points and 13 rebounds for Detroit, and Jerami Grant added 20 points. The Pistons lost for the sixth time in seven games.\n\nMinnesota got off to a fast start, taking a 21-11 lead with five minutes remaining in the first quarter. But the Pistons outscored the Timberwolves 22-10 to take a 32-31 lead in the second quarter. The Pistons led 67-65 at halftime before Minnesota pulled away in the second half.\n\n“I think being ready for and matching (Detroit's) physicality, which bothered us in the first half,” Minnesota coach Chris Finch said. “Just a little more attention to detail on the defensive end, in particular.”\n\nThe Timberwolves led by 16 in the fourth quarter before the Pistons rallied to cut it to five, at 122-117 with 50 seconds remaining.\n\n“We did a god job down the stretch, but not enough,” Detroit coach Dwain Casey said.\n\nPatrick Beverley then hit a 3-pointerfor Minnesota to put it out of reach.\n\nTowns, who learned at halftime he had been named an All-Star, had a couple of key blocks down the stretch after missing a wide-open shot.\n\n“If you're going to miss a jumper, you have to make a block, make a stop,” he said.\n\nThe Timberwolves shot 51% from the floor to 44% for the Pistons.\n\nCASEY'S OPTIONS\n\nPistons rookie point guard Cade Cunningham sat out because of a hip-pointer. While Cunningham has been the focus of Detroit's offense this season, coach Dwain Casey says he likes to rely on more than one guard to run his offense.\n\n“I believe in today's game, you've got to have three (guards who can play the point),” Casey said. “That's why I like the three-guard offense. It doesn't matter if it's Cory (Joseph) bringing it down, Killian (Hayes) or Cade bringing it down.\"\n\nHaving that kind of versatility, Casey said also allows him to use Cunningham at shooting guard or small forward.\n\nUP NEXT\n\nTimberwolves: Host Detroit on Sunday\n\nPistonst: Host Boston on Friday night.",
+  "tags_rule": [
+    "EarlyRun",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.896309",
+  "pipeline_version": "v1"
+}

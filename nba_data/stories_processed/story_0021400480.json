@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400480",
+  "espn_id": "400578772",
+  "date": "Dec 31, 2014",
+  "matchup": "OKC vs. PHX",
+  "headline": "Kevin Durant scores 44 in return from injury, propels Thunder to OT win",
+  "cleaned_body": "OKLAHOMA CITY -- Russell Westbrook was ejected after a fast start, so Kevin Durant put together a big finish.\nDurant had 44 points, 10 rebounds and seven assists in his return from a sprained right ankle, and the Oklahoma City Thunder beat the Phoenix Suns 137-134 in overtime on Wednesday night.\n\"It felt good. My teammates were running plays for me and getting me open shots,\" Durant said. \"I just tried to finish for them. My shots felt good and that win felt better.\"\n\nWith the game tied midway through the extra period, Durant found Anthony Morrow open in the corner for a 3-point attempt. Morrow hit the shot and drew a foul, completing a four-point play that put the Thunder ahead for good. Prior to that, Morrow had missed all four of his 3-point attempts.\nDurant was 13-for-23 from the field and 12-for-12 at the free-throw line. He was 6-for-11 from 3-point range in 40 minutes of action.\n\"You know, I didn't even realize he had 44 points,\" Oklahoma City coach Scott Brooks said. \"That just tells you what kind of a leader he is. He just kept everybody in the right place mentally and on the court.\"\nDurant's presence became even more important when Westbrook was ejected after scoring 20 points in 17 minutes.\nWestbrook picked up two technical fouls late in the first half after a brief skirmish with Suns center Alex Len and then an unspecified infraction near the Phoenix bench. After the game, Westbrook did not want to discuss what led to the second technical. He was more interested in celebrating the Thunder's win and the return of Durant.\n\n\"He came out aggressive. He came out like he never lost a step,\" Westbrook said. \"It was a good win for us tonight. We did a good job of sticking together.\"\nDespite Durant's performance, Phoenix still had a chance to win, but Markieff Morris' 3-point attempt hit the front rim with 2.9 seconds left.\n\"A couple of bad breaks, but even with that we still had Markieff with a good look at it,\" Suns coach Jeff Hornacek said.\nEric Bledsoe led the Suns with 29 points. Morris had 25 and Goran Dragic finished with 21.\nTEMPERATURES RISING\nSeven technical fouls were called in the game. In addition to five in the final 30 seconds of the first half, Phoenix forward P.J. Tucker and Bledsoe picked up second-half technicals.\nPAYBACK\nSeldom-used guard Ish Smith scored eight points in 10 minutes in the second half for Oklahoma City. He played for the Suns last season.\nTIP-INS\nSuns: Phoenix has lost eight straight in Oklahoma City. Its last win at Chesapeake Energy Arena was on Dec. 19, 2010.\nThunder: This was the seventh straight season Oklahoma City has played at home on New Year's Eve. It is 6-1 in those contests. ... Oklahoma City hit a team-record 44 free throws in the game, missing only five.\nUP NEXT\nSuns: Host Philadelphia on Friday night.\nThunder: Host Washington on Friday night.",
+  "tags_rule": [
+    "EarlyRun",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.076957",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400692",
+  "espn_id": "400578984",
+  "date": "Jan 29, 2015",
+  "matchup": "MIL @ ORL",
+  "headline": "Bucks end 17-game skid in Orlando, beat Magic 115-100",
+  "cleaned_body": "ORLANDO, Fla. --  For the first time in more than a decade, the Milwaukee Bucks could celebrate after a game in Orlando.\n\nJerryd Bayless scored 19 points, Jared Dudley and Khris Middleton had 17 apiece and the Bucks ended a 17-game losing streak in Orlando with a 115-100 victory on Thursday night.\n\nThe Bucks never trailed and placed seven players in double figures, including all five starters. Brandon Knight had 16 points and eight assists, and O.J. Mayo scored 13 points in Milwaukee's first road victory in the series since Dec. 29, 2004.\n\nMilwaukee had 29 assists on 45 field goals and shot 51.7 percent for the game, including 12 of 25 from behind the 3-point line.\n\n\"I think our players take pride in moving the ball, making the next pass,\" Bucks coach Jason Kidd said. \"I think they really enjoy playing with one another. That is why you see the ball move. They take pride in being part of the play.\"\n\nStarting center Zaza Pachulia, who could miss a week with a calf injury, joined fellow starters Jabari Parker (knee) and Larry Sanders (suspension) on the sideline. His replacement, John Henson, has 12 points and 11 rebounds in his first start this season.\n\n\"Obviously we miss those guys,\" Bayless said. \"We really do need them, but everybody stepped up their play and did the best they could to help the team win.\"\n\nThe Magic have lost seven straight and 13 of their last 15 games. Victor Oladipo led Orlando with 21 points. Nik Vucevic added 17 points and 14 rebounds.\n\n\"I thought our focus and energy going into the game was really good. I'm really surprised by the results of tonight's game,\" Magic coach Jacque Vaughn said. \"I thought our group felt really good going into the game, but that's basketball. One team loses and guys feel frustrated. They want to win and we aren't right now.\"\n\nThe Bucks led 59-44 halftime and then blew open the game in the third period.\n\nVucevic scored 11 in the first 5 minutes of the period to cut Orlando's deficit to 72-60. Milwaukee responded with a 24-5 run as Knight had 14 points in the quarter, including nine straight during the game-deciding run.\n\nThe Bucks had an 11-0 advantage in fast-break points in the first 9 minutes. Bayless had 13 points in the second quarter while the Magic struggled at both ends.\n\nOrlando, which has allowed 11 straight opponents to score more than 100 points, gave the Bucks a good head start on that by turning the ball over 13 times in the first half that resulted in 18 points for Milwaukee.\n\n\"They had it going, they shot the cover off the ball,\" Oladipo said. \"Teams get hot like that, we've got to learn to deal with it and figure out a way to win.\"\n\nOrlando made one run in the second half, but it died quickly.\n\nMayo finished the 4 minutes of one-sided basketball during the big run with a 10-footer that made it 94-65 and brought out the boo birds from what was left of the Magic crowd.\n\nThe Bucks led by as many as 29 in the second half before Orlando outscored Milwaukee 29-19 in the fourth quarter, when Willie Green scored 13 of his 16, including three 3-pointers.\n\n---\n\nTIP-INS\n\nBucks: Milwaukee has had 25 or more assists in five straight games. . The Bucks bench, which outscored Miami 54-13 Tuesday, was dead even with the Magic reserves, each scoring 43 points.\n\nMagic: Oladipo is shooting 47 percent (72 of 153) while averaging 21 points over the last nine games.  . F Devyn Marble, who started seven straight games before going to the bench two games, was placed on the inactive list.\n\nBALANCED BUCKS\n\n\"A lot of guys were putting the ball in the basket,\" Mayo said. \"We don't depend on one guy to come out and get us 20 points. And we've had injuries pretty much all year, so every guy usually plays whether it's a full roster or not. Everyone stays ready to step up.\"\n\nUP NEXT:\n\nBucks: Host Portland on Saturday.\n\nMagic: Host Dallas on Saturday.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.884443",
+  "pipeline_version": "v1"
+}

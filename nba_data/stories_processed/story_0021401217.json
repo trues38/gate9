@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401217",
+  "espn_id": "400579509",
+  "date": "Apr 15, 2015",
+  "matchup": "CHI vs. ATL",
+  "headline": "Brooks leads rally, Bulls beat Hawks 91-85",
+  "cleaned_body": "CHICAGO --  The Chicago Bulls looked as if they were on their way to a lopsided loss. Aaron Brooks had other ideas.\n\nBrooks scored 23 points and the Bulls rallied from 18 down to beat the Atlanta Hawks 91-85 on Wednesday night in the regular-season finale.\n\nThe Bulls locked up the third seed in the Eastern Conference and a first-round matchup against the Milwaukee Bucks with their fourth straight win.\n\nThe Hawks, who won a franchise-record 60 games and earned the top seed, matched a season high with their third straight loss. They will play Brooklyn in the first round.\n\n\"We have to want it more than anybody else,\" Chicago's Pau Gasol said. \"The resiliency that we have, we've got to turn it into a determination and understand that every game in the playoffs is critical.\"\n\nThe Bulls showed it during the regular season, overcoming injuries to just about every key player. They hit the 50-win mark for the 16th time in franchise history by pulling out a game that seemed to be slipping away.\n\nBrooks carried the Bulls in the second half with Derrick Rose sitting out the second half because of a sore left knee. He scored nine in the third quarter and pulled Chicago back into it after Atlanta went up by 18.\n\nJimmy Butler scored 21. Gasol added 18 points and 13 rebounds for his 54th double-double, and the Bulls prevailed even though Rose scored just two points in 10 minutes. The star point guard insisted the latest knee issue was minor and that he would have played through it had this been a postseason game.\n\nStill, any knee problem involving Rose will at least raise a few eyebrows given his history. He tore the anterior cruciate ligament in his left knee in the 2012 playoff opener and tore the meniscus in his right knee last season, cutting short his comeback a year ago. He recently missed about six weeks following a minor procedure on that knee.\n\n\"There was no point in really fighting through it tonight,\" he said.\n\nThe Bulls' Joakim Noah (left hamstring tendinitis) sat out the game and Taj Gibson exited with a strained left shoulder that he said has been bothering him since the game at Cleveland on April 5. He had a cortisone shot at halftime Wednesday and played just 20 minutes -- six in the second half.\n\nGibson expects to be ready for Game 1 on Saturday.\n\nDennis Schroder came off the bench to score 21 points for Atlanta on 9-of-13 shooting. Al Horford added 14 points and seven rebounds. Paul Millsap scored five after missing five games because of a sprained right shoulder.\n\n\"We feel like we can really do something,\" Millsap said. \"It's up to us going out there and proving it.\"\n\nChicago was leading 87-85 when Atlanta's Austin Daye missed a short turnaround jumper with 1:44 left. The Bulls controlled the rebound and Butler hit two free throws. He then stole the ball from Daye and fed Gasol for a running layup that made it 91-85 with 1:16 remaining.\n\nAtlanta looked like it was ready to bury the Bulls with a 60-42 lead after scoring the first 11 points of the third quarter. But with Rose watching from the sideline, Brooks pulled Chicago back into it. He drove for a layup in the closing seconds to cut the Hawks' lead to 72-70, and the Bulls pulled it out down the stretch.\n\nNow, they can turn their attention toward the playoffs. They will likely have all their key players available in the postseason for the first time in years, and despite all their injuries, that was one of their major goals.\n\n\"When you have a lot of moving parts, it can get choppy,\" coach Tom Thibodeau said. \"We have to hit the ground running. We're here now. We'll see.\"\n\nTIP-INS\n\nHawks: F Mike Scott sat out with a back contusion.\n\nBulls: G Kirk Hinrich (left knee) sat out the game. ... Mohammed played in his 1,000th game.\n\nUP NEXT:\n\nHawks: Will host Brooklyn in Game 1 of the playoffs Sunday.\n\nBulls: Will host Milwaukee in Game 1 of the playoffs Saturday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.317358",
+  "pipeline_version": "v1"
+}

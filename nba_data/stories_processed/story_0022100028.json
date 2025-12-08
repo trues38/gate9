@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100028",
+  "espn_id": "401359852",
+  "date": "Oct 23, 2021",
+  "matchup": "MIA @ IND",
+  "headline": "Brissett helps Pacers pull away from Heat in overtime",
+  "cleaned_body": "INDIANAPOLIS -- — After not playing much defense in the season's first two games, the Indiana Pacers were far more stingy against the Miami Heat.\n\nThe Pacers outscored the Heat 16-5 in overtime for a 102-91 victory on Saturday night to avoid losing a third consecutive close game in which they blew a halftime lead.\n\n“It really came down to just a hell of a lot better defense than we played in the first two games,” Pacers coach Rick Carlisle said, referring to a pair of one-point losses, including at Washington in overtime on Thursday. “The first two games, we just traded shots. When you do that, you can get bitten.”\n\nThe Pacers allowed an average of 129 points in those games. They were ahead by 10 entering the third quarter against the Heat, who cut the deficit to one entering the fourth.\n\n“This is more Pacers basketball,” said guard Malcolm Brogdon, who had 18 points and 14 rebounds. “Not all the missed shots, but the defensive grind-it-out style.”\n\nA timely bench boost also helped as reserve forward Oshae Brissett scored 18 points, including the go-ahead inside basket in overtime. The teams traded baskets to start overtime, then Brissett scored off an offensive rebound to provide a 90-88 lead and start a 9-0 run.\n\n“We wouldn't have won that game without (Jeremy) Lamb and Oshae,” Brogdon said, making reference to Lamb adding 12 points on four threes.\n\nRookie guard Chris Duarte led the Pacers with 19 points.\n\nTyler Herro led all scorers with 30 points on 12-of-28 shooting and also grabbed 10 rebounds. All-Star guard Jimmy Butler added 19, but lamented too many missed shots in a 7-of-22 effort.\n\n“We missed a lot of shots we normally make, myself included,” Butler said. “I've got to be better overall.”\n\nBam Adebayo had 17 points and 16 rebounds for the Heat.\n\nButler missed shots on back-to-back possessions with the game tied in the final minute. Brogdon blocked Butler's driving layup attempt with 17 seconds remaining.\n\n“You have to credit their defense for a lot of that,” Heat coach Erik Spoelstra said. “Our offense just didn't put up enough points. We missed some shots, and some good looks, too.”\n\nDuarte missed a 3-pointer in the final seconds of regulation.\n\nThe outcome was in stark contrast to the Heat's season opener, a 42-point home blowout of NBA champion Milwaukee on Thursday. Miami scored 40 points in the first quarter of that win, yet managed just 46 points and trailed by 10 at the half against Indiana.\n\nTIP-INS\n\nHeat: Trailed by four after the first quarter, unlike Thursday when the Heat opened on a 22-3 run and led by 23 against the Bucks after 12 minutes. ... Herro, who scored a team-high 27 points off the bench in the opener, led Miami with 16 points in the first half.\n\nPacers: Missed nine consecutive shots and scored just eight points in the third quarter. ... Duarte scored seven of the team's first nine points. ... Lamb hit 3-pointers on three consecutive possessions in the first quarter.\n\nUP NEXT\n\nHeat: Host Orlando on Monday night.\n\nPacers: Host Milwaukee on Monday night.\n\n----",
+  "tags_rule": [
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.257565",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401103",
+  "espn_id": "400579395",
+  "date": "Mar 30, 2015",
+  "matchup": "MIL @ ATL",
+  "headline": "Carroll, Korver lead Hawks to 101-88 win over Bucks",
+  "cleaned_body": "ATLANTA --  Kyle Korver was unstoppable for 65 seconds.\n\nThe rest of the night, DeMarre Carroll carried the Atlanta Hawks.\n\nCarroll scored 23 points in a dazzling all-around display Monday, leading the Hawks past the Milwaukee Bucks 101-88 and showing the kind of effort the top seed in the Eastern Conference wants over the final two weeks of the regular season.\n\n\"We're trying to get our mojo back, get our momentum back going to the playoffs,\" said Carroll, who made 9 of 13 shots, grabbed eight rebounds, dished out five assists and blocked a pair of shots. \"We're trying to do something special here.\"\n\nKorver sure was special in the third quarter, though it happened in the blink of eye.\n\nHe made deep jumpers on four straight possessions -- three of them beyond the arc to push what had been a five-point edge to 67-51. That brief stretch accounted for all of his 11 points in the game.\n\n\"I'm glad I was here to witness it, so I can tell my kids about it,\" Carroll quipped. \"I've never seen anything like that before.\"\n\nKorver, who has seemed uncomfortable playing with a protective mask since breaking his nose March 15, missed his first four shots -- all of them 3-pointers.\n\nThen, suddenly, he found the range.\n\n\"That was just frustration,\" Korver said. \"I'm so tired of wearing this mask. I can't wait for it to be over.\"\n\nThe Bucks made one more run, ripping off nine straight points. But Atlanta led 72-64 heading to the fourth and Milwaukee never seriously challenged the rest of the way, losing for the second time in three days to a conference leader. The Bucks fell at home to West-leading Golden State 108-95 on Saturday.\n\nMilwaukee coach Jason Kidd was not pleased with his team's effort in this one.\n\n\"When you play against the best in the East, you have to compete,\" he said. \"We didn't do that tonight. Offensively and defensively, there was not enough energy. That's what we've built our foundation on, and we just had another no-show tonight.\"\n\nHaving clinched the No. 1 seed last week, the Hawks are trying to maintain their playing edge while staying healthy for the final eight games of the regular season. This wasn't pretty -- they put up five airballs -- but it was enough to improve to 56-18, one win away from tying the franchise record.\n\nWhile Carroll normally specializes in defense, calling himself the \"Junkyard Dog,\" he's clearly got some offensive skills as well.\n\n\"I don't focus on offense as much as I should,\" he said. \"But my teammates were getting me open shots.\"\n\nGiannis Antetokounmpo scored 18 to lead five Milwaukee players in double figures. Al Horford had 18 points for Atlanta.\n\nTIP-INS\n\nBucks: F Jared Dudley remained at home instead of taking the brief road trip to Atlanta. Dudley has been having lower back problems, and Kidd figured it was better to get some extra rest with the playoffs approaching. \"We would love to have everybody,\" Kidd said, \"but we're taking the precaution of leaving Duds, with his back, and not putting him on the plane to travel for one game.\" The coach said Dudley would be back at practice Tuesday and hopes he will be able to make a trip to Boston on Friday.\n\nHawks: Jeff Teague returned to the lineup after missing two games with a sprained left ankle. In fact, all five Atlanta starters were back on the court after sitting out Saturday's loss at Charlotte. ... Facing another back-to-back, Budenholzer was weighing whether to rest some of his regulars again on Tuesday. \"There's a lot of discussion and debate about how to best do it,\" he said.\n\nINJURY REPORT\n\nThe Hawks are trying to stay as healthy as possible for the playoffs, but they've been plagued by nagging injuries. The latest was sustained by backup point guard Dennis Schroder, the speediest player on the team and a key member of the rotation.\n\nHe injured a toe on his left foot and did not return after leaving with 9 1/2 minutes to go in the second quarter.\n\nBudenholzer said the second-year player won't make the trip to Detroit for Tuesday's game, but had no additional information on how long Schroder might be out.\n\nUP NEXT\n\nBucks: Host Chicago on Wednesday.\n\nHawks: Play at the Pistons on Tuesday.\n\n---\n\nFollow Paul Newberry on Twitter at www.twitter.com/pnewberry1963",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.440480",
+  "pipeline_version": "v1"
+}

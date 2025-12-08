@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400049",
+  "espn_id": "400578341",
+  "date": "Nov 04, 2014",
+  "matchup": "MIL @ IND",
+  "headline": "Knight helps Bucks hold off Pacers, 87-81",
+  "cleaned_body": "INDIANAPOLIS --  Milwaukee's road skid is over, thanks to the Bucks' first victory in Indiana in four years.\n\nBrandon Knight had 23 points and seven rebounds, making a key jumper with 22 seconds left, as the Bucks beat the Pacers 87-81 on Tuesday night to snap a 16-game road losing streak.\n\nGiannis Antetokounmpo finished with 11 points for the Bucks, who hadn't won on the road since February and were eight away from matching the longest road skid in franchise history, set in 1992.\n\n\"I think the guys in the locker room see the things we've gone through early, giving up leads, not finishing games and having turnovers on the road. Being able to address those, build on them, make it a positive and finally get a win on the road was great,\" Bucks coach Jason Kidd said.\n\nMilwaukee hadn't won in Indianapolis since Nov. 5, 2010, but the Bucks' defense was too much for a Pacers team missing most of its best players.\n\n\"We forced them to shoot a lot of perimeter shots. We forced them to take off-balance shots. We tried to make them drive and get extra help, force them to Larry (Sanders) and I thought we did a good job of that,\" Bucks rookie Jabari Parker said.\n\nThe Pacers shot 39.7 percent while playing without starters George Hill (bruised left knee), David West (sprained right ankle) and Paul George (fractured leg).\n\n\"We need to play better, we know that,\" center Roy Hibbert said. \"We haven't put together a full game yet. It's something we've got to learn from. We have the firepower to get back in the game. I just want to see everybody healthy.\"\n\nMilwaukee led 43-38 at the half and opened the third quarter on a 10-0 run. The Bucks led by as many as 17. Chris Copeland scored 10 of his 19 points in the third quarter to help Indiana rally within 69-61.\n\nThe Bucks led by 11 in the fourth quarter but Indiana used a late 10-2 run to get within three on Copeland's 3-pointer with 42 seconds remaining. Knight answered with a 21-footer to put it away.\n\nHibbert had 16 points and seven rebounds but was limited to just four points in the second half.\n\n---\n\nTIP-INS\n\nBucks: The Bucks beat the Pacers for the first time since Dec. 18, 2012. It was just their third victory over their Central Division foes since Dec. 8, 2010. .\n\nPacers: The Pacers were 1 of 10 from 3-point range in the first half. . Indiana was held without any points in the paint in the first quarter . The Pacers turned the ball over 19 times, leading to 28 points.\n\nANOTHER GOOD KNIGHT\n\nKnight averaged 26 points in three games against the Pacers last season, which ranked seventh in the league.\n\nMILES AWAY\n\nPacers guard C.J. Miles, starting in the injury-depleted backcourt, missed all eight shots in 29 minutes. He is 14 for 50 (28 percent) from the field this season. \"I'm not overpressing, I'm not doing anything outside of what I do,\" Miles said. \"My teammates have found me and I'm open, I've just got to knock them down. That's pretty much it. There's no secret to it, no science.\"\n\nUP NEXT\n\nBucks: Host Chicago on Wednesday.\n\nPacers: Visit Washington on Wednesday.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.579455",
+  "pipeline_version": "v1"
+}

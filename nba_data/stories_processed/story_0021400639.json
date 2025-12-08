@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400639",
+  "espn_id": "400578931",
+  "date": "Jan 22, 2015",
+  "matchup": "POR vs. BOS",
+  "headline": "Turner's last-second 3 gives Boston 90-89 win over Portland",
+  "cleaned_body": "PORTLAND, Ore. --  Evan Turner was confident from the moment the shot left his hands.\n\nWith just 1.9 seconds left and trailing the Portland Trail Blazers 89-87, Turner launched a shot from about 23 feet out. It fell, giving the Boston Celtics the 90-89 victory on Thursday night.\n\nThe victory snapped a three-game losing streak for the Celtics, who had four starters in double figures paced by Avery Bradley with 18 points. Jared Sullinger added 17 points and nine rebounds.\n\n\"I was able to shoot it high enough so it felt good,\" Turner said of the game-winner. \"I kind of prayed to make a big shot and it happened.\"\n\nBoston's victory also snapped a four-game losing streak to the Blazers.\n\nDamian Lillard had 21 points and seven assists to lead Portland, which has lost five of their last six as the team struggles with injuries to their front line. Already without center Robin Lopez and forward LaMarcus Aldridge, fellow starting forward Nicolas Batum left the game with a wrist injury that has been nagging him.\n\n\"Everybody knows what Nic can bring and what LA brings, so we have to figure out diffident ways of scoring and sometimes different ways of playing,\" said Blazers coach Terry Stotts. \"The differences are fairly obvious.\"\n\nLillard's 3-pointer put Portland up 87-81 with 4:44 left, but the Celtics answered, pulling within 87-85 on Bradley's pull-up jumper before Sullinger's put-back layup tied it.\n\nWesley Matthews missed one of two free throws to give the Blazers the edge, and a turnover gave Portland the ball on the other end. But the Blazers struggled to score and settled for Thomas Robinson's free throw to lead 89-87 with 26.6 seconds left.\n\nScrambling on the floor, Sullinger flipped the ball to Turner for the go-ahead 3-pointer, and Lillard couldn't get a shot off before the buzzer.\n\nTurner said he loves taking those critical shots.\n\n\"Oh yeah, for sure,\" he said. \"I like them even more when they go in. I've missed a couple this year, but I'm glad this one went in and most importantly I'm glad we won.\"\n\nThe Blazers were hit before the game with the news that Aldridge had torn a ligament in his left thumb and would need surgery. The 6-foot-11 power forward is expected to miss from six to eight weeks.\n\nAldridge was injured in Monday's 98-94 victory over the Sacramento Kings. He leads Portland with averages of 23.5 points, 10.4 rebounds and 1.18 blocks per game.\n\n\"It's tough,\" Aldridge told reporters in Portland's locker room before the game. \"I definitely didn't want to have anything like this going on right now.\"\n\nThe injury is blow to the Blazers, who were already without Lopez because of a fractured right hand and center Joel Freeland with a right shoulder strain.\n\nThe Celtics shook up their lineup, starting Brandon Bass instead of Tyler Zeller. Coach Brad Stevens said before the game he wanted to see Bass and Sullinger play together.\n\n\"We're not accomplished enough to say we have to have on starting lineup right now,\" Stevens said pregame.\n\nMatthews said of the loss, \"We blew it. We had possessions, we had chances, we had opportunities.\"\n\nTIP-INS\n\nCeltics: It was the second game of a six-game road trip. ... Boston has won just five games on the road this season. .... It was just the third time in 23 tries that Boston had come back when trailing after three quarters.\n\nTrail Blazers: Lopez has switched from a hard cast to a brace. His return is unclear, although general manager Neil Olshey, speaking on Sirius XM Radio, said the team hopes to have the 7-foot center back by the All-Star break. ... The Blazers were coming off a 118-113 loss to the Suns in Phoenix on Wednesday night. Portland falls to 8-3 on second games of back-to-backs.\n\nSULLINGER'S SAVE: Stevens praised Sullinger for his mad scramble for the ball that he got to Turner for the winning shot.\n\n\"He made a really heads-up play. He dove on the floor,\" Stevens said.\n\nUP NEXT\n\nThe Celtics visit the Denver Nuggets on Friday night.\n\nThe Trail Blazers host the Washington Wizards on Saturday night.",
+  "tags_rule": [
+    "Streak",
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.686373",
+  "pipeline_version": "v1"
+}

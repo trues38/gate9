@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700593",
+  "espn_id": "400975339",
+  "date": "Jan 08, 2018",
+  "matchup": "HOU @ CHI",
+  "headline": "Gordon, Paul lead way as Rockets beat Bulls 116-107",
+  "cleaned_body": "CHICAGO -- The Houston Rockets nailed plenty of 3-pointers early and late, and the lull in between couldn't prevent them from picking up a win they certainly needed.\nEric Gordon and Chris Paul each had 24 points and nine assists, Gerald Green scored 22 and the Rockets beat the Chicago Bulls 116-107 on Monday night despite blowing a 21-point lead.\nTrevor Ariza added 18 points and nine rebounds for the Rockets, who had lost seven of nine.\nThe fact that they've been without NBA scoring leader James Harden lately hasn't made things easier. He missed his fourth straight game because of a strained hamstring.\n\"We've just got to have everybody play well and play hard because we have a small margin for error,\" Gordon said. \"We've just got to continue to play consistently, play well throughout the game.\"\nIt helps when the freewheeling Rockets are connecting from long range. They made 20 of 54 3-pointers despite a big lull in the middle quarters, with Ariza draining six in the game and Green and Gordon each hitting four.\nThe Rockets went 8 of 13 in the first quarter and 7 of 16 in the fourth. In between, they were 5 of 25.\n\"It means we take a lot of 3s, I do know that,\" coach Mike D'Antoni said. \"We are trying to take the right shot and the right play. We will go on a fast break and jack up the 3. ... We will do that. If guys feel comfortable and confident, why not? I kind of like us doing that.\"\nClint Capela added 15 points and 16 rebounds, and Houston won for the second time in four games without Harden.\nBobby Portis led the Bulls with 22 points. Denzel Valentine and Kris Dunn each scored 19, but Chicago lost for the fifth time in six games.\n\"I think we're definitely improving,\" Dunn said. \"The chemistry is there.\"\nHouston nearly put this one away early, going up by 21 late in the first quarter after Paul's four-point play. But the Bulls got more physical and went ahead in the third.\nThe Rockets regrouped, scoring eight straight to stretch a two-point lead to 10 late in the quarter. Back-to-back 3s by Green and Paul made it 87-76 going into the fourth.\nLAVINE MEETING\nThe Bulls had no update after forward Zach LaVine and his representatives met Monday with management, coaches and medical staff to set a date for his Chicago debut. Vice president of basketball operations John Paxson figures to give one when he meets with the media on Tuesday.\nAcquired along with Dunn and Lauri Markkanen in the draft-night trade that sent Jimmy Butler to Minnesota, LaVine appears ready to play for the first time since he tore the anterior cruciate ligament in his left knee last February. The two-time slam dunk champion averaged 18.9 points in 47 games for the Timberwolves last season.\nTIP-INS\nRockets: Houston had dropped four of five road games. ... Capela has 20 double-doubles. ... Paul has five straight games with at least nine assists. He also grabbed eight rebounds.\nBulls: F Nikola Mirotic missed the game because of a stomach virus that's been bothering him the past few days. Chicago coach Fred Hoiberg said Mirotic \"felt much better\" prior to playing 23 minutes at Indiana on Saturday but took a bad turn after that game. He saw a doctor on Monday. ... Hoiberg said G Cameron Payne, recovering from a broken right foot, is cleared to do \"pretty much everything except jumping.\" Payne had surgery in September and has not played this season. ... Chicago's bench outscored Houston's 40-29.\nUP NEXT\nRockets: Host the Portland Trail Blazers on Wednesday.\nBulls: Visit the New York Knicks on Wednesday.\n---\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.521238",
+  "pipeline_version": "v1"
+}

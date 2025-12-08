@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100285",
+  "espn_id": "401360109",
+  "date": "Nov 26, 2021",
+  "matchup": "MEM vs. ATL",
+  "headline": "Young leads Hawks past Grizzlies as Morant injures left knee",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Trae Young had 31 points and 10 assists to lead the Atlanta Hawks to a 132-100 victory Friday night over the Memphis Grizzlies, who lost star point guard Ja Morant to a left knee injury.\n\nClint Capela finished with 23 points and a season-high 17 rebounds, while John Collins scored 21 points. Young was 12 of 16 from the field, hitting three of his four 3-point attempts.\n\nThe Hawks won their seventh straight, best active streak in the Eastern Conference. They scored their most points in a game this season.\n\nJohn Konchar led Memphis with 17 points, all in the fourth quarter when both teams had gone to their reserves. Jaren Jackson Jr. had 14 for Memphis, while Dillon Brooks scored 12.\n\nMorant left in the first quarter with what the team said after the game was a sprained left knee. He had missed his only shot and converted a pair of free throws for two points.\n\nPreliminary imaging revealed the sprain and the Grizzlies said further updates would be provided as appropriate.\n\n“Obviously, our prayers and fingers crossed that everything is going to come out good,\" Grizzlies coach Taylor Jenkins said.\n\nWhile the loss of Morant was tough for the Grizzlies, so were the Hawks. Atlanta shot 56% in the first half, going 5 of 8 on 3-pointers. Meanwhile, Memphis struggled from the field, shooting only 39%. The Hawks would finish the night shooting 58%.\n\nThe Hawks led 62-48 at the half behind 16 points from Young.\n\nThe Grizzlies were on offense and after Morant passed the ball, he hobbled to the baseline, eventually making it to the Grizzlies bench. He was helped to the Memphis locker room.\n\n“It’s just tough when you see stuff like that. It’s just nothing you want to see in the game,” Memphis forward Jackson said.\n\n“I think seeing the way that he went off the floor kind of sent shockwaves through the team,” Jenkins said. “The Hawks played really, really well. We had a lot of looks that didn’t fall. Definitely the mojo was kind of lost.”\n\nMemphis couldn’t mount a rally with its sparkplug point guard in the locker room.\n\nMeanwhile, Young was converting shots and Collins was adding a great supporting role. The Hawks opened the third quarter with a 26-4 run as Memphis missed its first 12 shots. Hawks coach Nate McMillan said the Hawks offense got Memphis “into scramble defense.”\n\n“We did a good job of moving the ball and getting the ball to the open guys,” McMillan said. “And our guys were knocking down shots.”\n\nThe third-quarter assault stretched the Hawks’ lead to 36. Atlanta outscored Memphis 43-17 in the quarter, and the Grizzlies were on their way to their third loss in four games.\n\n“I thought our defense was doing a really good job of making it hard for them to score,” McMillan said. “That third quarter, we kind of opened up things with limiting them to one shot and getting out in transition. “\n\nTIP-INS\n\nHawks: McMillan won his 699th game. …The 43 points in the third quarter was the most in a period this season for Atlanta. The previous high was 40 in the third quarter against Phoenix on Nov. 6. … Young’s 31 points marked the fourth straight game with at least 30 points.\n\nGrizzlies: G Desmond Bane saw his streak of games scoring at least 20 points end at three. … Jackson recorded a block in the first half, his 15th straight game with a block. … De’Anthony Melton, who missed the previous three games with a sore right groin, returned to action.\n\nBAD LOSSES\n\nMemphis has looked bad in almost all of their 10 losses. Nine of their 10 defeats were by double-digits, some by significant margins, like 43 points to the Timberwolves and Wednesday night’s loss to the Raptors where they turned into a 14-point first-half advantage into a 13-point loss. The average margin of defeat entering Friday’s game was 19.88, an amount that will only increase with the 32-point loss to the Hawks.\n\nUP NEXT:\n\nHawks: Host New York on Saturday.\n\nGrizzlies: Host Sacramento on Sunday\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.547197",
+  "pipeline_version": "v1"
+}

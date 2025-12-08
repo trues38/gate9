@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100027",
+  "espn_id": "401359851",
+  "date": "Oct 23, 2021",
+  "matchup": "ATL @ CLE",
+  "headline": "Mobley has double-double, Cavs beat Hawks 101-95 for 1st win",
+  "cleaned_body": "CLEVELAND -- — Rookie Evan Mobley collected 17 points, 11 rebounds and four blocked shots, helping the Cleveland Cavaliers rally for their first win of the season, 101-95 over the Atlanta Hawks on Saturday night.\n\nRicky Rubio had 23 points and eight assists, and Jarrett Allen added 11 points and 14 rebounds for Cleveland, which trailed by 13 points in the second quarter. The Cavaliers had lost their first two games, both by 11.\n\n“We’re definitely really happy about our first win, it felt great,” Mobley said. “But we don’t want to just settle on it. We want to keep winning and growing from here.”\n\nMobley, the No. 3 overall selection from USC, scored seven points during a 21-0 run that put Cleveland ahead 67-58 in the third. Atlanta went scoreless for 4:28 after Trae Young made a layup with 46 seconds left in the second quarter.\n\n“As Evan kept making plays, we kept giving him the ball,” Cavaliers coach J.B. Bickerstaff said. “He’s got that straight face, but his skill set is diverse and versatile. Evan has earned our trust because of how quickly he’s picked things up.”\n\nYoung paced the Hawks with 24 points and seven assists, while Cam Reddish scored 19 points off the bench and Clint Capela had 10 points and 14 rebounds. Atlanta was not credited with a fast-break point in the second half.\n\nThe Hawks, who lost to NBA champion Milwaukee in the East finals last season, won their opener 113-87 over Dallas two days earlier.\n\n“They outworked us and were the aggressive team throughout the second half,” Atlanta coach Nate McMillan said. “We weren’t getting stops, so we couldn’t get out in transition like we have to.”\n\nThe Hawks pulled within 99-95 in the final minute, but missed a pair of shots before Lauri Markkanen sealed the win by making two free throws with 15 seconds remaining. Young finished 8 of 22 shooting and didn’t make a 3-pointer after the first quarter.\n\n“I’ve got to do better,” Young said. “I will do better. I’ve just got to find the rhythm.”\n\nCollin Sexton, Markkanen and Kevin Love each scored 12 points for Cleveland, which committed a season-low 10 turnovers. The Cavaliers’ 21-point run was their longest since Dec. 11, 2019 against Houston, when they scored 24 in a row.\n\nMobley played 35 minutes in his third straight start. The 7-foot power forward is averaging 15.7 points and 8.3 rebounds with a .563 field goal percentage.\n\n“Evan is going to be a guy who can get a double-double every night,” Love said. “He’s got a huge future and he’s going to make a number of All-Defensive teams in his career.”\n\nA 3-pointer by Bogdan Bogdanovic gave Atlanta its largest lead at 43-30, but Rubio answered with six points in the final 3:03 of the second quarter to pull the Cavaliers within 55-53 at intermission.\n\nYoung scored nine points in the first quarter and Reddish had five off the bench as Atlanta held a 27-24 lead after the first.\n\nLOVE IN THE AIR\n\nLove looked comfortable for the first time in his new role coming off the bench. The five-time All-Star had 12 points, six rebounds and three assists in 24 minutes. “Kevin knows who he is and what is important to us,” Bickerstaff said. “He played to win.” In Cleveland’s first two games, Love had 10 total points and missed 11 of his 14 field goal attempts.\n\nTIP-INS\n\nHawks: G Lou Williams (left hip soreness) was active and available, but the 17th-year pro did not play. … F Danilo Gallinari (left shoulder soreness) and F Onyeka Okongwu (right shoulder recovery) remain out and have not made their regular season debuts.\n\nCavaliers: Starting G Darius Garland (left ankle sprain) missed his second straight game after being hurt in the opener at Memphis. … G Dylan Windler (right hip strain) has been inactive for each game. He will travel with the team on its five-game road trip.\n\nUP NEXT\n\nHawks: Host Detroit on Monday. Atlanta is in the midst of four road games in a five-game stretch that ends Oct. 30.\n\nCavaliers: Visit Denver on Monday. Cleveland will not return home again until Nov. 3 against Portland.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "ReturnFromInjury",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.031213",
+  "pipeline_version": "v1"
+}

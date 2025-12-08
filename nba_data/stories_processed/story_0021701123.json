@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701123",
+  "espn_id": "400975869",
+  "date": "Mar 28, 2018",
+  "matchup": "LAL vs. DAL",
+  "headline": "Randle's double-double lifts Lakers to 103-93 win over Mavs",
+  "cleaned_body": "LOS ANGELES --  Rookie Kyle Kuzma wasn't shy about what he expects from the Los Angeles Lakers over their final eight games.\n\n\"Win `em all,\" Kuzma said.\n\nWith Brandon Ingram back in the mix and a surging Julius Randle, it's not an unreasonable goal.\n\nBrook Lopez scored 22 points, Randle added 20 points and 10 rebounds, and the Lakers beat the Dallas Mavericks 103-93 on Wednesday night.\n\nIngram had 13 points, seven rebounds and four assists in 23 minutes in his return after missing 12 games with a groin strain.\n\nKuzma scored 10 of his 18 points in the fourth quarter, helping the Lakers close out their second win in three games following a four-game losing streak.\n\n\"That's the biggest thing, keep building and pushing the envelope and really try to build that winning culture again,\" Kuzma said. \"We've done a great job of winning a lot of games this year that in prior years probably wouldn't have won. We just want to keep pushing.\"\n\nIt was Randle's ninth consecutive game with at least 20 points and nine rebounds, doing much of his damage during a 16-0 run in the third quarter after the Lakers fell behind 74-61. Randle had nine points, including eight straight to give Los Angeles its first lead of the second half.\n\nLos Angeles had an 82-81 lead after the third, and that momentum carried over into the fourth. Lakers coach Luke Walton credited his bench with sparking the comeback in their first game at home following a four-game road trip.\n\n\"You have to find that fire, energy and cohesiveness again,\" Walton said. \"We just didn't have it until the second unit got in and they really started picking it up.\"\n\nIngram closed out his first game since March 1 at point guard after Lonzo Ball left late in the third with a left knee contusion he sustained while making contact with a Dallas player setting a screen.\n\nBall, who had eight points, five rebounds and four assists, will undergo an MRI for precautionary reasons, but Walton did not believe the injury was serious. Ball missed 16 games in January and February because of soreness in that same knee.\n\nHarrison Barnes had 17 points for the Mavericks, who have lost seven of their last nine. Dennis Smith Jr. had 14 points and eight assists, and Dirk Nowitzki chipped in with 13 points and seven rebounds.\n\nMavericks coach Rick Carlisle chose to sit those three down the stretch and instead gave rookies Maxi Kleber, Kyle Collinsworth and Jalen Jones heavy minutes in the fourth.\n\n\"Every young player needs to experience this,\" Nowitzki said.\n\nTIP-INS\n\nMavericks: Yogi Ferrell finished with 12 points off the bench. ... The Mavericks had a 17-7 advantage in points off turnovers.\n\nLakers: Rookie F Josh Hart, who has missed 14 games because of a broken finger on his left hand, could return Friday. Walton said Hart wanted to play against the Mavericks but was not medically cleared.\n\nTHOMAS SET FOR SURGERY\n\nLakers G Isaiah Thomas will have arthroscopic surgery on his right hip Thursday, ending his chaotic season.\n\nThomas was traded from Boston to Cleveland in August, then dealt by the Cavaliers to the Lakers in February. Limited to 32 games because of his hip injury, Thomas averaged 15.2 points and 4.8 assists. He will be a free agent this summer.\n\n\"He's a hell of a player, a great teammate,\" Walton said. \"He was a lot of fun to coach, so we'll miss having him around while he's recovering, but just like throughout the season we've had a lot of injuries and we got to have the team step to fill that void that we have without him.\"\n\nTEXAS TWISTER\n\nRandle, who is from Plano, Texas, averaged 21.8 points, 11.3 rebounds and 5.3 assists in the four-game season series against the Mavericks.\n\n\"I guess he takes it personal or something against a team from Dallas,\" Carlisle said. \"He's taken a quantum leap this year with his overall play.\"\n\nUP NEXT\n\nMavericks: Host the Minnesota Timberwolves on Friday.\n\nLakers: Host the Milwaukee Bucks on Friday.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.510817",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100786",
+  "espn_id": "401360605",
+  "date": "Feb 03, 2022",
+  "matchup": "LAC vs. LAL",
+  "headline": "Jackson's layup propels Clippers to 111-110 win over Lakers",
+  "cleaned_body": "LOS ANGELES -- — Reggie Jackson isn't fazed by Los Angeles Clippers games coming down to the wire, especially against their arena co-tenants.\n\n“We just want to give the fans their money’s worth,” he said.\n\nJackson scored 25 points, including a driving layup with four seconds remaining, and the Clippers held on for a 111-110 victory over the Los Angeles Lakers on Thursday night.\n\nThere were four lead changes in the final 30 seconds, including Jackson’s winning basket. Anthony Davis, who led the Lakers with 30 points and 17 rebounds, had a chance to win it but missed a running floater as time expired.\n\nDavis was visibly frustrated afterward and said he watched the shot seven times before going to the interview room.\n\n“The ball touched every part of the rim. You can’t ask for a better look,” said Davis, who had at least 30 points and 15 rebounds in back-to-back games for the seventh time in his career. “The ball was in, then out. Tough, tough play.”\n\nMarcus Morris Sr. led the Clippers with 29 points, while Serge Ibaka added 20 points and nine rebounds. Morris made six 3-pointers, including one from the left corner that gave the Clippers a 109-108 advantage with 18 seconds remaining. The Lakers regained the lead on Davis’ dunk before Jackson’s decisive layup.\n\nJackson — who had 10 points in the final 12 minutes — took the inbounds pass and skipped to the midcourt line. Then he drove down the left side and got past Austin Reaves and Russell Westbrook.\n\n“We’re confident in ourselves, how we play and our approach to the game. We never really got rattled,\" Jackson said.\n\nThe Clippers have three victories since Jan. 11 when trailing by at least 24 points. But on Thursday they held a 17-point lead with four minutes left in the third quarter before the Lakers started to chip away.\n\n“I thought it was a good chess match back and forth. Coach (Frank) Vogel did a good job trying to keep me off balance,” Clippers coach Tyronn Lue said.\n\nMalik Monk scored 21 points for the Lakers, and Westbrook had 17. Monk’s 3-pointer gave the Lakers a 108-106 lead with 28.1 seconds to go.\n\nThe Clippers have won two of their last three to even their record at 27-27. The victory also gave them a 1 1/2-game lead over the Lakers for the eighth seed in the Western Conference. The Clippers trail Denver by 2 1/2 games for the sixth seed, which would avoid having to take part in the play-in tournament.\n\nThe Lakers (25-28), who have played only one game since Dec. 17 with Davis and LeBron James both in the lineup, have dropped four of their last five.\n\n“It’s a tough loss because they are ahead of us,” Davis said. “We have to keep plugging away. There are no moral victories and no one feels sorry for us. We have to find a way.”\n\nThe Clippers have won both meetings this season, and 30 of the last 37. They had a six-point advantage at halftime before outscoring the Lakers 24-13 over the first eight minutes of the third quarter to take an 84-67 lead on 10 points from Jackson and eight by Morris.\n\nThe Lakers trailed 94-78 in the final minute of the third quarter before rallying with 12 straight points, including six by Westbrook, to get back into the game.\n\nThe Clippers were able to push the lead back to 104-97 with 3:27 remaining before the Lakers scored eight straight points, including an 11-foot jumper by Westbrook, to take a 105-104 lead with 63 seconds left.\n\nThere were 11 lead changes and 10 ties in the first half before the Clippers closed the half on a 9-3 run to grab a 60-54 halftime advantage.\n\nTIP-INS\n\nLakers: James missed his fifth straight game due to swelling in his left knee. ... Nine of Davis' 12 field goals were dunks.\n\nClippers: Ibaka has reached 4,500 career defensive rebounds. ... Ivica Zubac missed his second straight game due to a calf injury.\n\nUP NEXT\n\nLakers: Host the New York Knicks on Saturday.\n\nClippers: Host the NBA champion Milwaukee Bucks on Sunday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.617251",
+  "pipeline_version": "v1"
+}

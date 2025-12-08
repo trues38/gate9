@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101082",
+  "espn_id": "401360901",
+  "date": "Mar 22, 2022",
+  "matchup": "CHI @ MIL",
+  "headline": "Antetokounmpo returns, Bucks roll to 126-98 win over Bulls",
+  "cleaned_body": "MILWAUKEE -- — Giannis Antetokounmpo had 25 points and 17 rebounds in his return to action and the Milwaukee Bucks extended their recent mastery of the Chicago Bulls with a 126-98 blowout on Tuesday night.\n\nAntetokounmpo missed the Bucks’ 138-119 loss  at Minnesota on Saturday due to a sore right knee. Milwaukee played without All-Star forward Khris Middleton, who was dealing with a sore left wrist.\n\n“He took a fall in the Minnesota game, and it was pretty sore and stiff, so we’ve had it looked at,” Bucks coach Mike Budenholzer said before the game. “We feel like it’s short term, but we’ll see how he feels the next day or two.”\n\nJrue Holiday had a game-high 27 points to go along with seven assists and no turnovers as the Bucks won for the 15th time in their last 16 meetings with the Bulls, including all three matchups this season. Chicago's lone win during that stretch came in the 2019-20 regular-season finale,  when the Bucks rested their starters because they were locked into the East’s No. 3 playoff seed.\n\n“Jrue was being Jrue,” Antetokounmpo said. “Jrue was being aggressive, making good decisions, getting downhill, getting everybody involved, guarding Zach (LaVine). Everybody was doing their job. Obviously we knew that Khris wasn't playing, and Khris is a big part of our team and what we do here, but at the end of the day, even with the team that we have, we're a great team.”\n\nBrook Lopez had 10 points and six rebounds in 24 minutes for Milwaukee after making his first start since the season opener. The 7-footer had come off the bench for the Bucks’ last three games after missing 67 due to a back injury that required surgery.\n\nThe Bucks shot 61% from the floor and had seven players score in double figures. The Bulls shot just 42.4%.\n\n“Shots we would want them to take, they made,” Bulls coach Billy Donovan said. “It was a night where they really, really had it going. Credit to them. And it was a night we just didn't shoot the ball particularly well.”\n\nNikola Vucevic had 22 points for the Bulls, who opened a five-game trip one night after a 113-99 victory over the Toronto Raptors. DeMar DeRozan and LaVine added 21 points each as the Bulls lost for the ninth time in 12 games.\n\n“At some point, we've got to get tired of getting our butt kicked like this and flip that switch of understanding, all right, enough is enough,” DeRozan said. “Now it's time to turn it around and show that desperation.”\n\nMilwaukee took command with a 23-4 spurt that began late in the first quarter and continued in the second.\n\nAfter trailing by 23 late in the second period, the Bulls cut the lead to 64-54 early in the third. But the Bucks regrouped and pulled away again, eventually leading by as many as 35.\n\nLATE T'S\n\nMilwaukee's Serge Ibaka and Chicago's Tristan Thompson each received technical fouls late in the fourth quarter after they got into a brief tussle on an inbounds pass attempt.\n\nTIP-INS\n\nBulls: Patrick Williams remained on a minutes restriction in his second game back after missing 65 with a torn ligament in his left wrist. He has played 18 minutes each of the last two games. ... DeRozan didn't have a single free-throw attempt. He was 17 of 18 from the line the last time the Bulls visited Milwaukee.\n\nBucks: George Hill was fined $15,000 after getting ejected from Saturday's loss for shoving Timberwolves guard Patrick Beverley from behind. Beverley, who shoved Ibaka from behind earlier in the altercation, was fined $20,000. ... Bulls fans made up a sizeable minority of the crowd, so Grayson Allen got a mix of loud cheers and boos whenever he was introduced. It was the Bulls’ first game back in Milwaukee since Jan. 21, when Allen was ejected for a flagrant foul on Alex Caruso that  caused the Bulls guard to miss 22 games with a fractured right wrist.  The teams faced each other in Chicago on March 4.\n\nUP NEXT\n\nBulls: At New Orleans on Thursday. The Bulls beat the Pelicans 128-112  in Chicago on Oct. 22.\n\nBucks: Host the Washington Wizards on Thursday. The Bucks have split two previous meetings with the Wizards.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.963696",
+  "pipeline_version": "v1"
+}

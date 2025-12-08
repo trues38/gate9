@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700926",
+  "espn_id": "400975672",
+  "date": "Mar 02, 2018",
+  "matchup": "ORL vs. DET",
+  "headline": "Gordon, Magic stop 7-game skid, beat Pistons 115-106 in OT",
+  "cleaned_body": "ORLANDO, Fla. --  The Orlando Magic have had to explain so many late-game collapses this season that it was a little awkward describing how well they handled the deciding moments of Friday night's 115-106 overtime victory against the Detroit Pistons.\n\nAaron Gordon had 27 points and 13 rebounds to help Orlando end a seven-game losing streak. Nikola Vucevic added 22 points and 12 rebounds, and D.J. Augustin had 20 points and nine assists for the Magic, who rallied from a seven-point deficit in the final five minutes of regulation.\n\n\"Everybody played great defensively all night long,\" said Gordon, who limited Pistons star Blake Griffin to 5-of-14 shooting and just 12 points. \"That was one of the few times that we listened to a game plan. It's good when it comes together and everybody's on the same page. You come out with a win.\"\n\nEvan Fournier scored 17 points, including the first six in overtime when Orlando finally took control.\n\nHowever, the deciding factor in the game was the Magic defense. Orlando held Detroit to 1-for-9 shooting in the final six minutes of regulation and 0 for 8 in the five-minute overtime.\n\n\"Defense is all we talked about for the last 48 hours and I did see an improvement,\" Magic coach Frank Vogel said. \"They missed a couple of open looks throughout that stretch, but for the most part our defensive intensity was really good. We were really committed to get a W tonight.\"\n\nJames Ennis and Reggie Bullock led Detroit with 21 points apiece. Griffin had 10 rebounds and nine assists to go with his 12 points. Dwight Buycks and Anthony Tolliver scored 12 each for the slumping Pistons, who have lost seven of nine.\n\nDetroit coach Stan Van Gundy took his starting five to task for their offensive failure at the end of regulation and in overtime.\n\n\"We didn't play very well,\" Van Gundy said. \"Those are the guys that are supposed to win games for us. We just stand around. Clearly if we had answers, we would have won.\"\n\nFournier's scoring burst gave Orlando a 110-104 lead going into the final two minutes of overtime. That proved to be plenty of cushion against a Detroit team that went from shooting 52.4 percent in the first three quarters to making just one of their last 17 shots in regulation and overtime.\n\nFournier said Magic players in a late-game huddle stressed the need to keep up the defensive effort.\n\n\"We were kind of like, OK, not again,\" Fournier. \"That kind of changed the momentum. We went into overtime knowing we were going to execute and play good defense and we did.\"\n\nThe Magic could have won it in regulation. Fournier drilled a 3-pointer that gave Orlando a 104-102 lead with 47 seconds left in the fourth quarter.\n\nThe Pistons tied it when Griffin got a long rebound and found Ennis for a breakaway dunk that tied the game at 104 with seven seconds left.\n\nThe Magic muffed their chance for a game-winner. Vucevic lost his balance when driving the lane and turned the ball over, leading to overtime.\n\nThe teams went into the fourth quarter tied at 82.\n\nDetroit got consecutive 3-pointers from Buycks, Tolliver and Langston Galloway to take a 97-91 lead with 6:47 left in the period.\n\nOrlando started attacking the basket, hitting three straight layups, and that opened up the perimeter. Gordon nailed his third 3 to give the Magic a 101-100 lead with three minutes to play.\n\nTIP-INS\n\nPistons: Galloway left in the second quarter to get three stitches to close a cut over his right eye. He returned in the second half. ... Detroit turned the ball over on its first four possessions. The Pistons didn't get off a shot for nearly three minutes. ... Griffin is 0 for 11 on 3-pointers in his last four games. ... Detroit has forced more than 10 turnovers in 48 straight games, the longest current streak in the NBA. The Pistons forced 16 turnovers in this one.\n\nMagic: Jonathan Isaac, the team's first pick in the 2017 draft, played for the first time in 26 games. He had three points and two rebounds in 15 minutes. ... SG Aaron Afflalo was deactivated before the game so the Magic could see more of 10-day signee Rashad Vaughn, but Vaughn did not play.\n\nUP NEXT\n\nPistons: Play at Miami on Saturday night.\n\nMagic: Host the Memphis Grizzlies on Saturday night to complete a three-game homestand.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "Streak",
+    "LateCollapse",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.678262",
+  "pipeline_version": "v1"
+}

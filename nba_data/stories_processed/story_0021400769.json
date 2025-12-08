@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400769",
+  "espn_id": "400579061",
+  "date": "Feb 08, 2015",
+  "matchup": "DET vs. MIN",
+  "headline": "Timberwolves win 3rd straight, 112-101 over Pistons",
+  "cleaned_body": "AUBURN HILLS, Mich. -- For the Minnesota Timberwolves, even a modest winning streak is a noteworthy accomplishment.\nNikola Pekovic scored 29 points and Kevin Martin added 24 to lift Minnesota to its third straight victory, 112-101 over the sluggish Detroit Pistons on Sunday night. The Timberwolves had not even won back-to-back games this season until this recent run.\n\"Huge. It's huge,\" Pekovic said. \"We've been having trouble all season. We've had many guys out who just recently started coming back and playing together. It just feels good.\"\nPistons coach Stan Van Gundy had another explanation for Minnesota's 112-point night.\n\"There was not a good stretch of defense in the whole game,\" he said. \"They've gotten some guys back, but if you couldn't score that many points against our defense tonight, you aren't an NBA team.\"\nThe Timberwolves led throughout against the Pistons despite the absence of guard Ricky Rubio, who is still recovering from a left ankle injury. Rubio recently returned from that injury, but the team said he hasn't been cleared to play in back-to-back games yet, and Minnesota is in action again Monday.\nAndrew Wiggins scored 18 points for Minnesota, and Thaddeus Young added 16.\nAndre Drummond had 17 points and 14 rebounds for the Pistons, going 8 of 8 from the field.\nDetroit trailed 74-55 in the third quarter before fighting back to make a game of it. It was 83-79 early in the fourth, but a 3-pointer by Wiggins started an 18-6 run for Minnesota.\n\"We know when to panic and when not to panic. That's something that we didn't do tonight,\" Martin said. \"It's just a testament of the players that you trust.\"\nThe Timberwolves have won 10 straight over the Pistons.\nThe Pistons are 15-9 since their 5-23 start, but this was an ugly performance. Minnesota began the game 8 of 10 from the field en route to a 32-24 lead after the first quarter.\nD.J. Augustin, who has played well since the Pistons lost point guard Brandon Jennings to an Achilles injury, had 20 points and eight assists. But offense wasn't really Detroit's problem. Minnesota shot 61 percent in the first quarter and finished at 51 percent. The Timberwolves were also 29 of 34 on free throws.\nTIP-INS\nTimberwolves: In addition to Rubio, Minnesota was also without F Robbie Hummel (fractured right hand) and F Shabazz Muhammad (strained outer oblique).\nPistons: Van Gundy was hit with a technical with 5:07 remaining in the game.\nSTRONG INSIDE\nPekovic bested his previous season high by 10 points.\n\"It's interesting because Drummond is one of the better defensive centers in the league, but he loves to block shots,\" Minnesota coach Flip Saunders said. \"In order to block shots he wants to give a little bit of space. If you give Pek space, he's just too big.\"\nPekovic wasn't the only Minnesota player who had an easy time of it against Detroit's defense. Young went 6 of 7 from the field, and Zach LaVine scored 10 points on 5-of-6 shooting, including an alley-oop from Wiggins on a fast break in the first quarter.\nLaVine recently came back from a sprained ankle, and Minnesota also got guard Mo Williams back about a week ago from a left hip problem.\nUNFORCED ERRORS\nFirst-half lowlights for Detroit included a missed layup by Augustin on a breakaway, a missed dunk by Greg Monroe late in the second quarter, a technical foul on Monroe -- and Augustin fouling Williams while he was shooting a 3-pointer.\nIt was 61-51 at the half.\n\"There was not one positive in that game,\" Van Gundy said. \"Not one.\"\nThe Pistons went 9 of 16 from 3-point range in the first half, then missed their first 12 attempts from beyond the arc in the second.\nUP NEXT\nTimberwolves: Host Atlanta on Monday night.\nPistons: At Charlotte on Tuesday night.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.339931",
+  "pipeline_version": "v1"
+}

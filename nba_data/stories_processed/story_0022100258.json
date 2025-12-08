@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100258",
+  "espn_id": "401360082",
+  "date": "Nov 22, 2021",
+  "matchup": "MIL vs. ORL",
+  "headline": "Bucks dominate Magic 123-92 for 4th consecutive victory",
+  "cleaned_body": "MILWAUKEE -- — Jrue Holiday scored 18 points and the Milwaukee Bucks opened the biggest halftime lead in franchise history on their way to a 123-92 blowout of the Orlando Magic on Monday night.\n\nThe Bucks’ 77-36 lead at the break also was Orlando’s biggest halftime deficit ever.\n\nBefore Monday, Milwaukee's largest halftime lead was a 78-40 advantage over Detroit on Dec. 26, 1978. The Bucks won that game 143-84.\n\nMilwaukee won its fourth straight and still hasn’t lost a game this season in which its top three players – Giannis Antetokounmpo, Khris Middleton and Holiday – were all in the lineup.\n\n“Obviously we’re missing Brook (Lopez) and Donte (DiVincenzo), but still, having most of our guys here is just giving us confidence just to go out there and just play and play our game and play our brand of basketball,” Bucks forward Bobby Portis said. “I think our team is getting better just game by game.”\n\nThe Bucks eventually built the margin to 51, becoming the first team to lead a game by at least 50 points this season. The biggest lead this season entering Monday was 45, by Minnesota in a 138-95 victory over Memphis on Saturday.\n\nMilwaukee beat Orlando for the second time in three nights. The Bucks won 117-108 on Saturday.\n\n“It’s good to play a team again and have that look and feel,” Bucks coach Mike Budenholzer said. “Our guys played well tonight, executed on both ends, including coming out in the third quarter. A lot of good stuff tonight for us.”\n\nOrlando played both games without leading scorer Cole Anthony, who has a sprained right ankle. Magic coach Jamahl Mosley wasn’t definitive on when Anthony might return.\n\n“No timetable as of right now,” Mosley said before the game. “We’re just going to keep seeing how he progresses as he goes through rehab.”\n\nMilwaukee’s Pat Connaughton scored 17 and shot 5 of 7 from 3-point range. Antetokounmpo had 12 points, eight rebounds and nine assists in only 24 minutes.\n\nGrayson Allen and Jordan Nwora each added 14 points for the Bucks. Portis had 13 points and 11 rebounds, and Middleton scored 12 points.\n\nMoritz Wagner led Orlando with 18 points. The Magic also got 14 from R.J. Hampton, 13 each from Robin Lopez and Mychal Mulder and 12 from Chuma Okeke.\n\n“Give the Bucks all the credit for the way they played,” Mosley said. “They are the world champions for a reason. They turned the pressure up. This is a great measuring stick to help us understand the things that we need to do to continue to grow, to continue to get better and to continue to develop.”\n\nREMEMBERING WAUKESHA\n\nThe lights went down at Fiserv Forum before the game as a moment of silence was observed for the people who were killed or injured when an SUV crashed into a Christmas parade Sunday in the Milwaukee suburb of Waukesha.\n\nAt least five people died and 48 were injured. Police have said they're drawing up five charges of intentional homicide against Darrell Brooks Jr., a 39-year-old from Milwaukee.\n\nTIP-INS\n\nMagic: Mulder scored 13 points in each of these two games in Milwaukee. Before these two games, he had scored just three points all season.\n\nBucks: Semi Ojeleye missed a second straight game with an injured right calf. Bucks officials said late Monday night that an MRI revealed a strained soleus muscle that will sideline Ojeleye for at least three weeks. ... Antetokounmpo was named the Eastern Conference player of the week on Monday. He averaged 33.3 points, 16 rebounds, 5 assists, 2.7 blocks and 1.7 steaels in three games.\n\nUP NEXT\n\nMagic: Host Charlotte on Wednesday. The Magic lost at home to the Hornets 120-111  on Oct. 27.\n\nBucks: Host Detroit on Wednesday to end a five-game homestand. The Bucks have won their last 11 regular-season matchups with the Pistons, including 117-89  in Detroit on Nov. 2.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.767861",
+  "pipeline_version": "v1"
+}

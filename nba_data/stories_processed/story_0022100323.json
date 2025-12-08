@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100323",
+  "espn_id": "401360147",
+  "date": "Dec 01, 2021",
+  "matchup": "CLE @ MIA",
+  "headline": "Love scores 22, Cavaliers end 20-game losing streak in Miami",
+  "cleaned_body": "MIAMI -- — Kevin Love scored 22 points and the Cleveland Cavaliers snapped a 20-game losing streak in Miami, beating the Heat 111-85 on Wednesday night.\n\nJarrett Allen added 19 points and 11 rebounds and Darius Garland finished with 16 points for the Cavaliers, who had not won on the Heat’s home court since Jan. 25, 2010.\n\n“2010? I was 9 years old,” said Cavaliers rookie Evan Mobley, who had a double-double with 17 points and 11 rebounds.\n\nTyler Herro scored 21 points for Miami, which played without injured starters Jimmy Butler and Bam Adebayo.\n\nCleveland took the lead for good early on a 14-0 run in the first quarter. Love hit two 3-pointers during the surge, finishing 6 of 8 from beyond the arc.\n\n“Tonight we wanted to set the tone,” Allen said. “We all know they’re down a couple of star players but that’s no excuse for us to go out there and be lackadaisical. We went out there and threw the first punch and we took it home.”\n\nThe Cavaliers made 16-of-31 3-pointers and built a 61-43 lead at halftime, then went on an 18-4 run to end the third period. It's Cleveland's second win in a row, following Monday's 114-96 victory at Dallas.\n\n“We knew that we had a job to do and that’s the way how we approached the game,” Cleveland coach J.B. Bickerstaff said. “There can’t be any letdown when you’re playing a team that carries the reputation that the Miami Heat carry. Our guys were aware of that and they went out with a business-like approach and got the job done.”\n\nDewayne Dedmon started at center for Miami in place of Adebayo, who learned Wednesday that he’s likely out until at least mid-January. Tests confirmed that Adebayo tore a ligament in his right thumb during Monday’s loss to Denver. He is scheduled to undergo surgery Sunday, at which time the Heat will have a more definitive timetable for his return.\n\n“When you lose an All-Star player, it’s never easy,” Miami coach Erik Spoelstra said. “But this is the league, and when I look around the league, I see a lot of teams dealing with injuries, guys out and guys coming back.”\n\nButler (bruised tailbone) also remained sidelined.\n\n“Guys will have to step up, not just bigs, but guards have to help rebound,” Herro said. “All five guys on the floor can really impact the game whether it’s defensively or rebounding.”\n\nHeat guard Duncan Robinson was scoreless in seven field-goal attempts, ending his franchise record of consecutive games with a 3-pointer at 69.\n\nTIP-INS\n\nCavaliers: This is the first season since 2000-01 that Cleveland hasn’t been below .500 after 22 games without LeBron James on the roster. ... Garland became very familiar to Erik Spoelstra over the summer, when the Heat coach led the USA Basketball select team tasked with helping the Olympic team get ready for the Tokyo Games. Garland was one of the select team’s top players. “He had his moments,” Spoelstra said.\n\nHeat: The game was played one day shy of the 11th anniversary of the Heat vs. Cavaliers game in which James returned to Cleveland as an opponent for the first time. ... Butler missed his fifth game of the season, Adebayo his fourth.\n\nLOWRY PENALTY\n\nThe NBA announced Wednesday that the Heat will lose a future second-round draft pick as the penalty for violating “league rules governing the timing of this season’s free agency discussions.” The NBA had spent months looking into the circumstances surrounding Miami’s acquisition of Kyle Lowry in the offseason. The same penalty was imposed Wednesday on the Chicago Bulls, who were probed for how they landed Lonzo Ball.\n\nDECEMBER TO REMEMBER\n\nIt’ll be a hectic month for both teams. The Cavaliers and Heat both play 16 times in December.\n\nUP NEXT\n\nCavaliers: Visit Washington on Friday.\n\nHeat: Visit Indiana on Friday.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.892838",
+  "pipeline_version": "v1"
+}

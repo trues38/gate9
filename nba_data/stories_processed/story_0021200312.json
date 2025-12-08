@@ -1,0 +1,22 @@
+{
+  "game_id": "0021200312",
+  "espn_id": "400278032",
+  "date": "Dec 12, 2012",
+  "matchup": "CHI @ PHI",
+  "headline": "Bulls knock off 76ers, win fourth straight on the road",
+  "cleaned_body": "PHILADELPHIA -- Not only were the Chicago Bulls short-handed, they were a bit weary after a tough five-point loss to the Los Angeles Clippers at home on Tuesday night.\n\nThe Bulls sure didn't look tired or depleted less than 24 hours later.\n\nJoakim Noah scored 21 points, Luol Deng added 19 points and 12 rebounds, and the Bulls won their fourth in a row on the road with a 96-89 victory over the Philadelphia 76ers on Wednesday night.\n\n\"We've been fighting all year, but we've let a lot of games slip,\" Noah said. \"But there's a lot of basketball left and we have to keep playing like this. Back-to-back can be tough if you let it. We fought hard and we had everyone here contribute. That's what you need and I thought we were resilient. We went to the basket hard and we went to the glass hard.\"\n\nFollowing that home loss, the Bulls traveled to Philadelphia and appeared more rested than the Sixers, who had Tuesday off.\n\nMarco Belinelli had 16 points and Nate Robinson, starting in place of guard Kirk Hinrich, had 14 for Chicago. Hinrich injured his left knee in Tuesday's loss to the Clippers and is listed as day to day.\n\n\"In the NBA, you have to play whatever is in front of you,\" Chicago coach Tom Thibodeau said. \"Back-to-back doesn't matter. Readiness to play is huge in this league and tonight, we showed that. We were tough.\"\n\nJrue Holiday scored 26 points, Evan Turner added 16 and Thaddeus Young had 13 for Philadelphia. Reserve Spencer Hawes chipped in with 10 points and 10 rebounds, and Nick Young also scored 10 for the Sixers.\n\nDown the stretch it was the Sixers who seemed to have heavy legs.\n\n\"I thought fatigue was a factor,\" Philadelphia coach Doug Collins said.\n\nPhiladelphia took an 80-79 lead when Holiday knocked down a jumper with 5:20 remaining.\n\nBut the short-handed Bulls -- still playing without All-Star guard Derrick Rose (left knee), as well as guards Richard Hamilton (torn plantar fascia in his left foot) and Hinrich -- responded with a 7-0 run to take an 86-80 lead.\n\nJason Richardson hit a 3-pointer to get the Sixers within three before Deng came right back with a tough driving layup to push the lead back to five.\n\nDeng had one of his worst games of the season with an eight-point effort against the Clippers, but he shook it off to help carry the Bulls to another tough road win.\n\n\"Sometimes back-to-back, you feel great, and sometimes, you don't and something is just missing,\" Deng said. \"Tonight, we were ready to bounce back.\"\n\nThe Sixers took a 44-41 lead into halftime despite missing all four of their 3-point attempts and all three of their free throws. Philadelphia shot 46 percent from the field and wound up at 45 percent by the end of the game.\n\n\"We just have to continue to execute and put our pulse on the game early,\" Thaddeus Young said. \"If we do that, we'll be fine.\"\n\nGame notes Bulls F Carlos Boozer was whistled for a technical foul with 5:41 left in the second quarter. ... Sixers G Royal Ivey sat out with strep throat and F Damien Wilkins missed the game with a right calf strain. ... Noah also had seven rebounds and five assists. ... Actor Marlon Wayans attended the game.",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.648996",
+  "pipeline_version": "v1"
+}

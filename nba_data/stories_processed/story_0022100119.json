@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100119",
+  "espn_id": "401359943",
+  "date": "Nov 04, 2021",
+  "matchup": "DET vs. PHI",
+  "headline": "Curry, Maxey lead 76ers past Pistons, 109-98",
+  "cleaned_body": "DETROIT -- — Seth Curry scored 23 points, Tyrese Maxey added 20 and the short-handed Philadelphia 76ers beat the Detroit Pistons 109-98 on Thursday night for their fifth straight win.\n\nJoel Embiid had 19 points and nine rebounds for Philadelphia. Shake Milton scored 16 points and Georges Niang added 14 off the bench.\n\n“This group is really close, they don’t have any distractions, and they play hard,” Sixers coach Doc Rivers said.\n\nThe Sixers, playing for the second straight night, only used eight players. Furkan Korkmaz (wrist) sat out, while former Pistons forward Tobias Harris remained sidelined due to COVID-19 protocols.\n\nThey weren't able to have a walkthrough on Thursday morning after Isaiah Joe's entry into the COVID-19 protocols required the entire team to be tested.\n\n“We have gritty guys who are just here to win basketball games,” Niang said. “We came in here on the second half of a back-to-back after a tough win against Chicago plus everything this morning and got a win. This is a big team effort.”\n\nJeremi Grant scored 27 for the Pistons, but only five in the second half.\n\n“In the first half, we ran our offense and the ball got to Jeremi for some good shots,” Pistons coach Dwane Casey said. “In the second half, everyone came out and waited for Jeremi to do his thing. We can't play like that and expect to win.”\n\nCade Cunningham had 18 points and 11 rebounds but missed 13 of his 17 field-goal attempts. Cunningham, the No. 1 overall pick this summer, is shooting 17.9% (7 for 39) in his first three games, including 1 for 21 on 3-pointers.\n\n“I feel a lot more comfortable with the ball, but I obviously haven't been efficient shooting in my first three games,” said Cunningham, who missed the preseason and the start of the regular season with a sprained ankle. “I didn't have a training camp, but the guys are supporting me and they keep getting me the ball.”\n\nDetroit got 22 points from Grant on its way to a 66-63 halftime lead. Curry had 18.\n\nCunningham beat the shot clock from the center-court logo with 7:20 left in the third, his first make after missing his first 18 career 3-point attempts.\n\n“We’re telling him to just keep shooting the ball,” Pistons center Isaiah Stewart said. “The shots he’s missing right now are shots we’ve seen him make a lot. Those are going to turn into points pretty soon.”\n\nMaxey, playing on his 21st birthday, had nine points in the third quarter as the 76ers took a 86-82 lead.\n\n“I wasn't ready to be doing that when I was 21, that's for sure,” Curry said. “But once you get out there, everyone is the same age.”\n\nThe Pistons shot 27.3% (6 for 22) from the floor in the period.\n\n“The Sixers are a playoff team and we knew they were going to turn up the heat in the second half,” Casey said. “We didn't match them. That's what hurt us.”\n\nPhiladelphia led 97-82 with 8:13 to play, but Cunningham hit four free throws as the Pistons cut the deficit to 97-89.\n\nEmbiid ended the run with a short jumper, and the Sixers turned two turnovers into easy baskets to make it 103-89 with 5:46 left.\n\nTIP-INS\n\nSixers: C Andre Drummond, who played his first 591 NBA games with the Pistons, was booed every time he touched the ball. ... Embiid's three first-half rebounds gave him 3,000 in his NBA career.\n\nPistons: Olynyk stole the ball from Drummond and hit a 27-footer at the buzzer to give Detroit a 32-31 lead at the end of the first quarter. ... PG Killian Hayes left the game with a left thumb injury, but returned for the last 6:29.\n\nUP NEXT\n\nSixers: Visit the Chicago Bulls on Saturday.\n\nPistons: Host the Brooklyn Nets on Friday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.838633",
+  "pipeline_version": "v1"
+}

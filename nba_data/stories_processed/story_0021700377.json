@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700377",
+  "espn_id": "400975128",
+  "date": "Dec 09, 2017",
+  "matchup": "LAL @ CHA",
+  "headline": "Clarkson leads Lakers past struggling Hornets, 110-99",
+  "cleaned_body": "CHARLOTTE, N.C. --  Jordan Clarkson believes he's figured out the key to his NBA success: fried chicken and scary movies.\n\nThe 25-year-old Clarkson said he brought some food into a movie theater and just chilled out on his night off between games -- and it helped him immensely.\n\n\"I've got to start eating more fried chicken the day before a game,\" he joked.\n\nWhatever it was, Clarkson turned in one of his best games with the Los Angeles Lakers, scoring 14 of his 22 points in the fourth quarter of a 110-99 win over the fatigued and short-handed Charlotte Hornets on Saturday night.\n\nClarkson was so hot that he played the entire fourth period while rookie point guard Lonzo Ball sat out. Ball finished with five points and nine assists after turning in perhaps his most complete game Wednesday night against Philadelphia, when he had 10 points, eight rebounds, eight assists, three steals and four blocks in a 107-104 victory.\n\nBall didn't seem to mind.\n\n\"That's what the team is for,\" he said. \"JC came in and he was cooking tonight.\"\n\nBrandon Ingram added 18 points and Kentavious Caldwell-Pope had 15 for the Lakers, who have won two straight after losing five in a row.\n\n\"It doesn't matter who comes in, who finishes the game -- we support each other and throughout the game everyone made huge contributions,\" Lakers coach Luke Walton said. \"At the end, that group had it rolling. So I was planning on throwing `Zo and Brook (Lopez) back in the game but because of the way the momentum was going, we stuck with the group that was out there and they got the job done for us.\"\n\nKemba Walker scored 23 points and Dwight Howard had 21 points and 12 rebounds for the injury-riddled Hornets, who have lost seven of eight.\n\nThe Lakers led by one entering the fourth but went on a run midway through the quarter to push the margin to 15.\n\nClarkson beat Walker on a backdoor cut for a jam, Caldwell-Pope knocked down a 3-pointer and Julius Randle scored on a layup and drew a foul. Ingram's tip-in off his own missed layup and Clarkson's floater increased the Lakers' lead to 14 with four minutes remaining. The Hornets had no legs left to challenge.\n\nThe Lakers outscored Charlotte 28-17 in the final 9 1/2 minutes.\n\nTIP-INS\n\nLakers: Scored 28 points off fast breaks. ... Their bench outscored the Hornets' reserves 53-31. ... Shot 50.6 percent from the field. ... Walton was assessed a technical foul in the first half.\n\nHornets: Walker and Howard were both assessed technical fouls. ... Howard has 14 double-doubles this season. ... Johnny O'Bryant had 11 points and seven rebounds.\n\nHORNETS INJURIES\n\nThe Hornets played without three key reserves out due to injuries -- Cody Zeller (meniscus tear in knee), Frank Kaminsky (sprained ankle) and Jeremy Lamb (bruised shin) -- one night after four of their five starters played more than 40 minutes in an overtime loss to Chicago.\n\nTo make matters worse, starter Nic Batum re-aggravated his left elbow against the Lakers and left the game early.\n\n\"The injury situation we have is pretty dire right now,\" said associate head coach Stephen Silas, who is filling in for coach Steve Clifford while he deals with a health issue. \"I mean, that's four of your top eight guys that are out there. So yeah, it was a tough one.\"\n\nKUZMA STEPS UP\n\nWalton was thrilled with the play of Kyle Kuzma, who had 12 points and 14 rebounds. He was able to play more of his natural power forward position than in previous games.\n\n\"He was active on the rebounding glass and had a big block for us when we were making our run,\" Walton said. \"He's a rookie and we are throwing him between multiple positions, which down the road is going to be great for him that he knows how to play both positions. But for now it is already tough enough in this league and I think he feels more comfortable at the 4 right now.\"\n\nUP NEXT\n\nLakers: At the New York Knicks on Tuesday night.\n\nHornets: At the Oklahoma City Thunder on Monday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.263533",
+  "pipeline_version": "v1"
+}

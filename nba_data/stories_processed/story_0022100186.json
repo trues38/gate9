@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100186",
+  "espn_id": "401360010",
+  "date": "Nov 13, 2021",
+  "matchup": "PHI @ IND",
+  "headline": "Pacers hand Embiid-less 76ers 4th straight loss, 118-113",
+  "cleaned_body": "INDIANAPOLIS -- — For Indiana Pacers coach Rick Carlisle, Justin Holiday is a nice luxury to have in the second unit.\n\nHoliday came off the bench to score a season-high 27 points in the Indiana Pacers' 118-113 victory over the Philadelphia 76ers on Saturday night.\n\n“Justin is a very good player as a started in this league but it's better for us if he can come off the bench,” Carlisle said. “He's a real professional at doing that. He knows how to get into the game with his mindset. He's just a total team guy. He's a guy that said to me 'anything you need from me. I will do. I just want to win. I'm for the team.' He's been completely a man of his word. A guy who shoots the ball the way he does, when he gets on roll like he did in the first half, it's a beautiful thing to watch.\"\n\nPhiladelphia center Joel Embiid missed his fourth consecutive game after testing positive for COVID-19 on Monday. The 76ers have lost all four games.\n\nHoliday was 9 of 11 from the field. Malcolm Brogdon had a triple-double with 13 points, 10 rebounds and 10 assists. Myles Turner added 20 points, and Domantas Sabonis had 18 points and 12 rebounds.\n\nTobias Harris led the 76ers with a season-high 32 points on 10-of-22 shooting and 11 rebounds. Tyrese Maxey added 24 points. Andre Drummond contributed 11 points and a team-high 16 rebounds.\n\nPhiladelphia cut it to 107-102 with 2:57 on Maxey's basket. The Pacers pushed the lead to 115-104 with three big baskets by T.J. McConnell.\n\nThe Pacers shot 67.4% to take a 70-60 halftime lead. Indiana used a 15-0 spurt to push a 28-25 lead to 43-25. Indiana led by 20 points in the first half.\n\n“The second group helped us get on a great run, but we gave some of it back before halftime,” Carlisle said. “Our third quarter was sold and we were able to finish. We just have to keep building trust together and building a level of respect for each other. To win games in the NBA this year is as difficult as I've ever seen from top to bottom.\"\n\nHarris said his 76ers needed to play better defense in the first half.\n\n“They made tough shots,” Harris said. “But we knew who their shooters were and we didn't execute. Holiday goes out there and starts rolling. We gave him a lot of good looks. I just thought there were too many possessions where we let them get too comfortable there. To rally from that with everything else going on, it was tough for us.\"\n\nThe 76ers were able to hold a 46-37. For the game, Indiana shot 57% while Philadelphia shot 43%.\n\nGETTING STRONGER EVERY DAY\n\nTobias Harris was in his second game back after missing six games with COVID-19 health and safety protocols.\n\n“It’s getting there,” Harris said of his stamina. “I’ve definitely felt a bit frustrated at times. With two days, I'll continue to up the conditioning.\n\nTIP-INS\n\n76ers: This was the start of a season long six-game trip for the slumping Sixers. … Philadelphia’s Matisse Thybulle missed his fifth consecutive game because of health and safety protocols. “It will be great when we get those guys back, but we have to clean up the defense,” Harris said of Thybulle and Embiid. ... The 76ers announced after the game assistant coach Dave Joerger is taking a leave of absence to undergo chemotherapy and radiation treatments to combat a treatable form of cancer.\n\nPacers: Caris LeVert returned after missing the previous two games with a back injury. LeVert finished with 12 points … After a rough start, Indiana has won five of its last seven games. … After scoring a season-high 14 points against Utah on Thursday night, Kelan Martin had 13 against the 76ers.\n\nUP NEXT\n\n76ers: At Utah on Tuesday night.\n\nPacers: At New York on Monday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.025210",
+  "pipeline_version": "v1"
+}

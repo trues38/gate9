@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100549",
+  "espn_id": "401360368",
+  "date": "Jan 02, 2022",
+  "matchup": "CHA vs. PHX",
+  "headline": "Booker scores 24 points, depleted Suns rout Hornets 133-99",
+  "cleaned_body": "CHARLOTTE, N.C. -- — Devin Booker scored 24 points, Jalen Smith tied a career high with 19 points and 12 rebounds and the short-handed Phoenix Suns hammered the Charlotte Hornets 133-99 on Sunday night.\n\nChris Paul had 16 assists to help the Suns improve to 28-8 — a half-game behind Golden State for the NBA lead — after they lost three of their previous four.\n\nThe Suns got 11 points and six rebounds from Bismack Biyombo, who signed a 10-day contract Saturday with four Phoenix players in the NBA's health and safety protocols, including starting center Deandre Ayton, starting forward Jae Crowder and backup center JaVale McGee. Coach Monty Williams also is out.\n\nPaul said acting coach Kevin Young talked to the team after the morning shootaround about their lack of physicality in a 123-108 road loss to Boston on Friday.\n\n“We knew it,” Paul said. “So we wanted to come out strong first and foremost on the defensive end.”\n\n“This was all you can ask for, especially after you just took it on the chin against Boston,” Young said. “Sometimes as a coach in your heart you feel like you are doing the right thing and you think it's going to resonate, and when it does come to fruition it's rewarding.”\n\nBiyombo, playing in his first game of the season, made an easy transition into the Suns' rotation, including a dunk off an alley-oop lob from Landry Shamet. Biyombo played 18 minutes against his former team.\n\n“He fit in better than I even would have hoped,” Young said. “... I had a really good feeling that he would be able to help us. He's the ultimate pro and knows how to play at both ends. He was awesome.”\n\nShamet added 17 points, Mikal Bridges had 15, and Cam Johnson and Cam Payne 14 each.\n\nLaMelo Ball had 17 points for the Hornets. They had won three in a row.\n\n“They got off to a great start and they were a hungrier team,” Hornets coach James Borrego said about the Suns. “They looked like a team that had lost three in a row and we looked like a team that had won three in row. They handled their loss better than we handled our win.\"\n\nDespite missing more than 48 combined points per game from players who were out, the Suns bolted to a 73-47 halftime lead behind 20 points from Booker and 10-of-22 shooting from beyond the 3-point arc.\n\nPhoenix led by 43 in the second half.\n\nSMITH'S DEVELOPMENT\n\nSmith, who got the start at center for Phoenix, isn't known as a particularly emotional player, but the 21-year-old got so excited after he throwing down a one-handed dunk over Hornets’ 7-foot center Mason Plumlee he was whistled for a technical foul for talking trash.\n\n“It’s so great to see,\" Paul said. “We have been waiting for that emotion from him for a year. You just never know when you are going to get your opportunity and to see him play with that emotion. ... You can get down in this league especially when you are on a team as good as ours and you find yourself out of the rotation. But he's been working and has stayed ready.”\n\nSmith called it his most complete game as pro, and credited playing with Paul — who he said is always in his ear giving advice — as a big reason for his development as a professional.\n\n“The whole time I have been picking his brain and he’s been able to tell me how to get on the court and how to keep him improving,” Smith said.\n\nTIP INS\n\nSuns: The Suns made 17 shots from beyond the 3-point arc and outrebounded the Hornets 52-35. ... Abdel Nader also is out because of health and safety protocols.\n\nHornets: Miles Bridges had 10 points in his first game back from health and safety protocols. ... P.J. Washington remains in the protocols. ... Shot 9 of 35 from 3-point range.\n\nUP NEXT\n\nSuns: At New Orleans on Tuesday night.\n\nHornets: At Washington on Monday night.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.842050",
+  "pipeline_version": "v1"
+}

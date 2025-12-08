@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100092",
+  "espn_id": "401359916",
+  "date": "Oct 31, 2021",
+  "matchup": "BKN vs. DET",
+  "headline": "Harden ties Bird with 59 triple-doubles as Nets rout Detroit",
+  "cleaned_body": "NEW YORK -- — James Harden had 18 points, 10 rebounds, and 12 assists to power the Brooklyn Nets to a 117-91 rout of the Detroit Pistons on Sunday night.\n\nHarden is Brooklyn’s all-time leader with 13 triple-doubles, and joined Larry Bird for second on the NBA’s all-time list with 59.\n\n“James was great,” Nets head coach Steve Nash said.\n\nAnd he had help as Kevin Durant scored 23 points before being ejected in the third quarter. Durant became the third player in the Nets’ NBA history to score at least 20 points in the team’s first seven games to start a season. LaMarcus Aldridge added 16 off the bench. De’Andre Bembry contributed 15, and Joe Harris finished with 12.\n\n“We've shown some signs of being a really good team,” Harden said. “We're nowhere near where we would like to be.”\n\nWhereas Brooklyn improved to 4-3 with its second straight win, Detroit fell to 1-5 with the loss.\n\n“We just didn't play with any activity,” said Cory Joseph, who led the Pistons with 13 points.\n\nHe later said the Pistons “have to play harder.”\n\nJosh Jackson chipped in with 12, and Jerami Grant had 11.\n\nAfter Jackson knocked down a pull up jumper to tie the game at 32 in the second quarter, the Nets outscored the Pistons 32-17 over the final 10:40 to go into halftime with a 64-49 advantage.\n\nThe Nets did not let up in the second half, as they extended their lead to as much as 30. Brooklyn’s dominance was encapsulated by Bembry’s alley-oop jam off of a Harden feed with 4.5 seconds left in the third. The 13,507 in attendance at Barclays Center became unglued as Bembry hung on the rim and Harden bounced down the court in celebration.\n\nIt was not an entirely seamless night for the Nets, as Durant was ejected with 3:23 left in the third quarter after being assessed for a flagrant foul 2 against Kelly Olynyk. The Detroit center and Brooklyn forward became tangled as Olynyk set a screen, and Durant threw a forearm and then shoved Olynyk to the court following a whistle.\n\nThe incident was Durant’s second in as many games. He had received a technical in Brooklyn’s 105-98 win over the Pacers Friday night for throwing the ball into the stands after a foul was called.\n\n“I tried to run through the screen,” Durant said. “That was the result of me trying to blow the screen up.”\n\nBrooklyn finished the game having made 65.3% of its shots from the field (47-for-72), 52% from 3 (13-for-25), as well as out-rebounding Detroit 41-29 and enjoying an 30-21 advantage in assists. The Nets also outscored the Pistons in the paint, 42-30.\n\n“We couldn't get them out of their rhythm,” Joseph said.\n\nTIP-INS:\n\nPistons: Detroit is young. Detroit is rebuilding. Detroit is learning about life in the NBA. All of which means a great deal of head coach Dwane Casey’s job is to monitor his team’s emotional state. “They’re somewhere in-between their growth process,\" Casey said before the game. \"So what you have to have is patience and that’s what we have. We’re in for the long run. We understand where we. Are in our process. We’re not going to skip letters of the alphabet just to try to win tonight’s game. So that’s where we are. We know what we are and I’ve been there before so I know there’s no magic wand.”\n\nUP NEXT:\n\nPistons: Hosts defending champion Milwaukee Tuesday night.\n\nNets: Concludes six-game homestead by hosting Atlanta Wednesday night.\n\n------",
+  "tags_rule": [
+    "TripleDouble",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.149048",
+  "pipeline_version": "v1"
+}

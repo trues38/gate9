@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101073",
+  "espn_id": "401360892",
+  "date": "Mar 21, 2022",
+  "matchup": "DET vs. POR",
+  "headline": "Williams, McLemore lead short-handed Blazers past Pistons",
+  "cleaned_body": "DETROIT -- — Brandon Williams scored 23 points and Ben McLemore added 21 as the patchwork Portland Trail Blazers ended a four-game losing streak with a 119-115 win over the Detroit Pistons on Monday night.\n\nDetroit, which trailed by 23 points in the third period, took a 106-105 lead on Luka Garza's free throw with 5:02 to play before Portland responded with a 7-2 run.\n\nCade Cunningham had two key turnovers down the stretch, and Williams' layup put the Trail Blazers up 116-112 with 47.8 seconds to go.\n\n“You can't turn the ball over 19 times for 30 points and expect to win games in this league,” Pistons coach Dwane Casey said. “A lot of those were live-ball turnovers, and there's no way to defend those.”\n\nThe Pistons turned the ball over, and although Kris Dunn missed a 3-pointer, Justise Winslow got the rebound and Williams made it 118-112 with two free throws.\n\nWilliams finished 11 for 11 from the free-throw line. That pleased his coach.\n\n“I've missed some free throws in the last few games, and Chauncey (Billups) always tells me that the reason they are called free throws is that they are free points,” he said. “He never missed from the line when he was playing, so having a game like this means I can look him in the face again.”\n\nThe teams combined for an NBA season-high 90 free throws.\n\nPortland, which was coming off a 129-98 loss to Indiana on Sunday, had lost 10 of 11 and was missing its top seven scorers this season.\n\n“We got our butts whupped last night, but we were able to come out here and get a win against another really young team,\" McLemore said. “I think we had a lot of energy and we played really hard.”\n\nCunningham and Saddiq Bey scored 25 apiece for the Pistons, who lost for the sixth time in seven games. Cunningham finished with nine turnovers, including eight in the second half.\n\n“There's never an acceptable turnover, but especially not nine of them,” he said. “That's giving away points when we are trying to rally down the stretch.”\n\nBillups, who won a championship as Detroit's point guard in 2004, likes what he sees from Cunningham.\n\n“I think he's going to be a star in this league,” he said. “He can do it all, he's got great size and he plays with a level of patience and confidence that you love from a young guy.”\n\nThe Trail Blazers didn't look like a tired team in the first half, leading by as many as 17 points on their way to a 67-52 advantage at the intermission. Portland outshot Detroit 53.5% to 34.8%, including 42.9% to 11.1% on 3-pointers. McLemore had 16 points, including four 3-pointers.\n\nPortland pushed its lead to 23 points at 79-56 early in the third quarter.\n\n“We came out relaxed and they jumped all over us,” Cunningham said. “I'm not sure what happened, but we have to be ready to play at the start of the game, not in the second half.”\n\nDetroit finally started getting some stops, and closed within 95-88 entering the fourth.\n\nTIP INS\n\nBlazers: Billups, whose No. 1 jersey hangs from the rafters at Little Caesars Arena near the 2004 NBA championship banner, paid tribute to longtime Pistons broadcaster George Blaha. Blaha, who joined the team in 1976, will miss the rest of the season after heart surgery. “I just want to send my love to one of the best to ever do it. I hate that I'm not going to be able to see him today and give him a big squeeze.”\n\nPistons: The teams joined arms before the game to honor the victims of Russia's invasion of Ukraine and a local choir performed the Ukrainian national anthem.\n\nUP NEXT\n\nTrail Blazers: Host the San Antonio Spurs on Wednesday.\n\nPistons: Host the Atlanta Hawks on Wednesday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.634718",
+  "pipeline_version": "v1"
+}

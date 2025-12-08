@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400150",
+  "espn_id": "400578442",
+  "date": "Nov 17, 2014",
+  "matchup": "DET vs. ORL",
+  "headline": "Vucevic, Harris lead Magic over Pistons 107-93",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Stan Van Gundy got to watch his kind of basketball Monday night.\n\nUnfortunately for him it was his old team playing that style not his new one.\n\nNikola Vucevic had 25 points and 14 rebounds and the Orlando Magic hit 13 3-pointers in a 107-93 victory over the Detroit Pistons Monday night.\n\n\"That's the way we've got to play,\" Vucevic said. \"We shared the ball, we moved it well and we were aggressive all the way around. No one cares who is scoring on this team, as long as we are making the right plays.\"\n\nIt was the first time Van Gundy had coached against the Magic since they fired him in 2012.\n\n\"They shot the ball well, and we didn't defend,\" Van Gundy said. \"They played a nice game, but we never did anything to impact their offense.\"\n\nVan Gundy's trademark has been to put shooters around a dominant inside player, and that's how Orlando played at the Palace. Vucevic was the only Magic player with more than five rebounds, but the other four starters combined to go 11 for 19 from the 3-point line.\n\n\"That's how we want to play every game,\" Orlando coach Jacque Vaughn said. \"That's team basketball.\"\n\nThe Pistons, playing their fifth game in seven nights, were Caron Butler, who had 20 points and Brandon Jennings added 18.  But their frontcourt trio of Josh Smith, Andre Drummond and Greg Monroe combined for only 25 points on 10-of-28 shooting.\n\n\"They beat us,\" Monroe said. \"That's my quote tonight. They beat us.\"\n\nDetroit struggled from the floor in the first half, shooting only 42.5 percent, and weren't able to get the ball inside with any regularity. However, they dominated the glass, grabbing a third of their own misses and all but one of Orlando's, which let them take a 52-49 lead.\n\n\"Drummond and Monroe are a handful down there, so we had to limit their touches,\" said Channing Frye. \"Coach had a good game plan for them.\"\n\nThe Magic started the third with a 10-0 run before Jennings hit his fourth 3-pointer of the game, and things got worse for Detroit when Drummond picked up three fouls in the first 4:32 of the half.\n\nButler came off the bench to score 13 points to help Detroit regain the lead late in the period. The Magic got hot again at the start of the fourth, scoring 10 points on their first four possessions to take an 88-80 lead. Harris had seven in the run, while Frye hit his fourth 3-pointer of the half.\n\nThe Pistons got back into the game, but couldn't stop Harris, who added another 3-pointer to make it 101-90 with three minutes left.\n\n---\n\nTIP INS\n\nOrlando: Frye only played 11 minutes in the first half due to foul trouble, but hit three 3-pointers in Orlando's quick start to the third quarter. . The Magic outrebounded Detroit 24-15 in the second half.\n\nDetroit: Pistons coach Stan Van Gundy showed his displeasure with Jonas Jerebko in the second quarter, grabbing him by the front of the jersey while barking at him during a timeout.\n\nUP NEXT\n\nOrlando: Host the Clippers on Wednesday.\n\nDetroit: Hosts the Suns on Wednesday.\n\nMISSING ROOKIES: Neither team's top draft pick played in the game. Orlando's Aaron Gordon, the fourth overall pick, broke his left foot Saturday in Washington and is out indefinitely. Detroit's second-round pick, Spencer Dinwiddie, has only played eight minutes this season. Dinwiddie was considered a first-round prospect until tearing his ACL in January, and is still not 100 percent.",
+  "tags_rule": [
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.536415",
+  "pipeline_version": "v1"
+}

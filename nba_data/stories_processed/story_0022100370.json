@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100370",
+  "espn_id": "401360194",
+  "date": "Dec 08, 2021",
+  "matchup": "MIL @ MIA",
+  "headline": "Martin scores career-high 28 as Heat beat Bucks 113-104",
+  "cleaned_body": "MIAMI -- — Caleb Martin scored a career-high 28 points and the Miami Heat beat the Milwaukee Bucks 113-104 on Wednesday night.\n\nStarting for injured Jimmy Butler, Martin shot 9 of 12 from the field, including 6 for 8 on 3-pointers, as the Heat tied a franchise record with 22 3s against the defending NBA champions.\n\n“They put me in the starting lineup because they believe in me,” Martin said. “When my opportunity comes, I want to take advantage.\"\n\nKyle Lowry had 22 points and 13 assists, and Max Strus scored all 16 of his points in the fourth quarter for Miami, which snapped a three-game home losing streak.\n\n“We don’t like to be in the losing column,” Martin said. “We were locked in. You could tell we were hungry for a victory.”\n\nAfter 15- and 26-point losses in its previous two home games, Miami outscored Milwaukee 69-53 in the second half. The Heat shot 14 of 26 on 3s in the final two periods, including four each from Lowry and Strus.\n\nJrue Holiday scored 27 points and Khris Middleton finished with 20 for the Bucks. Two-time MVP Giannis Antetokounmpo had 15 points as Miami limited him to 4-of-13 shooting from the field.\n\n“We have to play harder and close out, too,” Antetokounmpo said. “They made some tough (shots), too. They played harder than us and they played better than us.”\n\nThe Heat took the lead for good with nine straight points in the final 55 seconds of the third. Consecutive 3-pointers from Lowry, and P.J. Tucker’s 3 at the buzzer, put Miami ahead 83-77. Tucker finished with 15 points.\n\nButler, the Heat’s leading scorer, aggravated an injury in Monday’s loss to Memphis. He had missed the previous four games because of a bruised tailbone.\n\n“We’re going to need our full roster to contribute,” Miami coach Erik Spoelstra said. “It’ll be different guys at different times. We had some different lineups out there clearly.”\n\nMiami's reserves outscored Milwaukee’s 40-16.\n\n“The second-unit guys really just gave us some inspiring basketball out there,” Spoelstra said.\n\nThe loss was Milwaukee’s second in its last 12 games.\n\n“Those guys stepped up and hit 22 3s as a team,” Bucks coach Mike Budenholzer said. “They made the plays to win and we’ll give them credit.”\n\nTIP-INS\n\nBucks: G George Hill (right knee hyperextension) missed his third consecutive game. ... Antetokounmpo blocked a shot and moved within one of Alton Lister, the club’s career leader at 804. ... Middleton had his sixth straight game of 20 or more points. Milwaukee is 7-2 when he reaches 20 points.\n\nHeat: The 51-44 halftime deficit was Miami’s first under double digits in its last three home games. ... G Duncan Robinson played in his 173rd consecutive game, one behind Glen Rice for most in club history. Robinson began the streak on April 9, 2019.\n\nADEBAYO UPDATE\n\nHeat center Bam Adebayo is expected to miss between four and six weeks after undergoing surgery on his right thumb to repair a torn ligament Monday in Los Angeles. Adebayo sustained the injury in the home loss against Denver.\n\nFAMILIAR FOES\n\nThe Bucks and Heat already have played three times in their first 26 games. Neither team has faced another opponent more than twice. Their fourth and final regular-season meeting is March 2 at Milwaukee.\n\nUP NEXT\n\nBucks: Continue their four-game road trip Friday at Houston.\n\nHeat: Conclude a three-game homestand Saturday against Chicago.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.510341",
+  "pipeline_version": "v1"
+}

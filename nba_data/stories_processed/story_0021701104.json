@@ -1,0 +1,22 @@
+{
+  "game_id": "0021701104",
+  "espn_id": "400975850",
+  "date": "Mar 26, 2018",
+  "matchup": "LAL @ DET",
+  "headline": "Jackson leads Pistons past Lakers 112-106",
+  "cleaned_body": "DETROIT --  Reggie Jackson is rounding into form for the Detroit Pistons.\n\nMonday night was a positive sign.\n\nJackson had 20 points in his fourth game back from an ankle sprain, helping the Pistons to a 112-106 victory over Julius Randle and the Los Angeles Lakers.\n\nDetroit (34-40) won for the fourth time in five games, but trails idle Miami by five games for the final Eastern Conference playoff spot.\n\nWith Blake Griffin reduced to 24 minutes due to foul trouble, reserve Anthony Tolliver added 15 points as the Pistons put six players in double figures. Andre Drummond had 15 points and 18 rebounds and Griffin finished with 15 points.\n\n\"I don't know if we're going to see all of it in these last two weeks, but I know that with Reggie, Blake and Andre, we have the pieces to be really good,\" coach Stan Van Gundy said.\n\nJackson played 28 minutes -- the most action he has seen since his return.\n\n\"I could barely breathe in the second half, but that's all right -- my legs are getting better every game,\" he said. \"Once I get my legs back under me, I'll be able to play the way I'm used to playing, but tonight was enough to help us get a win.\"\n\nRandle had 22 points and 11 rebounds for Los Angeles, and Lonzo Ball finished with 15 points, 11 assists and eight rebounds. Kyle Kuzma had 20 points and 11 boards.\n\n\"We were competitive again, and we gave ourselves another chance to win,\" Lakers coach Luke Walton said. \"That's what we ask from these guys. We just came up a little short.\"\n\nThe Pistons led early, but the Lakers rallied behind Kuzma, a Flint native who was supported by a large contingent from his hometown about an hour north of Detroit.\n\n\"That was fun,\" he said. \"It was great to see my family and friends. It was tough to lose, but that was a plus.\"\n\nRandle and Griffin each picked up three first-half fouls, so they were on the bench when Ish Smith hit a buzzer-beating 3-pointer to pull the Pistons to 55-53 at the break.\n\nGriffin picked up his fourth foul early in the third quarter and headed back to the sideline. But the Lakers weren't able to take advantage of his absence.\n\nTolliver replaced Griffin and scored eight points in the period as Detroit built an 81-76 lead.\n\nTolliver started the fourth with a 3-pointer to put the Pistons up by eight. Griffin was whistled for a fifth foul, but he returned to hit a 3-pointer that made it 102-93 with 3:32 left.\n\nTIP-INS\n\nLakers: Isaiah Thomas (hip) and Brandon Ingram (groin) were sidelined by injuries. The Lakers had G-Leaguers Thomas Bryant and Gary Payton II active for the game.\n\nPistons: The Pistons held a moment of silence before the game for Grand Rapids Drive guard Zeke Upshaw, who died earlier Monday after collapsing late in a game on Saturday. Grand Rapids is Detroit's G-League affiliate.\n\nDRUMMOND'S DEFENSE\n\nVan Gundy wasn't happy with Drummond's first-half defense, but acknowledged he picked it up in the second half, including a spectacular play where he stole the ball from Randle on a lob.\n\n\"In the first half, he made Ivica Zubac look like Usain Bolt, but he picked it up down the stretch,\" Van Gundy said. \"There aren't too many players in this league who can make the play he made against Randle.\"\n\nUP NEXT\n\nLakers: Return home to play the Dallas Mavericks on Wednesday.\n\nPistons: Host the Washington Wizards on Thursday.",
+  "tags_rule": [
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.644287",
+  "pipeline_version": "v1"
+}

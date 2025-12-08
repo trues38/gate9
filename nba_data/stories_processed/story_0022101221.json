@@ -1,0 +1,22 @@
+{
+  "game_id": "0022101221",
+  "espn_id": "401361040",
+  "date": "Apr 10, 2022",
+  "matchup": "ATL @ HOU",
+  "headline": "Hawks beat Rockets 130-114 but stay in 9th spot for play-in",
+  "cleaned_body": "HOUSTON -- — Atlanta coach Nate McMillan is certainly glad his team's season didn't end Sunday with the regular-season finale.\n\nBut next year he hopes the Hawks aren't clawing for a spot in the play-in tournament during the last few days of the season.\n\nTrae Young had 28 points and 11 assists as the Hawks beat the Houston Rockets 130-114 — a victory that didn't improve their postseason position.\n\nThe Hawks finished ninth in the Eastern Conference and will host the 10-seeded Charlotte Hornets on Wednesday night in the play-in tournament.\n\n“This feeling of what we are going through right now is not the feeling I expect next season. ... Next year we don’t want to experience this,\" McMillan said. “Next year the mindset — I want it to be different.\"\n\nAtlanta entered the day in ninth place and had already clinched a spot in the play-in tournament but played its starters against the lowly Rockets with a chance to improve its spot in the standings with a win and a loss by Cleveland. But the Cavaliers handily beat a Milwaukee team resting its starters to secure the eighth seed and leave the Hawks at No. 9.\n\nJalen Green, the second overall pick in the draft, had a season-high 41 points for the Rockets, who lost their seventh straight game to finish 20-62, giving them the NBA’s worst record for a second straight season.\n\nGreen was happy to finish with a big game after managing just eight points on 3-of-10 shooting in Houston's last game.\n\n“It meant a lot just to end the year strong,\" he said.\n\nHouston cut the lead to seven on two free throws by Green with about nine minutes to go. But Atlanta scored the next 16 points, fueled by four 3-pointers, to make it 120-97 midway through the fourth quarter.\n\nBogdan Bogdanovic had two 3s in that stretch and Danilo Gallinari and De’Andre Hunter had one each to help the Hawks pull away.\n\nMcMillan was proud of the way his team responded when Houston made it close in the fourth quarter.\n\n“We just have to finish games,\" he said. “It wasn’t so much what I needed to say, it had already been said and we needed to close that quarter and close that game.\"\n\nGallinari added 26 points with six 3-pointers and Hunter had 22 points for the Hawks, who finished the regular season 43-39.\n\nYoung made four 3s to give him 233 this season, passing Mookie Blaylock (231 in 1995-96) for most in franchise history.\n\nThe Hawks were up by 14 after a 3-pointer by Young with about seven minutes left in the third quarter. Houston then used a 12-4 run to cut the lead to 88-82 with four minutes left in the third. Green had four points in that span and Garrison Mathews capped the run with a 3-pointer.\n\nClint Capela got Atlanta going after that, scoring the first four points of a 7-0 spurt that extended the lead to 95-82.\n\nHouston got within eight on a basket by Kenyon Martin Jr. late in the third, but Gallinari hit a 3-pointer for the Hawks to leave them up 102-91 entering the fourth.\n\nTHEY SAID IT\n\nMcMillan on his team's chances entering the play-in game: “We get a home game. It doesn’t guarantee anything, but we’ve been pretty good at home.\"\n\nTIP-INS\n\nRockets: Christian Wood sat out for a seventh consecutive game with a hamstring injury. ... Kevin Porter Jr. had 26 points. ... Mathews scored 14.\n\nHawks: Lou Williams missed a third straight game with lower back discomfort. ... Capela had 18 points and 13 rebounds. ... Atlanta shot 21 of 38 from 3-point range.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.890338",
+  "pipeline_version": "v1"
+}

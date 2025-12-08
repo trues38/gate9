@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400455",
+  "espn_id": "400578747",
+  "date": "Dec 28, 2014",
+  "matchup": "OKC @ DAL",
+  "headline": "Mavericks erase late deficit on strength of Dirk Nowitzki's 30 points",
+  "cleaned_body": "DALLAS -- Dirk Nowitzki scrambled to replace Tyson Chandler with the Dallas Mavericks center sidelined by back spasms, then he found himself with five fouls early in the fourth quarter.\nWhen the big German returned to the game, he carried the Mavericks to a come-from-behind win.\nNowitzki matched his season high with 30 points, including 10 in the final five minutes, Chandler Parsons added 26 and the Mavericks beat the Oklahoma City Thunder 112-107 Sunday night.\n\n\"We had to adjust a little bit, I'd say, without Tyson, our warrior, our paint protector,\" said Nowitzki, who put Dallas ahead for good with two free throws with 3:25 to play and made all 12 of his shots from the line. \"Not really used to playing in foul trouble because I never really foul. So I tried to move my feet and be long out there.\"\nThe Thunder played their sixth straight game without Kevin Durant because of a sprained right ankle. They fell short in their third chance to reach .500 for the first time after Durant and Russell Westbrook were sidelined by injuries for 14 of the first 16 games.\nSerge Ibaka led Oklahoma City with a season-high 26 points but was limited to just one shot and two points in the fourth quarter. Westbrook scored 18 but was 6-of-23 from the field. He missed a triple-double with nine rebounds and nine assists. He also had five steals.\n\"He didn't shoot the ball well,\" coach Scott Brooks said. \"But he competed. He put us in position to have a chance to win this game. He gave everything he had.\"\nNowitzki made his first start at center in almost five years, according to STATS, and the resulting matchup issues made the 1,000th career game on the bench for Dallas coach Rick Carlisle a challenging one.\nThe Mavericks often had the small-ball look that was a staple earlier in the 36-year-old Nowitzki's career, when he started at center a little more often. It looked good early, with Parsons scoring 15 in the first quarter as the Mavericks led by as many as 11.\n\"It was the most unathletic front line we've ever had in the history of the NBA with him at 5 and me at 4,\" said Parsons, who was 10-of-16 from the floor, including 5-of-9 from 3-point range. \"The biggest concern was who was going to do the jump ball.\"\nFacing their biggest deficit at seven to start the fourth quarter, the Mavericks opened with an 11-2 run capped by consecutive baskets from Charlie Villanueva, the latter a 3-pointer from the left corner after Rajon Rondo found him with a cross-court bounce pass that traveled about 40 feet.\nCarlisle brought Nowitzki back with 5:44 left, and he scored eight of the next 12 points for a 106-102 lead.\nTIP-INS\nThunder: Brooks said Durant had another good day at shootaround Sunday but was \"not ready for the next step.\" The Thunder have two days off before their next game. ... Reggie Jackson scored 21, including a 3-pointer that got Oklahoma City within a point before Dallas pulled away in the final three minutes. ... Thunder players other than Westbrook made 39 of 67 shots (58 percent).\nMavericks: Carlisle, whose career record is 591-409 in 13 seasons, had 188 career games as a player with Boston and New Jersey. He's also coached at Indiana and Detroit. ... PG Raymond Felton, the other major piece in the New York trade, made his Dallas debut in a brief appearance on the same night Chandler missed his first game.\nFRONTCOURT CHALLENGE\nAs expected, the Mavericks were outrebounded 53-37 without Chandler, who's third in the league in that category. But they held their own on second-chance points at 19-15, part of the reason they rallied.\nBANGED-UP BACKCOURT MATES\nMonta Ellis scored 18 for Dallas before spraining his left ankle late in the game. Rondo, who played the fourth quarter with a small bandage over his right eye after getting cut late in the third, had 15 points, seven assists and six rebounds.\nUP NEXT\nThunder: home against Phoenix on Wednesday.\nMavericks: home against Washington on Tuesday before starting stretch of 14 of 19 on the road.",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.744236",
+  "pipeline_version": "v1"
+}

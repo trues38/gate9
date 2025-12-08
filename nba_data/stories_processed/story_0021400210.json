@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400210",
+  "espn_id": "400578502",
+  "date": "Nov 26, 2014",
+  "matchup": "POR @ CHA",
+  "headline": "Wesley Matthews scores 28 to guide Blazers to 9th straight win",
+  "cleaned_body": "CHARLOTTE, N.C. -- Wesley Matthews said he had a funny feeling on the way to the arena that his shooting slump might be coming to an end.\nCall it a shooter's instinct.\nMatthews scored a season-high 28 points, and the Portland Trail Blazers defeated the Charlotte Hornets 105-97 on Wednesday night for their ninth consecutive victory. The fifth-year NBA veteran was 10-of-15 from the field and 6-of-9 from 3-point range as Portland (12-3) improved to 7-0 against Eastern Conference teams.\n\"I knew it was just a matter of time before that drought ended and I'm back to being myself,\" Matthews said. \"Hopefully tonight was a step in that direction.\"\nOver the previous five games, Matthews was 25-of-57 from the field and just 8-of-25 from 3-point range.\nMatthews said he never put pressure on himself during that stretch.\n\"It helps when you're winning games,\" he said.\nThe Trail Blazers have been getting production from up and down the lineup, and that continued against Charlotte.\nEven with LaMarcus Aldridge struggling through a 3-of-18 shooting night, the Trail Blazers prevailed, getting 22 points from Damian Lillard and 15 points and 10 rebounds from Robin Lopez.\n\"To be able to have a game like this with (Aldridge) struggling, Wes and Damian in particular really stepped up,\" coach Terry Stotts said.\nBrian Roberts had a career-high 24 points for the Hornets, who have lost seven straight and nine of 10. Al Jefferson had 21 points and 14 rebounds for his fifth double-double.\nHornets coach Steve Clifford said he's not worried about his team's attitude amid the losing streak but said \"we have to find a way to win.\"\nThe Hornets led 56-45 at the break behind Roberts, who made his first six shots and had 15 points.\nPortland outscored Charlotte 34-20 in the third quarter and took the lead for good with 4:07 left in the period when Lopez scored on a layup.\nThe Trail Blazers put the game away with 1:10 left when Lopez blocked Kemba Walker's driving layup and Matthews knocked down his sixth 3-pointer to push the lead back to a dozen. The Trail Blazers outscored the Hornets by 21 from beyond the arc.\nFor the second straight game, Charlotte's big free-agent acquisition, Lance Stephenson, sat out the entire fourth quarter.\nHe had eight points.\n\"I didn't plan on not playing him but Brian Roberts was our best player tonight,\" Clifford said. \"To be fair, one of the things that's made it more difficult for him is that he came here and people proclaimed him as this next superstar. ... He's not a star. He's a guy that has talent to become a star. To be a star in this league, you have to do it over years.\"\nTIP-INS\nTrail Blazers: Lillard has converted 445 3-pointers in two-plus seasons, just 101 shy of surpassing Golden State's Klay Thompson for the most 3s in the first three years of a career.\nHornets: Forward Michael Kidd-Gilchrist (stress reaction) and guard Gary Neal (shoulder strain) did not play.\nMORE INJURIES\nInjuries continued to pile up for the Hornets, who had two starters go down during the game. Marvin Williams left in the second quarter with a sprained left shoulder, and Walker took an elbow to the head in the third. Walker returned in the fourth quarter; Williams didn't.\nSITTING COURTSIDE\nCarolina Panthers defensive end Greg Hardy sat courtside. Hardy is awaiting an appeal on domestic violence charges and remains on the exempt-commissioner's permission list. He hasn't played since Week 1. He signed autographs and had his picture taken with fans during the game.\nUP NEXT\nTrail Blazers: Host Memphis on Friday night.\nHornets: Play host to Golden State on Friday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.919899",
+  "pipeline_version": "v1"
+}

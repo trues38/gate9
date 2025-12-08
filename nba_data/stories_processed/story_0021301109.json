@@ -1,0 +1,25 @@
+{
+  "game_id": "0021301109",
+  "espn_id": "400489982",
+  "date": "Mar 31, 2014",
+  "matchup": "MEM @ DEN",
+  "headline": "Grizzlies hold on to beat Nuggets, 94-92",
+  "cleaned_body": "DENVER --  The Memphis Grizzlies had a bumpy ride into Denver early Monday. They had a hard landing Monday night and still managed to keep themselves in the thick of the postseason hunt.\n\nZach Randolph had 20 points and 11 rebounds, Mike Conley added 19 points and the Grizzlies kept pace in the playoff race with a 94-92 win over the Denver Nuggets.\n\nThe Grizzlies moved into a three-way tie with Dallas and Phoenix for seventh in the Western Conference. Memphis plays both teams once more -- at the Suns on April 14 and home against the Mavericks in the regular-season finale two days later.\n\nThe rest of the schedule includes road games at Minnesota and San Antonio, and a home game with Miami, which is battling for the top seed in the Eastern Conference.\n\n\"We've got to keep playing,\" Randolph said. \"Each game is an important game for us, so we've got to come out with a sense of urgency.\"\n\nCourtney Lee scored 19 points for Memphis, which stopped a two-game skid after an adventurous flight from Portland into Denver early Monday morning. The Grizzlies' landing into Denver International Airport was rough thanks to high winds in the area.\n\n\"Oh my gosh,\" Randolph said. \"Oh man.\"\n\nThe Grizzlies also handled the turbulence created by the Nuggets. Randolph said the Grizzlies have to be ready for teams with nothing on the line, especially with every game important in their playoff push.\n\n\"A lot of teams is just free-styling, ain't going postseason so they don't care so they're playing freely,\" he said. \"We're playing for something so we've got to come out from the beginning.\"\n\nThe Nuggets nearly hurt Memphis' playoff chances, coming from seven down in the fourth to make it a last-possession game.\n\nDenver rallied to get within 88-86 on Timofey Mozgov's free throw and the teams traded buckets before Conley banked in a 3-pointer to make it 93-88 with 36 seconds left.\n\n\"Mike Conley hit a big shot,\" Memphis coach David Joerger said. \"I thought we did a good job of executing in getting the shots we wanted down the stretch.\"\n\nAfter Randy Foye hit a layup for the Nuggets, Randolph missed a pair of free throws with 8.2 seconds remaining. Denver got the rebound, called a timeout and set up a play for the 7-foot-1 Mozgov at the 3-point line. He missed but then dunked the rebound to get the Nuggets within 93-92.\n\n\"We know that I can make 3s,\" Mozgov said. \"We tried. I just missed it. It wasn't good.\"\n\nThe miss wasn't as costly as Mozgov's decision to dunk his rebound instead of pass it out to a teammate for another attempt to tie the game.\n\n\"What surprised me is he didn't kick it back out when he got the dunk,\" Randolph said.\n\nLee was fouled with 0.7 seconds left, hit the first free throw and deliberately missed the second to end the game. Nuggets coach Brian Shaw didn't think Lee's missed free throw hit the rim and pleaded with the refs to look at the replay. The officials told him it wasn't a reviewable play.\n\n\"In a situation where it's a deadball and there's three referees and there's no live action going on, just looking at the free throw, I don't understand why that can't be seen,\" Shaw said.\n\nMozgov tied a career high with 23 points to go with 10 rebounds and Kenneth Faried had 17 points for the Nuggets, who have dropped four in a row.\n\nThe teams play again Friday in Memphis.\n\nThe Grizzlies jumped out to 16-point lead in the second quarter on Lee's 13 points. But the Nuggets rallied behind Mozgov, who had seven points in the final 3:01 on three dunks and a free throw to cut Memphis' lead to 47-45 at the break.\n\nRandolph took over late in the third quarter to help Memphis build a 75-68 lead heading into the fourth. Randolph scored 11 of his 13 points in the period in the final 4:16 as the Grizzlies expanded a two-point lead to seven.\n\nGame notes Nuggets F Wilson Chandler missed his fifth straight game with a left groin strain. ... The Grizzlies are 27-11 since Marc Gasol returned from a sprained MCL in his left knee on Jan. 14. ... The Nuggets had just 10 players available for the game.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "CoachComment",
+    "EarlyRun",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.858526",
+  "pipeline_version": "v1"
+}

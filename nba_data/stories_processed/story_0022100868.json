@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100868",
+  "espn_id": "401360687",
+  "date": "Feb 15, 2022",
+  "matchup": "MIA vs. DAL",
+  "headline": "Five Mavericks score in double figures, snap Miami's streak",
+  "cleaned_body": "MIAMI -- — Luka Doncic scored 21 points and the Dallas Mavericks beat the Miami Heat 107-99 Tuesday night.\n\nJalen Brunson and Maxi Kleber each finished with 19 points and Dorian Finney Smith had 14 points for the Mavericks, who have won 17 of 23 since Jan. 1 and snapped Miami’s five-game winning streak.\n\nRecently acquired Davis Bertans had 12 points for Dallas in his debut. Bertans and Spencer Dinwiddie were acquired from Washington for Kristaps Porzingis on Feb. 12. Dinwiddie finished with four points.\n\n“The only thing that went through my mind was having fun, enjoying every second on the court,” Bertans said. “I was trying to do my part to help the team win the game, bring energy. We won the game. That’s the best part of it.”\n\nMiami’s Jimmy Butler scored a game-high 29 points and Bam Adebayo finished with 21 for the Heat, which is now tied for the Eastern Conference lead with Chicago.\n\nThe Heat emphasized double-teaming Doncic, limiting him to 5-of-19 shooting and six points under his season average.\n\n“If they’re going to double, somebody is going to be open,” Doncic said. “We struggled in the first half but then picked it up. There was good spacing and that’s why we won the game.”\n\nWhile Doncic struggled with his shot, Brunson, Kleber, Dorian-Smith and Bertans were a combined 20 of 39.\n\n“I thought he did a great job of absorbing the double team and making the right play,” Mavericks coach Jason Kidd said of Doncic. “He was getting the hockey assist tonight. Guys were knocking down shots.”\n\nDoncic’s 11 points in the third period helped the Mavericks erase an eight-point halftime deficit, outscoring Miami 30-19. Dallas took its first lead since early in the second period with about 31 seconds left in the third on Bertans’ 3-point play.\n\n“They stayed at home on our shooters for the most part,” Heat coach Erik Spoelstra said. “We did get some good opportunities in the paint but then they just got some key stops repeatedly there in the fourth quarter.”\n\nKleber’s layup 3:03 into the fourth quarter gave Dallas its first double-digit lead at 91-81.\n\nMiami got to 99-95 on Butler’s jumper with 3:50 before 3 pointers from Brunson and Kleber helped Dallas secure the season-series split.\n\n“I feel that was a tad bit of a playoff-style basketball game atmosphere, it’s fun,” Butler said. “Those are always the games that you want to play in. We know what we’re capable of.”\n\nMiami guard Tyler Herro, who averages the team’s second-best 20 points per game, didn’t play because of a right knee contusion. In the Heat’s win over Brooklyn on Saturday, Herro returned from a two-game absence (right knee soreness) and scored 15 points.\n\nMeanwhile, Heat guard Victor Oladipo, who has missed the entire season as he recovers from offseason knee surgery, will report to the club’s G League affiliate in Sioux Falls, South Dakota, for 5-on-5 practice. The club emphasized Oladipo is not ready yet to participate in games.\n\nTIP-INS\n\nMavericks: F/G Reggie Bullock (left hip contusion), F Marquese Chriss (right knee soreness) and G Trey Burks (right shoulder sprain) sat out. ... Dallas improved to 22-11 since Brunson joined the starting lineup on Dec. 12.\n\nHeat: C Dewayne Dedmon (back spasms) didn’t play. ... F Haywood Highsmith signed his second 10-day contract and scored six points. Highsmith joined the club on Dec. 30, when multiple Heat players went into COVID-19 protocols.\n\nRESTRUCTURED\n\nThe Heat signed Caleb Martin to a standard contract, replacing the two-way deal the forward had played through the first 57 games. An offseason acquisition after being released by Charlotte, the 26-year-old is averaging nine points per game and shooting a career-best 50% from the field. Martin missed his third straight game because of left Achilles soreness.\n\nUP NEXT:\n\nMavericks: Visit New Orleans on Thursday.\n\nHeat: Visit Charlotte on Thursday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.072577",
+  "pipeline_version": "v1"
+}

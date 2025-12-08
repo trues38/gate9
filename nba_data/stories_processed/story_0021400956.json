@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400956",
+  "espn_id": "400579248",
+  "date": "Mar 11, 2015",
+  "matchup": "MIL vs. ORL",
+  "headline": "Middleton scores 30 again, Bucks beat Magic 97-91",
+  "cleaned_body": "MILWAUKEE -- Another game, another 30-point night for Khris Middleton.\nMiddleton matched his career high for the second time in three games to lead the Milwaukee Bucks to a 97-91 victory over the Orlando Magic on Wednesday.\n\"It's playing with confidence,\" Middleton said. \"I'm not going to force it, but if the shot's there, I'm going to shoot it and just be aggressive.\"\nMiddleton, who also finished with 30 points Saturday against Washington, was 12 of 17 from the floor. Ersan Ilyasova added 12 points for the Bucks, who have won 10 of their last 12 home games.\n\"Khris is playing at a very high level for us on both ends,\" Milwaukee coach Jason Kidd said. \"We can go to him in the post or on the perimeter. He's knocking down shots.\"\nOrlando lost its season-high ninth straight road game despite 19 points and 14 rebounds from Nikola Vucevic.\nTobias Harris added 17 points for the Magic, who have not won an away game since Jan. 12 at Chicago.\n\"It's tough,\" Orlando coach James Borrego said. \"We put ourselves in a good position. . But we didn't come out with the stop that we needed.\"\nAfter two free throws by Michael Carter-Williams gave Milwaukee a 93-91 lead, Harris missed a layup.\nMiddleton missed a shot but got the ball back and passed to Zaza Pachulia, who dished it to Giannis Antetokounmpo for a dunk as the shot clock expired, giving the Bucks a 95-91 lead with 19 seconds remaining.\n\"I knew Giannis had a good chance,\" Middleton said. \"He's long, so he could quickly dunk it.\"\nMiddleton added two free throws with 16 seconds to go for the final six-point margin, Milwaukee's biggest lead of the game.\nThe Bucks held a 91-89 lead after Middleton drilled a 3-pointer from the left corner with 3:10 remaining. Harris' layup tied it at 91 with 2:18 to play, but Orlando missed its final four shots.\nMidway through the third quarter, Vucevic scored three baskets in a row to give Orlando a 70-60 lead, its biggest of the night.\nMilwaukee responded with a 12-2 run, including the final eight points of the quarter, to forge a 72-all tie.\n\"I think we have to understand how we got that 10-point lead,\" Orlando's Channing Frye said. \"We had a nice flow to our offense. Of course teams will make adjustments. We have to be able to impose our will on teams during that adjustment time and go from there.\"\n---\nTIP-INS\nMagic: Harris made his first five shots of the game and then missed his next seven. . Vucevic was the only starter who did not play the entire first quarter.\nBucks: O.J. Mayo returned from a four-game absence due to right hamstring injury and totaled four points in 10 minutes, but Jerryd Bayless sat out with a sore right ankle. . Milwaukee has won the last five home games against Orlando. ... After Ilyasova blocked a dunk by Ben Gordon, he shot an airball on a 3-point attempt.\nMUCH BETTER\nOne night after allowing Indiana to tie a franchise record by sinking 17 3-pointers in a 118-86 loss, Orlando gave up eight of them to Milwaukee.\nUP AND DOWN\nAntetokounmpo scored five points Saturday against Washington and responded with a career-high 29 Monday against New Orleans. He had 11 against the Magic.\nLIKES WHAT HE SEES\nBorrego was asked before the game about the growth of Harris, who was traded from Milwaukee to the Magic on Feb. 21, 2013. \"I've seen him grow on both ends,\" the coach said. \"He's grown offensively by just getting to the rim and improving as a 3-point shooter. Defensively, he is really trying and competing. I know people knock him for his defense, but the kid is really competing defensively.\"\nUP NEXT\nMagic: Visit Boston on Friday.\nBucks: Visit Indiana on Thursday.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.131704",
+  "pipeline_version": "v1"
+}

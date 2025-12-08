@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400411",
+  "espn_id": "400578703",
+  "date": "Dec 22, 2014",
+  "matchup": "POR @ HOU",
+  "headline": "James Harden goes for 44 as Rockets run past Trail Blazers",
+  "cleaned_body": "HOUSTON -- James Harden wouldn't admit he was thinking about last season in Houston's first game against Portland since the Trail Blazers eliminated the Rockets from the playoffs in the first round.\nDwight Howard was certain he was.\n\"I know it's kind of like a weight off his back because of what happened in the playoffs against Portland,\" Howard said. \"And (Monday) he just destroyed them.\"\nHarden scored a season-high 44 points to help the Rockets cruise to a 110-95 victory and snap a two-game skid.\n\"Last year, nah. What happened the last two games,\" Harden said when asked if he had a chip on his shoulder from the early playoff exit. \"Two losses at home is unacceptable, so we wanted to come out here and not make it a third.\"\n\nThe Trail Blazers were without leading scorer and rebounder LaMarcus Aldridge, who missed the game with an upper-respiratory illness, and had their five-game winning streak snapped.\n\"Defensively we didn't give much resistance in the first half and they took advantage of that,\" coach Terry Stotts said. \"Offensively we turned the ball over too much and really weren't able to mount any kind of legitimate comeback.\"\nHarden had 31 in the first half to help the Rockets erase an early eight-point deficit and take a 20-point halftime lead. The Blazers didn't threaten after that and Harden went to the bench for good with about 4 minutes left and Houston up 107-86.\nIt was Harden's NBA-leading third 40-point game this season, with all of them coming this month. Harden, who leads the NBA in scoring, has had 11 games with at least 30 points this season, which also leads the league.\n\"He played really well,\" coach Kevin McHale said. \"That was about as much juice and energy that we've played with in a long time.\"\nDamian Lillard led Portland with 18 points and C.J. McCollum added 17.\nHarden came just two points shy of his career high, set against Oklahoma City last season. He also had seven assists and five steals, while Howard added 16 points and 13 rebounds.\nThe Trail Blazers scored eight straight points, with five coming from Lillard, to cut the lead to 84-70 midway through the third quarter. But Houston used a 9-2 run to push it to 93-72 with 2 minutes left in the period.\nJason Terry hit a 3-pointer to become the third player in NBA history to make 2,000 3-pointers and push Houston's lead to 96-76 entering the fourth quarter. Ray Allen and Reggie Miller are the other players to reach the plateau.\nThe Rockets, who lead the league in 3-pointers, made 13 on Monday night.\nWesley Matthews received a flagrant foul when he knocked Donatas Motiejunas to the ground when the two were fighting for a loose ball early in the third quarter.\nA highlight for Harden came in the second quarter, when he drove into the lane and threw up an off-balance shot that swished through the net as he was fouled by Matthews. Harden high-fived several fans in courtside seats as Matthews jawed with officials to draw a technical foul.\nHarden made both free throws to leave Houston up 57-45. He had eight points in the quarter after that, including a layup at the buzzer with two defenders on him to make it 73-53 at halftime.\nTIP-INS:\nTrail Blazers: Aldridge didn't come to the arena, instead staying at the team hotel to rest. Stotts said before the game that he wasn't sure if Aldridge would be able to play on Tuesday night. ... Monday was the first time this season that Portland has allowed 10 or more 3-pointers in a game.\nRockets: Terrence Jones (left leg nerve inflammation) remains out for Houston. ... Houston's 73 points were a season high a first half.\nNEW FACES\nCorey Brewer and Alexey Shved made their debuts for the Rockets after being acquired in a three-team trade on Friday. Brewer came to Houston from the Timberwolves and Shved was playing for the 76ers. Brewer had 12 points, five steals and four assists, and Shved had three points and a rebound.\nUP NEXT\nTrail Blazers: Visit Oklahoma City on Tuesday.\nRockets: Visit Memphis on Friday.",
+  "tags_rule": [
+    "MomentumShift",
+    "PlayoffContext",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.010467",
+  "pipeline_version": "v1"
+}

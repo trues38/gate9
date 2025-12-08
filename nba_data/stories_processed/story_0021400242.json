@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400242",
+  "espn_id": "400578534",
+  "date": "Nov 30, 2014",
+  "matchup": "CHI @ BKN",
+  "headline": "Butler, Bulls top Nets 102-84",
+  "cleaned_body": "NEW YORK -- Jimmy Butler is proving that he is indispensable to the Chicago Bulls.\nButler had 26 points and Pau Gasol added 25 points and 13 rebounds to lead the Bulls to a 102-84 win over the Brooklyn Nets on Sunday.\nEntering his fourth season in the NBA after the Bulls made him the last -- and 30th -- player chosen in the first round of the 2011 draft, Butler had previously totaled 20 or more points only nine times in 191 games. The 25-year-old has already eclipsed that mark this year, notching his 11th 20-plus point game.\nWearing his favorite football jersey on a Sunday -- an orange Denver Broncos Demaryius Thomas jersey -- Butler downplayed his success after averaging 13.1 points last season.\n\"I think my teammates just find me in great positions to score the ball,\" Butler said. \"I think I strive at just doing whatever it takes to help my team win. Scoring, guarding, facilitating, whatever it might be. I'm just a winner. I don't care about stats.\"\nRookie Bojan Bogdanovic led the Nets with 13 points and Jarrett Jack added 12.\nDerrick Rose had 14 points and reserve Nikola Mirotic chipped in 12 points and 12 rebounds for the Bulls, who capped a seven-game, 14-day road trip with their second straight win and finished 4-3 overall. Chicago's United Center had been reserved for the annual circus show, forcing the Bulls on the road.\n\"We ended on a good note. I think that was our best game throughout the entire trip,\" Rose said. \"Coming here and ending like this, we have nothing but great vibes from it. We did a lot of positive things out there. We came together as a team defensively.\"\nThe Bulls, who improved to 9-3 on the road this season, led 47-42 at beginning of the third quarter. After Brooklyn's Kevin Garnett hit a five-foot bank jumper that made it 48-46, Gasol ignited a 17-4 run by scoring six of his eight points during the spurt to make it 56-46 with 8:13 left in the quarter.\nA turnover by Deron Williams led to Rose connecting with Butler for an alley-oop that made it 58-48. After Williams' basket, Butler hit a turnaround jumper that extended the lead. Rose followed that with a 3-pointer and Gasol capped the run by beating the Nets players' for a loose ball and making a layup, extending the lead, 65-50 with 5:11 left.\nDuring that run for the Bulls, their defense forced three turnovers and made the Nets miss three shots. Overall, Chicago limited Brooklyn to 9-of-25 shooting from the field, including 0 of 7 beyond the arc.\n\"We were just getting some easy baskets, getting up and down in transition. But more than anything we were just getting stops on the defensive end, creating a few turnovers and rebounding the basketball,\" Butler said.\nThe Nets' latest loss was their seventh in the last nine games. Brooklyn has yet to beat a team with a winning record this season. Three of their next four games are against teams with records above .500.\n\"Consciously, I don't think we're thinking of that,\" Garnett said. \"I think we respect every team. We try to get ready for every team.\"\nTIP-INS\nBulls: Taj Gibson missed his fourth straight game due to a sprained left ankle. The Brooklyn native last played Nov. 21 at Portland. . Chicago outrebounded the Nets 50-34. Mirotic, Gasol and Joakim Noah combined for 36, 30 of them on the defensive side.\nNets: Garnett tied Jason Kidd for sixth place in NBA history with 1,391 games played.\nROSE BLOSSOMS\nBulls coach Tom Thibodeau was pleased with Rose being able to finish out his last two games. He played 27 minutes in the win at Boston on Friday. Against the Nets, the Chicago point guard played 25 minutes and was replaced with team up 22 points with 3:17 left in the game. \"To me it's moving in the right direction,\" Thibodeau said. \"When he strings some games together, he practices well and he practices hard, he's going to play well. It's really that simple and it's time to go.\"\nUP NEXT\nBulls: Return home to face the Dallas Mavericks on Tuesday.\nNets: Will cross over to Manhattan and visit the New York Knicks for the first time this season.",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.927594",
+  "pipeline_version": "v1"
+}

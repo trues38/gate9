@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700372",
+  "espn_id": "400975123",
+  "date": "Dec 08, 2017",
+  "matchup": "MIL vs. DAL",
+  "headline": "Middleton's clutch shooting lifts Bucks over Mavs 109-102",
+  "cleaned_body": "MILWAUKEE --  All Khris Middleton needed to get going on offense was to create a little space.\n\nOnce Middleton's first couple shots started falling, he was tough to stop , especially in front of a friendly crowd in a tight game in the fourth quarter.\n\nMiddleton scored 12 of his 31 points in the final 4:38, Giannis Antetokounmpo had 27 points and 11 rebounds, and the Milwaukee Bucks rallied for a 109-102 win over the last-place Dallas Mavericks on Friday night.\n\n\"Just got into a rhythm really. I was able to create a little space, was able to catch and shoot 3s ... find a rhythm, find an open shot,\" Middleton said.\n\nMiddleton finished 10 of 18 from the field, including 5 of 6 in the fourth. The 6-foot-8 forward is a tough matchup because of his length and shooting ability, especially when paired with the athletic Antetokounmpo in the frontcourt.\n\nEric Bledsoe added 24 points for the Bucks, who erased an 11-point deficit late in the third quarter to pick up their fifth win in six games.\n\nThe Bucks then turned up the defensive pressure during a chippy final few minutes, highlighted by Middleton's four-point play sandwiched between two Dallas turnovers.\n\n\"A lot of his points down the stretch came off situations where we weren't executing well offensively and gave them some downhill momentum,\" Mavs coach Rick Carlisle said.\n\nBut the worst team in the Western Conference didn't wither on the road against an East contender. The Mavericks played the Bucks tough until the end, as they did in a loss to the Boston Celtics on Wednesday.\n\nWesley Matthews had a season-high 29 points to lead Dallas. He scored 15 in the first half on 6 of 7 shooting, including 3 of 4 from 3-point range, to give the Mavericks a 54-49 lead going into the locker room.\n\nShooting 6 of 13 (46 percent) from beyond the arc in the half, the Mavs tried to follow a formula similar to their 32-point win over Milwaukee on Nov. 18, when they shot 19 of 38 (50 percent) from 3-point range.\n\nThis time, the Bucks answered with clutch jumpers and improved defense.\n\nThey used a 12-0 late in the third quarter sparked by two 3s from Middleton and the playmaking ability of Malcolm Brogdon to take a 77-76 lead after looking lethargic for much of the game.\n\n\"In that first half we kind of fell into the trap of them walking the ball up and kind of were just going through the motions,\" coach Jason Kidd said.\n\nBACK IN TOWN\n\nMatthews returned to the Bradley Center, which is also the home court of his alma mater, Marquette. He finished 11 of 15 from the field. It wasn't a happy homecoming after the Bucks pulled away in the fourth quarter.\n\nSTAT LINES\n\nThe teams combined for 60 foul shots, with the Bucks going 29 of 34 at the line, while the Mavericks were 22 of 26. ... Harrison Barnes added 18 points and eight rebounds for Dallas.\n\nOFF THE BENCH\n\nThon Maker (eight rebounds, two blocks) and DeAndre Liggins (five rebounds, two steals) provided valuable minutes off the bench, combining with sixth man Brogdon to give the Bucks a lift during the third-quarter push.\n\nTIP-INS\n\nMavericks: Rookie G Dennis Smith Jr. missed the game with a strained left hip after getting hurt during Wednesday's loss to the Celtics. Dallas' first-round draft pick is also expected to miss Sunday's game at Minnesota. \"We're just unlucky. He came in, slid in, landed into a cameraman and kind of took his leg out,\" Carlisle said. \"We're hoping it's not serious.\"\n\nBucks: G Tony Snell missed the game with left knee tendinitis. G Matthew Dellavedova (left knee) appears to be getting closer to returning. He was questionable coming into Friday but was scratched before the game. The team said Snell and Dellavedova would be questionable for Saturday's game against Utah. ... G Gary Payton II replaced Snell in the starting lineup but played just 5 minutes, with Brogdon (14 points) starting the second half and playing 40 minutes overall.\n\nUP NEXT\n\nMavericks: Travel to Minnesota on Sunday to wrap up a three-game trip.\n\nBucks: Try to split the season series with Utah when they host the Jazz on Saturday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.754540",
+  "pipeline_version": "v1"
+}

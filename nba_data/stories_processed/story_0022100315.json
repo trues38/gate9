@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100315",
+  "espn_id": "401360139",
+  "date": "Nov 30, 2021",
+  "matchup": "TOR vs. MEM",
+  "headline": "Grizzlies win 2nd straight without Morant, top Raptors 98-91",
+  "cleaned_body": "TORONTO -- — Jaren Jackson Jr. scored 25 points, Desmond Bane had 23 and Dillon Brooks 17 as the Memphis Grizzlies won back-to-back games, beating the struggling Toronto Raptors 98-91 Tuesday night.\n\nAfter beating Sacramento Sunday, Memphis won again without leading scorer Ja Morant, who sat for the second game because of a sprained left knee. Morant is expected to miss at least two weeks.\n\n“It’s not about doing more, it’s about playing better, even with Ja out of the lineup,” Grizzlies coach Taylor Jenkins said.\n\nJackson, who shot 8 for 14, said the Grizzlies aren’t trying to do too much without the influential Morant.\n\n“You can’t force it,” Jackson said. “You’ve just got to be able to go out there and fill those gaps where he might have done something else.”\n\nBane made five 3-pointers and Jackson had four for the Grizzlies, who never trailed and led by as many as 17 points.\n\n“He really can do it all out there,” Jackson said of Bane. “There’s really no limit to what he can do.”\n\nBrooks, who is from suburban Toronto, played in Canada for the first time since Feb. 2018.\n\n“This game was circled, for sure,” Brooks said. “I love playing here. It’s been a dream. It’s been circled for a while.”\n\nBrooks said he heard some trash talk from Toronto staffer and fellow Canadian Jamaal Magloire on the Raptors' bench. Brooks responded by facing the crowd and yelling “This is my house,” after hitting a pull-up 3-pointer in the fourth quarter.\n\nPascal Siakam scored 20 points, Scottie Barnes had 19 and Fred VanVleet 15 as the Raptors lost their third straight. Toronto has lost five straight home games. The Raptors are 2-8 at home this season.\n\n“We’ve got to fix that,” Siakam said. “It’s not acceptable. We can’t play like that at home. We’ve got to be better, no excuses.”\n\nRaptors forwards OG Anunoby (left hip) and Khem Birch (right knee) each sat for the seventh straight game, while guard Gary Trent Jr. (right calf) missed his second. Guard Goran Dragic remains away from the team because of a personal matter.\n\nThe Raptors had won seven of the past eight meetings, including a Nov. 24 win at Memphis in which the Grizzlies squandered a 12-point halftime lead.\n\nHowever, Toronto also came in having lost four straight at home, its longest losing streak north of the border since November and December 2013.\n\nToronto had twice as many turnovers (eight) as assists (four) in the first half. Memphis led 50-39 at the break.\n\n“There wasn’t a whole lot of space,” Raptors coach Nick Nurse said. “They kind of baited us into some early shots, and we kind of kept taking them one after another, and didn’t make many.”\n\nTrailing 56-45 at 9:23 of the third, the Raptors used a 10-0 run to cut the deficit to one. That was the first of three times before the end of the quarter that Toronto trailed by a single point, but they were never able to tie or take the lead.\n\nMemphis led 70-67 through three quarters, then scored seven of the first nine points in the fourth.\n\nBarnes hit a 3-pointer with 19.5 seconds left to make it 95-91, but Brooks answered with a pair of free throws to halt the comeback effort.\n\n“It was a hard-fought battle and we made the plays in stretch-time to seal it,” Brooks said.\n\nTIP-INS\n\nGrizzlies: G Ziaire Williams (left knee) and G Sam Merrill (left ankle) were out. … Bane has scored 10 or more in the first quarter of five of his past six games. … De’Anthony Melton had nine points and 10 rebounds.\n\nRaptors: Svi Mykhailiuk made his second straight start in place of Trent. … Yuta Watanabe scored 11 points. … VanVleet led the Raptors with nine rebounds. … Toronto scored a season-low 37 points in the first half of an Oct. 20 home loss to Washington.\n\nBLOCK PARTY\n\nJackson made an impressive block on Barnes’s dunk attempt early in the fourth.\n\nDISTANCE DUO\n\nBane and Jackson combined to shoot 9 for 16 from 3-point range. The rest of the Grizzlies shot 1 for 18 from long range, with Brooks (1 for 5) getting the other make.\n\nUP NEXT\n\nGrizzlies: Host Oklahoma City on Thursday night.\n\nRaptors: Host Milwaukee on Thursday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "LateCollapse",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.050234",
+  "pipeline_version": "v1"
+}

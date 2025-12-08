@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100773",
+  "espn_id": "401360592",
+  "date": "Feb 02, 2022",
+  "matchup": "ORL @ IND",
+  "headline": "Harris rallies Magic to 119-118 win over Pacers",
+  "cleaned_body": "INDIANAPOLIS -- — Gary Harris scored 22 points and Wendell Carter Jr. had 19 points and 18 rebounds to rally the Orlando Magic past the Indiana Pacers 119-118 on Wednesday night.\n\nHarris scored 10 points in the fourth quarter, including two key 3-pointers. He finished 6 of 11 from beyond the arc and thought his team played with more energy in the second half.\n\n“We able to lock down on the defensive end, share the ball, make shots and get a win the second half,\" Harris said. “I feel like that’s the team we are. We’re resilient. We always keep fighting. These guys are hungry, they love to play basketball, they compete every day. It's a fun group to play with.\"\n\nHarris said Carter played like a beast.\n\n“When Wendell is being aggressive, there are not many people in the league that can stop him,” Harris said. “We need that from him every night.\"\n\nIndiana led by 17 midway through the third, but the margin had dwindled to two by the end of the quarter. Orlando outscored the Pacers 33-21 in the period.\n\n“The third quarter was the killer,” Indiana coach Rick Carlisle said. “We did a lot of other good things through the course of the game. The third quarter was our undoing.”\n\nCaris LeVert led the Pacers with 26 points, and rookie Terry Taylor posted his first career double-double with 24 points and 16 rebounds. Torrey Craig added 22 points.\n\nHarris hit consecutive 3s to tie it at 108 with 1:50 left. Cole Anthony then stole the ball and made two free throws to give the Magic their first lead.\n\nFranz Wagner’s three-point play put Orlando in front for good at 113-110. Wagner finished with 17 points.\n\nWith the Pacers trailing by four, Justin Holiday hit a 3 at the buzzer.\n\n“They kept getting it to the rim,” Carlisle said. “They were aggressive and got it going downhill.”\n\nIndiana led 81-64 midway through the third before the Magic scored eight straight points to cut it to 86-80. They tied it at 88 early in the fourth.\n\n“I'm so proud of these guys, playing three games in four nights and back-to-back — they show their resilience,\" Orlando coach Jamahl Mosley said. \"Every guy was a part of it. We continued to compete at a high level through the end of the game.”\n\nIndiana sank 10 of 19 3-pointers in the first half to lead 67-53 at halftime. The Pacers shot 54.2% in the first half while the Magic hit 44.9% from the field.\n\nTaylor’s contributions were needed as Pacers rookie forward Isaiah Jackson left the game in the first 30 seconds with a right ankle sprain. He went straight to the locker room and wasn’t able to return.\n\nIt was Taylor’s sixth game, as he has played most of the season in the G League. Carlisle said Jackson was limping after the game but didn't need a walking boot.\n\nTIP-INS\n\nMagic: Harris, who is from the Indianapolis suburb of Fishers, cracked 20 points for the first time since scoring 28 on Jan. 8 against Detroit. “It's always good to come home and get a win in front of family and friends,” he said. ... Anthony’s shooting woes continued as he shot just 2 of 15. He is shooting only 35% over the last 10 games.\n\nPacers: Domantas Sabonis missed his second consecutive game because of health and safety protocols. Sabonis is expected to miss Friday’s game against Chicago as well. Oshae Brissett (sore right ankle) and Goga Bitzade (sore right foot) also were sidelined.\n\nUP NEXT\n\nMagic: Host the Memphis Grizzlies on Saturday.\n\nPacers: Host the Chicago Bulls in the finale of a three-game homestand Friday night.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "ThreePointExplosion",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.899123",
+  "pipeline_version": "v1"
+}

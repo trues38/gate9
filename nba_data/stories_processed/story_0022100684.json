@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100684",
+  "espn_id": "401360503",
+  "date": "Jan 21, 2022",
+  "matchup": "CHA vs. OKC",
+  "headline": "Rozier, Bridges lead Hornets past Thunder 121-98",
+  "cleaned_body": "CHARLOTTE, N.C. -- — Terry Rozier scored 24 points, Miles Bridges added 22 points and 14 rebounds, and the Charlotte Hornets defeated the Oklahoma City Thunder 121-98 on Friday night.\n\nP.J. Washington scored 20 and Gordon Hayward 16 for Charlotte, which has won seven of eight. LaMelo Ball finished with 10 points for the Hornets.\n\nShai Gilgeous-Alexander led the Thunder with 29 points, but was held to four in the second half. Josh Giddey added 21 and Jeremiah Robinson-Earl notched a double-double with 12 points and 11 rebounds.\n\n“Shai does a great job,” Bridges said. “He’s one of the best in the league at getting to the rim, so we knew that he was going to get his buckets. We wanted to stop all the other guys from doing what they do.”\n\nAfter Oklahoma City cut Charlotte’s lead to 82-73 on Robinson-Earl’s 3-pointer with 4:06 to play in the third, Charlotte pushed its lead to a game-high 25 on a 3-pointer by Bridges.\n\n“That was what we talked about at halftime was slowing them down in transition,” Giddey said of the Thunder’s performance, in which they kept Charlotte close in the final three quarters after a lopsided first.\n\n“They get out and run, small ball lineups,\" Giddey added. \"And in the first half, they did that.”\n\nCharlotte’s only loss in the past eight games has been to Orlando, last in the Eastern Conference. Facing another team out of playoff contention, the Hornets trailed 2-0 but didn’t relinquish the lead after taking it back early.\n\nCharlotte pushed its lead to 46-27 on Washington’s 3-pointer midway through the second period. The Hornets maintained a lead around 20 points despite Ball picking up his third foul with 5:47 to play in the first half.\n\n“I took my hair out and just started shooting better,” Washington said of his second-half hairstyle change and scoring surge. “It just started falling.”\n\nCharlotte led throughout the first period, with Oklahoma City coming within one at 13-12 on Giddey’s basket. But the Hornets closed the period on a 24-8 run to take a 37-20 lead.\n\nRISING STARS\n\nThunder coach Mark Daigneault sees similarities between young point guards on both sides of Friday’s matchup.\n\nGilgeous-Alexander leads Oklahoma City with 22.5 points per game. Ball, last season's NBA Rookie of the Year, is second in scoring for Charlotte (19.9) and leads in assists (7.7).\n\n“Ball’s got a great pace to him for a young player,” Daigneault said. “He’s got an advanced pass mentality, he’s a good, dynamic, young guard in the NBA. And we’ve got a guy that’s going to move very far in his track.”\n\nHOME ASPIRATIONS\n\nCharlotte is 13-6 at home. Its six losses are tied for second fewest in the Eastern Conference. Bridges wants to see the Hornets turn their home court into a nightmare for opponents.\n\n“We want our home court to be how the Warriors were, how the Thunder were in their prime,” Bridges said. “We want people to be scared when they come in here. In order for us to do that, we've just got to continue to win, continue to dominate teams.”\n\nTIP-INS\n\nThunder: Gilgeous-Alexander entered Friday with 30 points or more in three of his past five games. He missed that mark by one point. ... Oklahoma City has lost 11 of 13, but those wins were against playoff contenders Brooklyn and New York. ... Center Derrick Favors sat out with a back injury.\n\nHornets: Forward Jalen McDaniels left with 6:01 left in the first half with an apparent leg injury. He was helped to the locker room and did not return. ... Ball nearly notched a triple-double, but came up short with nine rebounds and eight assists.\n\nUP NEXT\n\nThunder: at Cavaliers on Saturday.\n\nHornets: host Atlanta on Sunday.\n\n—",
+  "tags_rule": [
+    "DoubleDouble",
+    "TripleDouble",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.186791",
+  "pipeline_version": "v1"
+}

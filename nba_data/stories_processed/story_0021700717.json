@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700717",
+  "espn_id": "400975463",
+  "date": "Jan 26, 2018",
+  "matchup": "LAL @ CHI",
+  "headline": "Lakers blow big lead, rally late for 108-103 win over Bulls",
+  "cleaned_body": "CHICAGO --  Coach Luke Walton is curious to see if the Los Angeles Lakers' recent success at home will travel during a five-game road trip.\n\nThe answer in the opener Friday night was positive -- with a few tense moments along the way.\n\nBrandon Ingram scored 25 points, including eight in the final 3:18, and the Lakers rallied late for a 108-103 victory over the Chicago Bulls after losing a 12-point, fourth-quarter lead.\n\nJordan Clarkson had 19 points and Brook Lopez added 17 for the Lakers, who have won four straight and eight of 10. Six of the eight wins were at home.\n\n\"Coach told us the start of our road trip has to be really good for us to continue the success,\" Ingram said. \"We knew we had to come in here and take care of business and not just think of the games we won at home.\"\n\nLos Angeles trailed 95-92 with less than four minutes to play before Ingram -- who also had nine rebounds and was 10 for 18 from the field -- started the rally with a pair of free throws.\n\n\"Brandon was big down the stretch,\" Walton said. \"He seemed to get a little more aggressive.\"\n\nNikola Mirotic scored 14 of his 18 points in the fourth quarter, and Denzel Valentine and Bobby Portis had 16 apiece for Chicago, which has dropped three straight.\n\n\"We did not get off to a good start tonight,\" coach Fred Hoiberg said. \"Our grit, toughness wasn't there. Give our guys credit for continuing to fight. Our second unit got us back into that game and got us back in it again in the fourth after falling behind double digits.\"\n\nLos Angeles led by as much as 17 in the first half before Chicago rallied to tie the score at 68 early in the third quarter. The Lakers, though, answered with 11 straight points and led 84-72 entering the fourth.\n\nThe Bulls rallied again and took a 92-90 lead with 5 1/2 minutes remaining on Valentine's 3-pointer. It was Chicago's first lead since 3-2. Mirotic hit a 3-pointer to give the Bulls the 95-92 lead before Los Angeles took control.\n\nIngram's free throws started a 13-2 run that sealed the win.\n\n\"We just stayed together,\" Ingram said. \"We all had a good attitude and a winning attitude and we all wanted to win. We just tried to make the right plays down the stretch, we utilized the time down the stretch and we made plays for each other.\"\n\nTIP-INS\n\nLakers: Rookie G Lonzo Ball missed his sixth straight game with a sore left knee. The second overall pick is averaging 10.2 points, 7.1 rebounds and 7.1 assists.\n\nBulls: Zach LaVine, playing in just his seventh game of the season following ACL surgery last February, played a season-high 26 minutes. His minutes restriction was lifted to 26-28 minutes before the game ... Chicago was 17 for 36 on 3-pointers and now has made at least 10 3s in each of its last 11 home games.\n\nDUNN STILL OUT\n\nChicago G Kris Dunn missed his fourth straight game with a concussion, and it's unclear when he might return.\n\n\"The symptoms really haven't changed much,\" Hoiberg said. \"He's feeling a little bit better today, but he's still doing very limited physical activity.\"\n\nDunn, who suffered the concussion following a hard fall in a game on Jan. 17, still is experiencing headaches, fatigue and grogginess.\n\nSIBLING RIVALRY\n\nBrook Lopez got the better of his twin brother, Robin, who finished with eight points and four rebounds in 19 1/2 minutes.\n\n\"It's pretty great,\" Brook said of getting the win. \"I didn't say a word to him. Like any other game.\"\n\nNO CLOSER\n\nWithout Dunn, the Bulls have struggled down the stretch of close games.\n\n\"He really had developed into our closer,\" Hoiberg said. \"We're obviously without him right now and you've seen what happened in the two close games.\"\n\nUP NEXT\n\nLakers: Visit the Toronto Raptors on Sunday.\n\nBulls: Host the Milwaukee Bucks on Sunday.",
+  "tags_rule": [
+    "MomentumShift",
+    "CoachComment",
+    "Rivalry"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.097489",
+  "pipeline_version": "v1"
+}

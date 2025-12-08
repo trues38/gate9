@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100588",
+  "espn_id": "401360407",
+  "date": "Jan 07, 2022",
+  "matchup": "SAC @ DEN",
+  "headline": "Nikola Jokic scores 33 points, Nuggets beat Kings, 121-111",
+  "cleaned_body": "DENVER -- — The Denver Nuggets have struggled to hold leads in the third quarter this season. When another one was slipping away, the reigning MVP carried them.\n\nNikola Jokic had 12 of his high 33 points in the third quarter and grabbed 10 rebounds, and the Nuggets beat the Sacramento Kings 121-111 on Friday night to end a two-game losing streak.\n\n“For some reason we play a little sloppy starting third quarters and I tried to challenge them and (Jokic) led the charge,” acting head coach Popeye Jones said.\n\nJokic reached 20 points for the seventh straight game as Denver got reinforcements back from health and safety protocols.\n\nForwards Jeff Green and Zeke Nnaji were activated off the COVID-19 list while Aaron Gordon and Bones Hyland played after being sent home from Thursday’s film session due to non-COVID-19 illnesses. Green had 18 points, Hyland 13 and Gordon 10.\n\nDenver coach Michael Malone remained in health and safety protocols and has missed four straight games. Jones, in his first season as an assistant with the Nuggets, is 2-2 while serving as the acting head coach.\n\n“We hope to get our lead singer back soon,” Jones said.\n\nDe’Aaron Fox had 30 points for the Kings, his third straight game with 30 or more points. They have lost three straight and four of five.\n\n“We didn’t start the game very good and we were playing uphill from there,” interim head coach Alvin Gentry said. “This is not a good team to play uphill against.”\n\nDenver used a 16-4 run in the first quarter to break open a close game. The Kings cut it to five, but the Nuggets went up by 20 late in the second on a Jokic 3-pointer.\n\n“We tried to give Joker a lot of different looks,” Gentry said. “I thought we did a pretty good job on him. We took the ball out of his hands some but we made it so easy for the other guys.”\n\nSacramento closed to 66-54 at halftime and opened the third on a 12-4 run to make it 70-66. Jokic started to take over, scoring nine points in a 1:28 to push the lead to 87-72.\n\n“He’s a tough guard. He can do a little bit of everything and today he was making shots, too, so it made it extra difficult,” Alex Len said.\n\nThe King cut the deficit to eight, but the Nuggets went on a 17-5 run into the fourth quarter to pull away.\n\nTIP-INS\n\nKings: F Richaun Holmes and C Chimezie Metu are still in health and safety protocols. Sacramento made Neemias Queta, Jahmi’us Ramsey and Robert Woodard II available Friday night. ... Terence Davis (ankle) was available after being sidelined for five games.\n\nNuggets: F Petr Cornelie entered health and safety protocols on Friday morning. ... F Vlatko Cancar had surgery on Friday morning to repair a fracture of his fifth metatarsal. He suffered the injury Monday at Dallas. ... Assistant coach Jordi Fernandez returned from COVID-19 health and safety protocols.\n\nPAINTING PARTY\n\nThe Nuggets took advantage of open lanes to put up a season high 70 points in the paint. Denver had 11 dunks, two by Green in the final minute of the third quarter, both off of passes from Facu Campazzo.\n\n“I’m just playing off him. Facu magic,” Green said. “He’s making it work with his pace, his ability to pass, the only thing I have to do is set the screen and roll. He does all the hard work.”\n\nDenver finished with 32 assists, with seven each by Jokic and Campazzo.\n\n“We made some great passes, we got everyone involved, and that’s how we’ve got to play,” JaMychal Green said. “We did a great job of playing off of Joker.”\n\nUP NEXT\n\nKings: At Portland on Sunday night.\n\nNuggets: At Oklahoma City on Sunday night.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.533942",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100143",
+  "espn_id": "401359967",
+  "date": "Nov 07, 2021",
+  "matchup": "IND @ SAC",
+  "headline": "Pacers hold off Kings for first win in Sacramento since 2018",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Caris LeVert scored 22 points and the Indiana Pacers held on after blowing a 15-point lead, beating the Sacramento Kings 94-91 on Sunday night.\n\nDomontas Sabonis had 17 points and 10 rebounds to help Indiana to its first win in Sacramento since 2018. T.J. McConnell added 17 points and Chris Duarte scored 15 in the Pacers’ first road win of the season.\n\n“All together, not just down the stretch, we really followed the game plan,” LeVert said. “We kind of slowed the game down a little bit and anchored to our defense. It paid dividends for us.”\n\nIndiana shot well most of the game and led 69-54 midway through the third quarter, but got only one bucket the rest of the period, allowing the Kings to creep back in.\n\nSacramento trailed most of the game before opening the fourth quarter with an 11-1 run and taking a three-point lead. Indiana responded with 10 straight points.\n\nMcConnell’s bucket down low put the Pacers up 93-88 before Tyrese Haliburton’s 3-pointer cut the gap to two points with 1:28 remaining.\n\nThe teams exchanged multiple misses, and Haliburton missed the rim on a deep 3-point attempt late before McConnell made one of two free throws with 2.5 seconds left.\n\nThe Pacers then intercepted the ensuing inbounds pass attempt.\n\n“A very determined group of guys that were in a bend-but-don’t-break mode,” Pacers coach Rick Carlisle said. “The last two or three stops were really symbolic of who we need to be as a team defensively. Grit, physical, smart, not fouling and then being able to come up with rebounds.”\n\nHarrison Barnes scored 22 points for the Kings. Haliburton, De’Aaron Fox and Buddy Hield scored 17 apiece.\n\n“Tyese with an open 3 for game at the end, I’ll take that in any close game,” Kings coach Luke Walton said. “We know we have a long way to go still. This one hurts.”\n\nTwo nights after setting a franchise record with 22 3-pointers, the Kings shot 10 of 34 beyond the arc.\n\nHield ended the first quarter with a buzzer-beating 3-pointer from just inside the midcourt line. Hield stole the ball as Indiana was setting up for a final shot, then spun around a defender before launching his shot.\n\nThe Kings made another late shot before halftime, when Haliburton’s layup with six-tenths of a second remaining cut the Pacers’ lead to 48-43.\n\nMCCONNELL’S IMPACT\n\nWith Malcolm Brogdon missing a second consecutive game, McConnell made his fifth start and came up big down the stretch with five points in the final four minutes. “He played fearless and that’s one of the characteristics that we’re going to have to have as a team,” Carlisle said.\n\nTIP-INS\n\nPacers: LeVert scored 11 points in the third quarter. … Sabonis got hit in the face by an elbow from teammate Goga Bitadze when both were attempting to block a layup attempt. Sabonis was shaken up, but remained in the game. … Brogdon missed his second straight game due to non-COVID illness.\n\nKings: Sacramento scored 43 points in the first half, 31 fewer than it put up before halftime two nights earlier against Charlotte. … Marvin Bagley III, the second overall pick in 2018, did not play because of coach’s decision for the ninth time this season. … Before the game, the Kings recalled guard Jahmi’us Ramsey from their G League affiliate in nearby Stockton.\n\nUP NEXT\n\nPacers: Play the Nuggets on Wednesday. Denver has beaten Indianapolis twice this season and is going for its first season sweep of the Pacers since 2016-17.\n\nKings: Play the Suns on Monday at Golden 1 Center. Sacramento won the first game between the teams earlier this season in Phoenix.\n\n------",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.518680",
+  "pipeline_version": "v1"
+}

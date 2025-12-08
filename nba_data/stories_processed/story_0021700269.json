@@ -1,0 +1,27 @@
+{
+  "game_id": "0021700269",
+  "espn_id": "400975020",
+  "date": "Nov 24, 2017",
+  "matchup": "ORL @ BOS",
+  "headline": "Celtics cruise to 118-103 victory over Magic",
+  "cleaned_body": "BOSTON --  Even as they won 16 games in a row, the Boston Celtics didn't make it easy on themselves.\n\nA 16-point deficit against Atlanta. Down 13 in the fourth to Dallas. Double-digit deficits in three straight games, in fact, that Boston erased en route to the fourth-longest winning streak in franchise history.\n\nThe Celtics knew they couldn't continue to count on comebacks, and Friday night they didn't need one after opening with a blistering first quarter and coasting to a 118-103 victory over the Orlando Magic.\n\n\"Our guys came out focused, ready to play,\" said Al Horford, who had seven of his career high-tying 10 assists in the first quarter. \"We finally got a (first) half going. That first half was the key for us winning that game.\"\n\nOne game after their 16-game winning streak ended, the Celtics sent the Magic to their seventh straight loss. Kyrie Irving had 17 of his 30 points before halftime as Boston scored 40 points in the first quarter and 73 by the half to rebound from its first loss in more than a month.\n\nStill wearing a mask after breaking a bone in his face on Nov. 10, Irving was 9 for 15 from the floor and sank all 10 of his free throw attempts, many with the sold-out crowd chanting \"M-V-P!\"\n\nJalen Brown scored 10 points in the first quarter, when Boston opened a 14-point lead. Aron Baynes finished with 13 points and 11 rebounds -- his first double-double with the Celtics -- and Terry Rozier had a career-high 23 points.\n\nJonathon Simmons scored 14 points and Nikola Vucevic had 12 points and 11 rebounds for Orlando. Aaron Gordon, who was 2 for 10 from the field, said the Magic didn't play like they were eager to end their slide.\n\n\"We played like it was just another game,\" he said. \"We didn't play like they were the first in the East and we are on a losing streak.\"\n\nOrlando scored the first four points of the game and trailed by just four with less than four minutes left in the first before Boston scored 16 of the next 20 points to take a 40-24 lead. Leading 42-30 early in the second, the Celtics went on an 11-2 run and later got back-to-back 3-pointers from Rozier to open a 28-point lead.\n\n\"We're not good enough defensively right now,\" Magic coach Frank Vogel said. \"And Boston was clicking on all cylinders.\"\n\nROSIE OUTLOOK\n\nRozier said he wasn't keeping track of his career high, and he certainly didn't seem on the verge of a breakout after scoring 22 points in his previous five games combined.\n\n\"I'm not perfect,\" he said. \"I'm going to have tough games. (But) I'll have games like this.\"\n\nTHE FOURTH\n\nTrailing 99-69 after three, the Magic outscored Boston 34-19 in the fourth quarter, when four of the five Celtics starters remained on the bench.\n\nVogel was unimpressed.\n\n\"You're talking about garbage time,\" he said.\n\nTIP-INS\n\nMagic: Guard Shelvin Mack played for Celtics coach Brad Stevens at Butler. ... The Magic have lost 14 in a row in Boston.\n\nCeltics: The Celtics wore their black jerseys for the first time this season. Marcus Morris got the start, which means he is likely to sit out Saturday night's game against the Pacers. He did not play in the Celtics' other back-to-back games this season. ... Stevens picked up a technical foul early in the fourth quarter for arguing a foul call; Arron Afflalo missed the shot, bringing a smile from the coach. ... Shane Larkin did not play after falling hard to the floor and sustaining a \"whiplash-like\" injury against Miami.\n\nUP NEXT\n\nMagic: At Philadelphia on Saturday night.\n\nCeltics: At Indiana on Saturday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.565645",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0021701029",
+  "espn_id": "400975775",
+  "date": "Mar 16, 2018",
+  "matchup": "ORL vs. BOS",
+  "headline": "Rozier, Celtics hold off Magic 92-83",
+  "cleaned_body": "ORLANDO, Fla. --  The Boston Celtics relied on their tough defense to get a sorely needed victory on the road.\n\nTerry Rozier and Greg Monroe each scored 17 points, helping the Celtics hold off the Orlando Magic 92-83 on Friday night.\n\nBoston was coming off a pair of close home losses to Indiana and Washington. It shot just 37.8 percent from the field against Orlando and got outscored 31-17 in the fourth quarter, but found a way to close it out down the stretch.\n\n\"It wasn't pretty,\" coach Brad Stevens said. \"We obviously didn't make a ton of shots, but our defense was pretty darn good.\"\n\nAl Horford had 15 points and Abdel Nader scored 11 for Boston, which made just one field goal in the final 7:33 of the game. Horford also had nine rebounds, helping the Celtics to a 55-40 advantage on the glass and 20 second-chance points\n\n\"There were a lot of rebounds to be had so that's probably a good that we got a couple of them,\" Stevens said.\n\nOrlando lost for the sixth time in seven games. Reserve Shelvin Mack scored 13 of his 16 points in the fourth quarter. Jonathon Simmons and D.J. Augustin had 13 apiece.\n\n\"The disappointing thing about this game is that we forced a ton of misses, but we didn't finish possessions,\" Orlando coach Frank Vogel said. \"They shoot a ton of 3s with a lot of long rebounds and we talked about not getting caught under the rim and having the ball bounce over our heads, but that happened a number of times.\"\n\nOrlando had its own shooting problems. The Magic, who made 18 3-pointers in a win over Milwaukee on Wednesday, went 5 for 28 from beyond the arc, compared to 9 for 26 for the Celtics.\n\n\"We just had a poor night shooting inside and out,\" Vogel said. \"Clearly we didn't have the legs to finish shots and that was evident both in our finishing at the rim and with our perimeter shooting.\"\n\nBoston opened a 24-point lead early in the second half. Rozier hit a pair of 3-pointers and Monroe overpowered Nikola Vucevic for another driving layup to make it 62-38 with 5:25 left in the third quarter.\n\nThe Magic cut the deficit to 14 against Celtics reserves early in the fourth quarter and Stevens put his starters back in for the last nine minutes of the game.  They managed just two field goals the rest of the way, but it was still enough to hold off Orlando.\n\nThe closest the Magic could get was 90-83 on a driving layup by Mack with 41 seconds to play.\n\nTIP-INS\n\nCeltics: Boston's starting five was a combined 20 of 62 from the field. ... Marcus Morris had 11 rebounds, but was just 4 of 15 from the field. ... F Jaylen Brown missed his third straight game with a concussion. ... PG Kyrie Erving was sidelined by a sore left knee.\n\nMagic: PF Aaron Gordon could not pass the final stage of the NBA's concussion protocol and missed his fifth straight game. Gordon says he wants to play and the team appealed the decision to the league. ... PG D.J. Augustin was the only Magic player to score more than four points in the first half. ... The Magic started the game 3 for 13 from the field, including 0 for 6 on 3-pointers. ... Rookie Jonathan Isaac had two blocks in the first minute of the game and didn't get another the rest of the game.\n\nUP NEXT\n\nCeltics: At New Orleans on Sunday night.\n\nMagic: Host Toronto on Tuesday night.",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.112539",
+  "pipeline_version": "v1"
+}

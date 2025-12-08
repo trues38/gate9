@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400360",
+  "espn_id": "400578652",
+  "date": "Dec 15, 2014",
+  "matchup": "MIL @ PHX",
+  "headline": "Khris Middleton's 3-pointer at buzzer lifts Bucks, sinks Suns",
+  "cleaned_body": "PHOENIX -- Khris Middleton didn't have a good feeling when the ball left his hand right before the final buzzer sounded. But the craziest shot of his career -- as he called it -- hit the backboard and hung on the rim momentarily before dropping into the net -- a 3-pointer that gave the Milwaukee Bucks a 96-94 win over the Phoenix Suns Monday night.\n\"I didn't feel it at all,\" Middleton said. \"It wasn't the greatest look but it fell for me. My first one in the league. It's a great feeling but you don't want to be in that situation. You want to win games as easy as you can.\"\nThe Bucks trailed 94-93 after Markieff Morris knocked down a 14-foot jumper from inside the free-throw line with 3.9 seconds left. Morris led the Suns with 25 points, including two buckets in the last 24 seconds of a back-and-forth final five minutes.\n\n\"Lucky shot,\" Morris said regarding Middleton's game-winner. \"We've just got to come together. Once we get one we'll be OK. We're just in a matrix. We have to fight our way out of this.\"\nBrandon Knight dropped in a running jump shot with 7.2 seconds left, part of his team-high 20 points for the Bucks (13-12). Middleton added 14.\nSuns guard Isaiah Thomas scored 11 of his 20 points in the fourth quarter. Thomas hit three 3-pointers and a layup between the 9:41 and 8:03 marks of the fourth, and Phoenix went up by 10 points.\nBut the Bucks rallied and the Suns (12-14) dropped their sixth straight game, despite the Bucks losing prized rookie Jabari Parker to injury early in the second half.\nParker's injury was announced as a left knee sprain. Coach Jason Kidd said Parker will be further examined on Tuesday.\nParker was hurt as he took an awkward step before colliding with the Suns' P.J. Tucker. He fell to the court and couldn't get to his feet as he clutched his knee in pain. He was the Bucks' first-round draft pick before this season and second player chosen overall, averaging 12.5 points and 5.6 rebounds per game.\nParker had eight points and three rebounds before his injury at 10:52 of the third quarter.\nThe Bucks took the lead 88-87 on a layup from Zaza Pachulia with 2:42 to go. Pachulia scored eight of his 13 points in the fourth quarter.\nThe Suns led by 12 in the first quarter on their way to a 26-14 lead as the period ended. Morris scored his team's first seven points and finished the quarter with 10 after a 3-pointer from the top of the key at the 2:02 mark.\nMorris finished the first half with 19 points, though the Suns made only 18 of 44 shots -- 21 were 3-point attempts.\nPhoenix led by 14 points in the second quarter, 49-35, after a pair of Morris free throws.\nThe Bucks cut the lead to nine before halftime, 53-44.\nThe Suns played without leading scorer Goran Dragic, who sat out the second straight game with a lower back injury. Phoenix had 23 turnovers and lost at the buzzer for the second time in a week after Blake Griffin got a fortunate bounce in the Suns' 121-120 loss to the Los Angeles Clippers on Dec. 8.\n\"This one hurts. They all hurt,\" Thomas said. \"You felt like you did enough to win a game and at the buzzer they make a crazy shot.\"\nTIP-INS\nBucks: Milwaukee's streak of nine straight games with 100 points came to an end.. The Bucks and Suns entered Monday's game tied for first place in the NBA in points off the bench, 44 per game. The Bucks are now 2-20 against the Suns at the US Airways Center.\nSuns: Second-year center Alex Len started in place of Miles Plumlee on Monday. Len made his first start of the season and scored six points with six rebounds in 19 minutes. . All of the Suns wore T-shirts bearing the words \"I Can't Breathe,\" over their warmups before the game, in reference to recent events involving police shootings and citizens. It was the first time the Suns wore the shirts, with Thomas spurring his teammates to take the action.. Coach Jeff Hornacek took to an in-house microphone and thanked the fans, wishing them happy holidays before tipoff. The Suns will be on the road for seven of their next eight games over the next 17 days.\nUP NEXT\nBucks: At Portland Wednesday night.\nSuns: At Charlotte Wednesday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.564340",
+  "pipeline_version": "v1"
+}

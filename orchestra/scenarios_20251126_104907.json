@@ -1,0 +1,17 @@
+{
+    "positive_case": {
+        "title": "Collaborative Stability and Innovation",
+        "description": "In the near future, the interactions among South Korea, the United States, Japan, and China result in a collaborative atmosphere focused on technology and trade. Amid increased defense collaborations, like Taiwan's defense spending, key players recognize the need for strategic partnerships in the semiconductor industry, ultimately leading to joint ventures and technology sharing agreements. This collaboration drives innovation, stabilizes the regional economy, and enhances global supply chains, with Asian markets responding positively and showing sustained growth.",
+        "probability": "30%"
+    },
+    "neutral_case": {
+        "title": "Status Quo with Persistent Challenges",
+        "description": "The economies of South Korea, the United States, Japan, and China continue to navigate existing tensions without significant changes. Domestic challenges persist, such as South Korea's high exchange rates and Japan's struggle with yen depreciation intervention. Meanwhile, the U.S. focuses on bolstering its defense capabilities in the face of perceived threats from China. Trade dynamics remain stable but relatively stagnant, with minimal advancements in cooperation leading to cautious market activity across Asia, reflecting uncertainty about future growth.",
+        "probability": "50%"
+    },
+    "negative_case": {
+        "title": "Escalating Tensions and Economic Contraction",
+        "description": "In this scenario, rising geopolitical tensions among South Korea, the United States, Japan, and China culminate in significant economic disruptions. The focus on military expenditures, such as Taiwan's increased defense spending, leads to a market environment characterized by fear and unwillingness to invest. As sanctions and trade barriers escalate, key industries like technology and manufacturing experience severe setbacks, resulting in economic contraction throughout the region. Stock markets plummet as consumer confidence wanes, leading to rising unemployment rates and social unrest.",
+        "probability": "20%"
+    }
+}

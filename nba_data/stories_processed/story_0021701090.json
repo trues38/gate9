@@ -1,0 +1,26 @@
+{
+  "game_id": "0021701090",
+  "espn_id": "400975836",
+  "date": "Mar 24, 2018",
+  "matchup": "ORL vs. PHX",
+  "headline": "Gordon helps Magic hold off Suns 105-99",
+  "cleaned_body": "ORLANDO, Fla. --  There hasn't been a lot for the Orlando Magic to cheer about this season, so a victory over the Phoenix Suns and a couple of near triple-doubles by Aaron Gordon and D.J. Augustin were nearly cause for celebration.\n\nGordon had 29 points, 11 rebounds and a career-high eight assists in what could have been the first triple-double of his career in Orlando's 105-99 victory Saturday night. Augustin was even closer, getting 15 points, 10 assists and nine rebounds to help the Magic end a three-game losing streak.\n\nNikola Vucevic had 24 points and 11 rebounds.\n\n\"That was a pretty good all-around game,\" Gordon said. \"If I draw attention from the defense, I pass and once the defensive attention leaves, I can score again so it's a balance that I'm still working on as a young player.\"\n\nAugustin, who has been in the league 10 years, didn't know he needed only one rebound to get the first triple-double of his career.\n\n\"I didn't realize it until I left the game,\" he said. \"But the only thing that matters is to me is just winning.\"\n\nPhoenix has lost 11 straight and 26 of 28. Josh Jackson led the Suns with 18 points, Alex Len had 15, and Tyler Ulis and former Magic guard Elfrid Payton added 14 apiece.\n\nPhoenix led early in the fourth quarter and trailed just 96-92 with 3:30 to go.\n\n\"I liked the way we played the whole game,\" Triano said. \"I liked our energy and our juice. I don't think we played real smart, but I liked our energy and the style with which we played. I thought for the most part, we were pretty good.\"\n\nThe Magic had periods of indifferent play, but were good in the fourth quarter when their ball movement decided the game.\n\nOrlando had 29 assists on 37 field goals in the game and needed all of them. Ten of those came in the fourth quarter when Orlando shot 52.6 percent, including six of nine on 3-pointers. The Magic were five of 21 from behind the line in the first three periods.\n\n\"As a group, we want to play with the pass and everybody is reminded of that multiples times throughout the day,\" Magic coach Frank Vogel said. \"In the stretches where we looked really good, it was mostly done with the pass.\n\nOrlando trailed by eight at halftime, but took advantage of six Phoenix turnovers in the third period to regain control. Gordon's two free throws finished an 11-0 run that helped Orlando to a 71-62 lead with just under three minutes left.\n\nPhoenix scored five points in the final three seconds of the period and four more to start the fourth and the Suns were back in front 78-77 with 11 minutes to play.\n\nRodney Purvis started the Magic fourth quarter rally with a 3-pointer.\n\nTIP INS\n\nSuns: The team's top two scorers, Devin Booker (sprained hand) and T.J. Warren (knee inflammation), missed the game. ... Phoenix was 2 of 15 from 3-point range in the first half.\n\nMagic: SF Jonathon Simmons missed his third straight game with a wrist injury and will be out at least another week. ... Rookie Jonathan Isaac missed another game with a foot injury. Isaac, the team's No. 1 pick last summer, has played in only 25 games. ... The Magic's next six games are against opponents with sub-.500 records.\n\nUP NEXT\n\nSuns: Host Boston on Monday night.\n\nMagic: Host Brooklyn on Wednesday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.639064",
+  "pipeline_version": "v1"
+}

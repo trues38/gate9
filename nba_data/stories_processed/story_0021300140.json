@@ -1,0 +1,24 @@
+{
+  "game_id": "0021300140",
+  "espn_id": "400489013",
+  "date": "Nov 16, 2013",
+  "matchup": "CHI vs. IND",
+  "headline": "Bulls get Derrick Rose back, hand Pacers (9-1) first defeat",
+  "cleaned_body": "CHICAGO -- Derrick Rose came to work unsure if he'd be able to play.\nHe left with his confidence intact and his team's future looking very bright.\n\nLuol Deng scored 23 points, Rose added 20 and the Chicago Bulls knocked off the NBA's last unbeaten team with a 110-94 win over the Indiana Pacers on Saturday night.\nTaj Gibson had 15 points and eight rebounds for Chicago (5-3), which won its fourth straight game behind 11-of-19 shooting from 3-point range.\n\"We got off to a good start,\" Bulls coach Tom Thibodeau said. \"(The Pacers) missed some shots that they usually make. Overall, I thought it was a good win. We played very unselfishly.\"\nIndiana (9-1) was the NBA's first 9-0 team since the 2002-03 Dallas Mavericks, who started 14-0. The nine wins to start a season matched a franchise record.\nNursing a sore right hamstring, Rose was effective in his 30 minutes on the court. He weaved around and penetrated the league's best defense, which hadn't allowed more than 91 points to any opponent this year.\n\nRose was injured Monday against Cleveland, and did not play in Chicago's 96-80 win Friday at Toronto.\n\"I was just being smart about the situation,\" he said about not playing Friday. \"This is my first time having a hamstring injury. I don't know how it would go if I had played last night. I don't think I'd be able to play tonight.\"\nThe 25-year-old former MVP shook off the rust after a pair of early off-balance misses. He sank a floater in the lane 3 minutes in, followed by a 3-pointer 30 seconds later to ignite a 12-2 first-quarter run for Chicago.\n\"They were giving me shots,\" Rose said. \"I've got to take those shots. I saw some go in, so I kept shooting.\"\nRose cozied up at the 3-point arc in the second quarter, knocking down all three attempts as the Bulls took a 25-point advantage into the half. He finished 6 for 11 from beyond the arc.\n\"Most of Rose's 3s were pretty well contested considering his speed,\" Pacers coach Frank Vogel said. \"You can't just jam him. You have to give up something. You have to give them credit.\"\nKirk Hinrich came off the bench to contribute 13 points, eight assists and four rebounds for the Bulls, who avenged a 97-80 loss at Indiana on Nov. 6.\nThe Pacers lost despite having all five starters -- and two reserves -- score in double-digits.\n\nRoy Hibbert led Indiana with 14 points a day after posting season-highs with 24 points and eight blocks.\nChicago held Paul George to 12 points. He entered the game seventh in the NBA with 24.6 points per game. George and Lance Stephenson combined to miss all seven of their 3-point attempts, and the team made just 25 percent.\n\"I understand I'm going to have nights like this when shots aren't falling,\" George said. \"I just don't want to have many.\"\nThe Pacers were coming off their most lopsided win of the season, a 104-77 drubbing of Milwaukee.\nCarlos Boozer and Chris Copeland were ejected with 21 seconds left when a double-technical was called for pushing and shoving.\nGame notes\nChicago reached triple-digits for the second time this season. ... Deng led Chicago in scoring for the fourth time this year. ... Pacers forward Danny Granger (strained left calf) was inactive Saturday. He has yet to play in a game this season.",
+  "tags_rule": [
+    "PhysicalGame",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.336863",
+  "pipeline_version": "v1"
+}

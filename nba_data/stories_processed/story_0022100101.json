@@ -1,0 +1,27 @@
+{
+  "game_id": "0022100101",
+  "espn_id": "401359925",
+  "date": "Nov 01, 2021",
+  "matchup": "ORL @ MIN",
+  "headline": "Anthony's 31 leads Magic to 115-97 win against Timberwolves",
+  "cleaned_body": "MINNEAPOLIS -- — Cole Anthony scored a season-high 31 points and Wendell Carter Jr. chipped in 15 points and 14 rebounds as the Orlando Magic came from behind to beat the Minnesota Timberwolves 115-97 on Monday night.\n\nRookie Franz Wagner had 28 points for Orlando, which snapped a four-game losing streak, while Minnesota native Jalen Suggs scored 15 points. The Magic trailed by 11 late in the third quarter before rallying with a strong night from the 3-point line by Anthony.\n\nAnthony shot 8 of 17 from the field, including 6 of 11 3s. Orlando made 24 of 30 from the free-throw line, compared to 11 of 19 for the Timberwolves.\n\n“The coaches from Day 1, they’ve put a lot of stress on us being a defensive team,” Anthony said. “I think we did a pretty solid job on them tonight. We all kind of bought into that and it showed tonight.”\n\nKarl-Anthony Towns had 23 points and 16 rebounds for Minnesota, which played the second half without starting point guard D’Angelo Russell because of a right ankle sprain. Russell finished with three points and three assists in 17 minutes.\n\nAnthony Edwards added 24 points for the Wolves, who have lost three of four.\n\n“We just got too comfortable,” Towns said. “I think that when we got comfortable, too, is just a perfect storm. … It’s kind of one of those things when we let our offense because of the shots just not falling and how good the looks were kind of beat the confidence out of us defensively and just made some mistakes. Even when they were tough, they made some shots.”\n\nDespite a big disadvantage in size, Minnesota had success going inside against the Magic. The Wolves scored 38 of their points in the paint. Orlando started three players who are 6-foot-10 or taller.\n\nBut the Wolves often settled for outside shots and went 14 of 51 (27.5%) from beyond the arc.\n\n“We’ve been playing really good defense no matter what’s been going on out there on the floor,” Minnesota coach Chris Finch said. “Today we kind of let go of the rope a bit there and then they got to the point where they seemingly made everything that they threw up and we didn’t.”\n\nAnthony sparked the comeback late in the third and fourth as Orlando used an 18-3 run to take an 83-79 lead. Anthony hit three 3s during the run.\n\nAnthony had 14 points in the fourth and Wagner added 10 as the Magic outscored Minnesota 43-19 in the final quarter.\n\n“The guys dug in,” Orlando coach Jamahl Mosley said. “We came out at the half and said, ’You know what? We got to start setting the tone, be more aggressive with the basketball. We did a great job sharing the basketball and guys made big-time plays.\"\n\nSTARTING STRONG\n\nWhile Orlando lost six of its first seven games this season, the starting lineup led by Anthony has a net rating of 21.5, the best in the NBA among lineups that have played at least 50 minutes together this season.\n\nWhere the Magic have struggled is when they’re forced to their bench, particularly while they still wait for Michael Carter-Williams, Markelle Fultz, Jonathan Isaac and E’Twuan Moore to return from their respective surgeries.\n\nMinnesota’s bench outscored Orlando’s 32-18.\n\nTIP-INS\n\nMagic: Gary Harris missed the game with a left ankle sprain. It’s the first game he’s missed with the injury, but was out earlier this season with a right hamstring injury. … Carter had his fourth double-double in eight games this season. … Suggs, the fifth-overall pick in this summer’s draft out of Gonzaga, played his first NBA game in Minnesota. He got a big cheer when announced in the starting lineup from a crowd of friends and family. Suggs was born in St. Paul, Minn., and won three state championships for Minnehaha Academy.\n\nTimberwolves: Patrick Beverly was inactive with left calf soreness, the first game he’s missed with the injury. … Jaden McDaniels, one of Minnesota’s few big men, started and picked up three fouls in the first four minutes of the game. He fouled out in the fourth with five points in 17 minutes. … Backup center Naz Reid scored 10 points off the bench but was limited in the second half with an apparent shoulder injury after taking a forearm from Orlando’s Mo Bamba in the second quarter. … Finch didn’t have an update on Russell after the game.\n\nUP NEXT\n\nMagic: Home against Boston on Wednesday night.\n\nTimberwolves: Start a home back-to-back against the Los Angeles Clippers on Wednesday night.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "ThreePointExplosion",
+    "FoulTrouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.154111",
+  "pipeline_version": "v1"
+}

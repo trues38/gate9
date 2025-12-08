@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400036",
+  "espn_id": "400578328",
+  "date": "Nov 01, 2014",
+  "matchup": "OKC vs. DEN",
+  "headline": "Short-handed Thunder earn first win of season",
+  "cleaned_body": "OKLAHOMA CITY -- Perry Jones isn't Kevin Durant or Russell Westbrook, though he's been close enough lately.\nThe 6-foot-11 forward scored 23 points and hit a clutch 3-pointer to help the short-handed Oklahoma City Thunder beat the Denver Nuggets 102-91 on Saturday night for their first victory of the season.\nThe Thunder, already without Durant for at least a month with a broken right foot, announced that Westbrook, their star point guard, had successful surgery on his broken right hand Saturday morning and also will miss at least a month.\nDurant and the injured players looked like they were healed after Jones hit a contested 3-pointer with 1:46 remaining that put the Thunder up 94-87. The ball was thrown inbounds with 2.2 seconds left on the shot clock, and Jones' shot set off a celebration and ended Denver's furious rally.\n\"It was a good feeling, especially looking at the bench and how wild they were getting,\" Jones said.\nWestbrook was injured early in Thursday's game against the Los Angeles Clippers, and Jones scored a career-high 32 points to keep the Thunder close in a 93-90 loss. On Saturday, he shot 9 of 18, posted the second-highest point total of his career and even helped out some at point guard. Jones said teamwork is allowing him to shine.\n\"We're just sticking together,\" he said. \"Running offense the way you're supposed to run it.\"\nSerge Ibaka scored 23 points, Kendrick Perkins had 17 and Steven Adams added 13 for the Thunder, who won despite having just eight available players. The Thunder injury report included Durant, Westbrook, Reggie Jackson (right ankle sprain), Grant Jerrett (left ankle surgery), Jeremy Lamb (lower back sprain), Mitch McGary (left foot fracture) and Anthony Morrow (left MCL sprain).\nBefore the game, Thunder coach Scott Brooks only mentioned Jackson as being close to coming back.\nTy Lawson scored 20 of his 25 points in the second half for the Nuggets, but he felt they wasted their chance.\n\"A huge opportunity,\" Lawson said. \"I mean, we could have been 2-0 right now going home to play Sacramento, but this is huge in the West. You can't just give away games.\"\nOklahoma City led 29-17 at the end of the first quarter, earning a standing ovation.\n\"We've got great fans, and they're smart fans, and they realize it was a special quarter for us, and they know we're in a tough situation, so it was a lot of fun,\" Thunder forward Nick Collison said.\nOklahoma City led by 24 in the second quarter before taking a 55-33 lead into halftime.\nBack-to-back dunks by Ibaka bumped Oklahoma City's lead to 62-37 early in the third quarter. Denver surged to cut its deficit to 16 late in the period, but Oklahoma City pushed it back out to 76-56 heading to the fourth.\nDenver trimmed Oklahoma City's lead to 88-85 on a layup by Randy Foye, but Ibaka answered with a 3-pointer to give the Thunder some breathing room. Jones drained the tough 3-pointer, then Andre Roberson scored on a putback to push Oklahoma City's lead to 96-87 with 1:27 to play.\nTIP-INS\nThunder: It was Oklahoma City's first home game without both Durant and Westbrook since Westbrook entered the league in 2008. The Thunder played without both at Boston last season. ... Every available Thunder player played at least 20 minutes.\nNuggets: Denver shot 34 percent in the first half and was just 1 of 10 on 3-pointers. ... Lawson took just four shots in the first half. ... Wilson Chandler missed his first eight shots and made just 2 of 12 overall. ... Nate Robinson was issued a technical foul in the fourth quarter.\nSTRETCHING THE FLOOR: Ibaka made a career-high three 3-pointers for the Thunder.\nTWELVE LONG MINUTES: With eight players available, fatigue caught up with the Thunder late. Denver shot 62 percent in the fourth quarter, outscored Oklahoma City 35-26 and nearly overcame a 20-point deficit.\nQUOTE OF THE DAY: \"We were like zombies -- just motionless.\" -- Denver coach Brian Shaw.\nUP NEXT\nThunder: Visit Brooklyn on Monday.\nNuggets: Host Sacramento on Monday.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "PhysicalGame",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.539628",
+  "pipeline_version": "v1"
+}

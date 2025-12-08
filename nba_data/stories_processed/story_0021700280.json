@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700280",
+  "espn_id": "400975031",
+  "date": "Nov 25, 2017",
+  "matchup": "TOR @ ATL",
+  "headline": "Raptors cruise to 112-78 win over Hawks",
+  "cleaned_body": "ATLANTA --  Coach Dwane Casey loves those rare nights when the Toronto Raptors have such a big lead that the second team gets as many minutes as the starters.\n\n\"They're going to have nights when they don't look good, but the young guys came tonight and they were clicking,\" Casey said. \"They were playing together, screening for each other. The spacing was good. The passing was good.\"\n\nNorman Powell scored 17 points, Jonas Valanciunas added 16 and the Raptors blew out the Atlanta Hawks 112-78 on Saturday night.\n\nToronto dominated the game so completely that it needed just 28 minutes from DeMar DeRozan, one of the NBA's most prolific scorers. DeRozan handed out a game-high eight assists and finished with just two points on 1-for-5 shooting before sitting out the fourth quarter with the other starters.\n\nAfter the game he had his left knee iced in the locker room. DeRozan was hurt in the third quarter, but said he would've played if the game had been close.\n\n\"It's a little sore, just a little swelling,\" DeRozan said. \"I want to be all the way right when I play again.\"\n\nKyle Lowry had 15 points and a career-high 13 rebounds as the Raptors snapped a two-game skid. Seven players finished in double figures for the Raptors.\n\nDennis Schroder scored 14 points and Taurean Prince and Marco Belinelli each had 10 for the Hawks. Atlanta was coming off Friday's rally to beat New York, but it had nothing left after leading by one point late in the first quarter.\n\nThe Hawks dropped to 4-16, second-worst in the Eastern Conference.\n\n\"I felt like our defense -- not just in the paint but everywhere -- was not good enough for an NBA game tonight,\" coach Mike Budenholzer said.\n\nToronto, which improved to 12-7, scored 39 points in the second and faced no danger of another third-quarter meltdown that proved costly this week at New York and Indiana. The lead surged to 36 by the nine-minute mark of the third on Serge Ibaka's short jumper, and the Raptors went up a game-high 45 in the fourth.\n\n\"Coach challenged the team,\" Lowry said.  \"He specifically said for me and DeMar to come out with a little more assertiveness after the third quarters we've had the last couple of games.\"\n\nToronto's bench outscored the Hawks' reserves 43-14 by halftime as Powell, Jakob Poeltl and Pascal Siakam each scored in double figures.\n\nThere were plenty of second-quarter highlights for Toronto, but the best came in the final minute when Lowry ripped the ball from John Collins and passed upcourt to DeRozan at the 3-point line. DeRozan immediately did a tip-pass for an alley-oop that Siakam slammed down for a 67-39 lead.\n\nThe victory set the Raptors up for what could be an easy next three weeks, as they play just one opponent that's currently over .500.\n\nTIP-INS\n\nRaptors: DeRozan's streak of 113 consecutive games in double digits, one shy of Lowry's franchise-best mark, was snapped. ... In Friday's loss at Indiana, Lowry became the first Toronto player to have consecutive games in leading the team in points, rebounds and assists. ... F C.J. Miles missed his second straight game to stay home for his daughter's birth.\n\nHawks: C Miles Plumlee, acquired in the offseason trade that shipped Dwight Howard to Charlotte, finally made his Atlanta debut late in the fourth and went scoreless with no rebounds in nine minutes. The Hawks would like to get something more from Plumlee, who's in the second season of a four-year, $52 million contract, but has been sidelined recently with a strained quadriceps.\n\nUP NEXT\n\nRaptors: Host Charlotte on Wednesday.\n\nHawks: Host Cleveland on Thursday.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.326550",
+  "pipeline_version": "v1"
+}

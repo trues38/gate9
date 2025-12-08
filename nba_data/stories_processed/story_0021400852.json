@@ -1,0 +1,25 @@
+{
+  "game_id": "0021400852",
+  "espn_id": "400579144",
+  "date": "Feb 25, 2015",
+  "matchup": "MEM @ SAC",
+  "headline": "Kings turn back Grizzlies as DeMarcus Cousins, Z-Bo shove it out",
+  "cleaned_body": "SACRAMENTO, Calif. -- Three technical fouls were called. One chair was kicked, and two of the NBA's most volatile big men nearly let their emotions get the best of them.\nIt was just the kind of game the Memphis Grizzlies love to play.\nThe Sacramento Kings showed they can, too.\nRudy Gay scored 28 points, DeMarcus Cousins finished with 16 points and nine rebounds, and the Kings grinded out a 102-90 win over the Grizzlies on Wednesday night.\n\"Memphis does this to everybody, and they usually win,\" new Kings coach George Karl said. \"We had a chance to lose the game, and our guys just said, 'No.'\"\nCousins overcame foul trouble -- and a confrontation with Grizzlies power forward Zach Randolph in the third quarter -- to lead Sacramento's 10-0 spurt to start the fourth. Cousins added six assists in just 24 minutes before fouling out, getting the best of a championship-contending team for at least one night.\nThe Kings improved to 2-1 since Karl took over as coach.\nRandolph had 20 points and five rebounds, and Marc Gasol added 14 points and seven boards as Memphis' climb up the Western Conference standings was slowed. The Grizzlies had won 16 of 19 to get within striking distance of Golden State, which leads the West by four games.\n\"We didn't respect them, and they were the aggressors tonight,\" Grizzlies guard Tony Allen said. \"They played with a lot of passion. Normally, that's us.\"\nInstead, the Kings scored the first 10 points of the fourth quarter -- with Cousins accounting for eight -- to take an 86-77 lead behind their own brute form of basketball. Cousins was called for his fifth foul with 6:56 remaining and went back to the bench, but the Kings kept things moving without him.\nGay hit three consecutive shots, including a 3-pointer, against his former team to rile up the home crowd. And Cousins came back with a rebound and a layup to put the Kings ahead 99-85 with 2:13 left.\n\"Memphis is a good team. They try to get in the other team's head with their physicality,\" Cousins said. \"But I think we did a great job of playing through it and keeping our composure.\"\nWell, sort of.\nIn the second quarter, Karl was whistled for a technical and Cousins quickly picked up his third foul, kicking a chair on the bench in frustration. That would get worse when Randolph banked in a shot from beyond half court -- officially from 62 feet -- as the half ended, giving Memphis a little momentum heading to the locker room with Sacramento up 62-52.\nEmotions escalated in the third quarter when Cousins and Randolph exchanged shoves and jawed at each other after Randolph made a layup. Randolph was called for a technical foul.\nThe next time down, Randolph earned a foul for elbowing Cousins in the face -- twice -- as he swung his arms with the ball. Cousins tapped his fist on his face while he strutted up the court, apparently mocking Randolph's move.\nOn the following possession, Cousins charged into Gasol for his fourth foul and went to the bench. Meanwhile, Memphis held Sacramento scoreless for the first 4:39 of the third quarter and took a 77-76 lead into the fourth.\nGrizzlies coach Dave Joerger also was called for a technical during Sacramento's late run.\nKINGS CONTRIBUTIONS\nKarl had been hoping somebody would help Cousins and Gay and give the Kings some added scoring punch. Ben McLemore and Jason Thompson answered his call. McLemore scored 16 points on 7-for-15 shooting, and Thompson added 16 points and 11 rebounds, including some big defensive boards late.\nTIP-INS\nGrizzlies: Vince Carter missed his 10th consecutive game with a left foot tendon injury. He took shots before the game but still is not cleared for contact drills, Joerger said. ... Memphis fell to 25-10 against Western Conference teams.\nKings: Sacramento snapped a nine-game losing streak to Memphis. ... Point guard Darren Collison missed his seventh straight game with a strained right hip flexor. He is seeing a specialist in Los Angeles to evaluate the injury.\nUP NEXT\nGrizzlies: Host the Los Angeles Clippers on Friday.\nKings: Host San Antonio on Friday.",
+  "tags_rule": [
+    "Streak",
+    "FoulTrouble",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.047823",
+  "pipeline_version": "v1"
+}

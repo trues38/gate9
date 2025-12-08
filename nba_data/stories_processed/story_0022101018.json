@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101018",
+  "espn_id": "401360837",
+  "date": "Mar 13, 2022",
+  "matchup": "MEM @ OKC",
+  "headline": "Grizzlies lead for all but 25 seconds in win over Thunder",
+  "cleaned_body": "OKLAHOMA CITY -- — Dillon Brooks had to wait a few more minutes to make his return.\n\nAfter being sidelined for 27 games due to an ankle injury, Brooks walked onto the court Sunday only to see that both Memphis and Oklahoma City were wearing white uniforms. The Grizzlies retreated to their locker room to change into their navy blues — a five-minute delay.\n\nThe mishap was a rare snag in an otherwise successful night for Brooks and Company. The Grizzlies trailed the Thunder for a total of 25 seconds all night before leaving with a 125-118 win.\n\nMemphis saw a balanced scoring effort: Desmond Bane had 21, Jaren Jackson Jr. 18, Ja Morant 17, Brooks 15, Brandon Clarke and Tyus Jones with and Ziaire Williams had 11.\n\n“Tons of credit to the Thunder,” Memphis coach Taylor Jenkins said. “They were just relentless for 48 minutes … We just got enough stops in crucial moments there.”\n\nShai Gilgeous-Alexander led the Thunder with 31 points and seven assists, and Darius Bazley had a season-high 29 points to go along with 10 rebounds for Oklahoma City, which has lost six of its last seven games.\n\nMemphis led 38-26 at the end of the first quarter, with former OKC player Steven Adams recording seven points and eight rebounds in nine minutes. He finished with 9 points and 16 rebounds.\n\n“It was beautiful, man,” Adams said of his return. “Nostalgia … It was awesome coming back.”\n\nThe Thunder opened up the second quarter on a 7-0 run that Lindy Waters III capped off with a 3-pointer, but the Grizzlies led 61-54 at halftime.\n\nDespite picking up his fourth foul with 6:11 left in the third, Gilgeous-Alexander stayed in the game and scored seven of his team’s next 12 points.\n\nMemphis took a 95-79 lead heading into the fourth quarter, but Bazley scored 12 points to will Oklahoma City into contention. A 3-point shot by Theo Maledon trimmed the deficit to 121-115 with 25.5 seconds left in regulation, but the Grizzlies hung on.\n\n“We needed a lot of things to happen for us and a lot of stuff not to fall for them,” Bazley said of the late push. “(Memphis) is a good team … But I thought we did a good job of just staying together and trying to get all the way back into it.”\n\nTIP-INS\n\nGrizzlies: Memphis recorded 20 offensive rebounds in the win. Adams led the way with seven offensive boards, while Bane added three of his own.\n\nThunder: After scoring a career-high 16 points against the Milwaukee Bucks on Tuesday, Waters tied it Sunday with 16 points in 30 minutes off the bench.\n\nUP NEXT\n\nGrizzlies: At Indiana on Tuesday night.\n\nThunder: Host Charlotte on Monday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.796742",
+  "pipeline_version": "v1"
+}

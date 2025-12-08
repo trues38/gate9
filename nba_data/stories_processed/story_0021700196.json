@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700196",
+  "espn_id": "400974947",
+  "date": "Nov 13, 2017",
+  "matchup": "LAL @ PHX",
+  "headline": "Clarkson scores 25, Lakers beat Suns 100-93",
+  "cleaned_body": "PHOENIX --  Lonzo Ball could only watch from the bench as the Los Angeles Lakers pulled away late to beat the Phoenix Suns. Jordan Clarkson was just playing too well to come off the court.\n\nClarkson scored a season-high 25 points in 26 minutes, and the Lakers beat the Suns 100-93 on Monday night.\n\n\"I just came in there aggressive like  I try to do every night,\" Clarkson said, \"score the ball for the same group and just win the game. It was a good win for us, to finish the road trip like this.\"\n\nDevin Booker had 36 points, his second consecutive game of at least 35, for the Suns.\n\nBrook Lopez and Kentavious Caldwell-Pope scored 15 apiece for the Lakers, who salvaged the finale of a four-game road trip and won in Phoenix for the second time this season.\n\nBall, the Lakers rookie coming off his first career triple-double on Saturday night, did not play in the fourth quarter. He had seven points on 3-of-10 shooting, five rebounds, five assists and four turnovers in 28 minutes.\n\nCoach Luke Walton said he came close to putting Ball back in the game but couldn't pull reserves Clarkson and Corey Brewer.\n\n\"There were a couple of times where I was one play from putting him back in,\" Walton said, \"and one of those guys would make a play.\"\n\nThe Lakers had just two turnovers in the fourth quarter after committing 14 in the first three.\n\n\"I thought we did a great job taking care of the ball,\" Lopez said. \"And I thought we did a great number defensively as well.\"\n\nBooker scored 22 in the first half en route to his sixth 30-point performance in the last 10 games. T.J.  Warren added 21 and Dragan Bender a career-high 15 for the Suns.\n\n\"I thought the 3-pointers were the difference in the game,\" Phoenix interim coach Jay Triano said. \"They made seven more 3s than us, and that's a big part of the game, that's a big number. I thought our defense was decent enough to keep us in the game, but when they make 14 3s and you make seven, it's going to be a tough hill.\"\n\nLos Angeles shot 14 of 33 on 3s to the Suns' 7-for-26 effort.\n\nThe score was tied 81-81 after Bender's left-handed driving layup with 7:25 to play.\n\nLos Angeles took control from there with a 10-2 run to go up 91-83 on Brewer's 3-pointer with 5:02 remaining. Phoenix, loser of six of its last seven, never got closer than six after that and Clarkson's 3 made it 98-88 with 2:43 to go.\n\nPhoenix scored the first nine points of the game and that was the biggest lead for either team through three quarters.\n\nNeither team was up by more than five in the third. The Lakers scored the final six of the quarter, the last two on Clarkson's reverse layup with 3.6 seconds to go to lead 74-73 entering the fourth.\n\nTIP-INS\n\nLakers: Los Angeles beat the Suns for the third straight time, the first time that's happened in four years. .. The Lakers won in Phoenix 132-130 in the second game of the season. Ball had 29 points, 11 rebounds and nine assists in that game.\n\nSuns: Booker had his 26th career 30-point game, tying Steve Nash for 15th most in franchise history. ... Bender was 6 for 8 from the field, the rest of Suns bench went 2 for 23. ... Tyler Ulis made his second straight start at point guard but struggled, going 1 for 7 from the field with two assists and three turnovers. ... Rookie Josh Jackson shot 0 for 6 and committed three turnovers.\n\nUP NEXT\n\nLakers: Open a four-game home stand against Philadelphia on Wednesday night.\n\nSuns: Host Houston on Thursday night.",
+  "tags_rule": [
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.149527",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101153",
+  "espn_id": "401360972",
+  "date": "Apr 01, 2022",
+  "matchup": "IND @ BOS",
+  "headline": "Brown, Tatum pair up to lead Celtics past Pacers 128-123",
+  "cleaned_body": "BOSTON -- — Jaylen Brown scored 32 points and Jayson Tatum had 31 to help the Boston Celtics stop a rare late-season stumble and beat the Indiana Pacers 128-123 on Friday night.\n\nIt was the eighth time this season that “The Jays” each scored at least 30 points.\n\n“We're not trying to take turns. Just playing the game the right way,” Tatum said. “If he takes six good shots in a row, that’s fine with me.”\n\nThe Pacers lost their sixth straight game despite getting 30 points from Tyrese Haliburton before he fouled out early in the fourth quarter with Indiana trailing 103-101. The Celtics led 124-120 with 40 seconds left when Al Horford found Tatum coming down the lane  for a dunk that all but sealed Boston's win.\n\nHorford scored 17 points with 10 rebounds for the Celtics, who had won 24 of 28 games before losing to Toronto on Monday night without four of their starters. They followed it up with a loss to Miami on Wednesday — the first time they lost back-to-back games in two months as they climbed from below .500 to the top of the Eastern Conference standings.\n\nBut a loss to the Pacers, a non-playoff team with the fifth-most losses in the league, would have been more concerning.\n\n“Credit to them for making it tough on you,” Celtics coach Ime Udoka said. “They’re playing loose and free with nothing to lose right now. You can tell. At the same time, we’re aiding them.”\n\nOshae Brissett and Jalen Smith scored 17 points apiece for the Pacers.\n\nThe Celtics scored 11 of the first 13 points in the game before giving up the next nine to tie it. Boston took a 37-28 at the end of the first quarter and led by as many as 10 points in the second.\n\nFOULED OUT\n\nHaliburton had 22 points at halftime and had 30 points on 10-for-11 shooting — including 6 for 6 from 3-point range — before picking up his fifth foul with 4:27 left in the third quarter on a collision with Boston’s Derrick White while going for a loose ball.\n\nHaliburton complained about the call, and got coach Rick Carlisle to challenge it, but it was upheld. Haliburton sat out the rest of the third and the first 3:33 of the fourth, then lasted just 14 seconds before fouling out, drawing jeers from the crowd.\n\nINJURIES\n\nThe Celtics, who lost center Robert Williams III to a meniscus tear on Sunday, had a few injury scares against Indiana, but Udoka said everyone is OK.\n\nBrown appeared wobbly after getting hit in the face by teammate Grant Williams but he returned. Williams is OK after stepping on someone's foot. Guard Marcus Smart limped off to the locker room at the end of the first half after a collision with Daniel Theis but returned for the third quarter.\n\n“I reaggravated an injury in my right ankle. It scared me for a moment as well,” Smart said. “Don’t need to be going down at this time, getting close to the playoffs. But I’m fine. Checked it out. I’ll be all right.”\n\nTIP-INS\n\nBefore the game, the Celtics honored longtime Pacers director of media relations David Benner. Celtics vice president Jeff Twiss presented Benner, who has worked for the Pacers for 28 years, with a piece of the Boston Garden parquet floor. ... Celtics swingman Nik Stauskas missed the game with a right ankle sprain. ... Pacers guard Malcolm Brogdon missed his seventh straight game. ... For '90s night, the Celtics brought back 1991 slam dunk contest winner Dee Brown. ... Tatum had three 3-pointers, giving him 222 for the season, tying Antoine Walker's 2002 mark for the second-most in franchise history.\n\nUP NEXT\n\nPacers: Host Detroit on Sunday.\n\nCeltics: Host Washington in regular-season home finale on Sunday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.341915",
+  "pipeline_version": "v1"
+}

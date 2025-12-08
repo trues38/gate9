@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100135",
+  "espn_id": "401359959",
+  "date": "Nov 06, 2021",
+  "matchup": "CHI vs. PHI",
+  "headline": "Embiid, 76ers beat Bulls again to extend win streak to 6",
+  "cleaned_body": "CHICAGO -- — Joel Embiid had 30 points and 15 rebounds to lead the Philadelphia 76ers to their sixth straight victory, 114-105 over the Chicago Bulls on Saturday night.\n\nFurkan Korkmaz matched his career best with seven 3-pointers and added 25 points for the Sixers, who topped Chicago for the second time in four nights and secured coach Doc Rivers’ 1,000th career win.\n\n“It’s not analytical right now. We just did it,” said Rivers, who used just a three-man bench as his team copes with injuries and illness that have kept several regulars off the court lately.\n\n“The ball kept going to the right players in the last 2 ½ minutes.”\n\nZach LaVine had 32 points and DeMar DeRozan added 25 for Chicago.\n\nThe Bulls led 97-96 after LaVine ended a 10-0 run with a 3-pointer with 5:48 to play, but Embiid answered with a 3 a minute later and the Sixers never trailed again. Korkmaz gave Philadelphia a bit of a cushion with his final 3-pointer with 3:03 left and the Bulls played catch-up the rest of the way.\n\nEmbiid finished the Bulls with the last of his four 3-pointers with 15 seconds left.\n\n“The chemistry that we have is very different from the previous years,” Embiid said. “We’re complete. We’re on the same page.\n\n“Everybody feels like they have something to prove.”\n\nThe Bulls never seemed to find a consistent shooting touch, especially from the perimeter. They finished the game 7 for 29 from long distance while the Sixers were 50% from the same range.\n\n“If you really break it down, the last two times we’ve played them, I think they’ve made twice as many 3s as we’ve made,” Bulls coach Billy Donovan said.\n\nThe Sixers went on a 15-0 run midway through the second quarter to erase a 38-32 deficit and outscored the Bulls 25-9 over the final six minutes to take a 57-47 lead to halftime. Embiid scored 14 of his 20 first-half points during the run and capped it with a 3-pointer in the final seconds.\n\nShake Milton had 13 points for the Sixers, who topped the Bulls 103-98 in Philadelphia on Wednesday. Nikola Vučević finished with 11 points and 11 rebounds for Chicago.\n\nCLOSE CALL\n\nEmbiid angrily turned and flailed his right arm after dribbling off his foot during a drive to the basket late in the first half and almost slugged Chicago’s Lonzo Ball in the head. Embiid was assessed a technical foul but stayed in the game after replays showed he only grazed Ball’s hair with the swipe.\n\n“He didn’t try to get him,” LaVine said. “He was frustrated and just swinging in the air.\n\n“Luckily, (Ball) ducked.”\n\nMILESTONE CALL\n\nRivers became the 10th coach to amass 1,000 victories in a 23-season career that includes stints with Orlando, Boston and the Los Angeles Clippers. He got an ice bucket shower from Embiid and Tyrese Maxey as he entered the dressing room.\n\n“They set me up pretty well,” Rivers said. “It was cold. I wish it was beer instead.”\n\nRivers, a Chicago native, said he was happy his brother could attend the game and share the special moment with him.\n\nTIP-INS\n\nSixers: Korkmaz returned after missing Thursday night’s win at Detroit with a sore right wrist. … F Danny Green (left hamstring) missed his third straight game.\n\nBulls: Donovan said he’s not sure how long LaVine will need to continue to wear a wrap on his left, non-shooting hand. He’s been playing more than a week with a small ligament tear in the thumb.\n\nUP NEXT\n\nSixers: Host New York on Monday.\n\nBulls: Host Brooklyn on Monday.",
+  "tags_rule": [
+    "PhysicalGame",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.168806",
+  "pipeline_version": "v1"
+}

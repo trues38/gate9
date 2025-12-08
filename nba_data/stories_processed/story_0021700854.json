@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700854",
+  "espn_id": "400975600",
+  "date": "Feb 14, 2018",
+  "matchup": "CHA @ ORL",
+  "headline": "Howard shines as Hornets top Magic 104-102",
+  "cleaned_body": "ORLANDO, Fla. --  Dwight Howard and the Charlotte Hornets needed a win heading into the All-Star break.\n\nSo it was perfect timing for a trip to Orlando.\n\nHoward had 22 points and 13 rebounds, and the Hornets stopped a four-game slide by topping the lowly Magic 104-102 on Wednesday night.\n\nKemba Walker had 20 points for Charlotte on 6-for-19 shooting. Nicolas Batum added 14 points and seven assists in the Hornets' 10th straight win against the Magic.\n\n\"We needed this game,\" Howard said. \"Players know the All-Star break is coming so they kind of take a break and are not focused on the game before the break. We had to come out with the right mentality.\"\n\nMario Hezonja led Orlando with 21 points and 10 rebounds, but the Magic lost their third straight. D.J. Augustin and Marreese Speights had 16 points and Bismack Biyombo finished with 11 points and 11 rebounds.\n\nOrlando led 97-96 before Walker hit a 3-pointer with 1:12 to play. Batum hit another 3-pointer with 11 seconds left to stretch Charlotte's lead to 102-97.\n\nThe teams traded free throws and Speights hit his fourth 3-pointer as the buzzer sounded.\n\n\"This was a huge win,\" said Walker, who believes the Hornets can still make a late run for a playoff berth. \"This gets us one game closer. I know we say take them one at a time, but this is huge coming right before the break.\"\n\nOrlando made only four of its last 21 shots. Augustin and Evan Fournier both missed 3-point attempts in the final minute that could have put the Magic back in front.\n\n\"They made their last two shots and we didn't,\" coach Frank Vogel said.\n\nFournier had 13 points, but he didn't score in the second half.\n\n\"This is disappointing, really disappointing,\" he said. \"This team (Charlotte) has given us a lot of problems the last few years and not being able to win before the break just does not feel good.\"\n\nTIP-INS\n\nHornets: Walker made a four-point play with 32 seconds left in the first half. ... Howard has 702 career double-doubles, most of any active player in the NBA.\n\nMagic: Jonathon Simmons didn't start the second half, but returned to the game three minutes into the third quarter. ... Orlando is 2-9 in its last 11 home games against Charlotte. ... Augustin broke out of a 1-for-8 shooting slump from 3-point territory, going 4 for 6 from long range.\n\nUP NEXT\n\nHornets: Host Brooklyn next Thursday. Charlotte has won four straight at home against the Nets.\n\nMagic: Host the New York Knicks next Thursday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.161275",
+  "pipeline_version": "v1"
+}

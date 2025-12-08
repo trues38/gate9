@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100916",
+  "espn_id": "401360735",
+  "date": "Feb 27, 2022",
+  "matchup": "LAC @ HOU",
+  "headline": "Jackson scores 26 points, Clippers outlast Rockets 99-98",
+  "cleaned_body": "HOUSTON -- — Reggie Jackson scored 26 points, including three key points down the stretch to lead the Los Angeles Clippers to a 99-98 victory over the Houston Rockets on Sunday night to open a two-game series.\n\nJackson's jumper with about 90 seconds left put the Clippers up 97-95.\n\nBoth teams missed shots before Houston's Christian Wood was fouled by Ivica Zubac on a shot in the lane with about 16 seconds to go. The Clippers challenged the call, and it was overturned, giving them the ball back and giving Zubac his career-high sixth block of the game.\n\nThe Rockets intentionally fouled Jackson with 11.3 seconds left and he made 1 of 2 free throws to make it 98-95.\n\n“Reggie was good, especially there in the fourth quarter,” coach Tyronn Lue said. “He made every right play. He lives for those moments and he was able to bring us home.”\n\nJackson deflected credit to the guys playing around him for his success.\n\n“We’re playing great team ball,\" he said. “It’s not an individual thing. It’s my teammates doing everything right. They’re allowing the floor to be opened up.\n\nJalen Green, the second overall pick in the most recent draft, had a chance to tie it after that, but his 3-point attempt clanged off the rim.\n\nAmir Coffey made 1 of 2 free throws with 4.7 seconds left to extend it to 99-95, and his free throws was an important shot as Garrison Mathews hit a 3 with a second left.\n\nThe teams will meet again Tuesday night in Houston.\n\nHouston led by 13 points in the first half and was up nine early in the fourth before the Clippers used a big run to take the lead. The teams exchanged leads several times after that before Los Angeles closed it out late to extend its winning streak to three games.\n\nMathews had 17 points off the bench for the Rockets, and Dennis Schroder added 11 points, 10 assists and eight rebounds in his fifth game since a trade from Boston. Houston has lost nine straight and 13 of 14.\n\nCoach Stephen Silas was encouraged that his team had just six turnovers after struggling with ball security this season.\n\n“The turnovers were really good,\" he said. “As we look at this season, the turnovers have been one of the biggest separators as far as our offense is concerned and not doing it tonight kept us in the game.\"\n\nKenyon Martin Jr. made a 3 to start the fourth and extend Houston’s lead to 83-74.\n\nBut the Clippers scored the next 13 points take an 87-83 lead with about nine minutes to go. Luke Kennard, who made a career-high eight 3s in a 142-111 win over the Rockets Feb. 17, had his first 3 during that run after missing his first five tries.\n\nThe Rockets scored their first points in almost three minutes after that on two free throws by Mathews that were the start of a 5-0 run that put them on top 88-87.\n\nA 3-pointer by Jackson gave Los Angeles the lead with about four minutes to go. But a 3 by Mathews tied it at 94-all a few seconds later.\n\nThe Rockets were up by 3 late in the third quarter before Alperen Sengun made a 3-pointer just before the buzzer to make it 80-74 entering the fourth.\n\nTIP-INS\n\nClippers: Former Rocket Isaiah Hartenstein had 12 points and four rebounds. ... Zubac had 14 points and 15 rebounds. ... Marcus Morris had 13 points.\n\nRockets: Kevin Porter Jr. missed the game with a sprained left ankle. ... Sengun had 15 points and three rebounds off the bench. ... Wood scored 15 points with seven rebounds. ... Houston made 17 3-pointers.\n\nTHEY SAID IT\n\nLue on Zubac's performance: “It was huge. He was dominant inside the paint. I thought his play around the basket was huge for us.\"\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.712101",
+  "pipeline_version": "v1"
+}

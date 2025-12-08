@@ -1,0 +1,24 @@
+{
+  "game_id": "0021701099",
+  "espn_id": "400975845",
+  "date": "Mar 25, 2018",
+  "matchup": "SAC vs. BOS",
+  "headline": "Rozier scores 33 as Celtics roll past Kings, 104-93",
+  "cleaned_body": "SACRAMENTO, Calif. -- Terry Rozier had no idea he was so close to claiming a spot in the Boston Celtics' record books for 3-pointers when he tossed up a hurried shot beyond the arc with the shot clock winding down in the fourth quarter and watched it bounce off the rim.\n\"If I knew that I would have shot five more for sure,\" Rozier said.\nRozier didn't attempt another 3 after his miss but it hardly mattered on a day when Boston moved one step closer to Toronto in the race for the top spot in the Eastern Conference.\nRozier scored a career-high 33 points in his sixth start in place of injured All-Star point guard Kyrie Irving, Jaylen Brown made consecutive buckets to break open a close game in the fourth quarter, and the Celtics held on to beat the Sacramento Kings 104-93 on Sunday.\nRozier shot 12 of 16, including 8 of 12 on 3s, in his most impressive game of the season. Rozier, who had been averaging 16.2 points in Irving's absence, also had five rebounds and three assists.\n\"A lot of credit goes to my teammates and my coaches because they steady believe in me every game and the make it happen for me,\" said Rozier, whose previous career-best was 31 points against Atlanta on Feb. 2. \"My job is easy. All I have to do is try to make the shot.\"\nThe eight 3s were one shy of the Celtics' single-game record of nine shared by Isaiah Thomas and Antoine Walker. Three of Rozier's 3s came in the third quarter as part of an 18-2 run, including a wide-open shot after Rozier did a 360-degree spin to get away from a defender.\n\"The two 3s Terry made in the corners were ridiculous,\" Boston coach Brad Stevens said. \"Those are big-time shots. It sort of helped us separate a little.\"\nBrown had 19 points in his return after missing two weeks with a concussion. Al Horford scored 14 points while Jayson Tatum added 12 points and seven rebounds to help Boston win in Sacramento for the first time since Feb. 1, 2011.\nRozier's big game came 24 hours after Irving underwent surgery to remove a tension wire in his left knee. Irving is expected to miss three to six weeks.\nBoston won for the fourth time in five games. Toronto, which began the day with a 4 1/2-game lead over the Celtics, lost to the Clippers 117-106 on Sunday.\n\"We got pretty good looks all night,\" Stevens said. \"Everyone played well but we were really playing with purpose.\"\nBuddy Hield scored 24 points for Sacramento, and Willie Cauley-Stein and Skal Labissiere had 14 points apiece. The Kings had won five straight home games against the Celtics and entered the fourth quarter down 80-78 before being held to 13 points in the final frame.\n\"Point guards have been hurting us lately,\" Sacramento coach Dave Joerger said. \"They kind of got where the want to go, they got loose balls, they got the 50-50 balls. Very physical and long to guard and it cost us.\"\nThree days after protesters formed a human chain blocking entrances to Golden1 Center and prevented all but about 1,500 fans from entering, things were back to normal in and outside the arena. Metal barricades were extended further out than usual to form a bigger perimeter but that was the only indication that anything had happened.\nPlayers from both teams wore black T-shirts during warm-ups and throughout the game. \"Accountability. We are one,\" was printed in white letters on the front, with (hash)StephonClark printed on the back.\nClark was the 22-year-old unarmed African-American man who was fatally shot by police in Sacramento on March 18, setting off a series of protests around the state capital.\n\"All we can do is try to make a voice,\" Rozier said. \"It just shows how much power we have and how much we care. That's part of the NBA. That's good for everybody else to see that's outside of the NBA.\"\nSTARTING OFF WELL\nBoston's starters shot a combined 66 percent from the floor (33 of 50) while Irving and Marcus Morris sat out. Morris is nursing a sprained right ankle he suffered Friday in Portland.\nTIP-INS\nCeltics: Brown went to the bench with three fouls in the opening seven minutes of the first quarter.\nKings: Zach Randolph did not play for the second consecutive game. Garrett Temple was also held out and missed his second straight since spraining his left ankle in practice Thursday.\nUP NEXT\nCeltics: At Phoenix on Monday night.\nKings: Host Dallas on Tuesday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.745726",
+  "pipeline_version": "v1"
+}

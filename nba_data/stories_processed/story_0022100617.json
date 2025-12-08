@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100617",
+  "espn_id": "401360436",
+  "date": "Jan 16, 2022",
+  "matchup": "PHX @ DET",
+  "headline": "Booker, McGee help Suns rout Pistons in Michigan homecoming",
+  "cleaned_body": "DETROIT -- — Devin Booker scored 30 points and JaVale McGee added 20 in their Michigan homecomings to help the NBA-leading Phoenix Suns rout the Detroit Pistons 135-108 on Sunday.\n\n“I was just hitting shots and the guys were getting me the ball in good places,” said Booker, from Grand Rapids. “I never got to see the Pistons play in person very often — I grew up about two hours west of here — so I love coming here to play what was my favorite team growing up.”\n\nBooker made 11 of his first 14 shots from the field. He said he had 40-50 friends and family at the game after having numerous guests when the Suns played in Indiana on Friday night.\n\n“Because of the pandemic, I didn’t get to have anything like normal interaction with my family,” Booker said. “But at least I got to see them and I got to wave to a lot of friends. That’s better than what we’ve getting.”\n\nMcGee, from Flint, also had a large contingent of family and friends at the game. He was 9 for 10 from the field, taking over after Suns starting center DeAndre Ayton left in the first quarter because of a sprained ankle.\n\nCameron Payne also had 20 points for Phoenix, shooting 8 of 12. The Suns have won the first three games on their four-game trip and six of seven to improve to 33-9. The are an NBA-best 16-4 on the road.\n\n“We had two 39-point quarters, so we were obviously hitting shots,” coach Monty Williams said. “Detroit wears teams out by getting into the paint and getting to the line, and we were able to stay away from a lot of that.”\n\nPistons rookie Cade Cunningham had 21 points before being ejected in the third quarter.\n\nCory Joseph also had 21 points for Detroit. The Pistons are 5-4 in 2022 after finishing 2021 with 18 losses in 19 games.\n\n“That's a championship-tier team, and we're not at that level yet,” Pistons coach Dwane Casey said. “We know that, and there's not much we can do about it right now. When we did things well, they were able to match us. Playing teams like that is how a young team learns to win.”\n\nPhoenix built a 64-54 halftime lead behind 21 points from Booker, and McGee scored eight points in the first three minutes of the third to push the margin to 15.\n\n“We knew they were going to attack us any time Book came off the floor,” Payne said. “When you're on the second unit, you know the biggest priority is getting stops. We're not calling a lot of plays — we're just trying to get points in transition.”\n\nIt was 79-60 when the Pistons switched to a zone defense, but Jae Crowder promptly hit a pair of 3-pointers to keep Phoenix comfortably ahead.\n\nAfter Booker blew through the defense for a dunk, Cunningham answered with a reverse dunk at the other end to make it 89-69. Cunningham pointed at Booker after the play and was called for his second technical foul of the game, ending his night.\n\n“I guess they saw him pointing at someone and thought it was the guy he dunked on,” Casey said. “I've certainly seen worse things than that not get called.”\n\nTIP-INS\n\nSuns: Thanks to technicals and a flagrant foul, the Suns had a pair of five-point possessions, including one in their third-quarter surge.\n\nPistons: All four of Detroit's losses since New Year's Day have been by at least 27 points. ... Josh Jackson was ejected in the fourth quarter for picking up his second technical foul.\n\nALMOST LIKE HOME\n\nUP NEXT\n\nSuns: At San Antonio on Monday night.\n\nPistons: At Golden State on Tuesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.232589",
+  "pipeline_version": "v1"
+}

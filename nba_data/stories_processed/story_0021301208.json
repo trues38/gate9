@@ -1,0 +1,25 @@
+{
+  "game_id": "0021301208",
+  "espn_id": "400490081",
+  "date": "Apr 14, 2014",
+  "matchup": "CHI vs. ORL",
+  "headline": "Mike Dunleavy's 22 points lead Bulls to win over Magic",
+  "cleaned_body": "CHICAGO -- There's just one game remaining in the regular season and the NBA playoffs begin on Saturday.\nThe Chicago Bulls still don't know their first-round opponent, but that's fine with Joakim Noah.\n\"Whatever happens, happens,\" Noah said after the Bulls' 108-95 victory over the Orlando Magic on Monday. \"Our mentality is just getting ready for the next game, getting ready for Charlotte. We're going to focus on out next opponent and everything will take care of itself.\"\nNoah had 18 points and 10 rebounds and eight assists, Mike Dunleavy scored 22 points and the Bulls pulled away late.\nWith one game left in the regular season, the Bulls are fourth in the Eastern Conference playoff race and looking at a first-round matchup with Brooklyn. To catch Toronto and finish third, the Bulls would need to win the season finale at Charlotte on Wednesday and have the Raptors lose at New York.\n\"The important thing is for us to continue to strive for improvement (and) finish the season as strong as we can and go from there,\" Thibodeau said.\nKyle O'Quinn led Orlando with 20 points on 9-for-11 shooting, and Andrew Nicholson added 19. Rookie Victor Oladipo was limited to 10 points after scoring a career-high 35 points against the Bulls earlier in the season.\n\"He's still getting better on a daily basis,\" Magic coach Jacque Vaughn said of O'Quinn. \"His challenge is going to be continuing to play every play. He's done a good job of being in the right position the majority of the time. Now the expectation will be continued to be raised.\"\nJimmer Fredette had 17 points for Chicago.\nWith guard D.J. Augustin missing the game to attend the birth of a child, the Bulls' rotation was a bit off in the first half.\nFredette was the first player off the bench and he showed the rust of not playing much since being picked up at the beginning of March.\nThe Bulls led throughout the first half, often by double figures, but the Magic hung around and pulled within 67-64 with just under three minutes left in the third quarter.\nDunleavy, though, hit a 3-pointer to stop Orlando's momentum. Soon after, Fredette capped the third-quarter scoring with a pair of free throws to make it 81-70 heading into the fourth.\nThe Bulls quickly thwarted any hopes of a Magic comeback by opening the final quarter with a 13-7 to make it 94-77 with about seven minutes to go.\nFredette had nine points on 4-for-6 shooting in the fourth.\n\"I didn't know until I got here,\" Fredette said of his increased playing time. \"I was able to step in and help the team get a win.\"\nWith a win in the season finale, the Bulls would get to 49 victories, a feat few thought possible following the injury to Derrick Rose and trade of Luol Deng earlier in the season.\n\"It feels great to be in this position right now, but we're definitely not satisfied,\" Noah said. \"We want more, we feel like we can do more. It's a group that's gone through so much adversity, to be in this position is definitely a blessing. But we're not satisfied.\"\nGame notes\nThe Bulls completed their recent roster shake-up on Monday by signing C Greg Smith and waiving F Toko Shengelia. \"We're excited that he is with us,\" coach Tom Thibodeau said of Smith. \"When he was healthy, he played very well. We feel we're fortunate to be able to pick him up.\" Smith had arthroscopic knee surgery in February and is still rehabbing. He averaged 5.3 points and 4.1 rebounds in 89 games for the Houston Rockets. Shengelia was acquired from the Brooklyn Nets earlier this season for Marquis Teague. Last week, the Bulls signed Ronnie Brewer, Mike James and Lou Amundson to bring their roster to the maximum 15. ... Orlando G Jameer Nelson missed his second straight game with a strained left groin. ... The Magic finished the year with a 4-37 road record, including 11 straight losses to end the season.",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.907025",
+  "pipeline_version": "v1"
+}

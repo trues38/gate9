@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401169",
+  "espn_id": "400579461",
+  "date": "Apr 08, 2015",
+  "matchup": "LAL @ DEN",
+  "headline": "Kenneth Faried leads Nuggets past Lakers, 119-101",
+  "cleaned_body": "DENVER -- A quick offensive burst and strong defense helped the Denver Nuggets rout the tired Los Angeles Lakers.\nKenneth Faried scored a season-high 29 points and had 11 rebounds, Danilo Gallinari added 27 points and Denver beat Los Angeles 119-101 on Wednesday night.\nTy Lawson had 16 points for the Nuggets in the matchup of teams headed for the lottery for the second straight year. Denver has the seventh-worst record in the NBA and the Lakers the fourth-worst.\nThe Nuggets held the Lakers to 33.3 percent shooting in the third quarter and hit 59.5 percent of their shots in the second half.\nGallinari was 3 of 4 from 3-point range and Faried hit all eight of his field-goal attempts in the final 24 minutes.\n\"We had a pretty good night shooting the ball but the difference was made on the defensive end,\" Gallinari said. \"That's what we need to do. That's why we are the starters. We need to do that every game and be more constant.\"\nRookie Jordan Clarkson had 21 points, and Ryan Kelly added 17 for the Lakers. They have lost four in a row and 17 of 21.\nFaried had his best offensive game in more than two months. He scored 14 points in the third quarter to help the Nuggets blew open the game.\n\"I played well, yeah, but we got the `W,\" Faried said. \"That's what more important. We played hard but I was happy with our defense. We locked down and we were able to stop them.\"\nThe Lakers led 61-58 early in the third before Denver took over. Randy Foye and Gallinari each hit a pair of 3-pointers and Faried had six points as part of a 20-2 run that gave them the lead for good.\n\"It just seemed like we started to run out of gas,\" Lakers coach Byron Scott said. \"They started to get some easy buckets offensively we started to pound the ball instead of moving the ball. We got a little selfish as far as trying to do it on our own.\"\nFaried scored Denver's last six points of the third on a dunk and two layups as the Nuggets went up 93-69.\nFaried hit a hook shot and a putback early in the fourth before taking a seat for the rest of the night with Denver ahead 98-78.\nThe Lakers, who lost a close one to the Clippers on Tuesday night, overcame an early 14-point deficit to lead by four midway through the second period. Gallinari scored eight points late in the first half to give Denver a 58-54 lead at the break.\n---\nALL FOR CHARITY: Faried had a big night at the foul line, too. He hit all nine of his free throws to tie a career high, and he set another career high with his most attempts without a miss.\n\"He's been working at it,\" Nuggets interim coach Melvin Hunt said. \"When he misses one he's upset like he's Rick Barry. He's upset because he feels he should make them because he works at it.\"\nTIP-INS\nLakers: Ed Davis had 15 points and 12 rebounds for his sixth double-double of the season. ... Coach Byron Scott dismissed using altitude or playing on consecutive nights as an excuse for players struggling. \"Back in the day when we played we never thought of playing back-to-back games as a big deal,\" he said. \"It's better than practicing. It's one of those mental blocks guys get in their heads that back-to-back games are tough. I just don't believe it.\"\nNuggets: Forward Darrell Arthur missed his seventh straight game with a right calf strain. ... G Jameer Nelson did not play because of a strained right hip flexor suffered in Saturday's loss to the Clippers. ... Former Nuggets great Lafayette \"Fat\" Lever was honored by the team at halftime. Lever played six seasons in Denver and averaged 17 points, 7.6 rebounds and 7.5 assists.\nUP NEXT\nLakers: Host Minnesota on Friday night.\nNuggets: Host Dallas on Friday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.377487",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100823",
+  "espn_id": "401360642",
+  "date": "Feb 08, 2022",
+  "matchup": "ORL @ POR",
+  "headline": "Magic down Blazers 113-95 after Portland deals away McCollum",
+  "cleaned_body": "PORTLAND, Ore. -- — Cole Anthony scored 23 points and the Orlando Magic downed the Trail Blazers 113-95 on Tuesday night, hours after a trade ended ended guard CJ McCollum's nearly nine-year tenure in Portland.\n\nWendell Carter Jr. added 18 for Orlando, which snapped a two-game losing streak. The Magic led by as many as 18 points before the Blazers closed the gap in the third quarter.\n\nAnfernee Simons made a free throw that got Portland within 95-90 with 6:07 to go but Chuma Okeke responded with a dunk and the Magic pulled away to close out the win.\n\n“Everyone shared the ball. We had a lot of selfless plays when one person could have taken a shot but went for a better shot. That was the kind of energy we had as a team tonight and its contagious when that happens,” said Anthony, who had nine assists. The Magic collectively had 34.\n\nSimons finished with 19 points for the Blazers, who have lost six straight. A pair of multiple-player trades before Thursday's deadline depleted Portland's roster.\n\nThe latest came early Tuesday, when the Blazers dealt McCollum, Larry Nance Jr. and Tony Snell to New Orleans in exchange for Josh Hart, Tomas Satoransky, Nickeil Alexander-Walker and Didi Louzada, as well as draft picks.\n\nThe trade marks the end of an era in Portland, where McCollum has been paired with Damian Lillard in the backcourt since 2013. The duo helped lead the Blazers to eight straight playoff appearances, but they were eliminated in the first round five times and just once advanced to the Western Conference finals.\n\nLillard, a six-time All-Star, has been sidelined since the start of the year with an abdominal injury that required surgery. It is unclear when, or if, he will return this season, but he was at the team’s practice facility on Monday putting up a few shots.\n\n“I think we all knew that change was inevitable here. It was a great run. Probably not as good as they wanted it to be, or the city or the fans wanted it to be, but it was great,” Blazers coach Chauncey Billups said.\n\nThe Magic, in the midst of a rebuild around young talent, weren't expected to make any moves at the deadline. The team was coming off a pair of blowout losses at home to Memphis and Boston.\n\nOrlando had little trouble against the Blazers, pulling ahead 41-29 on Robin Lopez's 3-pointer. The Magic pushed the lead to 56-41 on Mo Bamba's 3 late in the first half.\n\nPortland went into the final period trailing 83-79.\n\n“I loved the ball movement. Our guys looked to share. I mean, 34 assists is pretty good,” Magic coach Jamahl Mosley said. “The extra pass, nobody caring who took the shot, that’s what we’ve talked about, being selfless.”\n\nOrlando's Jalen Suggs headed for the locker room after the opening quarter and the team later revealed he wouldn't return because of a sore right Achilles. Suggs is averaging 12.6 points this season. Mosley said afterward Suggs was a bit sore and the team was monitoring him.\n\nTIP-INS\n\nMagic: Tuesday's game was the first of a four-game road trip. ... Mo Wagner was ruled out of the game with a left rib contusion he sustained Sunday against Boston.\n\nTrail Blazers: Last Friday, Portland sent Norman Powell and Robert Covington to the Los Angeles Clippers in exchange for Eric Bledsoe, Justise Winslow and Keon Johnson. That move was widely seen as financial, as it put the Blazers below the luxury tax threshold.\n\nLOCKER ROOM VIBE\n\nSimons said the remaining players on Portland's roster are going to make the most of the opportunity. But the exodus of players is still jarring.\n\n“It was kind of a weird feeling, especially today walking in and seeing everybody's names gone (in the locker room), said Simons. ”This is probably the most, since I've been in the league, at one point seeing people go.\"\n\nUP NEXT\n\nMagic: Visit the Utah Jazz on Friday.\n\nTrail Blazers: Host the Los Angles Lakers on Wednesday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.614362",
+  "pipeline_version": "v1"
+}

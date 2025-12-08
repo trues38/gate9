@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400562",
+  "espn_id": "400578854",
+  "date": "Jan 11, 2015",
+  "matchup": "POR @ LAL",
+  "headline": "Damian Lillard scores 17 of 34 in fourth to power Blazers past Lakers",
+  "cleaned_body": "LOS ANGELES -- Damian Lillard dished out more of the same punishment to the Los Angeles Lakers that he did the last time he faced them. They still had no answer for his fourth-quarter theatrics.\nLillard scored 17 of his 34 points in the final 8:16, leading the Portland Trail Blazers to a 106-94 victory Sunday night and making the Northwest Division leaders the first NBA team to 30 wins.\n\"It's a great accomplishment to have 30 wins in 38 games,\" Lillard said. \"We've just got to keep the same mentality that we've had and always remember that we are an elite team. And we've got to keep proving that every night and stay locked in.\"\nFour other players scored in double figures for the Blazers, who have won 27 of their last 32 games and are a season-best 22 over .500. LaMarcus Aldridge had 15 points and nine rebounds, Wesley Matthews had 16 points and Nicolas Batum added 11.\n\nChris Kaman had 12 rebounds and nine points in his fourth start of the season and second against his former team.\nLillard averaged 25 points over his previous four games against the Lakers. He scored 16 of his 39 points in the final 5:11 when the Blazers beat them 98-84 at Portland last Monday, and also had a 38-point effort against the Lakers on April 10, 2013.\n\"It was pretty much the same things I saw the last game against them,\" Lakers coach Byron Scott said. \"We played them really tough, and then Damien kind of takes over. We tried to pressure him, we tried to trap him at times, but he just made some great shots. He's just a heck of a player.\"\nMeyers Leonard put Portland ahead to stay with a 3-pointer, triggering a 17-3 run that helped the Trail Blazers open up an 89-76 lead with 6:50 to play. Lillard made a 3-pointer, a driving layup and a three-point play during a 1:54 span before Aldridge capped the rally with a 20-footer.\n\"We started to run some sets that I was able to get loose on,\" Lillard said. \"Our bigs did a great job in transitioning and in the halfcourt game and setting solid screens. So I was just able to get a big man in front of me and make plays, and the shots were falling.\"\nThe 6-foot-3 Lillard scored Portland's final eight points, including a soaring slam dunk between the 6-10 duo of Jordan Hill and Ed Davis and turned it into a three-point play after Hill fouled him.\n\"At that point in the game, I knew it was getting really physical. They had cut the lead down, so I knew I had to go strong and I did,\" Lillard said. \"There was a perfect amount of space, and (Hill) jumped late. So I wouldn't even say I completely jumped over him So I did. I was surprised that he didn't just let me get the two points, instead of letting it be an and-one.\"\nThe Lakers got to 97-90 on 3-pointers by Wayne Ellington and Wesley Johnson against a defense that entered Sunday first in the NBA in defending the 3-point shot.\nKobe Bryant was rested by Lakers coach Byron Scott for the sixth time in 11 games and second game in a row. The NBA's third-leading career scorer, playing in his 19th season at age 36, played in only six games last season due to a torn Achilles and a fracture in his left knee.\nWesley Johnson returned to the Lakers' lineup and scored 17 points after missing three games because of a strained hip flexor. Ronnie Price had a career-high 12 assists, one of which set up a driving dunk by Tarik Black that pulled the Lakers into a 69-all tie late in the third quarter.\nTIP-INS\nTrail Blazers: Portland is 15-3 when Lillard leads them in scoring and 13-3 when Aldridge does. They shared team scoring honors twice, combining for 70 points in a 115-106 loss at Chicago, and scoring 23 apiece in a 108-95 home win against San Antonio. ... The Blazers are 20-0 when leading after three quarters. They also have won a league-best eight games when trailing after three.\nLakers: Bryant averaged 35.5 minutes through Lakers' first 27 games before Scott gave him three straight games off. In the five games he's played since then, he has averaged 31.4 minutes. The Lakers are 2-4 when he is out of the lineup. ... Bryant has a career scoring average of 27.8 against Portland. He had 65 points against the Blazers on March 16, 2007, and 50 on April 14, 2006. ... Hill is the only Lakers player to start in all 38 games.\nUP NEXT\nTrail Blazers: At Los Angeles Clippers on Wednesday night.\nLakers: Host Miami on Tuesday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.641927",
+  "pipeline_version": "v1"
+}

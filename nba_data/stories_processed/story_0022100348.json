@@ -1,0 +1,26 @@
+{
+  "game_id": "0022100348",
+  "espn_id": "401360172",
+  "date": "Dec 04, 2021",
+  "matchup": "SAC vs. LAC",
+  "headline": "Davis’ 28 lead Kings to 2nd straight win over Clippers",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Terence Davis scored 23 of his 28 points in the second half and the Sacramento Kings beat the Los Angeles Clippers for the second time in four nights with a 104-99 victory Saturday.\n\nDavis made all four of his 3-point attempts in the third quarter and finished 6 of 11 from beyond the arc.\n\n“I think he’s getting a little more comfortable in stuff,\" Kings interim coach Alvin Gentry said. \"I think with him, the whole idea is behind what is a good shot and what is not, or when do you shoot it and when do you not shoot it. I think he did a good job tonight of picking those opportunities.\"\n\nTyrese Haliburton added 18 points, six rebounds and five assists for Sacramento, which beat the Clippers 124-115 on Wednesday in Los Angeles. De’Aaron Fox had 17 points, seven rebounds and five assists, and Marvin Bagley III recorded his first double-double of the season with 12 points and 11 rebounds.\n\n“When you make shots, everybody’s feeling good,” Haliburton said. “It feels like you’re throwing a rock in the ocean. It feels like everybody’s going and everybody’s having fun. It definitely feels good for us and we’ve just got to keep this momentum going.”\n\nMarcus Morris Sr. led the Clippers with 21 points and nine rebounds. Reggie Jackson added 18 points.\n\nPaul George had 15 points and nine assists, but shot just 5 of 21 from the field. Ivica Zubac had 12 points and 11 rebounds.\n\n“Terence Davis comes in to make six 3s, big shots, and momentum killers,” Clippers coach Tyronn Lue said. “He had a great game — two great games. He was aggressive. Tonight he hurt us.”\n\nSacramento used a 12-2 run early in the fourth quarter to open its biggest lead of the game at 90-76. Los Angeles answered with nine straight points to get within 90-85, but Davis' three-point play pushed the lead back to eight with 4:24 remaining.\n\nMorris made a deep 3-pointer with 10.4 seconds remaining to cut the Kings’ lead to 102-99, but Buddy Hield made two free throws to seal the win.\n\nSacramento held the Clippers to just 38% shooting from the field, including 13 of 34 from 3-point range. The Kings shot 42%.\n\n“I thought defensively, obviously, we were really good,” Gentry said. “We have to try to get to that consistent level where we’re doing it every night.”\n\nLos Angeles opened the game on a 9-2 run and led by as many as eight in the first half. Sacramento went on a 10-0 run late in the second quarter to take a 50-45 lead into halftime.\n\nIT’S BEEN A WHILE\n\nThe Kings’ win marked their first home victory against the Clippers since March 19, 2013, snapping a 15-game losing streak.\n\nTIP-INS\n\nClippers: Nicolas Batum missed his eighth straight game in the league’s health and safety protocols, but Lue said that he was nearing a return. ... Morris was assessed a technical foul in the third quarter.\n\nKings: Harrison Barnes (right foot sprain) missed his fifth straight game and Moe Harkless (left knee soreness) missed his fourth straight. Gentry was hopeful both could play next game. ... Bagley returned to the lineup after missing two games with a non-COVID-19 illness. ... Chimezie Metu had a career-high five blocks.\n\nUP NEXT\n\nClippers: At Portland on Monday night.\n\nKings: Host Orlando on Wednesday night.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.386708",
+  "pipeline_version": "v1"
+}

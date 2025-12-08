@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100115",
+  "espn_id": "401359939",
+  "date": "Nov 03, 2021",
+  "matchup": "LAC @ MIN",
+  "headline": "George scores 32, Clippers outshoot Minnesota in 126-115 win",
+  "cleaned_body": "MINNEAPOLIS -- — Paul George had 32 points and eight assists, and Reggie Jackson scored a season-high 29 points as the Los Angeles Clippers beat the Minnesota Timberwolves 126-115 on Wednesday night.\n\nGeorge shot 11 of 18, including 4 of 8 from long distance, as Los Angeles had its best shooting night of the season and won its second straight game. The Clippers shot 60.3% from the field and made a season-high 21 3-pointers on 36 attempts.\n\nNicholas Batum added 20 points and Terance Mann had a season-high 17 points off the bench, including a career-best three 3s.\n\n“You don’t have a choice, we got to start winning games,” George said. “We got to start getting some momentum. At some point, things have to change for us. We’re not a young team. We’re not a team that’s, you know, let’s just wait for guys to come back. The time is now for us.”\n\nAnthony Edwards scored 29 points for Minnesota, which has lost four of five. Karl-Anthony Towns finished with 18 points and 11 rebounds. The Timberwolves were without D’Angelo Russell, who was sidelined with a right ankle sprain.\n\n“Just not into the ball, not physical enough,” Minnesota coach Chris Finch said. “Started with the beginning of the third quarter and we noticed just a lax approach there. Shot contests were not up to par. Then they got hot. That’s what they do.”\n\nThe Timberwolves also had one of their better shooting nights overall, finishing at 45.7% and going 14 for 40 from beyond the arc in the first of two straight games between the teams.\n\n“You can say it’s a bright spot, but there’s no bright spot in a loss,” Towns said of the team’s shooting. “We’re 3-4 in the season. I’d be remiss to say I think we should be about 6-1, 7-0. There’s things that we caused. That’s why we lost. … They just had that night, but our defense has kept us to not having any one of those nights.”\n\nTwo of the worst shooting teams in the league traded blows for three quarters before Los Angeles took control late in the third.\n\nThe Clippers entered the game shooting 41.3% from the field this season, 26th in the league. Minnesota was right behind at 41.1%, tied with Oklahoma City. Only Dallas and Detroit have been worse.\n\nTowns gave the Wolves a 70-68 lead midway through the third quarter with a soaring dunk after Edwards had scored five straight points. But Edwards banged his knee on Clippers guard Eric Bledsoe and had to leave the game temporarily.\n\nLos Angeles went on a 12-2 run, culminating in a 3-pointer by George, to take a lead it wouldn’t relinquish. George fanned himself as he went back down the court.\n\n“He’s hot,” Mann said. “He’s going to stay hot. He’s been hot all year.”\n\nFINALLY\n\nClippers coach Tyronn Lue entered his postgame press conference clapping and said, “make shots.”\n\nThe biggest display of shot-making came in the third as Los Angeles made its run. The Clippers scored 45 points in the quarter and made 17 of 20 shots, including 9 of 11 from 3-point range.\n\n“Guys continue to keep taking their shots,” Lue said. “We talked about it all week long, about just stepping up, having confidence and taking their shots. Our guys were open and they made shots. That was good to see.”\n\nTIP-INS\n\nClippers: Marcus Morris missed his fifth straight game with a left knee injury. Kawhi Leonard (knee surgery) and Serge Ibaka (back surgery) haven’t played this season. … The 126 points were a season-high for Los Angeles. … The Clippers had 21 turnovers, leading to 30 points for Minnesota.\n\nTimberwolves: Edwards limped off the court immediately after banging his knee. He went to the locker room under his own power and returned shortly after. … Russell missed his first game of the season after injuring his ankle Monday against Orlando. Patrick Beverly made his first start for Minnesota. He had 10 points and 10 rebounds against his former team and was called for a technical foul in the fourth.\n\nUP NEXT\n\nThe teams finish their two-game set on Friday in Minnesota.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.188973",
+  "pipeline_version": "v1"
+}

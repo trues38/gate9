@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100855",
+  "espn_id": "401360674",
+  "date": "Feb 12, 2022",
+  "matchup": "ORL @ PHX",
+  "headline": "Devin Booker helps NBA-leading Suns past Magic 132-105",
+  "cleaned_body": "PHOENIX -- — Devin Booker scored 26 points and Deandre Ayton had 17 points and 10 rebounds as the Phoenix Suns won their fifth straight game, beating the Orlando Magic 132-105 Saturday night.\n\nChris Paul recorded his 30th double-double of the season with 10 points and 15 assists, and the Suns had nine players score in double figures. Phoenix has won 16 of 17 games and owns the NBA’s best record at 46-10.\n\nThe Magic were led by rookie guard Jalen Suggs, who scored 20 points, two shy of his career-high, and had a season-high 10 assists. Cole Anthony scored 17 points, and Chuma Okeke had 15 points off the bench.\n\nThe Suns had a season-high 40 assists and just seven turnovers.\n\n“That’s an unreal ratio,” coach Monty Williams said. “But the ability, the will to turn down a decent shot or a good shot for a great shot, that’s who we are. That’s our DNA. That’s who we have to be if we want to do something really, really special, which we believe we can.”\n\nWilliams said the Suns’ unselfishness is directly influenced by how Paul plays.\n\n“It’s probably the foundation of it all,” he said. ... “One thing that connects a team is passing the ball and I think our guys understand that.”\n\nMagic coach Jamahl Mosley said the Suns set an example for his team on how to play the game.\n\n“You talk about what they’ve done and how they do it and the chemistry which they have and we talk about our guys being able to play in that same fashion,” he said.\n\nSaid Booker: “It’s just the way we play.”\n\nThe Suns ended the first quarter on an 8-0 run to take a 36-26 lead and extended the lead to 21 points on the way to a 67-53 advantage at the half.\n\nPaul, who leads the NBA in assists per game at 10.6, had 10 in the first half; Orlando had 12.\n\nThe Magic cut the lead to 69-61 early in the third quarter. The Suns responded with a 12-2 run, sparked by eight points from Booker and a 3-pointer from Paul.\n\nTIP-INS\n\nSuns: Phoenix had 21 assists on its 28 first-quarter field goals. … The Suns scored 40 points in the paint in the first half. … Monty Williams challenged a foul call on JaVale McGee early in the fourth quarter, but the call was upheld.\n\nMagic: Suggs limped off the court with 7:14 in the third quarter and rode an exercise bike while talking to an Orlando trainer. He returned to the game at the start of the fourth quarter. … Wendell Carter had\n\n14 points and 11 rebounds, his 23rd double-double of the season.\n\nDEBUTS\n\nPhoenix forward Torrey Craig, acquired from the Indiana Pacers on Thursday, played 23 minutes, finishing with 14 points, three rebounds and four assists. Craig played 32 games for the Suns last season before signing with Indiana in the offseason. The Suns’ other trade-deadline acquisition, guard Aaron Holiday, scored 10 points in nine minutes.\n\n“Watching those two guys fit right into the program is pretty cool,” Williams said.\n\nUP NEXT\n\nMagic: Visit Denver on Monday.\n\nSuns: Host Los Angeles Clippers on Tuesday.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.108462",
+  "pipeline_version": "v1"
+}

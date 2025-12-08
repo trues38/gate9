@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100561",
+  "espn_id": "401360380",
+  "date": "Jan 03, 2022",
+  "matchup": "LAC vs. MIN",
+  "headline": "Wolves rout Clippers 122-104 to snap 3-game skid",
+  "cleaned_body": "LOS ANGELES -- — Anthony Edwards scored 28 points to lead six players in double figures and the Minnesota Timberwolves routed the Los Angeles Clippers 122-104 on Monday night to end a three-game skid.\n\nThe Wolves gained a split in LA after losing by five to the Lakers a night earlier.\n\nThe Clippers struggled mightily in their first home game of the new year. They had 39 made shots and 21 turnovers in the game. They got dominated in the paint, 64-42.\n\nSerge Ibaka tied his season high with 17 points for the Clippers, who have dropped four of six.\n\nReserves Jaylen McDaniels added 18 points and Taurean Prince had 17 points for the Wolves.\n\n“It's probably one of my best games of the season,” said Prince, playing his second game since returning from the league's health and safety protocols.\n\nPatrick Beverley tied his career high with 12 assists against his former team.\n\n“He just told us he needed this game,” Prince said. “It was just perfect how it played out.”\n\nThe Clippers went entirely to their bench in the fourth and clawed back within 12 points on consecutive 3-pointers by Xavier Moon and Stanley Johnson.\n\nBut the Wolves answered with back-to-back 3s from McDaniels and Edwards that kept them ahead by 18 points. Minnesota later ran off nine unanswered points, including five by Beverley, for a 111-84 lead.\n\n“Pat Beverley did a great job really setting the tone, whether it was his intensity, defense and focus,” Wolves coach Chris Fitch said.\n\n“We outworked them for the most part. We did a good job of being focused playing on the back-to-back. We got great bench production which is what you need on the back-to-back,” Fitch said.\n\nThe Clippers closed within 15 early in the third only to have the Wolves hit three straight 3-pointers — two by Edwards and another from Michael Beasley — for a 78-54 lead.\n\nThe Wolves all but put the game away in the second when they outscored the Clippers 38-25. Minnesota built its first double-digit lead of the game with a 17-4 run, including 10 straight points, early in the period. The Wolves led 64-46 at halftime.\n\n“You got to learn from it like any game, figure out what we could have done better,” said Justise Winslow, who had 15 points off the Clippers' bench. “You got to bring it every night in this league, all the guys, even guys that aren’t playing.”\n\nTIP-INS\n\nTimberwolves: Snapped a six-game skid against the Clippers. ... Their 38 points in the paint in the first half were a season high for either half. ... Improved to 3-2 on the second night of a back-to-back. ... Karl-Anthony Towns and D'Angelo Russell are ramping up after being in protocols and could return later this week.\n\nClippers: They won the season series, 3-1. ... Assistants Jeremy Castleberry and Brendon O'Connor are in protocols. ... James Ennis III was called for a flagrant-1 foul in the fourth. ... Luke Kennard, Ivica Zubac and Brandon Boston Jr. remain in protocols. ... Nicolas Batum (right ankle sprain) and Isaiah Hartenstein (left ankle sprain) are out.\n\nUP NEXT\n\nTimberwolves: Host Oklahoma City on Wednesday.\n\nClippers: At Phoenix on Thursday.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.909168",
+  "pipeline_version": "v1"
+}

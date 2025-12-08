@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400778",
+  "espn_id": "400579070",
+  "date": "Feb 09, 2015",
+  "matchup": "MIL vs. BKN",
+  "headline": "Bucks rally from 17 down, beat Nets 103-97",
+  "cleaned_body": "MILWAUKEE --  After slogging through a poor-shooting first half, the Milwaukee Bucks found their rhythm after halftime.\n\nDefense and the transition game set the tone for coach Jason Kidd's young team.\n\nKhris Middleton scored 12 of his 18 points in the third quarter, and Milwaukee rallied from a 17-point deficit to beat the Brooklyn Nets 103-97 on Monday night.\n\nJared Dudley had 19 points for Milwaukee, which won its fifth straight home game. Giannis Antetokounmpo added 12 points, nine rebounds, eight assists and three steals.\n\nThe Bucks forced eight turnovers while outscoring the Nets 32-16 in the third.\n\n\"The way we started the third quarter, we really took control of the game and being able to finish the way we did, it's a real good home win,\" Kidd said.\n\nJarrett Jack had 26 points for the Nets on 10-of-15 shooting. Joe Johnson finished with 19 points and six assists.\n\nBut mistakes doomed Brooklyn. It closed to 89-84 midway through the fourth quarter, but Mason Plumlee's turnover turned into an easy transition layup for Middleton that put the Bucks back up by nine with 3:14 left.\n\n\"They're long, athletic guys out there. They switched a lot of stuff. They were double-teaming us, threw us off our rhythm a little bit,\" Nets guard Deron Williams said. \"And then anytime we turned the ball over, they turned it into the fast-break opportunities.\"\n\nThe young Bucks swarmed the veteran Nets in the backcourt and filled passing lanes. Middleton had three steals in the third quarter and used his soft baseline jumper to dent Brooklyn for easy buckets.\n\n\"I had smaller guys guarding me at the shooting guard position,\" the 6-foot-7 Middleton said. \"My shot wasn't falling, so I tried to put them in a bind by going in the post to see what they would do. I was able to take advantage of it.\"\n\nEARLY STRUGGLES\n\nThe Bucks were so good in the third that it was hard to believe that they struggled so much earlier in the evening.\n\nA 0-for-12 drought spanning the first and second quarters left the Bucks trailing 41-24 with 7:45 left. Brooklyn found success inside, going 11 of 15 on shots in the paint in the first half.\n\nThe Bucks slowly chipped away in spite of shooting 33 percent in the first half. Antetokounmpo and Dudley kept the Bucks in the game, with Dudley going 4 of 4 from 3-point range in the first half to help them get within 52-47 at halftime.\n\n\"I had a lot of wide-open looks early on, made `em,\" Dudley said. \"Finally felt good, in a nice rhythm the whole time they left me (open) a couple times.\"\n\nFALLING APART\n\nNets coach Lionel Hollins wanted his team to set the tone and not let the Bucks beat them in a track meet. It worked for Brooklyn -- but only for about the first 16 minutes of the game. Milwaukee pulled away from that point.\n\n\"I said before the game to the players that we have to keep scoring. We can't have those lulls,\" Hollins said. \"Coming down the stretch we had three or four wide-open 3s that we don't make. That was pretty much the ballgame.\"\n\nBIG AT THE BREAK\n\nMilwaukee is 29-23 and in firm position for a playoff spot heading into the All-Star break. The Bucks' win total is already nearly double the number they had for all of their 15-win campaign in 2013-14.\n\n\"For us, it's finishing strong before the break. We know what's in front of us and we're almost there,\" Dudley said.\n\nTIP-INS\n\nNets:  Williams played 22 minutes after being listed as questionable with an illness. He was scoreless and missed all five of his shot attempts. ... Brooklyn shot 70 percent (12 of 17) in the first quarter to take a 30-24 lead.\n\nBucks: Antetokounmpo was named Eastern Conference Player of the Week after averaging 19.5 points and 11 rebounds in his previous four games, which included three double-doubles. ... Center Zaza Pachulia played 16 minutes after sitting out six games with a strained right calf.\n\nUP NEXT\n\nNets: At Memphis on Tuesday.\n\nBucks: Host Sacramento on Wednesday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.386097",
+  "pipeline_version": "v1"
+}

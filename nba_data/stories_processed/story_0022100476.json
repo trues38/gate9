@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100476",
+  "espn_id": "401360300",
+  "date": "Dec 23, 2021",
+  "matchup": "IND vs. HOU",
+  "headline": "Turner, LeVert lead short-handed Pacers over Rockets 118-106",
+  "cleaned_body": "INDIANAPOLIS -- — Myles Turner had 32 points and 10 rebounds, Caris LeVert had 24 points and 11 assists, and the Indiana Pacers beat the Houston Rockets 118-106 Thursday night.\n\nTurner made 14 of 18 shots as the Pacers hit 52.8% from the field. Chris Duarte scored 18 points and Jeremy Lamb had 16 for Indiana, which played without starters Malcolm Brogdon (sore right Achilles tendon) and Domantas Sabonis (sore right calf).\n\n“Myles was sensational,” Pacers coach Rick Carlisle said. “His offensive decision making was on point. He hit a 3, he hit a couple of mid-range shots, he attacked the rim and made some nice touch passes. He only had two turnovers. He had a calm poise to us that helped us get through the third quarter.\"\n\nChristian Wood scored 22 points for Houston, and Jalen Green added 20 in his return after missing nearly a month with a strained hamstring. Jae'Sean Tate had 18 points, and Eric Gordon scored 15.\n\nThe Rockets led 94-91 after three quarters, but the Pacers opened the fourth with a 10-2 run and maintained control the rest of the way.\n\nCarlisle said the turning point was assistant coach Lloyd Pierce's decision to go to the zone in the fourth quarter.\n\n“Their shotmaking was exceptional in the third quarter,” Carlisle said. “(Houston) is a rhythm team. We went to a zone to disrupt their rhythm. The guys did a great job of executing. Zones are harder to play than man-to-man, but we did a terrific job. They scored a few baskets but it wasn't like the barrage they hit us with in the second half.\"\n\nWood said it did throw the Rockets off their game.\n\n“Our offense got stagnant,” he said. “We didn't attack the zone the way we should.”\n\nIndiana won the rebounding battle 47-28.\n\n“That's an effort stat,” Carlisle said of the rebounding. “These guys responded extremely well without two of our top players. It was a game we needed very badly.\"\n\nCarlisle said he was especially pleased with the way his team responded following a 125-96 loss at Miami on Tuesday night.\n\nWood said overall defense was a bigger problem for the Rockets rather than just the Pacers' edge in rebounding.\n\nON POINT\n\nLeVert took over point guard duties in Brogdon's absence.\n\n“Caris has proven he's a hell of a point guard,” Carlisle said. “Caris is a stone-cold attacker. He knows how to win. If you put the ball in his hands the way we did tonight, he makes really good plays.\"\n\nTIP-INS\n\nRockets: Houston has lost seven of nine. ... Coach Stephen Silas said Green would be on a minutes restriction, but he played 25 minutes. Green, the second overall pick in the 2021 draft, was out since Nov. 24.\n\nPacers: Brogdon played eight minutes Tuesday at Miami and couldn't suit up Thursday. ... Carlisle said Sabonis was kicked in the leg against Detroit on Dec. 16. He played at Miami, but he aggravated the injury. “We're hoping this thing without Malcolm and Domas is not a long-term thing, and we can get back being more intact sooner rather than later,\" Carlisle said.\n\nUP NEXT\n\nRockets: At Charlotte on Monday.\n\nPacers: At Chicago on Sunday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.784828",
+  "pipeline_version": "v1"
+}

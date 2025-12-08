@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100756",
+  "espn_id": "401360575",
+  "date": "Jan 30, 2022",
+  "matchup": "MIL vs. DEN",
+  "headline": "Nikola Jokic, Nuggets rout defending champ Bucks 136-100",
+  "cleaned_body": "MILWAUKEE -- — Nikola Jokic had 18 points, 15 assists and nine rebounds to help the Denver Nuggets rout the Milwaukee Bucks 136-100 on Sunday night.\n\nThe reigning NBA MVP just missed his 13th triple-double of the season. He matched his season high for assists.\n\n“He likes to win,” Bucks coach Mike Budenholzer said about Jokic. “He’s going to do whatever it takes to win. Credit to him.”\n\nAaron Gordon scored 24 points, Monte Morris had 18 and Will Barton 15 for the Nuggets. They improved to 4-0 on a six-game trip and matched their longest winning streak of the season. Denver has won six of the last seven and 13 of the last 19 road games against Milwaukee.\n\n“We had a lot of guys shoot the ball really really well tonight,” Nuggets coach Michael Malone said. “This is a really really good win for us.”\n\nThe Nuggets had a season-high 39 assists, four more than they had against the Los Angeles Lakers on Jan. 15.\n\nMilwaukee star Giannis Antetokounmpo scored 22 of his 29 points in the first half. He was the MVP in consecutive seasons before Jokic earned that honor last season.\n\nJrue Holiday scored 14 points, and Bobby Portis, who guarded Jokic throughout the contest, added 11 for the Bucks. Grayson Allen finished with 11 points in his second start since serving a one-game suspension for his flagrant foul 2 on the Chicago Bulls’ Alex Caruso that resulted in a fractured right wrist.\n\n“Any time you can win all fourth quarters that means your starters are playing really well and your bench is playing really well,” Malone said.\n\nDenver took control in the third quarter. The Nuggets led 118-93 when the Bucks called a timeout with 5:55 left to play and cleared the bench.\n\n“They were significantly better than us tonight,” Budenholzer said.\n\nJokic passed to Barton, who flipped a no-luck pass to Gordon for an uncontested dunk that capped a 12-5 run and gave Denver a 77-62 lead with 8:27 left in the third quarter. The Bucks immediately called a timeout to figure out how to stop the Nuggets. They never did.\n\n“He (Jokic) was sitting there picking us apart,” Holliday said. “We didn't give ourselves a chance to win.”\n\nMilwaukee beat the Nuggets 120-109 in Denver on Nov. 26.\n\nTIP INS:\n\nNuggets: Barton was back in the starting lineup after missing two game due to non-COVID illness. … DeMarcus Cousins (sprained right foot) was ruled out. Cousins appeared in 17 games for the Bucks on a non-guaranteed contract, but was waived Jan. 6. The Nuggets signed him to a 10-day contract Jan. 21.\n\nBucks: George Hill (neck soreness) was out.\n\nUP NEXT\n\nNuggets: At Minnesota on Tuesday night.\n\nBucks: Host Washington on Tuesday night.",
+  "tags_rule": [
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.547015",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100418",
+  "espn_id": "401360242",
+  "date": "Dec 15, 2021",
+  "matchup": "ATL @ ORL",
+  "headline": "Young overcomes neck injury, Hawks beat Magic 111-99",
+  "cleaned_body": "ORLANDO, Fla. -- — Trae Young played through a neck injury to score 28 points, John Collins had 21 points and 10 rebounds and the Atlanta Hawks beat the Orlando Magic 111-99 on Wednesday night to end a two-game losing streak.\n\nYoung left for the locker room late in the third quarter after Orlando’s Cole Anthony hit him with an elbow in the face on an offensive foul. Young was deemed to have a neck cramp and returned with 5:31 remaining after Orlando got to 104-84. He finished with four rebounds and four assists and made his only 3-pointer with 2:41 remaining.\n\n“My neck has been a little sore and then getting that elbow to the face just kind of turned my neck,” said Young, who made 11 of 22 shots. “I wouldn’t say whiplash, but it made my neck feel kind of weird. I just had to go to the back and get it rubbed out. That’s pretty much all it is — it’s sore, but it’s all right.”\n\nAtlanta won its fifth consecutive road game — a feat made more impressive by the fact that it opened the season 1-8 away from home. The Hawks are the first team since the 2004-05 Philadelphia 76ers to follow up a seven-game road losing streak with a five-game winning streak away from home, according to Elias Sports.\n\nLou Williams scored 14 points, and Cam Reddish added 13 points to help the Hawks beat the Magic for a second time this season and for the fifth straight time over the past two years. Atlanta bounced back from a 132-126 loss to Houston two nights earlier in which it surrendered 44 fourth-quarter points.\n\n“I just like the way that we responded tonight, coming on the road and just being solid throughout the game,” Atlanta coach Nate McMillan said. “The things that we talked out, we did them. Trying to play a perfect game, we can’t do that, but we’re going to try.”\n\nThere was no fourth-quarter drama on Wednesday from an Orlando team that lost its sixth straight game, for the 12th time in the past 13 games and dropped to 2-9 at home. The Magic trailed by 10 in the first quarter, by as much as 23 early in the fourth quarter and never mounted much of a second-half charge. The Magic’s only lead in the game came at 3-2.\n\nTerrence Ross scored 18 points for Orlando. R.J. Hampton, who started his first game of the season in place of injured guard Gary Harris, scored 15 points. Anthony missed nine of his first 10 shots and finished with just seven points.\n\n“We talk about the next man up and those guys who came in, they played hard and played together,” Magic coach Jamahl Mosley said.\n\nFOURTH-QUARTER FALTERINGS\n\nOne of the NBA’s best closing teams last season and during their stirring postseason run, the Hawks have struggled in that area so far. Already, Atlanta has blown four games in which it led after three periods — none more painful than in Monday’s fourth-quarter collapse against Houston.\n\n“We were a good team last year finishing games,” McMillan said. “We became a better fourth-quarter team with our execution (last season) and that’s something we have to do again. We have to understand the urgency that needs to be played in fourth quarters.”\n\nTIP-INS\n\nHawks: Heavyweight champion Tyson Fury sat courtside. … Young came into Wednesday as the NBA’s leader since the 2018-19 season in 30-point/10-assist games (37) and 20-point, 10-assist games (73). … Atlanta improved to 4-2 when allowing fewer than 100 points.\n\nMagic: Mo Bamba missed his second game — this time because of a sprained ankle — and Chuma Okeke got his first start. Said Mosley of Bamba’s injury: “They tested it out a little bit and it was more tender than they expected, so we’ll just go day-by-day with him.” … Jalen Suggs, who hasn’t played since Nov. 29, had his fractured right thumb reevaluated and Mosley said the rookie is “progressing.”\n\nUP NEXT\n\nHawks: Host Denver on Friday night.\n\nMagic: Host Miami on Friday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "LateCollapse"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.794694",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700232",
+  "espn_id": "400974983",
+  "date": "Nov 18, 2017",
+  "matchup": "MEM vs. HOU",
+  "headline": "Harden scores 29 to lead Rockets past Grizzlies 105-83",
+  "cleaned_body": "MEMPHIS, Tenn. --  Chris Paul is back, and the Houston Rockets are rolling.\n\nJames Harden scored 29 points, Clint Capela had 17 points and 13 rebounds and the Rockets beat the Memphis Grizzlies 105-83 on Saturday night for their eighth win in nine games.\n\nPaul added 17 points and six assists in his second game since returning from a left knee injury. Paul and Harden combined for 10-of-19 shooting from beyond the arc, and the Rockets were 18 for 43 from 3-point range overall.\n\n\"We've got everybody healthy now,\" Harden said. \"We're more versatile and more active.\"\n\nMemphis played without point guard Mike Conley, who missed his second game with left Achilles tenderness. Brandan Wright left in the second quarter with a right groin injury.\n\nThe Grizzlies have dropped four in a row, and Marc Gasol called their play \"embarrassing and sad.\"\n\n\"There's no consistency,\" said Gasol, who had 15 points. \"It's going to be really hard to win consistently. You might win games every now and then, you might even stay at .500, but that's not enough. That's not what we built here for 10 years. That's not it. That's not what we stood for.\"\n\nChandler Parsons led Memphis with 17 points on 7-for-9 shooting, and JaMychal Green also scored 15.\n\nHouston (13-4) was in control the entire game. Memphis led only once, by one point in the first quarter.\n\nThe Rockets used their normal 3-point shooting prowess to build an 18-point lead in the first half. Houston went 11 of 24 from long range in the half.\n\nMemphis pulled within two late in the second quarter, but Houston led 59-50 at the break. The Rockets continued to pull away after halftime, limiting the Grizzlies to just 33 points in the last two quarters.\n\n\"We all know that the only way we're going to go far in the playoffs is defensively,\" Rockets coach Mike D'Antoni said. \"You've got to be a bear. Tonight, we were.\"\n\nTIP-INS\n\nRockets: Eric Gordon converted a four-point play late in the first half. ... Houston has won five straight on the road. ... Houston is 11-1 when leading after the third quarter. ... Capela recorded his 11th double-double of the season. ... Houston made its first 11 free throws before Nene missed one in the third quarter. .Memphis' 83 points were a season-low for a Rockets opponent.\n\nGrizzlies: It was Parsons' first start of the season. ... Memphis (7-8) fell below .500 for the first time this season. The Grizzlies started the season 5-1.\n\nSEE YOU NEXT YEAR\n\nThe Rockets and Grizzlies split their four-game season series. They have split the season series the last five years.\n\nFRUSTRATION\n\nGasol spent a good amount of time after the game explaining his feelings about the Grizzlies' play. He said it took him 20 minutes to gather his thoughts before addressing the media.\n\n\"The only thing I can say is (I) apologize because that's not what our fans are used to seeing,\" he said. \"We've got to figure it out, and the only way I know to do that is working.\"\n\nUP NEXT\n\nRockets: Host Denver on Wednesday.\n\nGrizzlies: Host Portland on Monday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.275607",
+  "pipeline_version": "v1"
+}

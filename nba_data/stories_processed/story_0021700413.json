@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700413",
+  "espn_id": "400975164",
+  "date": "Dec 14, 2017",
+  "matchup": "ATL vs. DET",
+  "headline": "Drummond helps Pistons beat Hawks to snap 7-game skid",
+  "cleaned_body": "ATLANTA --  Leading the NBA's worst club by 21 points midway through the fourth quarter, Pistons coach Stan Van Gundy took no chances.\n\nHe sent his starters back in.\n\n\"It's been two weeks of hell,\" Van Gundy said. \"I said, `We're going to make sure we get this one.' \"\n\nAndre Drummond had 12 points, 19 rebounds and a career-high nine assists, Tobias Harris added 19 points and Detroit snapped a seven-game slide with a 105-91 victory over the Atlanta Hawks on Thursday night.\n\nAvery Bradley finished with 18 points and Langston Galloway scored 17 as Detroit won for the first time since beating Phoenix on Nov. 29.\n\nErsan Ilyasova had 23 points, rookie John Collins scored 15 and Dennis Schroder had 10 assists for Atlanta, which dropped to 6-22 and has lost three in a row.\n\nThe Pistons never trailed after Galloway's 3-pointer early in the second quarter. They led by 13 at halftime when Galloway hit a 20-footer in the closing seconds and went up by 22 on Reggie Bullock's floater midway through the third.\n\nVan Gundy knew Drummond needed just one assist for his first career triple-double, but said he didn't want to risk an injury to the 6-foot-11, 279-pound center and pulled him out with 1:59 remaining. Drummond was fine with the decision.\n\n\"I tried to get one more, but obviously the flow of the game didn't go that way,\" Drummond said. \"But a career night for me, so I'm pretty excited about that.\"\n\nDetroit recovered from a 103-84 home loss Tuesday to Denver, a performance Van Gundy called one of the worst \"I've ever had to coach\" in over 850 career games.\n\nBullock was promoted to the starting lineup after Sunday's 10-point home loss to Boston. He finished with 10 points in 24 minutes against Atlanta.\n\nCollins returned after missing the last six games with a sprained left shoulder. The first-round draft pick from Wake Forest is one of the few reasons for Hawks fans to cheer.\n\n\"He brings an athleticism,\" Atlanta coach Mike Budenholzer said. \"He brings a pop. Going to the offensive boards, the ability to put pressure on the rim, the pick-and-roll game and defensively, for his first game back, I'm really pleased with how he played.\"\n\nTIP-INS\n\nPistons: F Stanley Johnson, demoted in favor of Bullock, had two points and two rebounds in 15 minutes. He played 8 minutes in the first half, but returned in the fourth in Bullock's spot as Van Gundy decided to play his starters. ... Drummond had 16 points, 20 rebounds and seven assists in a 111-104 win over Atlanta on Nov. 10. .... After breaking his nose against the Nuggets, F Anthony Tolliver wore a protective mask and had six points and two rebounds in 15 minutes.\n\nHawks: With a left tibia stress fracture sidelining C Dewayne Dedmond for a seventh straight game, Miles Plumlee went scoreless, took no shots and had four boards. The sixth-year veteran has averaged just 3.6 points and 3.3 rebounds in nine games. Acquired in the offseason trade that sent Dwight Howard to Charlotte, Plumlee showed up to training camp out of shape, strained his right quadriceps before the opener and didn't make his Atlanta debut until the end of a blowout loss to Toronto on Nov. 25. .. Rookie Tyler Cavanaugh started at center in Tuesday's loss at Cleveland. He didn't get in Thursday's game until midway through the fourth but still finished with nine points in eight minutes.\n\nUP NEXT\n\nPistons: Visit Indiana on Friday. Detroit has lost six straight road games in the series.\n\nHawks: Visit Memphis on Friday.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.086224",
+  "pipeline_version": "v1"
+}

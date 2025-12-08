@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100271",
+  "espn_id": "401360095",
+  "date": "Nov 24, 2021",
+  "matchup": "CHI @ HOU",
+  "headline": "Rockets beat Bulls 118-113 to end 15-game losing streak",
+  "cleaned_body": "HOUSTON -- — Danuel House Jr. had 18 points, Christian Wood added 16 points and 10 rebounds and the Houston Rockets ended their losing streak at 15, beating the Chicago Bulls 118-113 on Wednesday night.\n\nKevin Porter Jr. had 14 points, six rebounds and nine assists after missing three games because of a bruised left thigh. Second overall pick Jalen Green scored 11 points in the first quarter before exiting with a left leg injury.\n\n“Great. Unbelievable. Excited,” House said. “So many words to be said for that one question. We’re grateful for it, but we can’t hang our hats on it.”\n\nHouse scored all 18 points in the second half after not playing at all in the first half. Houston coach Stephen Silas called House’s impact “huge”.\n\n“He’s been in and out of the rotation,” Silas said. “He played eight minutes the last game. I wanted to get him out there just so he could continue to believe that his work would pay off, and tonight, he was the difference maker really.”\n\nHouston improved to 2-16. It shot 50% from the field and made 17 of 36 on 3-pointers, going 8 of 11 from behind the arc in the third quarter.\n\n“It feels good, and when you make 17 3s it looks a lot better,” Silas said. “We were getting some of those shots previously and shooting 25% instead of 47%. We were in our spacing spots. It looked a lot better because we were making them.”\n\nZach LaVine led Chicago with 28 points. Lonzo Ball added 19 points, DeMar DeRozan had 17 points and seven assists, and Alex Caruso scored 15 points.\n\nNikola Vucevic had 14 points and 13 rebounds in his return after missing seven games in the NBA’s COVID-19 health and safety protocols.\n\nChicago coach Billy Donovan said the Rockets came out of halftime more aggressive. Houston outscored the Bulls 35-18 in the third quarter.\n\n“We just came out and kind of messed around with the game, and before you know it, we’re down by 10 after being up by 10,” Donovan said. “I have to help this group solve it and figure that part of it out. … We’re a very good team, but we are not so good that we cannot show up and play in a quarter in an NBA game and expect to win.”\n\nChicago cut Houston’s lead to three on LaVine’s layup, but House responded with a 3 to increase the lead to 109-103 with 2:23 remaining. After the teams traded baskets, Caruso hit a 3-pointer with 47 seconds left to cut the lead to 111-108.\n\nGarrison Matthews responded with a 3-pointer from the corner with 25 seconds remaining, and Houston pushed the lead to eight on two free throws by House with 16 seconds left. LaVine hit a 3-pointer, and after a steal, connected on a long two with two seconds left to cut the lead to 116-113.\n\nAfter a timeout, Matthews hit two free throws to ice the win.\n\nTrailing 73-63 midway through the third, Houston finished the quarter outscoring the Bulls 27-9 to take a 90-82 lead on a 3-pointer by House with 30 seconds left in the third. House had 10 points in the run, and Armoni Brooks added eight.\n\nTIP-INS\n\nBulls: Caruso (bruised left wrist) also returned to the lineup after missing Monday’s game against Indiana. … The Bulls held a 50-42 advantage in points in the paint. … Chicago forced Houston into 21 turnovers, which the Bulls turned into 35 points.\n\nRockets: Alperen Sengun had 13 points, Brooks had 11 points and Matthews had 12 points as Houston’s bench finished with 59 points. … The Rockets had a 45-41 advantage in rebounds. … Houston held a 16-2 advantage in second-chance points.\n\nUP NEXT\n\nBulls: At Orlando on Friday night.\n\nRockets: Host Charlotte on Saturday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.731827",
+  "pipeline_version": "v1"
+}

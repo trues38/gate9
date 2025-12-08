@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100448",
+  "espn_id": "401360272",
+  "date": "Dec 19, 2021",
+  "matchup": "CHI vs. LAL",
+  "headline": "DeRozan leads Bulls over Lakers 115-110 in team's return",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan scored 38 points after missing two weeks in the NBA's health and safety protocols, leading the Chicago Bulls to a 115-110 victory over the Los Angeles Lakers on Sunday night.\n\nNikola Vucevic had 19 points and 13 rebounds, and Lonzo Ball added 19 points as the Bulls snapped a two-game losing streak. It was Chicago's first game since Dec. 11 after two were postponed.\n\nLeBron James had 31 points, Carmelo Anthony added 21 and Russell Westbrook 20 as Los Angeles dropped its second straight.\n\nWith the Bulls trailing by a point in the final minute, DeRozan hit an 18-footer for a 111-110 lead with 52 seconds remaining. Following a Lakers miss, DeRozan missed a shot but then was fouled with 15.6 seconds left after Ball grabbed the offensive rebound. DeRozan then hit both free throws for a 113-110 edge.\n\nLike much of the first two months of the season, the Bulls turned to DeRozan in crunch time and he delivered.\n\n“It’s an honor to be trusted in those moments,\" he said. \"I never take it for granted. It’s an adrenaline rush that you can’t duplicate, so you try to make the most of it every time you’re put in that position. There’s nothing like it. You’ve got to take the good with the bad, and I’m willing to take both.”\n\nBefore having two games postponed last week because of a COVID-19 outbreak, the Bulls had 10 players in the health and safety protocols. That number is down to four right now, including All-Star Zach LaVine.\n\nAlthough the Lakers haven't had any games postponed, they currently have six players — Kent Bazemore, Avery Bradley, Talen Horton-Tucker. Dwight Howard, Malik Monk and Austin Reaves — and coach Frank Vogel in the health and safety protocols.\n\nAssistant David Fizdale served as coach on Sunday.\n\nIt also was Los Angeles' first game since forward Anthony Davis sprained his left knee on Friday. He is expected to miss four weeks.\n\n“Obviously we’re doing things on the fly, figuring out how to play with the lineups we have and the people we have available,\" Westbrook said. \"New guys are stepping in here, so we’ve got to do what we can. That’s it. You’ve just got to play hard and let the rest take care of itself.”\n\nChicago led nearly the entire first half and by as much as 10 points before taking a 61-59 halftime lead. The Lakers went ahead 65-64 early in the third quarter on a floater by Isaiah Thomas.\n\nThe teams traded baskets and leads for the remainder of the quarter before Los Angeles took an 84-83 advantage into the fourth.\n\nThe Lakers stretched the lead to 90-85 early in the final quarter on a three-point play by DeAndre Jordan, but a short while later DeRozan hit a turnaround jumper in the lane to put the Bulls on top 94-93.\n\nWith Chicago up 99-96, Anthony nailed back-to-back 3-pointers (both on passes from James) for a 102-99 Los Angeles lead with 5 minutes to go. The game remained tight until DeRozan took over late.\n\n“Just pretty amazing what he did being out, missing games and having two days,\" Bulls coach Billy Donovan said. \"His mental toughness and his competitive spirit are pretty amazing. Just his shot-making ability when we needed buckets.”\n\nIN TOUCH\n\nFizdale said he wasn't sure if Vogel was still in Chicago, but the two communicated via text at halftime and after the game.\n\nLATE NIGHT\n\nAfter being cleared by the league, DeRozan went to the Bulls' training facility at 1 a.m. to get some shots up.\n\nTIP-INS\n\nLakers: F Trevor Ariza made his season debut after sitting out the first two months with a right ankle injury. The 17-year veteran finished with three points in 15 minutes off the bench ... G Kendrick Nunn was cleared from the health and safety protocols on Sunday, but remains sidelined with a right knee bruise.\n\nBulls: Donovan doesn't expect any of the remaining players in the COVID protocols to return to game action before Christmas. Chicago plays Monday and Wednesday and then is off until Dec. 26. Of those four, Donovan also said only F Troy Brown Jr. is experiencing anything other than mild symptoms.\n\nUP NEXT\n\nLakers: Host the Phoenix Suns on Tuesday.\n\nBulls: Host the Houston Rockets on Monday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.422878",
+  "pipeline_version": "v1"
+}

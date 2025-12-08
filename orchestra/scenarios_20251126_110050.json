@@ -1,0 +1,17 @@
+{
+    "positive_case": {
+        "title": "Strengthening Economic Alliances Amidst Rising Defense Spending",
+        "description": "In response to increasing defense budgets, notably Taiwan's $40 billion allocation, South Korea, the US, and Japan strengthen their economic ties with a renewed focus on joint technological and military developments. Enhanced cooperation leads to increased investments in each country's tech industries, fostering innovation and stabilizing supply chains amidst geopolitical tensions. This alignment bolsters regional economic growth and encourages collaborative trade agreements, leading to an overall positive impact on the global economy.",
+        "probability": "40%"
+    },
+    "neutral_case": {
+        "title": "Gradual Adjustments to Economic Policies",
+        "description": "As the global economy remains uncertain, South Korea, the US, Japan, and China adopt cautious approaches to their fiscal and trade policies. The US's focus on domestic tourism and the potential for interest rate cuts do not significantly disrupt the balance of trade. Japan's ongoing struggles with currency intervention and China's gradual opening of its markets create a wait-and-see environment where businesses remain hesitant to commit to large-scale investments. The short-term outlook is stable, yet lacking any significant economic upheaval.",
+        "probability": "35%"
+    },
+    "negative_case": {
+        "title": "Escalating Trade Tensions and Economic Instability",
+        "description": "The geopolitical climate exacerbates, with rising tensions between Taiwan and China leading to retaliatory trade measures. South Korea faces economic ramifications from these frictions due to its reliance on both Chinese imports and American alliances. Japan's inability to control yen depreciation further complicates the situation, leading to diminished foreign investment and increased economic instability across the region. This scenario negatively affects global supply chains and leads to heightened volatility in financial markets.",
+        "probability": "25%"
+    }
+}

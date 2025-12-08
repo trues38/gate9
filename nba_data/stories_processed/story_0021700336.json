@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700336",
+  "espn_id": "400975087",
+  "date": "Dec 03, 2017",
+  "matchup": "MIN vs. LAC",
+  "headline": "Butler scores 33 points, T-Wolves outlast Clippers 112-106",
+  "cleaned_body": "MINNEAPOLIS --  This is why Minnesota acquired Jimmy Butler in the offseason. And not just for the scoring, although that certainly helped Sunday night.\n\nButler scored 20 of his 33 points in the fourth quarter to help Minnesota outlast the Los Angeles Clippers 112-106. After the game, though, her spent more time bemoaning the defensive breakdowns -- a common sight in these parts for the past several years.\n\n\"We've got to start guarding somebody,\" Butler said. \"It's really bad, it's really noticeable, and everybody capitalizes on it. But lucky enough, if your shot's falling you can still win. But good gracious, if it's not, I'd hate to see which way this game could've went.\"\n\nSounds an awful lot like his defensive-minded coach, Tom Thibodeau, who's trying to solve Minnesota's defensive woes as it looks to turn around a culture of losing. Thibodeau looked and sounded just as downcast as he has after losses.\n\n\"The miscommunication, the awareness, we're talking to each other and they're racing the ball up the floor,\" he said of several breakdowns that led to easy Clippers baskets in the fourth quarter. \"The fourth quarter is so different, and we have a lot to do in that area.\"\n\nThe Wolves overcame a season-high 30 points from Austin Rivers, who matched his career best with seven 3-pointers. Rivers' final 3-pointer gave L.A. a 92-91 lead with 6:54 to play before Butler scored nine in a row to send the Clippers to their third straight loss.\n\nMinnesota led for most of the game but couldn't manage a serious run, mostly due to Rivers' shooting. Rivers hit three 3-pointers in the final five minutes of the first half to keep the Clippers close. He had a career-high 20 points in the half.\n\n\"I just got good looks early and once you see a couple go in, it goes from there,\" Rivers said. \"Once you make a couple, even the tough ones seem easy, or at least in my mind.\"\n\nThe back and forth continued for most of the second half, and a couple of Minnesota defensive lapses led to easy layups and a wide-open dunk by Montrezl Harrell to give Los Angeles an 84-83 lead with 9:12 to go.\n\nRivers' seventh 3-pointer gave the Clippers a one-point lead, but Butler took over from there, hitting a free throw, 3-pointer and short jumper before converting a 3-point play to give the Wolves some breathing room.\n\n\"I mean, if I make a couple shots,\" Butler said, \"why not keep shooting the ball?\"\n\nHis teammates certainly didn't mind.\n\n\"That shows you why he's such an elite player in this league,\" Karl-Anthony Towns said. \"I was glad to have the popcorn right there and have a front row seat for it because it was amazing.\"\n\nGROWING PAINS\n\nRookies Jamil Wilson and C.J. Williams made their first career starts. Wilson finished with nine points and Williams five. The Clippers were missing four of their opening-night starters, but it wasn't obvious from the close score. And L.A.'s bench outscored Minnesota's 43-23.\n\n\"Overall, I'm upset\" coach Doc Rivers said. \"I mean, you want to win the game. But I loved how we played. It's amazing how much better we got in one night. That's what I would take.\"\n\nTIP-INS\n\nClippers: Doc Rivers said F Danilo Gallinari (strained left glute) would play 3-on-3 and could be close to returning. \"He'll play in the next couple, two to three games will be my guess,\" Rivers said. Gallinari, who's averaging 12.8 points, missed his 13th game due to the injury. ... Lou Williams had 23 points off the bench, and DeAndre Jordan had 17, including some big dunks in the fourth.\n\nTimberwolves: Thibodeau reached 300 career victories. He's 300-200. ... Taj Gibson had 20 points, and Towns had 15 points and 12 rebounds for his NBA-leading 19th double-double. ... F Nemanja Bjelica missed his sixth straight game since spraining his left foot. He's dressed for the last four games. ... Jamal Crawford scored 12 points in his first game against his old team. Crawford played five seasons for the Clippers. ... The Wolves have beaten the Clippers three straight times.\n\nUP NEXT\n\nClippers: Host Minnesota on Wednesday night.\n\nTimberwolves: At Memphis on Monday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.172115",
+  "pipeline_version": "v1"
+}

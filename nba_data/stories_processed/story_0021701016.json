@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701016",
+  "espn_id": "400975762",
+  "date": "Mar 14, 2018",
+  "matchup": "MIL @ ORL",
+  "headline": "Simmons, Augustin power Magic over Bucks, 126-117",
+  "cleaned_body": "ORLANDO, Fla. --  A little redemption for the Orlando Magic was a big blow to the Milwaukee Bucks.\n\nJonathon Simmons scored a career-high 35 points, D.J. Augustin added 32 and the Magic bounced back from an embarrassing defeat to beat the Bucks 126-117 on Wednesday night.\n\nNikola Vucevic had 22 points, nine rebounds and nine assists for the Magic, who were routed 108-72 Tuesday night in San Antonio, their fifth straight loss.\n\n\"We were able to bounce back with some enthusiasm,\" Simmons said.\n\nGiannis Antetokounmpo scored 38 points for Milwaukee, which has lost seven of 10 while battling for playoff positioning.\n\nCoach Joe Prunty, who described the Bucks' effort as \"horrible,\" didn't see much energy from his team on the defensive side of the floor.\n\n\"You don't have to look too far to see that they had three guys dominate the game for them offensively,\" Prunty said. \"They hit every shot in our face. You can't give guys their shot. You have to get out, contest it, make them work to get their shots.\"\n\nSimmons was 7 of 12 from 3-point range, Augustin hit 6 of 9, and the Magic set a franchise record at home with 18 3s in 34 attempts.\n\n\"(Tuesday night) was a tough game for us, but it happens to the best of us,\" Augustin said. \"We put it behind us, went out there and shared the ball, helped each other out on defense and played with a lot more energy.\"\n\nAugustin and Simmons combined for 20 points as the Magic closed out the first quarter on a 27-7 run to take a 16-point lead.\n\nMilwaukee (36-32) erased most of it quickly in the second quarter, but did not regain the lead until Eric Bledsoe converted a turnover into a layup with 4:50 left in the third quarter.\n\nOrlando (21-48) scored the final 14 points of that period to take 91-80 lead into the fourth.\n\nThe Bucks never got within five in the fourth quarter.\n\n\"I think we've done a pretty good job of winning games we're supposed to win this year,\" Bucks center John Henson said. \"But we needed this win tonight for the playoff race, and didn't get it.\"\n\nTIP-INS\n\nBucks: G Brandon Jennings, who returned to the NBA with 16 points and 12 assists in Monday night's win at Memphis after signing a 10-day contract, had two points Wednesday night.\n\nMagic: G Evan Fournier missed a fourth straight game with a sprained left knee.\n\n300TH WIN FOR VOGEL\n\nMagic coach Frank Vogel got his 300th career victory in what he described as the toughest game on the schedule. \"It's a zombie game when you come back from the West Coast into a back-to-back, and the guys just don't have it in their legs to make shots, and in their minds to focus,\" he said. \"Our guys played mentally tough and got a difficult W.\" Vogel is 300-282 in eight seasons at Indiana and Orlando.\n\nGORDON STILL SIDELINED\n\nAaron Gordon, the Magic's top scorer and second-leading rebounder, missed his fourth straight game since a collision with Lakers forward Julius Randle put him in concussion protocol. \"The worst thing that can happen to an athlete is to be concussed while being concussed,\" Vogel said. \"That's where long-term injury takes place, so we're taking every measure to prevent that.\"\n\nUP NEXT\n\nBucks: Host Atlanta on Saturday night.\n\nMagic: Host Boston on Friday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.582256",
+  "pipeline_version": "v1"
+}

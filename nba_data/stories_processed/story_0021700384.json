@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700384",
+  "espn_id": "400975135",
+  "date": "Dec 09, 2017",
+  "matchup": "POR vs. HOU",
+  "headline": "James Harden scores 48 points, Rockets win 9th in row",
+  "cleaned_body": "PORTLAND, Ore. --  The NBA's hottest team has found a home on the road.\n\nHouston won its ninth consecutive game after James Harden scored 48 points and the Rockets rallied from 14-point, fourth-quarter deficit to beat the Portland Trail Blazers 124-117 on Saturday night.\n\nThe Rockets, who trailed for most of the game, won their eighth consecutive road game, running their season road record to 12-1. It is Houston's best road start since the 1996-97 season.\n\nHarden hit 16 of 29 shots and grabbed eight rebounds, while Chris Paul scored 24 points and Trevor Ariza had 13 for Houston. The Rockets' 20-4 record is the best by percentage in the NBA this season.\n\n\"We're riding high right now. That's great. We know we'll have some bumps. We have a lot of things to figure out, but we just keep getting better and grinding it out,\" Houston coach Mike D'Antoni said.\n\nHouston took a good punch from Portland, which was trying to end a three-game home court losing streak. Damian Lillard tied a franchise record with nine 3-pointers and scored 35 points, while C.J. McCollum had 28 for the Blazers (13-12).\n\n\"It was disappointing to lose. . We had a lot of good efforts from a lot of different players. It was good to be in a game at the end against a really good team,\" Portland coach Terry Stotts said.\n\nHouston hasn't had a close game in a while, particularly with Paul returning to action from an early season knee injury. That changed Saturday as Portland built a 98-84 lead after three quarters, though Lillard started the fourth quarter with an ice bag on his right foot after limping to the bench.\n\nHouston went to a small lineup, and punished Portland's defense with 1-on-1 offense. The Rockets hit 15 of 18 shots, and Harden and Paul combined to score 25 of the team's 40 fourth-quarter points.\n\n\"Me and James were talking about how cool it was. I went a few times and then he got to go a few times. It was fun that we got to play off of each other like that,\" Paul said.\n\nHarden went 6 of 7 during the fourth quarter, including five layups.\n\n\"We went small and they had to adjust to us . once they did that, we had shooters on the court and the lane was wide open. So it was layup, layup, layup, 3-ball,\" Harden said.\n\nWith Lillard's foot on ice, Houston launched a rally, pulling to 103-98 when Lillard returned with 7 minutes remaining. But the Rockets had momentum, and took a 110-109 lead on Ariza's 3-pointer.\n\nThe Rockets never trailed again, outscoring Portland 14-6 during the final 3 minutes.\n\n\"It took everything we had to beat them,\" D'Antoni said.\n\nThe Blazers, eager not to finish a home stand 0-4, were aggressive early, as Lillard hit two 3-pointers but also drew two fouls during the first 3 minutes. Midway through the first quarter, Lillard stepped in front of Paul and earned a charging foul, touching off a battle of words that resulted in technicals to Portland's Meyers Leonard and Paul.\n\nLillard's 3-pointer gave Portland its largest lead of the first half at 57-46, but Houston outscored the Blazers 16-5 during the final 5:37 to pull even at 62 at halftime.\n\nTIP-INS\n\nRockets: Houston is 10-0 with Paul in the lineup. ... Paul missed 14 games with a knee injury. ... Nene returned to action after missing one game with a corneal abrasion. ... Houston plays its next seven games at home. ... Harden has scored at least 20 points in each of Houston's 24 games this season, only the second player to accomplish such a feat since the 1990-91 season.\n\nTrail Blazers: Portland had fresh faces in its starting lineup, as Leonard made his first start and guard Evan Turner his second of the season. They were replacements for injured Jusuf Nurkic (ankle) and Maurice Harkless (quad). ... The Blazers hit a season-high nine 3-pointers during the first half. ... Portland begins a five-game trip Monday at Golden State.\n\nROCKETS WIN BIG AT THE LINE\n\nHouston piled up a big edge at the free throw line, making 34 of 42 shots, while Portland took only 12 free throws, making nine.\n\n\"The disparity was ridiculous,\" Stotts said.\n\nUP NEXT\n\nRockets: Host New Orleans on Monday night.\n\nTrail Blazers: At Golden State on Monday night.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.212788",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0021300753",
+  "espn_id": "400489626",
+  "date": "Feb 08, 2014",
+  "matchup": "MIL vs. HOU",
+  "headline": "Howard, Harden lead Rockets over Bucks 101-95",
+  "cleaned_body": "MILWAUKEE -- Dwight Howard was disappointed by the Rockets' inconsistent effort, even if it was good enough to beat the Bucks.\nHoward scored 27 points, including three crucial free throws in the closing seconds, and James Harden scored 10 of his 22 points in the decisive third quarter to help Houston hold off a short-handed but scrappy Milwaukee team for its fifth straight win, 101-95 Saturday night.\n\"We didn't attack like we needed to the whole game,\" Howard said. \"There were spurts when we attacked the basket, but there were times when settled for the 3. We have to always be in attack mode.\"\nThe Rockets let the Bucks get close once in the third and then again down the stretch.\n\"They dug into the lead a little bit,\" Rockets head coach Kevin McHale said. \"I'm just glad we got that win. That wasn't one of our best games. We had a lot of possessions offensively where we didn't move the ball.\"\nJeremy Lin added 18 as the Rockets tied their longest winning streak of the season, a mark set in late November.\n\"We're too up and down right now,\" Lin said. \"We go up 12 and then we are only up six. It would be nice for us to build leads and really dominate from start to finish.\"\nHoward grabbed 13 rebounds for his 33rd double-double of the season, the third highest in the NBA this season.\nNate Wolters, who scored a career-high 19, sparked the Bucks with seven points during a 16-7 run to open the second half and that pulled them to 63-61.\n\"Defensively, they kind of got what they wanted there for a while,\" McHale said of the Bucks' effort. \"But we had some good runs inside the game that got us some separation.\"\nThe Rockets quickly answered with baskets by Patrick Beverley and Terence Jones, and then Harden added seven points to prevent Milwaukee from getting any closer using an 18-8 run to end the third and take an 81-69 lead into the fourth.\nBrandon Knight scored 23 points and Khris Middleton 20, including three free throws after being fouled behind the arc with 46.6 seconds remaining as Milwaukee came back to trail 98-95. Howard made three of four free throws for Houston's final points and seal the win.\n\"I thought for the most part, we hung in there,\" Bucks head coach Larry Drew said. \"The first half we really were just trying to make it work after we lost Larry Sanders.\"\nThe Bucks were already down to four reserves before an inadvertent elbow from Harden knocked Sanders out of the game with 7:37 left in the first quarter. The two were fighting for a rebound under the Bucks' basket. Sanders fell to the floor for a few moments before walking off. He did not return due to blurred vision.\nAfter the game, Bucks coach Larry Drew didn't have any additional news on Sanders.\nJohn Henson thought that Sanders got hit in the eye and probably would just have a black eye.\nWith the loss of Sanders, the Rockets had an easier time in the low post and outscored the Bucks 58 to 48 in the paint.\nLuke Ridnour (back), Ekpe Udoh (ankle), Ersan Ilyasova (back), O.J. Mayo (illness/conditioning) and Caron Butler (ankle) missed the game for Milwaukee.\nLin came off the bench to score 11 points in the first half as Houston shot 53.5 percent and took a 56-45 lead at the half. Harden added 11 points and then helped Howard get his 11th just before the half ended on a slick alley-oop. Howard had just converted a three-point play when Harden lofted a pass that the Rockets' center dunked for a 15-point lead.\nGame notes\nHouston improved to 15-3 against the Eastern Conference, including five straight against the East. ... Rockets C Omer Asik returned after missing the last 31 games with a right thigh/knee injury, but F Greg Smith' sore right knee kept him back in Houston. He's played in only 11 games so far this season. ... Howard is 17 of 18 in career games against the Bucks. ... The Rockets are 12-0 when Howard has scored at least 20 points in the last six weeks, compared to 2-6 when he doesn't.",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.011723",
+  "pipeline_version": "v1"
+}

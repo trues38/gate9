@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100262",
+  "espn_id": "401360086",
+  "date": "Nov 22, 2021",
+  "matchup": "SAC vs. PHI",
+  "headline": "76ers pull away in 4th to beat Kings, spoil Gentry's debut",
+  "cleaned_body": "SACRAMENTO, Callif. -- — Tyrese Maxey had 24 points and the short-handed Philadelphia 76ers beat Sacramento 102-94 on Monday night, spoiling Alvin Gentry’s debut as interim Kings coach.\n\nShake Milton scored 16 points and Matisse Thybulle added 15, helping the Sixers to their second win in eight games. Andre Drummond had nine points and 23 rebounds.\n\n“Guys stepped up tonight,” Maxey said. “We really buckled down defensively in the last four minutes. We got so many consecutive stops and guys like Shake hit big shots late. It was just a team collective effort.”\n\nSixers coach Doc Rivers was forced to juggle his roster yet again to make up for missing players. Philadelphia, already minus Joel Embiid and Ben Simmons, also played without Tobias Harris (left hip) and Seth Curry (back tightness).\n\nMaxey helped the team overcome those absences despite a rough night from the floor. The 76ers’ guard shot 8 of 22 and came up empty on four attempts beyond the arc.\n\nBut he had six points as part of Philadelphia’s fourth-quarter blitz. Milton and Georges Niang also scored six during the decisive surge.\n\n“Like I said before the game, we can get it to the fourth quarter, we felt like we had a chance to win,” Rivers said. “They went up (nine), we didn’t let go of the rope. We got to the last six minutes and we didn’t know who was going to make the bucket but we played great defense and we executed offensively and the ball found the open guy. That’s a good lesson for us.”\n\nPhiladelphia’s defense made the biggest difference down the stretch, limiting the Kings to 12 points in the fourth quarter. Drummond, who had three blocks, played a big role with three rebounds over the final two minutes while controlling the middle.\n\n“Staying the course is what we’re doing right now, just holding on as long as we can until everybody gets back,” Drummond said.\n\nDe’Aaron Fox had 23 points and Buddy Hield scored 21 for the Kings.\n\nGentry was promoted to interim coach after the Kings fired Luke Walton on Sunday. Gentry most recently served as head coach for the New Orleans Pelicans (2015-20). He’s also had head coaching stops with Miami, Detroit, the Los Angeles Clippers and Phoenix.\n\nNot much looked different, however, as Sacramento again had trouble finishing.\n\nThe Kings led by nine early in the fourth quarter but were outscored 25-8 over the final 9:45, extending their losing streak against the 76ers to seven games.\n\n“Bottom line, you have to step up and make shots,” Gentry said. “We got some good looks at it and we didn’t make them. That’s where we’ve kind of struggled. We played a team that had a lot of their starters missing and we didn’t get the job done.”\n\nTIP-INS\n\n76ers: Philadelphia matched its season low with seven turnovers that led to just six points. ... Isaiah Joe had 11 points in 17 minutes off the bench. … The Sixers have used 10 different starting lineups in 18 games.\n\nKings: Tristan Thompson had eight points in the third quarter, including a one-handed putback dunk. … Richaun Holmes scored 10 of his 18 points in the third as well.\n\nUP NEXT\n\n76ers: Face the Golden State Warriors on Wednesday.\n\nKings: Play the Portland Trail Blazers on Wednesday.\n\n------",
+  "tags_rule": [
+    "Streak",
+    "ThreePointExplosion"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.487040",
+  "pipeline_version": "v1"
+}

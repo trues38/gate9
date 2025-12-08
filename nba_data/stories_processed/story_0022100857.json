@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100857",
+  "espn_id": "401360676",
+  "date": "Feb 13, 2022",
+  "matchup": "IND vs. MIN",
+  "headline": "Edwards' milestone game leads Timberwolves over Pacers",
+  "cleaned_body": "INDIANAPOLIS -- — Anthony Edwards celebrated a milestone Sunday by scoring 37 points and leading the Minnesota Timberwolves to a 129-120 victory over the Indiana Pacers.\n\nEdwards became the fourth-youngest player in NBA history to reach the 2,500-point mark when he made his first basket of the game. The second-year forward is 20 years, 192 days old. LeBron James, Kevin Durant and Devin Booker are the only younger players to achieve the feat.\n\nThe Timberwolves snapped a two-game losing streak overall and a three-game losing streak at Indiana as they compete to finish among the top six in the Western Conference and avoid the play-in round.\n\nEdwards made seven 3-pointers and had five rebounds, four assists and four steals on a day Karl Anthony-Towns was in foul trouble.\n\n“When he’s playing that well, we’re a tough team,\" guard Patrick Beverley said, referring to Edwards. “I love the way he played tonight, put the pressure on them all night. He's hard to guard and it can be anybody’s night.\"\n\nOshae Brissett had a season-high 22 points and matched his career high with 13 rebounds for Indiana, which has lost six in a row.. Tyrese Haliburton added 22 points and 16 assists, one short of tying his career high in just his second game with the Pacers.\n\nThe difference was Minnesota's size and depth.\n\n“Against a team that had all their guys and is playing very well and is very talented we did some good things to hang around and give ourselves a chance in the fourth,\" Pacers coach Rick Carlisle said. “There’s some very positive things and some things that obviously need work. We're just running low on bodies now.\"\n\nIndiana opened with a quick scoring flurry, but the Timberwolves cut the deficit to 37-33 at the end of one quarter then took charge in the second. Malik Beasley's 3-pointer gave the Timberwolves the lead and spurred a 13-0 run that allowed the Timberwolves to build a 56-44 lead.\n\nThey extended the margin to 18 early in the second half — before the Pacers finally charged back. Indiana closed to 96-94 in the final minute of the third quarter and made it a two-point game again when Terry Taylor opened the fourth by making two free throws. But Minnesota answered with an 8-2 run.\n\nTIP-INS\n\nTimberwolves: Towns had 15 points and 13 rebounds and D'Angelo Russell had 23 points and six assists. ... Beverley and Naz Reid each scored 13 points, Jaden McDaniels had 11 and Beasley finished with 10. ... Minnesota was 18 of 34 ons 3s. ... The Timberwolves matched their season high with 41 second-quarter points. ... Minnesota has scored at least 100 points by the end of the third quarter 10 times this season.\n\nPacers: Lance Stephenson had 21 points. ... Jalen Smith had 17 points and 12 rebounds, Buddy Hield had 13 points and Terry Taylor added 10 points and five rebounds. ... Haliburton had 10 assists in the first half. ... Indiana was swept by Minnesota in the season series for the first time since 2006-07. ... Indiana has lost four straight home games and is now 13-17 on its home court.\n\nMORE INJURY TROUBLE\n\nIndiana has been short-handed for weeks because of injuries to key rotational players including three projected starters. And those woes are only get worse. The Pacers ruled out rookie big man Isaiah Jackson before the game after he aggravated a sprained right ankle Friday night and they lost rookie guard Chris Duarte with a jammed toe in the first half Sunday. Carlisle said he doesn't expect Duarte to return before the All-Star break.\n\nUP NEXT\n\nTimberwolves: Hosts Charlotte on Tuesday.\n\nPacers: Visit Milwaukee on Tuesday.\n\n------",
+  "tags_rule": [
+    "Streak",
+    "FoulTrouble",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.081444",
+  "pipeline_version": "v1"
+}

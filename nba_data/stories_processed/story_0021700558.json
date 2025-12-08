@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700558",
+  "espn_id": "400975304",
+  "date": "Jan 03, 2018",
+  "matchup": "MIA vs. DET",
+  "headline": "Olynyk, Dragic lift Heat past Pistons, 111-104",
+  "cleaned_body": "MIAMI --  Kelly Olynyk had game-highs in points and rebounds, which was easy to see in the box score.\n\nThe play of the night wasn't so obvious.\n\nOlynyk scored 25 points and grabbed 13 rebounds, Goran Dragic added 24 points and 13 assists and the Miami Heat held off the Detroit Pistons 111-104 on Wednesday -- moving three games over .500 for the first time since April 2016.\n\n\"One, that's sobering,\" Heat coach Erik Spoelstra said. \"But it shows you that we're grinding.\"\n\nThat grind was evident in the final minute. Dragic missed a shot with the Heat up three, and Olynyk knew he couldn't grab the rebound. So he tapped it to Josh Richardson to extend the possession, and Dragic wound up setting Olynyk up for a layup 14 seconds later to give Miami a five-point lead and put the game away.\n\n\"Kelly's a smart player,\" Dragic said.\n\nRichardson scored 22 for Miami, which shot 51 percent and outscored the Pistons 51-27 from 3-point range. James Johnson scored 16, Wayne Ellington had 12 and Hassan Whiteside added 10 for the Heat.\n\n\"They were in the paint all night,\" Pistons coach Stan Van Gundy said. \"That's what we talked about before the game. So the ball was coming inside out of the paint. They just broke us down on the dribble on pick-and-rolls and on drives.\"\n\nTobias Harris led Detroit with 19 points. Reggie Bullock scored 17, Avery Bradley and Boban Marjanovic had 15 apiece, Dwight Buycks scored 14 and Luke Kennard added 13 for the Pistons.\n\nThe Pistons were without center Andre Drummond, sidelined by bruised ribs. That meant Marjanovic made his first start since the end of the 2015-16 season, when he was with San Antonio.\n\nOlynyk and Whiteside are both 7-footers. Marjanovic is listed at 7-foot-3, and he seemed to tower even over the tallest Miami defenders.\n\n\"That's one big human being,\" Olynyk said. \"But he's skilled, too.\"\n\nMarjanovic was 5 for 8 from the field, 5 for 5 from the line, and led Detroit with nine rebounds. It's unclear when Drummond will be back, though soon seems likely.\n\n\"It's just a pain tolerance thing,\" Van Gundy said. \"There's no doctor telling him he has to sit out or anything. It's whatever he can tolerate. There's no way to know that.\"\n\nTIP-INS\n\nPistons: Detroit is 20-16, after being 16-20 at this point a year ago. ... Bullock was 4 for 4 in the third quarter, all from 3-point range. ... This game started a stretch where Detroit plays six of eight on the road. After that, they've got 14 out of 18 at home.\n\nHeat: Miami was 17 for 34 from 3-point range. Olynyk and Richardson, Miami's starting forwards, opened a combined 6 of 6 from beyond the arc. ... Miami has now played on 11 Wednesdays (in 12 weeks) this season, but no Thursdays. ... Ellington's 3-pointer with 6:39 left put Miami up for good in a game that had 14 lead changes and 11 ties.\n\nINJURY WATCH\n\nBradley returned for Detroit after missing seven games with a hip-groin injury. The Heat got James Johnson back after he sat six of Miami's last seven with bursitis in his right ankle. Miami is still without Justise Winslow (knee) and Dion Waiters (ankle). Detroit will be without Reggie Jackson (ankle) until at least the All-Star break.\n\nHIGH TECH\n\nSpoelstra was hit with his sixth technical this season, and he cringed when told no coach has more. Van Gundy got one for arguing, insisting he only said \"come on\" to referee James Williams. Van Gundy thinks it was his first technical not accompanied by profanity. \"Definitely the first time I've gotten one for saying `come on,\" he said.\n\nUP NEXT\n\nPistons: Visit Philadelphia on Friday.\n\nHeat: Host New York on Friday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.558931",
+  "pipeline_version": "v1"
+}

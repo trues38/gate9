@@ -1,0 +1,26 @@
+{
+  "game_id": "0021700665",
+  "espn_id": "400975411",
+  "date": "Jan 18, 2018",
+  "matchup": "MIN @ HOU",
+  "headline": "Gordon scores 30 as Rockets beat Timberwolves 116-98",
+  "cleaned_body": "HOUSTON --  Eric Gordon scored in a variety of ways Thursday night.\n\nOne shot stood out from the rest.\n\nGordon banked in a half-court heave at the end of the third quarter, part of a 30-point performance that helped the Houston Rockets to a 116-98 victory over the Minnesota Timberwolves.\n\n\"When I shot it, I thought it was going to go in somehow,\" Gordon said. \"It looked good from that distance, but it was good to get that one to go in. It felt good to knock down a shot like that.\"\n\nGordon connected from a step behind the half-court line, sending Houston to the fourth with an 89-70 lead. After hitting the shot under heavy pressure from Andrew Wiggins, Gordon gave a high-five to Rockets owner Tilman Fertitta, who was sitting courtside near the play.\n\nJames Harden returned to the Rockets' lineup after missing seven games with a left hamstring strain. He finished with 10 points on 3-for-15 shooting, and added seven assists, two steals and two blocks in 26 minutes. Houston went 4-3 in his absence.\n\n\"Other than missing a lot of shots that I normally make, I thought I was active, especially, defensively,\" Harden said. \"I was trying to create opportunities and get guys involved, and obviously, those guys had great games tonight.\"\n\nChris Paul had 19 points, nine assists and six rebounds for the Rockets, and Clint Capela added 20 points. Houston has won 15 of the past 17 meetings with Minnesota, including a 10-game winning streak at home.\n\nGordon made 11 of 19 shots, including 7 of 13 from 3-point range. He fell just short of his season-high 33 points against Utah on Dec. 18.\n\nWith Rockets small forward Trevor Ariza sitting out the first part of a two-game suspension for a postgame locker room incident Monday night in Los Angeles, Luc Mbah a Moute got the start and scored 14 points in 32 minutes.\n\nAlong with Ariza, reserve guard Gerald Green also served the first of a two-game suspension for the altercation with the Clippers.\n\n\"When we get the guys back, we can get there, but it's just the matter of, can we get the same mentality when we get everybody together, can we defend and have a force that's championship level?\" Rockets coach Mike D'Antoni said. \"We'll see.\"\n\nJimmy Butler led Minnesota with 23 points, and Karl-Anthony Towns added 22 points, 16 rebounds and five blocks. Wiggins finished with 16 points.\n\nThe Timberwolves struggled to contain Houston's 3-point shooting. The Rockets hit 17 of 39 from beyond the arc while improving to 24-4 when making at least 15 3s. Minnesota has lost back-to-back games following a five-game winning streak.\n\n\"Things can change very quickly in this league,\" Timberwolves coach Tom Thibodeau said. \"We've slipped, we've got to play with more of an edge, and we've got to bounce back. The games keep coming.\"\n\nALL-STAR HARDEN\n\nHarden was voted a starter for the NBA All-Star Game for the second straight year. Harden also replaced Kobe Bryant in the starting lineup in both 2014 and 2015.\n\nHarden has been named an All-Star in each of his six seasons with the Rockets, trailing only Hakeem Olajuwon (12 appearances) and Yao Ming (eight appearances).\n\n\"That's some great company right there,\" Harden said. \"It's an honor and it's something that I never take for granted.\"\n\nCP3 STEALS\n\nBy picking off a bad pass from Jeff Teague, Paul earned his 1,958th steal, passing Derek Harper to move into 13th place on the NBA's career steals list.\n\nTIP-INS\n\nTimberwolves: Towns fell one block shy of his career high, which he has accomplished three times. ... Former Rockets PG Aaron Brooks and C Cole Aldrich did not play in the game.\n\nRockets: Rookie C Zhou Qi was sidelined by a right elbow injury despite participating in pregame warmups. Second-year players Troy Williams (right knee MCL sprain) and Chinanu Onuaku (sinus surgery) also did not play after entering with a questionable status.\n\nUP NEXT\n\nTimberwolves: Host Toronto on Saturday night.\n\nRockets: Host Golden State on Saturday night.",
+  "tags_rule": [
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.376400",
+  "pipeline_version": "v1"
+}

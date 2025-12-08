@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700936",
+  "espn_id": "400975682",
+  "date": "Mar 03, 2018",
+  "matchup": "MEM @ ORL",
+  "headline": "Magic stretch Grizzlies' losing streak to 13 games, 107-100",
+  "cleaned_body": "ORLANDO, Fla. --  Even without scoring a point, rookie Jonathan Isaac had his Orlando Magic teammates talking about his impact on Saturday night's win over the Memphis Grizzlies.\n\nEvan Fournier broke a tie on a long 3-pointer with 22.5 seconds left, and Isaac helped preserve Orlando's lead with his third blocked shot in a 107-100 victory that stretched the Memphis Grizzlies' losing streak to 13 games.\n\n\"It's really difficult to score over (Isaac),\" Fournier said of his 6-foot-10 teammate. \"If he stays in front of you, he's so long and he has a quick reaction time. It makes it difficult to get a shot off.\"\n\nFournier added two free throws with 8.2 seconds remaining to finish with 19 points. Nikola Vucevic also scored 19 for Orlando, which had six players in double figures. Isaac, who played 17 minutes and grabbed five rebounds, was not among them.\n\n\"I'm not comfortable yet in terms of offense and all that,\" Isaac said. \"I'm still learning spacing and all these other things, but I'm comfortable defensively.\"\n\nIsaac played in his second straight game after missing 24 with an ankle injury.\n\n\"He impacted the game, and not just with his athleticism and length. There's a lot of long and athletic guys that get beat all the time,\" Magic coach Frank Vogel said. \"It's the instincts that make him special in my mind. Like we've been saying all along, he's NBA-ready right now.\"\n\nBen McLemore scored a game-high 20 for Memphis, which has the longest skid in the NBA this season. Jarell Martin added 19 points and 11 rebounds for a team that hasn't won since Jan. 29.\n\n\"There's only so many moral victories that you can have,\" coach J.B. Bickerstaff said. \"At the end of the day this is results based, but it hurts them because they're giving so much.\"\n\nMemphis led 84-77 early in the fourth quarter, the biggest lead for either team until Orlando (20-43) matched it in the final seconds.\n\nA midcourt steal and dunk by Mario Hezonja with 8:10 to go sparked a Magic rally, and Aaron Gordon's layup with 3:17 left restored a one-point lead for Orlando. The lead changed hands six times in the final 3:03.\n\nMemphis (18-44) entered as the NBA's lowest-scoring team (98.9 points per game) and played without its top three scorers.\n\nLOSING STREAKS\n\nThe Grizzlies and Magic own half of this season's losing streaks of nine or more games. Memphis had an 11-game slide early in the season. Orlando has two nine-game skids and two seven-game losing streaks.\n\nLOSING STREAK AVOIDED\n\nWith a five-game trip out West coming up, the Magic faced the possibility of another long skid until winning Friday night against Detroit. \"We had lost seven straight, and if you lose these two games, then going out there on the West Coast feels a whole lot different than it does right now,\" Vogel observed.\n\nTIP-INS\n\nGrizzlies: C Marc Gasol, who played 36 minutes in Friday night's loss to Denver, sat out along with G Mike Conley (left heel), C Deyonta Davis, G Tyreke Evans (right rib) and G Andrew Harrison (right wrist). ... G/F Wayne Selden Jr. (knee) was held out for the second game of a back-to-back.\n\nMagic: Orlando is 10-7 when Isaac plays and 10-36 without him.\n\nUP NEXT\n\nGrizzlies: At the San Antonio Spurs on Monday night.\n\nMagic: At the Utah Jazz on Monday night.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.773024",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400736",
+  "espn_id": "400579028",
+  "date": "Feb 04, 2015",
+  "matchup": "MIL vs. LAL",
+  "headline": "Knight leads Bucks past Lakers 113-105 in OT for 5th in row",
+  "cleaned_body": "MILWAUKEE --  Bucks guard O.J. Mayo hit the side of the backboard with a shot late in Wednesday night's tight game against the Los Angeles Lakers.\n\nUpset with himself, Mayo went to the bench, where coach Jason Kidd told him to shake off his mistake. Kidd then drew up a pair of plays for Mayo and put him back in the game.\n\nIt paid off. Mayo drained two 3-pointers in the last minute of the fourth quarter, including a contested shot from the corner with 0.5 seconds remaining to send the game to overtime. The Bucks prevailed 113-105, capturing their fifth straight victory.\n\n\"You have to give (Mayo) credit. He made an incredible shot,\" Lakers coach Byron Scott said. \"We had two guys right there directly on him.\"\n\nGiannis Antetokounmpo scored a career-high 25 points and Brandon Knight had 24 for the Bucks.\n\nKnight, who returned to the lineup after missing Monday's game in Toronto with a quadriceps injury, scored 12 points in overtime. Knight made just two of 10 shots through the first three quarters before getting hot late.\n\nMayo and Khris Middleton added 21 points apiece for the Bucks, marking the first time since 2009 that Milwaukee had four players score more than 20 points in a game.\n\n\"We're just grinding,\" Mayo said. \"Even if our energy isn't there, our heart and effort is there. We found a way to get that win tonight.\"\n\nCarlos Boozer had a season-high 28 points for the Lakers, who lost for the 11th time in 12 games -- including eight in a row on the road. Ed Davis had 20 rebounds for Los Angeles.\n\nBoozer's layup with 1:02 remaining in the fourth quarter gave the Lakers a six-point lead. Mayo sank a 3-pointer to cut it to 91-88, but Jeremy Lin connected for a 3 on the next possession for the Lakers. Knight's 3-pointer made it 94-91 with 20.4 seconds left.\n\nA shot-clock violation gave Milwaukee the ball with 7 seconds remaining, setting the stage for Mayo's tying shot.\n\nKnight opened the extra period with a 3-pointer, giving the Bucks the lead for good.\n\nMilwaukee is a season-high five games over .500.\n\n\"I think this group is growing pretty fast,\" Kidd said.\n\n---\n\nBAD BLOOD\n\nAt shootaround earlier in the day, Scott was asked about coaching Kidd with the then-New Jersey Nets. When describing to a Lakers beat reporter how Kidd was regarded, Scott used profanity.\n\nKidd attempted to downplay the issue before tipoff.\n\n\"It's his opinion,\" Kidd said.\n\nScott coached the Nets to NBA Finals appearances in 2002 and 2003 with Kidd as the team's leader. Scott was later fired and reports suggested Kidd played a part in his dismissal by going to team management.\n\n\"I was just a player, I didn't have the rights of hiring and firing,\" Kidd said.\n\nScott insisted there's no rift with Kidd.\n\n\"You asked me how I feel about him and I said we aren't going to be spending a whole lot of time together,\" Scott said. \"I don't hold grudges. We all move on.\"\n\nScott then praised Kidd's play in New Jersey.\n\n\"He should have gotten MVP the first year we went to the Finals. I thought he was the best player in the league and he transformed that organization into a championship-caliber basketball team,\" Scott said.\n\n---\n\nTIP-INS\n\nLakers: F Jordan Hill sat out with an injured muscle near his right hip. Scott said Hill isn't likely to return until after the All-Star break. ... Nick Young returned to the lineup after missing Sunday's game against New York with an ankle injury. ... Wesley Johnson injured his right ankle while making a 3-pointer in the second quarter but later returned.\n\nBucks: Kenyon Martin missed the game with a sore ankle. ... Ersan Ilyasova (groin) and Zaza Pachulia (calf) each remained sidelined for the fourth game in a row. ... Kendall Marshall underwent surgery in New York to repair a right ACL injury sustained in Milwaukee's win over the Knicks in London on Jan. 15.\n\nUP NEXT\n\nLakers: Visit Orlando on Friday.\n\nBucks: Visit Houston on Friday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh",
+    "Rivalry"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.583846",
+  "pipeline_version": "v1"
+}

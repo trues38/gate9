@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100003",
+  "espn_id": "401359833",
+  "date": "Oct 20, 2021",
+  "matchup": "CHA vs. IND",
+  "headline": "Ball scores 31 to rally Hornets past Pacers 123-122",
+  "cleaned_body": "CHARLOTTE, N.C. -- — LaMelo Ball scored 31 points, hitting seven 3-pointers, and the Charlotte Hornets used a 24-0 third period run to battle back and beat the Indiana Pacers 123-122 on Wednesday night.\n\nIndiana led 122-121 on Torrey Craig’s foul shots with 12.7 left. P.J. Washington made two free throws with 4.6 seconds left before Domantas Sabonis missed from 11 feet to seal the Hornets’ win.\n\nThe run ignited a home crowd of 15,521 that had little to cheer for at that point.\n\n“The building had been pretty dead in the first half,” Pacers coach Rick Carlisle said. “A lot of that was we were playing well. But they got going and the energy in the building got going, and when that happens, crazy things happen in this league.”\n\nBall scored 12 points in the third-period run and finished with nine rebounds and seven assists. Gordon Hayward scored 27 for Charlotte, which got 14 each from newcomers Kelly Oubre Jr. and Ish Smith. Miles Bridges had 13 and Cody Martin 10 for the Hornets, who played without last year’s leading scorer Terry Rozier.\n\nBorrego said pregame that Rozier would test his sprained left ankle and undergo tests before the team would determine his status. He was ruled out shortly before tipoff.\n\nSabonis scored 33 points with 15 rebounds, Malcolm Brogdon had 28, and Chris Duarte chipped in with 27 for Indiana, which had a 21-point lead early in the second half. Justin Holiday added 11 for the Pacers.\n\nBoth teams had to overcome double-digit leads in the second half to set up a tense finish.\n\nIndiana led the entire first half and appeared set for a second straight runaway victory in the series. In May, the Pacers’ 20-7 opening run led to a 144-117 rout in a play-in game.\n\nWednesday, as Indiana pushed its lead past 20 to start the second half, Charlotte began its monstrous run with 8:48 to play in the third. Sabonis’ basket gave Indiana an 84-63 lead. Ball took over from there, scoring 12 of Charlotte’s 24 consecutive points, including two 3-pointers and a dunk.\n\nSmith’s basket gave Charlotte its first double-digit lead at 106-96. During the 24-0 Charlotte run, Indiana shot 0-for-8 and committed five turnovers over a 5 1/2-minute span. The Hornets outscored Indiana 33-13 in the period.\n\n“We picked up the ball and made them feel us all third quarter,” Hornets coach James Borrego said.\n\nBrogdon’s 3-pointer pushed the Pacers ahead 110-109 and wiped out a 10-point deficit. Neither team could forge a lead of more than five the rest of the way.\n\nHONORING RICK\n\nThe team held a moment of silence for Charlotte Observer writer Rick Bonnell, who died unexpectedly in June. The Hornets established a scholarship in Bonnell’s name. “We miss him,” Borrego said pregame. “He was a dear friend and someone that I had a lot of respect for.”\n\nFIGURING OUT ROTATIONS\n\nCarlisle said he had an idea for the team’s rotation with second-unit players mixed in. He’s dealing with a roster turnover reminiscent of his days with the Mavericks, just after Dallas won an NBA championship, in 2011.\n\n“I hope it is going to be effective,” he said. The first game of the season, new situation ... but that is the plan.”\n\nTIP-INS\n\nPacers: First-round pick Duarte, one of four rookies on the roster and the team’s leading scorer in the preseason, started for Indiana.\n\nHornets: Ball became the youngest player with at least 30 points, five rebounds, and five assists in a season opener. His final line: 31 points, nine rebounds, seven assists. … Mason Plumlee led Charlotte with 10 rebounds in his debut with the team. … Charlotte won a season opener for the first time since 2019, against Chicago.\n\nUP NEXT:\n\nPacers: At Washington on Friday night.\n\nHornets: At Cleveland on Friday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.650335",
+  "pipeline_version": "v1"
+}

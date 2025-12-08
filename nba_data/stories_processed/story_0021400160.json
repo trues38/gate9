@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400160",
+  "espn_id": "400578452",
+  "date": "Nov 19, 2014",
+  "matchup": "CHA @ IND",
+  "headline": "Hill's tip-in at buzzer lifts Pacers to win",
+  "cleaned_body": "INDIANAPOLIS --  Solomon Hill saw Rodney Stuckey with the ball and knew where he had to be.\n\nHill got to the right spot and tipped in Stuckey's shot with 0.7 seconds remaining, giving the Indiana Pacers an 88-86 victory over the Charlotte Hornets on Wednesday night.\n\nWith 3 seconds remaining Stuckey's 17-foot jumper was tipped by former Pacer Lance Stephenson and the ball sailed to the left of the rim. Hill came from underneath Indiana's basket and tipped the ball in.\n\n\"Once I knew Stuck was taking it, I just wanted to get as close as possible to the rim and have a chance for a tip-in,\" Hill said. \"Usually in a situation like that, everybody's kind of ball-watching It's the last shot of the game, a potential game-winner. Guys turned their head, and I took advantage.\"\n\nHill finished with six points. Roy Hibbert had 18 points and 11 rebounds, and Luis Scola had 15 points and seven rebounds. Donald Sloan added 11 points, nine rebounds and six assists while Stuckey scored 11 points off the bench for the Pacers.\n\nWhat I was proud of in a game like this, we were shooting horribly, but we found a way to do other things,\" Pacers coach Frank Vogel said. \"(We) found a way to win.\"\n\nIndiana spoiled Stephenson's first trip back to Indianapolis after he signed with Charlotte during free agency in July.\n\nIndiana was leading 17-10 in the first quarter when the Hornets went on a 28-8 run over an eight-minute span. But Indiana closed the deficit to six points at halftime, trailing 49-43.\n\nIndiana trailed by one heading into the fourth quarter. The Pacers stayed ahead of Charlotte by two or four points for most of the fourth quarter until the Hornets tied it with under a minute left.\n\nDespite injuries, Indiana is gaining momentum. It has won two consecutive games over Eastern Conference opponents. It was the seventh time in 12 games Hibbert finished with double digits in scoring and he had his fourth double-double of the season. He also added two blocks.\n\nPacers fans welcomed back Stephenson with a mixture of cheers and boos when he was introduced, but every time Stephenson touched the ball he was booed. It was the fifth time in seven games Stephenson finished in double figures in scoring.\n\n\"It was emotional,\" Stephenson said. \"Seeing my old teammates, seeing the fans, and seeing the people I normally see when I come into the building. (My) Introduction was good, but I knew that once the game started they'd be booing me, and they did.\"\n\nStephenson had 10 points, eight rebounds and seven assists. Al Jefferson added 28 points and eight rebounds. Kemba Walker was the only other Hornet in double figures with 12 points.\n\nFormer Indiana Hoosier, Cody Zeller, didn't have an ideal homecoming, either. Zeller scored just seven points in 21 minutes.\n\nIndiana's David West remained inactive with a right ankle sprain while George Hill was also still out with a left knee contusion.\n\nTIP-INS\n\nHornets: Al Jefferson scored in double figures for the first time since snapping a 35-game streak of scoring double figures Monday night. ... Gerald Henderson was held scoreless for the fourth time this season.\n\nPacers: Roy Hibbert is second in blocked shots in the NBA with 37. ... The Pacers have outrebounded 10 of their 12 opponents this season . Indiana has won 10 straight home meetings over Charlotte.\n\nUP NEXT\n\nPacers: hosts Phoenix on Saturday.\n\nHornets: plays at Orlando on Friday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.704684",
+  "pipeline_version": "v1"
+}

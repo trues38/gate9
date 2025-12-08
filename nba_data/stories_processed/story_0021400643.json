@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400643",
+  "espn_id": "400578935",
+  "date": "Jan 23, 2015",
+  "matchup": "CHA @ CLE",
+  "headline": "LeBron James' 25 points, J.R. Smith's 7 3s too much for Hornets",
+  "cleaned_body": "CLEVELAND -- The Cavaliers are back on their game.\nLeBron James scored 25 points and Cleveland Cavaliers put on a dominant performance by routing the Charlotte Hornets 129-90 on Friday night for their fifth straight win.\nThe Cavaliers have been through their share of injuries and controversy this season, which has also featured an eight-game winning streak and a 1-9 stretch that preceded the current run.\n\n\"Right now, I feel like this is the team that I envisioned,\" James said. \"This is the style of basketball I envisioned. Obviously the points we put up I don't envision that every night, but how we share the ball, how we defend, that should be our staple.\"\nCharlotte coach Steve Clifford agreed.\n\"They were great,\" he said. \"They're a championship-caliber team and they played like it.\"\nThe Cavaliers, with an artful display of shooting and passing, had the home crowd on its feet throughout the game. Cleveland's 75-40 lead at halftime was its biggest in franchise history and the margin reached 49 points in the fourth quarter.\nJ.R. Smith scored 21 points on seven 3-pointers, and Kyrie Irving added 18 in Cleveland's biggest win of the season.\nCavaliers coach David Blatt took a realistic view after the lopsided win in which Cleveland scored a Quicken Loans Arena record for points in a regulation game.\n\"Let's not get ahead of ourselves,\" he said. \"We've got a long way to go. I hope we can bring it again Sunday (against Oklahoma City), looking no further than that. We've got a lot of work ahead of us.\"\nCharlotte had won eight of nine, but was no match for the Cavaliers, who have again looked like title contenders since James returned from an eight-game absence with knee and back injuries.\nJames added nine assists and six rebounds in a season-low 27 minutes. He was pulled late in the third quarter and didn't return. James is averaging 29.7 points and is shooting 51 percent in six games since his return.\n\nAl Jefferson led Charlotte with 22 points while Michael Kidd-Gilchrist added 15.\nCleveland scored 14 straight points as part of a 24-4 run in the first half to put the game away early, leaving the rest of the night for open jumpers, fast breaks and dunks off alley-oop passes.\nLeading 14-9, the Cavaliers went on a 14-0 run keyed by 3-pointers from Irving and Smith. James was fouled shooting a 3 and made all three free throws in addition to scoring on a finger roll and hitting a jumper.\nJames kept the Cavaliers rolling in the second quarter by hitting Timofey Mozgov with an alley-oop for a dunk, but the four-time MVP was just getting started.\nJames stole a pass in the frontcourt and drove in for a dunk for a 55-25 lead. Less than a minute later, he took a midcourt pass from Smith and dunked, which sent the crowd into a frenzy and extended the lead to 60-27.\nJames then hit Kevin Love with an alley-oop for a lay-in before Irving made another 3 for a 65-27 lead with 5:10 remaining before halftime.\nCavaliers guard Iman Shumpert, who was out with a dislocated left shoulder, played for the first time since being acquired from New York on Jan. 5. He scored eight points in nine minutes.\nCleveland defeated Charlotte 97-88 on Dec. 15 after starting the game on a 21-0 run.\n---\nTIP-INS\nHornets: Jefferson and G Lance Stephenson came off the bench again Friday. Jefferson returned from a strained left groin three games ago, while Stephenson has played in five games since recovering from a pelvic strain. ... The Hornets were held to nine fast break points.\nCavaliers: Cleveland has won six in a row over the Hornets and James has won his last 20 matchups against Charlotte. ... Mozgov had a double-double with 14 points and 10 rebounds. ... All 13 players scored for Cleveland.\nNO PROBLEM\nJames wasn't upset that Golden State G Stephen Curry beat him out for the top spot in the fan voting for the All-Star Game.\n\"I'm just excited I get another opportunity to be a part of All-Star weekend, and my fans voted me in,\" he said. \"It means a lot.\"\nBAD NIGHT\nClifford got right to the point when assessing his team's performance. \"We were terrible,\" he said. \"We just didn't come to play. We weren't here. We need to play defense and rebound to win games. We didn't do any of that tonight.\"\nUP NEXT\nHornets: Host New York on Saturday.\nCavaliers: Host Oklahoma City on Sunday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "ReturnFromInjury",
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.899896",
+  "pipeline_version": "v1"
+}

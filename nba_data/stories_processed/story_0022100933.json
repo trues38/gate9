@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100933",
+  "espn_id": "401360752",
+  "date": "Mar 02, 2022",
+  "matchup": "IND @ ORL",
+  "headline": "Brogdon helps Pacers rally late, beat Magic in OT 122-114",
+  "cleaned_body": "ORLANDO, Fla. -- — Malcolm Brogdon hung around until the finish and was the difference for the Indiana Pacers against Orlando.\n\nBrogdon, had 31 points, 11 rebounds and eight assists as the Pacers overcame a 15-point deficit in the fourth quarter and beat the Magic in overtime, 122-114 on Wednesday night.\n\nBrogdon had sat out Monday night’s loss, also in Orlando, and missed the end of the preceding game against Boston because of an Achilles injury.\n\n“Tonight was the night to really push it and see how it responded, and I thought it responded very well,” Brogdon said. “It's a lot of fun to come back and win a game like that when you're not playing really well.”\n\nBrogdon had 14 points in the fourth quarter, which started with Orlando leading 91-76.\n\n“He was the best player on the floor tonight,” Indiana coach Rick Carlisle said. “He's the best all-around player on our team, and when he plays it's a different ball game.”\n\nTyrese Haliburton, who finished with 21 pints and six assists, scored five of Indiana's 12 points in OT.\n\n“They understood what they had to do to get back in the game,” Magic coach Jamahl Mosley said. “They got more aggressive, turned up the heat a little bit and we turned the ball over a couple of times.”\n\nBuddy Hield had eight of his 17 points in the fourth quarter for the Pacers, and Jalen Smith came of the bench with 15 points, 15 rebounds and a plus/minus of 27.\n\nFranz Wagner led Orlando with 28 points. Mo Bamba added 19 points and Wendell Carter Jr. finished with 13 points and 18 rebounds for the Magic, who led by 18 points in the third quarter in their attempt to win a third straight game for the first time in more than a year.\n\nThe Pacers moved ahead 101-99 on Haliburton's 3-pointer with 4:58 remaining in the fourth quarter, their first lead since 2-0.\n\n“It was kind of an uneven, ugly game most of the night for both teams. But then we started moving it better,\" Carlisle said, “and our unselfishness on offense energized our defense, and we were able to make a run.”\n\nBamba hit a couple of 3-pointers and scored on a three-point play in the first 4 1/2 minutes, and finished the first half with 15 points.\n\nWagner opened the second half with 12 points in five minutes and Orlando stretched its lead to 18 on four occasions in the third quarter. But after turning the ball over 22 times Monday night and 17 times in the first three quarters, the Pacers had only one turnover in the fourth quarter and overtime.\n\nThe Magic shot 10 for 32 with eight turnovers after the third quarter.\n\n“Part of it was our execution on offense, not moving the ball as well,” Wagner said. “We had some sloppy turnovers and they got out and ran and got a couple of easy ones. They're good in transition.”\n\nTIP-INS\n\nPacers: Terry Taylor and Jalen Smith fought for a rebound in the third quarter and tipped it into the Orlando basket. Carter, running back on defense, was credited with the field goal. ... G Chris Duarte did not play for the fourth time in six games due to a toe injury. ... Smith was fined $20,000 for directing profane language toward a game official after his ejection in the third quarter Monday night.\n\nMagic: The Magic's last three-game win streak came on Feb. 17-21 2021. . . . Brian Hill, Orlando's head coach from 1993-97 and from 2005-07, and John Gabriel, an executive with the team for 19 years, were inducted into the Magic's Hall of Fame.\n\nUP NEXT\n\nPacers: Play at Detroit on Friday night.\n\nMagic: Play at Toronto on Friday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.452516",
+  "pipeline_version": "v1"
+}

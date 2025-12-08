@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2000-03-10",
+    "event": "Dotcom Bubble Burst",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The recent news regarding the Dotcom Bubble Burst along with the Historical Pattern [P-007] suggests that the technology sector could be overvalued due to inflated expectations. Given the high market energy level and the current regime of INFLATION_FEAR, it may lead to a contraction in tech stocks. Thus, shorting QQQ seems prudent.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-007",
+      "z_score": -0.569318488590269,
+      "impact_score": -1.36516611250732,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.03220517725587626,
+    "correct": true,
+    "news_source": "Mock"
+  },
+  {
+    "date": "2001-09-17",
+    "event": "9/11 Terrorist Attacks (Market Reopen)",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] Given the situation surrounding heightened market energy and the `VIX` at 41.76 (High), indicating increased fear and potential volatility, the market sentiment suggests caution. The historical pattern P-045 indicates that surprises in economic indicators can lead to a rapid reallocation of assets, and with the market reacting to significant events such as the 9/11 attacks, there is a strong likelihood of a downward correction in equities. Thus, selling SPY could be prudent.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-045",
+      "z_score": 0.450972974108896,
+      "impact_score": 1.51855941515348,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.030892923309994505,
+    "correct": true,
+    "news_source": "Mock"
+  },
+  {
+    "date": "2003-03-20",
+    "event": "Iraq War Begins",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] Given the context of geopolitical tensions with the U.S. announcing the seizure of Iraqi assets, historical patterns indicate that war acts as a 'market destructive event' (P-008). This can generate uncertainty and cause market downturns, leading to increased market volatility. The current regime is classified as INFLATION_FEAR, and despite a high market energy level, there are no strong leads to support a bullish outlook. Thus, a cautious approach suggests a sell in the S&P 500 ETF (SPY) to hedge against probable market contractions.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-008",
+      "z_score": 0.337311454154591,
+      "impact_score": 1.29869888624263,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.0073575054026048785,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2008-09-15",
+    "event": "Lehman Brothers Bankruptcy",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The market is experiencing high energy but with a Z-Score of -0.76 and a significant VIX of 31.7 indicating increased volatility and uncertainty. The historical pattern indicates that credit tightening can halt both real and financial flows, leading to market downturns. The current regime of INFLATION_FEAR suggests cautious sentiment in the market. Thus, selling KOSPI would align with these indicators.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-009",
+      "z_score": -0.764472296136624,
+      "impact_score": -3.34993796314099,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.016005909701871678,
+    "correct": false,
+    "news_source": "Real"
+  },
+  {
+    "date": "2011-08-05",
+    "event": "US Credit Rating Downgrade",
+    "decision": {
+      "action": "HOLD",
+      "reason": "[WEAK SIGNAL] Given the current high market energy level (Z-Score: 0.20) and the caution advised by the action rule, it is prudent to refrain from taking a position without more definitive signals. The macro indicators are indicating a regime of INFLATION_FEAR with a neutral market, thus reinforcing the recommendation to observe rather than act impulsively.",
+      "confidence": 0.75,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-012",
+      "z_score": 0.197389417216055,
+      "impact_score": 0.989046380583856,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.016322365445870093,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2012-07-26",
+    "event": "ECB Draghi 'Whatever it takes'",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The current market energy level is high, indicating increased attention, but the macro indicators show a neutral stance. With the historical pattern indicating a potential currency crisis (P-042), which usually leads to a flight to safety (dollar and safe assets), the KOSPI may be negatively impacted as investments could flow out towards safer havens. Hence, a sell strategy on KOSPI is recommended amidst the concern of a potential crisis in the region.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-042",
+      "z_score": 0.441149520023611,
+      "impact_score": 2.32843774854913,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.003451194170568597,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2013-05-22",
+    "event": "Bernanke Taper Tantrum",
+    "decision": {
+      "action": "HOLD",
+      "reason": "[WEAK SIGNAL] Given the high market energy level (Z-Score: 0.50) and the rule recommending 'HOLD' without strong evidence, despite underlying macro indicators suggesting caution with inflation fears, it\u2019s prudent to remain cautious. Historical Pattern P-021 highlights that changes in liquidity due to QE/QT impact asset prices globally, and current indicators show a mixed sentiment with neutral trends. Adhering to the 'HOLD' recommendation is prudent in this context.",
+      "confidence": 0.75,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-021",
+      "z_score": 0.496760912703019,
+      "impact_score": 2.66792304865024,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.0,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2015-08-11",
+    "event": "China Yuan Devaluation Shock",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The news surrounding the China military preparations can elevate the Taiwan Flashpoint risk, impacting semiconductor supply chains and escalating geopolitical tensions. This could lead to a sell-off in the KOSPI as it comprises many semiconductor firms, aligning with the Historical Pattern [P-028] that suggests a systemic risk in case of rising tensions. Given the current macro indicators showing a neutral market regime and potential supply chain disruptions, a sell position on KOSPI is warranted as concerns escalate.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-028",
+      "z_score": 0.497641005727192,
+      "impact_score": 2.76338039260285,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.006278112721412118,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2016-06-24",
+    "event": "Brexit Vote Result",
+    "decision": {
+      "action": "HOLD",
+      "reason": "[WEAK SIGNAL] The market is in a NEUTRAL regime with a Z-Score of 0.74, indicating increased interest but insufficient clarity for a confident trade. The high VIX signals market volatility, which validates the hold recommendation. Historical Pattern P-009 highlights the risks of liquidity crunches, suggesting that without concrete signals, it\u2019s prudent to stay on the sidelines.",
+      "confidence": 0.6,
+      "regime": "NEUTRAL",
+      "pattern": "P-009",
+      "z_score": 0.735816321819586,
+      "impact_score": 4.27593239102713,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.032867391075931875,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2018-03-22",
+    "event": "US-China Trade War Begins",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] Given the initiation of the US-China Trade War, which historically leads to structural impacts such as the devaluation of the Yuan, semiconductor supply chain disruptions, and adjustments in risk assets (Pattern ID: P-025), I recommend selling SPY as it will likely be affected negatively by these developments. The high market energy level highlights a critical moment where the impact of trade tensions may lead to significant market corrections.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-025",
+      "z_score": 1.07296486745758,
+      "impact_score": 6.50622849273076,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.0019721926501493348,
+    "correct": true,
+    "news_source": "Mock"
+  },
+  {
+    "date": "2018-02-05",
+    "event": "Volmageddon (VIX Spike)",
+    "decision": {
+      "action": "BUY",
+      "reason": "[WEAK SIGNAL] Given the current VIX level of 37.32 signaling a period of market panic (as described in Historical Pattern P-023), this indicates a potential for a significant rebound once the panic subsides. The market energy level is high, suggesting increased attention and potential investor recovery. Despite the liquidity crisis and high volatility, the historical precedent suggests that after such VIX spikes, strong bounces often occur. Therefore, a cautious buy into SPY could capitalize on that recovery potential.",
+      "confidence": 0.85,
+      "regime": "LIQUIDITY_CRISIS",
+      "pattern": "P-023",
+      "z_score": 1.49385111220917,
+      "impact_score": 9.21335136948192,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.005342423013545329,
+    "correct": true,
+    "news_source": "Mock"
+  },
+  {
+    "date": "2019-07-31",
+    "event": "Fed First Rate Cut (Pivot)",
+    "decision": {
+      "action": "BUY",
+      "reason": "[WEAK SIGNAL] Given the historical pattern [P-020], where central bank pivots lead to simultaneous changes in interest rates, liquidity, and exchange rates, growth stocks like those represented by QQQ are particularly sensitive to such market shifts. With a high market energy level indicating growing interest, and the potential of a pivot in monetary policy hinted at by recent Fed actions, QQQ stands to benefit significantly. The neutral macro indicators suggest that while there's no immediate panic, there\u2019s a favorable environment for growth stocks to thrive. Hence, I recommend a BUY on QQQ with high confidence.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-020",
+      "z_score": 0.612747228873913,
+      "impact_score": 3.67125329813671,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.0,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2020-03-11",
+    "event": "WHO Declares COVID-19 Pandemic",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The current macro environment is marked by a high VIX level (53.9), indicating increased market volatility and fear. Coupled with the historical pattern [P-025], the ongoing geopolitical tensions exacerbated by the COVID-19 narratives can lead to further risk asset adjustments. Given the liquidity crisis regime and the market energy level being high but also indicating a wait-and-see approach, selling KOSPI is a prudent move to mitigate potential losses before further downturns occur.",
+      "confidence": 0.85,
+      "regime": "LIQUIDITY_CRISIS",
+      "pattern": "P-025",
+      "z_score": -0.0133584463464916,
+      "impact_score": -0.0797667809076937,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": -0.12523685624464853,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2020-11-09",
+    "event": "Pfizer Vaccine Announcement",
+    "decision": {
+      "action": "BUY",
+      "reason": "[WEAK SIGNAL] The recent surge in global stock markets due to positive vaccine news (referring to the Pfizer news) indicates a short-term bullish sentiment in the equity markets, especially as vaccine announcements typically impact the entire healthcare sector positively (P-033). With the Market Energy Level being HIGH, and given the neutral market regime, this scenario suggests potential for significant short-term gains. Additionally, macro indicators support the bullish trend in markets, particularly with the US10Y showing a strong upward trend (+23.1%), reflecting increased investor confidence. Therefore, I recommend taking a bullish position in the SPY ETF.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-033",
+      "z_score": 0.768406652519742,
+      "impact_score": 4.7645124983441,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.02259147199699215,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2021-01-27",
+    "event": "GameStop Short Squeeze Peak",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The current market energy level is high, indicating speculative behavior, as highlighted by the 'meme stock pattern' where crowd psychology leads to extreme volatility. Coupled with a liquidity crisis regime and a drastic increase in VIX (37.21), which suggests heightened market fear and potential reversals, selling SPY aligns with mitigating the risks of a sudden downturn. The trend shows a significant shift in behavior under high volatility, presenting an opportunity to capture gains by shorting the S&P 500 index.",
+      "confidence": 0.85,
+      "regime": "LIQUIDITY_CRISIS",
+      "pattern": "P-048",
+      "z_score": 1.28850289776418,
+      "impact_score": 8.12330055072661,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.0198713237998731,
+    "correct": false,
+    "news_source": "Real"
+  },
+  {
+    "date": "2022-02-24",
+    "event": "Russia Invades Ukraine",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] With a high market energy level and a prevailing liquidity crisis regime, there is likely a lot of volatility in the upcoming trading sessions. The high VIX (30.32) coupled with the potential geopolitical tensions surrounding the Ukraine situation and the ongoing US-China flashpoint (P-028) could lead markets to pull back. The current trends in macro indicators also suggest caution, indicating a potential correction in equity markets. Therefore, a sell position on SPY seems prudent.",
+      "confidence": 0.85,
+      "regime": "LIQUIDITY_CRISIS",
+      "pattern": "P-028",
+      "z_score": 1.16663401526936,
+      "impact_score": 7.39687883275833,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.017301017531964547,
+    "correct": false,
+    "news_source": "Real"
+  },
+  {
+    "date": "2022-07-13",
+    "event": "US CPI Hits 9.1%",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] Given the high market energy level and the ongoing regime of inflation fear, the macro indicators suggest further declines in stock prices. The US10Y's negative trend of 5.8% and high VIX indicate volatility is likely, while the neutral market conditions with CPI at neutral support concerns for equity valuations. Furthermore, historical patterns suggest that inflation spikes generate economic fragility and potential declines in equity prices, aligning with selling SPY.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-005",
+      "z_score": 1.07789033789322,
+      "impact_score": 6.74920138732841,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.04207700544945468,
+    "correct": false,
+    "news_source": "Real"
+  },
+  {
+    "date": "2023-03-10",
+    "event": "SVB Bank Run",
+    "decision": {
+      "action": "SELL",
+      "reason": "[WEAK SIGNAL] The recent collapse of SVB and a strong jobs report indicate instability in the labor market, suggesting a potential economic downturn or a second wave of inflation (P-012). Coupled with a high VIX, implying increased market volatility, it creates a bearish outlook for equities. The current market energy level is high, but due to the lack of strong evidence favoring a bullish perspective, I recommend selling.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-012",
+      "z_score": -0.269083233344943,
+      "impact_score": -1.57780483587215,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.014429280359367396,
+    "correct": false,
+    "news_source": "Real"
+  },
+  {
+    "date": "2023-05-25",
+    "event": "NVIDIA AI Earnings Surprise",
+    "decision": {
+      "action": "BUY",
+      "reason": "[WEAK SIGNAL] With the recent surge in tech stocks, particularly led by Nvidia, there is a strong bullish momentum in the tech sector. The high market energy level indicates increased investor attention, signaling a favorable environment for growth stocks.While the macro indicators remain neutral, the historical pattern of technology bubbles suggests that rapid capital expectations could drive further tech rallies in the short term (P-007). This makes QQQ, which is heavily weighted in tech, a promising trade.",
+      "confidence": 0.85,
+      "regime": "NEUTRAL",
+      "pattern": "P-007",
+      "z_score": 0.937349478077445,
+      "impact_score": 5.92981290690184,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.0,
+    "correct": true,
+    "news_source": "Real"
+  },
+  {
+    "date": "2024-03-19",
+    "event": "BOJ Ends Negative Rates",
+    "decision": {
+      "action": "BUY",
+      "reason": "[WEAK SIGNAL] The BOJ's indication of a pivot aligns with Historical Pattern P-020, suggesting that a simultaneous shift in interest rates, liquidity, and currency could signify a market transition. With high market energy (Z-Score: 0.60), and a focus on growth assets, buying KOSPI may capitalize on the expected responsiveness of growth stocks in this environment.",
+      "confidence": 0.85,
+      "regime": "INFLATION_FEAR",
+      "pattern": "P-020",
+      "z_score": 0.604958618022357,
+      "impact_score": 3.85145116373979,
+      "meta_rag_status": "Clean",
+      "mode": "general"
+    },
+    "return": 0.0060110077445738545,
+    "correct": true,
+    "news_source": "Real"
+  }
+]

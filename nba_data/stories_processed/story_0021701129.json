@@ -1,0 +1,22 @@
+{
+  "game_id": "0021701129",
+  "espn_id": "400975875",
+  "date": "Mar 30, 2018",
+  "matchup": "ORL vs. CHI",
+  "headline": "Bulls beat Magic to end 7-game losing streak",
+  "cleaned_body": "ORLANDO, Fla. -- The only consolation the Chicago Bulls could take from their horrendous third quarter was that they still had another one left.\n\"It's not often you have a 2-for-22 quarter and still win the game,\" coach Fred Hoiberg said. \"I give our guys credit for hanging in there and finding a way to get a win.\"\nRookie Lauri Markkanen and Sean Kilpatrick each scored 13 points, and rookie Ryan Arcidiacono had all of his eight points in the fourth quarter as the Bulls broke a seven-game losing streak with a 90-82 victory over the Orlando Magic on Friday night.\nArcidiacono's 3-pointer started a 14-0 run for the Bulls, who took an 80-71 lead and held on to complete a four-game season sweep of the Magic.\n\"We knew we didn't play a good third quarter. We were determined to come out and get a few stops, start moving the ball again and try to play like we did in the first half,\" said Arcidiacono, who had played in only 17 games. \"I don't know if (the Magic) know me and I don't really care if they do. When I go in, I'm going to try and contribute something whether it's making a shot, making a defensive play.\"\nHe made three of four shots and came up with two steals.\nAaron Gordon scored 18 points for Orlando, which went scoreless for almost six minutes of the fourth quarter and shot 33 percent for the game. Nikola Vucevic had 12 points and 14 rebounds for the Magic (22-53).\nThe Bulls (25-51) committed six turnovers in the third quarter and went more than nine minutes without a field goal, missing 14 straight shots and squandering all of a 16-point lead. But even after the Bulls' long cold spell, the Magic never led by more than five.\n\"We really had them on the ropes in the third quarter,\" said Magic coach Frank Vogel, \"and I thought there were a handful of possessions that set up a poor fourth quarter by trying to go for the knockout punch, the dagger 3s, and just trying to force it a little bit when we had them on the ropes.\"\nThe Bulls made nine of their first 14 shots, and a 3-pointer by Justin Holiday gave them a 14-point lead, the largest of the first half, with 4:40 remaining in the first quarter.\nDenzel Valentine opened the second half with a 3-pointer to put Chicago up by 16, but then the Bulls went 9 minutes, 10 seconds before getting another field goal.\nCristiano Felicio finished with eight points and a game-high 16 rebounds for the Bulls.\nTIP-INS\nBulls: The availability of G Kris Dunn (toe sprain), G Zach LaVine (knee tendinitis) and F Paul Zipser (foot pain) will be re-evaluated when the team returns to Chicago, Hoiberg said. Dunn and LaVine have each missed eight straight games.\nMagic: G Wes Iwundu was a late scratch due to illness, giving Rodney Purvis his second NBA start.\nFINE DAY\nBulls center Robin Lopez did not play after drawing a $25,000 league fine for failure to leave the court in a timely manner after his ejection Thursday night. \"He's played an enforcer-type role in this era where there's not many of those type guys,\" Hoiberg said. \"He's going to protect his teammates, and that's why the guys love him.\"\nUP NEXT\nBulls: Host Washington on Sunday afternoon.\nMagic: Play at Atlanta on Sunday night.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.065140",
+  "pipeline_version": "v1"
+}

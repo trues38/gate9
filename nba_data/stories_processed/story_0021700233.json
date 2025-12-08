@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700233",
+  "espn_id": "400974984",
+  "date": "Nov 18, 2017",
+  "matchup": "MIL @ DAL",
+  "headline": "Mavericks stop 4-game slide with win against Bucks",
+  "cleaned_body": "DALLAS --  The Dallas Mavericks' first win in a couple weeks was quite a relief for Wesley Matthews and company.\n\nMatthews scored a season-high 22 points, and the Mavericks stopped a four-game slide with a 111-79 victory over the Milwaukee Bucks on Saturday night.\n\n\"It rejuvenates you,\" Matthews said. \"Everybody feels good. Aches don't hurt as much, you just feel better about everything you've done. You don't need moral victories, you've got the real one and you can actually see everything we're trying to bring together.\"\n\nMatthews also had eight assists while helping Dallas (3-14) to its first win since Nov. 7 at Washington. He had six of the Mavericks' franchise record-tying 19 3-pointers.\n\n\"We were playing basketball, and one of the hardest things to guard is random movement,\" he said. \"That's when I'm at my best, when we're just playing and stay in a rhythm.\"\n\nJ.J. Barea had 20 points for the Mavericks, and Harrison Barnes finished with 18. Yogi Ferrell had 16 points and Dwight Powell grabbed 13 rebounds.\n\nMilwaukee had won four in a row. Giannis Antetokounmpo had 24 points and 17 rebounds for the Bucks (8-7), and Khris Middleton added 23 points.\n\nIt was Milwaukee's first loss since it acquired Eric Bledsoe in a trade with the Phoenix Suns on Nov. 7.\n\n\"I think the ball was just stuck,\" Bucks coach Jason Kidd said. \"The ball got sticky and we were afraid to let go of it to a teammate.\"\n\nThe Mavericks never trailed after Matthews' 3-pointer made it 22-20 with 3:07 left in the first quarter. Dallas went 19 for 38 from beyond the arc, including a shot clock-beating 3 from near midcourt by Barea that made it 88-64 in the fourth quarter.\n\n\"I had to shoot that one,\" Barea said. \"You don't see a lot of those.\"\n\nKidd said his team should have been ready for the 3-point barrage.\n\n\"Coming into the game we had talked about how they are second in the league in attempts,\" Kidd said. \"They just haven't made them. But tonight they made up for all those misses.\"\n\nMilwaukee went 6 of 25 from 3-point range.\n\nTERRY RETURNS\n\nJason Terry played the final couple minutes for Milwaukee and got a standing ovation from the crowd. The 40-year-old Terry played for Dallas from 2004 to 2012 and helped the Mavs win the NBA title in 2011.\n\nTerry scored on his only field-goal attempt, leading to a large roar from the crowd.\n\n\"I knew he was gonna score,\" Mavericks coach Rick Carlisle said. \"I was gonna clap, I wasn't sure how appropriate that was. You know how I feel about him, that's one of the reasons we're all wearing rings here.\"\n\nTIP-INS\n\nBucks: C John Henson went 3 for 10 at the free-throw line. ... Kidd had two stints in Dallas as a player and averaged 10.5 points, 5.5 rebounds, and 8.4 assists in 500 career games with the Mavericks. ... The Bucks host the Mavericks on Dec. 8.\n\nMavericks: C Nerlens Noel only played three minutes. Noel played six minutes in Friday night's 111-87 loss to Minnesota and has been replaced in the rotation by Salah Mejri. ... Dallas still leads the NBA with 14 losses this season.\n\nUP NEXT\n\nBucks: Host the Washington Wizards on Monday.\n\nMavericks: Host the Boston Celtics on Monday.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.449734",
+  "pipeline_version": "v1"
+}

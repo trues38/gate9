@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100356",
+  "espn_id": "401360180",
+  "date": "Dec 06, 2021",
+  "matchup": "MIA vs. MEM",
+  "headline": "Bane, Brooks lead Grizzlies to fifth straight win",
+  "cleaned_body": "MIAMI -- — Dillon Brooks and Desmond Bane scored 21 points each, and the surging Memphis Grizzlies beat the Miami Heat 105-90 Monday night.\n\nMemphis has won five straight without leading scorer Ja Morant, who hurt his left knee against Atlanta on Nov. 26. The Grizzlies have not trailed during their streak.\n\nAll five Grizzlies’ starters finished in double figures. Steven Adams had 17 points and 16 rebounds, while Tyus Jones and Jaren Jackson scored 14 points each.\n\n“Guys are buying in, guys are wanting to take that next step of being a great team and getting ready for what’s ahead,” Brooks said. “We are so unselfish. We respond with relentlessness that a lot of teams don’t have.”\n\nThe Grizzlies opened the game on a 20-6 run and built an 11-point halftime lead. Then they maintained the double-digit advantage throughout the second half.\n\nMiami’s Jimmy Butler returned from a four-game absence because of a bruised tailbone and scored 10 points before leaving for the locker room midway through the third quarter. He didn’t return. Butler favored his back after a hard fall in a missed driving layup early in the first quarter.\n\nHeat coach Erik Spoelstra said there is no update on Butler’s status.\n\n“He drew contact and got shoved and landed on his tailbone again,” Spoelstra said. “There could not have been a worst scenario for us to start the game. It is a contact sport. It’s an unpredictable thing. Insult to injury, we didn’t get the call on that either.\n\n\"But he definitely re-aggravated it. You can tell from that point on he was not his usual self. So we’ll re-evaluate him (Tuesday) and see where we are.”\n\nMemphis scored 27 points off of 23 Miami turnovers and split the season series following a 129-103 home loss on Oct. 30.\n\n“Just an ultra competitive game from our guys,” Grizzlies coach Taylor Jenkins said. “We definitely had a bad taste in our mouth from Game 1 against Miami at our place. We came in with the edge we’ve been building the last week plus.”\n\nTyler Herro had 24 points and Kyle Lowry finished with 17 points for the Heat, who have lost four of five and three straight at home.\n\n“Any time you’re playing from behind, your game changes,” Herro said. “Especially early on when we dig ourselves a hole, it’s hard to generate good looks and not feel so much pressure on the offensive end. So we just need to be better on both ends of the floor. The last couple games, obviously, hasn’t been our best basketball.”\n\nTIP-INS\n\nThe Grizzlies beat a Southeast Division foe for the first time this year after losses to Miami, Washington, Charlotte and Atlanta. ... F Ziaire Williams was helped off the court after spraining his left ankle early in the second quarter and didn’t return. Jenkins had no update on Williams’ status. Williams played three minutes in his return from a three-game absence because of right knee soreness.\n\nHeat: Monday’s game completed the Heat’s third home-and-home set against a Western Conference opponent. Miami already has finished its season series against the Utah Jazz and Denver Nuggets. ... F Markieff Morris (whiplash) participated in warm-ups but missed his 15th consecutive game.\n\nHOME FOR A WHILE\n\nMonday was the start of the Heat’s first homestand that goes beyond two games. The early schedule has featured trips of four and five away games. After the Heat complete this three-game home set against Chicago on Saturday, they will begin another four-game trip Dec. 13 in Cleveland.\n\nUP NEXT\n\nGrizzlies: open a four-game homestand Wednesday against Dallas.\n\nHeat: host defending league champion Milwaukee Bucks Wednesday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.392479",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0022101060",
+  "espn_id": "401360879",
+  "date": "Mar 19, 2022",
+  "matchup": "DET @ CLE",
+  "headline": "Garland scores 24 points, Cavaliers beat Pistons 113-109",
+  "cleaned_body": "CLEVELAND -- — All-Star point guard Darius Garland had 24 points and 12 assists, Evan Mobley had his NBA rookie-high 20th double-double and the Cleveland Cavaliers beat the Detroit Pistons 113-109 on Saturday night.\n\nMobley finished with 12 points, 11 rebounds and six assists. Cedi Osman scored 16 points and Kevin Love had 14 points and 10 rebounds for the Cavaliers, who earned their 41st win to clinch their first non-losing season in four years.\n\n“And we’ve got a lot of games left and a lot more opportunities ahead of us,” Cleveland coach J.B. Bickerstaff said. “The fans are always engaged here and you can feel the wave that comes over the building, which is why I think it’s one of the best arenas in the league.”\n\nThe Cavaliers extended their lead to 1 1/2 games over Toronto for sixth place in the Eastern Conference. They trailed 80-68 in the third quarter, but outscored Detroit 31-9 over the next 9:18 to take command and win for the 18th time in the last 23 home games.\n\nCleveland completed a back-to-back set after rallying from a 14-point deficit in the fourth quarter and beating Denver 119-116 in overtime Friday.\n\n“We’re pretty tired from last night, but we had to do what we could to get the win,” Mobley said. “We really dug deep, and Kevin Love and Cedi rallied us back.”\n\nJerami Grant scored 27 of his season-high 40 points in the first half and No. 1 overall draft pick Cade Cunningham added 15 points and 10 assists for Detroit. Saddiq Bey had 20 points, following up his career-best 51 at Orlando two days earlier.\n\nThe Pistons have lost five of six and have the second-worst record in the East at 19-52.\n\n“I was feeling it, but it really didn’t mean nothing because we didn’t get the win,” Grant said. “Once Kevin Love got hot, they got a lot of confidence and you could feel it. Honestly, I live for games like this because it reminds me of the playoff environment.”\n\nThe Cavaliers are 3-1 on their longest homestand of the season, a five-gamer that concludes Monday against LeBron James and the Lakers. All-Star center Jarrett Allen missed his seventh straight game with a broken finger on his left hand.\n\nA dunk by Marvin Bagley III gave the Pistons the largest lead of the game at 80-68, but Love drained three 3-pointers in a 14-1 surge to end the quarter and put Cleveland up one.\n\nGrant was 6 of 7 on 3-pointers as Detroit built a 60-55 advantage in the first half. The Pistons used a 14-0 run, with six players scoring, midway through the second quarter to erase Cleveland’s 36-27 lead.\n\n“It had a playoff feel, a playoff atmosphere and that was good for evaluating our young guys,” Detroit coach Dwane Casey said. “That team was playing desperate and we weren’t, but there were a lot of positives to take out of this game.”\n\nROOKIES ON THE RISE\n\nCunningham, Mobley and Raptors F Scottie Barnes are the top candidates for the Rookie of the Year award. Thunder G Josh Giddey, Rockets G Jalen Green and Magic F Franz Wagner also are in the upper tier of a very deep group.\n\n“This is going to go down as a top-three or four draft class of all-time,” Bickerstaff said. “There are so many guys who can play at a high level and play the game more maturely than their age.”\n\nCasey views the class similarly, saying, “It’s been a while since we’ve seen a group like this. You could make a case for each player, but I’m very biased for Cade.”\n\nTIP-INS\n\nPistons: G Killian Hayes (head contusion) was not in uniform after being hurt Thursday at Orlando. … G Frank Jackson (lumbar spine spasm), G Hamidou Diallo (left finger sprain) and two-way G Chris Smith (left knee sprain) were unavailable. … C Luka Garza is on a G League assignment with the Motor City Cruise. … Detroit has a three-game home winning streak against Cleveland.\n\nCavaliers: G Rajon Rondo (right ankle sprain) worked out on the court late in the afternoon, but was inactive for the fourth game in a row. … F Dean Wade (right knee soreness) has not played since March 12 at Chicago. … Cleveland went to overtime twice in a three-game span, beating the Clippers and Nuggets, after not going beyond regulation in its first 67 contests.\n\nUP NEXT\n\nPistons: Host the Portland Trail Blazers on Monday night.\n\nCavaliers: Host the Los Angeles Lakers on Monday night.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "PlayoffContext",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.633280",
+  "pipeline_version": "v1"
+}

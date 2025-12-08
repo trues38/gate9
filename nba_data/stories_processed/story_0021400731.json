@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400731",
+  "espn_id": "400579023",
+  "date": "Feb 04, 2015",
+  "matchup": "DET @ IND",
+  "headline": "Hill scores 20, Pacers beat Pistons 114-109",
+  "cleaned_body": "INDIANAPOLIS --  George Hill gave the Indiana Pacers a boost, from the first basket to the final minute.\n\nHill returned to the starting lineup and contributed 20 points and six assists, sending the Pacers past the Detroit Pistons 114-109 Wednesday night.\n\nHill got off to a quick start, making a layup 12 seconds into the game and adding a 3-pointer for a 5-0 lead. His jumper and two free throws at the end kept Indiana ahead in its highest-scoring game of the season.\n\n\"Certainly George leading the way is a big difference for us,\" Pacers coach Frank Vogel said. \"He creates things for others and get us organized. He is great playing with the basketball and without the basketball.\"\n\nHill made just his fourth start of the season, and first in six games after being sidelined by a strained left groin. Slowed by a knee injury, he's been limited to 11 games overall\n\nRoy Hibbert had 16 points and 12 rebounds and C.J. Miles added 15 points for the Pacers.\n\nAndre Drummond had 18 points and 16 rebounds and Greg Monroe scored 16 for the Pistons.\n\nMiles made back-to-back 3-pointers that helped give the Pacers a 102-96 lead, and they led the rest of the way.\n\nThe Pacers went on a 17-2 run in the third quarter to take a 70-58 lead.\n\nMiles finished with four 3-pointers, including a 3 that tied it at 56 and sparked the run. Hill's layup put the Pacers ahead.\n\nIndiana dropped the first two games to Detroit of the four-game series in the regular season, including a 98-96 loss on Jan. 16 when Drummond scored on a last-second basket to win it.\n\nHill was inactive that game with the strained groin. Indiana's first loss to Detroit, 119-109 back on Dec. 26, was just Hill's second game of the year.\n\nStill, Hill isn't where he wants to be.\n\n\"My conditioning is at an all-time low,\" he said. \"But I felt fine physically. It is still going to take a couple game to get my legs back under me.\"\n\nMonroe scored just before halftime to give the Pistons a 49-48 lead at the break.\n\n\"We were terrible defensively,\" Pistons coach Stan Van Gundy said. \"We defended for four minutes in a 48-minute game. We defended the last four minutes of the first half and that was it.\"\n\nAfter Indiana's big run early in the second half, the Pistons went on a 10-2 run late in the third quarter to get back within two.\n\nJohn Lucas III hit a 3-pointer and Anthony Tolliver made another to make 74-72 with 1:31 remaining in the third quarter.\n\nTIP-INS\n\nPistons: Detroit began the day with an average of 8.7 3-pointers per game, the highest rate in team history. The Pistons shot 12 of 24 on 3s, and the Pacers were even better at 12 of 21.\n\nPacers: Indiana wore Flo-Jo jerseys as part of the NBA's Hardwood Classics program. The Pacers wore the jerseys throughout the 1990s and will wear them in six games this season.\n\nUP NEXT\n\nPistons: Host Nuggets on Friday.\n\nPacers: Host Cavaliers on Friday.\n\nON A POSITIVE NOTE\n\nA day after Pacers president Larry Bird called the season \"disappointing,\" Indiana shot a season-best 59.7 percent. The Pacers scored 33 points in the fourth quarter, their best final period of the season.\n\nHIT WITH INJURIES\n\nThe Pacers and Pistons both have faced injuries. Detroit's Brandon Jennings is out for the season with a ruptured left Achilles tendon. Indiana has missed much of its startling lineup at different times, including All-Star Paul George, who fractured his right leg in the offseason.\n\nIn the first quarter, Detroit's Kentavious Caldwell-Pope left with a sore right Achilles. In the second quarter, Indiana's Ian Mahinmi sprained his right ankle.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.549060",
+  "pipeline_version": "v1"
+}

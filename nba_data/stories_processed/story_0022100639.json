@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100639",
+  "espn_id": "401360458",
+  "date": "Jan 14, 2022",
+  "matchup": "MEM vs. DAL",
+  "headline": "Mavs rout Grizzlies 112-85, ending Memphis' winning streak",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Luka Doncic had 27 points, 12 rebounds and 10 assists in his 40th career triple-double, and the Dallas Mavericks used a second-half rally to rout Memphis 112-85 on Friday night and end the Grizzlies’ winning streak at 11 games.\n\nDoncic had 18 points in the second half, connecting on 8 of 10 shots. Tim Hardaway Jr. scored 16 points, and Jalen Brunson and Marquese Chriss had 15 points apiece, with Brunson adding nine assists.\n\n“Our defense was amazing,” Doncic said. “(The Grizzlies) have a great offense, and it’s tough to stop them, but I think we did an amazing job in the second half.”\n\nJa Morant led Memphis with 19 points and eight assists, Desmond Bane had 16 points and Kyle Anderson added 12. The Grizzlies lost for the first time since Dec. 23, getting little help beyond its top three scorers.\n\nThe Grizzlies were playing the second night of a back-to-back and their fifth game in a week. Morant said the schedule may have finally caught up with them.\n\n“Pretty much from our legs being heavy and our shots were short,” Morant said, later adding the fatigue contributed to his eight turnovers and other mistakes in the game.\n\nMemphis shot 38% from the field and made only seven of 31 shots from beyond the arc. Meanwhile, the Mavericks were at almost 52% from the floor.\n\nThe Mavericks have been playing well. Before losing 108-85 at New York on Wednesday night, Dallas had clicked off six straight victories.\n\nDallas gained a bit of a cushion in the second half, starting the third quarter shooting better than the first half. That catapulted the Mavs to an 84-73 lead entering the fourth. Doncic scored 10 points in the third to help the Mavericks build their lead, as they outscored Memphis 34-18 in the period.\n\nWhen Dallas rattled off the first seven points of the fourth, the lead swelled to 18. Grizzlies interim coach Darko Rajakovic called off his starters with five minutes left and Memphis trailing by 24.\n\nThe lead would eventually reach 31 as Memphis managed only 12 points in the fourth quarter and 30 after halftime.\n\n“I thought the team rebounding and the team defense was excellent to go with the tempo and pace offensively,” Dallas interim coach Sean Sweeney said. “I thought it was great all around.”\n\nAs for Memphis, the longest regular-season winning streak ended, but the stretch moved the Grizzlies into third place in the Western Conference.\n\n“First thing I told guys was congratulations for an amazing streak and making history for our franchise,” Rajakovic said. “Eleven straight wins. It’s a huge thing. We were playing really good basketball.”\n\nTIP-INS\n\nMavericks: Willie Cauley-Stein (personal reasons) and Kristaps Porzingis (health and safety protocols) were both out. … Dallas has won seven of the last 10 games in the series. …Maxi Kleber started his 10th game of the season.\n\nGrizzlies: The Grizzlies had swept three back-to-backs in the streak. They beat Minnesota on Thursday night. … C Steven Adams returned after missing four games in health and safety protocols. … F Brandon Clarke started his first game of the season.\n\nUP NEXT:\n\nMavericks: Host Orlando on Saturday night.\n\nGrizzlies: Host Chicago on Monday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.089147",
+  "pipeline_version": "v1"
+}

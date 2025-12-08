@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100412",
+  "espn_id": "401360236",
+  "date": "Dec 13, 2021",
+  "matchup": "PHX @ LAC",
+  "headline": "Clippers beat Suns 111-95 in rematch of 2021 West finals",
+  "cleaned_body": "LOS ANGELES -- — Marcus Morris had season highs of 24 points and 11 rebounds, leading the Los Angeles Clippers to a 111-95 victory over the Phoenix Suns on Monday night in the teams’ first meeting since the Western Conference finals.\n\nThe Suns defeated the Clippers in six games last season to reach the NBA Finals, where they lost to Milwaukee. Phoenix has kept up the momentum this season, leading the West with a 21-5 record.\n\nIt wasn't quite the rematch from the playoffs, with both teams missing their stars. The Suns were without Deandre Ayton and Devin Booker, while Paul George and Kawhi Leonard sat out for the Clippers.\n\n“It definitely didn't feel like that,” Morris said of Monday's game compared to last spring's playoffs.\n\nMorris had his first double-double since joining the Clippers in February 2020.\n\n“Throughout my career, anytime I have a big rebounding game, I’m scoring the ball,” he said.\n\nReggie Jackson added 19 points and Terance Mann had 17 points and nine rebounds for the Clippers, who won their fourth in a row.\n\n“We're just getting contributions from all of our guys,” Clippers coach Tyronn Lue said. “Our whole team did a good job of just chipping in.”\n\nCam Johnson led Phoenix with 17 points off the bench. Mikal Bridges added 16 points. Chris Paul was held to nine points and eight assists against his former team.\n\n“Against CP, we tried to slow him down and give him different looks,” Lue said. “To slow him down a little bit was huge for us.”\n\nThe Suns' only lead came on the game's first basket by Jae Crowder. They missed 12 of 13 shots at the start while the Clippers built a 10-point lead. Crowder and JaVale McGee picked up two fouls apiece in the first quarter.\n\nPhoenix was in pursuit the rest of the way. The Suns missed 60 of 96 shots from the field.\n\n“We were out of rhythm all night. We just couldn’t knock down shots,” Suns coach Monty Williams said. “If you're missing shots, you're playing in transition a lot.”\n\nThe Clippers outscored the Suns 15-6 to start the fourth, building a 19-point lead. Five different players scored, highlighted by Mann's one-handed jam, Isaiah Hartenstein's floater and Luke Kennard's 3-pointer.\n\nPaul was called for an offensive foul and a technical in the second shortly before Crowder and McGee earned their third fouls apiece. Crowder finished with six points and four fouls. McGee had 13 points and 13 rebounds.\n\nThe Clippers extended their lead to 15 points late in the second. They sank 5 of 6 free throws down the stretch to go up 56-44 at halftime.\n\nLA opened the third with a 10-5 spurt, bookended by dunks from Ivica Zubac, for a 17-point lead.\n\nThe Suns cut their deficit to 10 points a handful of times but trailed 79-69 going into the fourth.\n\nTIP-INS\n\nSuns: Ayton and Jalen Smith sat out because of non-COVID-19 illnesses. ... Booker remained out with a strained left hamstring. ... They fell to 5-1 in the first game of back-to-backs.\n\nClippers: Longest winning streak of season since they won seven straight last month. ... George missed his third straight game because of a right elbow contusion. ... Serge Ibaka earned his third DNP in a row due to a coach's decision.\n\nUP NEXT\n\nSuns: Visit Portland on Tuesday to complete the road back-to-back.\n\nClippers: Visit Utah on Wednesday in the first of a two-game trip.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "CoachComment",
+    "Rivalry",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.774149",
+  "pipeline_version": "v1"
+}

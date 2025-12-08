@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100440",
+  "espn_id": "401360264",
+  "date": "Dec 17, 2021",
+  "matchup": "MEM @ SAC",
+  "headline": "Grizzlies come back from 15 down, thump Kings 124-105",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Desmond Bane scored 24 points and the Memphis Grizzlies rallied from another double-digit deficit to win, beating the Sacramento Kings 124-105 on Friday night.\n\nDillon Brooks had 23 points and six rebounds, and Jaren Jackson Jr. scored 21 points to help the Grizzlies to their sixth consecutive road win – their most since 2016.\n\nMemphis trailed 50-35 early in the second quarter, then outscored Sacramento 68-27 over the next 20 minutes. It’s the seventh time this season that the Grizzlies have won after trailing by double digits.\n\n“If we’re down the only thing to do is fight, That’s our mentality,” Jackson said. “We’d like to be up all game but we know it’s not always going to be like that. It’s good that we’re able to withstand that and finish the deal.”\n\nTyrese Haliburton had 21 points and 10 assists for the Kings.\n\nSacramento had to call up three players from its G-League affiliate earlier in the day after point guard De’Aaron Fox, first-round draft pick Davion Mitchell and center Alex Len were entered into the NBA health and safety protocols. They joined Marvin Bagley, Terence Davis and interim coach Alvin Gentry, who were placed in the protocols earlier this week.\n\nIt didn’t seem to matter early but the Kings faded and lost their fourth in five games.\n\n“Memphis does what we were doing early on, they touch you a lot,” said Kings assistant coach Doug Christie, who is filling in for Gentry. “When you touch people on the court like that it’s uncomfortable. Some of it was us but give them credit, they were physical, they got after it.”\n\nThe Grizzlies took control with a 14-6 run to open the third quarter. Bane later scored seven straight to push Memphis’ lead to 91-75.\n\nAfter Sacramento pulled within 105-89 following back-to-back 3s by Buddy Hield, Jackson cut down the lane for a thunderous two-handed dunk, then added two free throws and a layup as Memphis pulled away.\n\n“For our guys it’s staying the course for 48 minutes,” Grizzlies coach Taylor Jenkins said. “If we get off to a slow start or in the second half a team goes on a run, we’re capable of going out there and regrouping. They were playing extremely fast in the first half. Our physicality picked up a little bit.”\n\nTwo nights after rallying from 10 down to beat Portland, Memphis came out sluggish and trailed 50-35 in the second quarter before coming back to lead at the half. Brooks, who was hit with a technical foul 44 seconds into the first quarter, made a clutch 3-pointer as part of the Grizzlies rally.\n\nKINGS’ QUETA MAKES HISTORY\n\nSacramento rookie Neemias Queta became the first player from Portugal to play in the NBA. A second-round pick under a two-way contract, Queta had four rebounds and an assist in eight minutes.\n\nAsked if he felt any pressure before checking in, Queta smiled.\n\n“I just see it as basketball,” Queta said. “I’m not really thinking ‘OK this is the NBA.’ I know I can do some things good and just try to do my best at it.”\n\nTHIEVERY\n\nMemphis’ De’Anthony Melton ripped the ball out of Justin Robinson’s hands near the Kings basket late in the first quarter, drove to the other end and scored. That was one of 11 steals by the Grizzlies, extending their franchise record to 10 games with 10 or more.\n\nTIP-INS\n\nGrizzlies: Memphis is 8-1 in December. … Bane and Jones scored nine points apiece in the third quarter. … Santi Aldama was held out because of right calf soreness.\n\nKings: Richaun Holmes (right eye) sat out his fifth consecutive game. … Sacramento signed Thompson signed a 10-day contract before the game. Thompson has previously been with the Wizards, Thunder and Bucks.\n\nUP NEXT\n\nGrizzlies: Play the Trail Blazers in Memphis on Sunday.\n\nKings: Face the Spurs at Golden 1 Center on Sunday afternoon. San Antonio has won three straight against Sacramento.\n\n----",
+  "tags_rule": [
+    "MomentumShift",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.573893",
+  "pipeline_version": "v1"
+}

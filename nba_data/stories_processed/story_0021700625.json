@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700625",
+  "espn_id": "400975371",
+  "date": "Jan 12, 2018",
+  "matchup": "MEM @ DEN",
+  "headline": "Barton scores 17 points in Nuggets' 87-78 win over Grizzlies",
+  "cleaned_body": "DENVER --  Missing their top scorer, the Denver Nuggets leaned on their defense to end a three-game losing streak.\n\nWill Barton scored 17 points, Trey Lyles had 16 and the Nuggets overcame a slow start to beat the Memphis Grizzlies 87-78 on Friday night.\n\nDenver took control of the game by holding Memphis to 13 points in the third quarter, and the Grizzlies finished with a season low in scoring by a Nuggets opponent.\n\n\"Our defense stayed the course,\" Nuggets coach Michael Malone said. \"Tonight, a lot of guys struggled to make shots but they never deterred from the defensive end of the floor. This was a game we had to have and I am proud of our guys for going out there and getting the job done.\"\n\nNikola Jokic added 14 points and nine rebounds for Denver, which played without star guard Gary Harris, who was excused for personal reasons. It was the first game that Harris, who averages 16.9 points, has missed this season. Barton started in his place.\n\n\"It's always tough, not having Gary Harris, who does everything,\" Barton said. \"He's one of our top defenders, one of our top scorers. But our mentality is always next man up and everyone stepped up and played well and we got the win.\"\n\nBarton said the Nuggets' defense was a constant.\n\n\"We were making those guys work and getting after them and trying to make them uncomfortable,\" he said.\n\nMarc Gasol had 22 points and 11 rebounds for Memphis, his 18th double-double this season. Tyreke Evans and James Ennis III added 12 points each.\n\n\"Defensively, they were able to run a lot more and they got to the free throw line more often,\" Gasol said. \"And they controlled the pace in the second half.\"\n\nTrailing 54-50 midway through the third quarter, the Nuggets went on an 8-0 run, taking their first lead since the game's opening minutes on a driving layup by Jokic. Denver had a 67-60 advantage -- its biggest lead to that point -- heading into the fourth quarter.\n\nMemphis pulled within three, but the Nuggets scored 10 of the next 12 points, taking a 77-66 lead on Mason Plumlee's dunk off Malik Beasley's alley-oop pass with 6:15 remaining.\n\nMemphis could not make significant inroads on Denver's lead the rest of the way.\n\nDenver pulled within 47-43 at halftime after a lackluster first quarter in which Memphis went on a 15-0 run for a 23-8 lead before settling for a 10-point advantage at the close of the period.\n\nTIP-INS\n\nGrizzlies: G Mike Conley (left heel) and F Chandler Parsons (sore right knee) were not with the team but continue to make progress in their rehabilitation. Conley has been playing some 3-on-3 games and Parsons has participated in shooting drills. \"We will be cautious with those guys because they are important to us,\" Grizzlies interim coach J.B. Bickerstaff said. \"They are making steps in the right direction.\"\n\nNuggets: F Paul Millsap, sidelined since mid-November with a ligament injury in his left wrist, has begun light workouts and may be able to return shortly after the All-Star break in mid-February, though no firm date has been set. ... Retired Broncos quarterback Peyton Manning watched the game from a courtside seat.\n\nPERIMETER DEFENSE\n\nThe Grizzlies were held to 39 percent shooting (30 for 77). The Nuggets have won 18 of their last 19 when holding the opposition at or below 39 percent from the field. The only loss in that span was to Memphis two years ago.\n\nUP NEXT\n\nGrizzlies: Open a three-game homestand Monday against the Los Angeles Lakers.\n\nNuggets: Travel to San Antonio to face the Spurs on Saturday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.848799",
+  "pipeline_version": "v1"
+}

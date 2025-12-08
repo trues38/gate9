@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101030",
+  "espn_id": "401360849",
+  "date": "Mar 15, 2022",
+  "matchup": "BKN @ ORL",
+  "headline": "Irving scores career-best 60 points, Nets rout Magic 150-108",
+  "cleaned_body": "Orlando, Fla. -- — Kyrie Irving made it two nights in a row with a 60-point scorer in the NBA.\n\nA 41-point first half hadn't been seen in almost two decades.\n\n“It just shows you we’re on our way to history,” Irving said.\n\nIrving scored a career-high 60 points, most in the Nets’ NBA history, to lead Brooklyn to a 150-108 victory over the Orlando Magic on Tuesday night.\n\nIrving shot 20 for 31, including 8 of 12 on 3-pointers, in 35 minutes. He made 12 of 13 free throws in matching the highest-scoring game in the NBA this season, done just a night earlier by Minnesota’s Karl-Anthony Towns against San Antonio.\n\n“The night after Karl Towns had an incredible performance, and then to have Kyrie do it the next night, the league is in an amazing place right now,” teammate Kevin Durant said. “We’re seeing a lot of talent displayed every night, and this was one of the elite ones.”\n\nIrving and Durant became the first teammates in NBA history to post 50-point performances in consecutive games. Durant scored 53 points in a win against the New York Knicks on Sunday.\n\nIrving scored 41 points in the first half, the most in the first two quarters since Kobe Bryant had 42 against Washington on March 28, 2003.\n\n“It was just about the team really, just getting in the flow,” he said. “That's the true purity of this game, doing it efficiently on both ends of the floor and coming out with a W.”\n\nThe guard left the game after hitting a long 3-pointer with 8:33 remaining and Brooklyn leading 128-94.\n\nPlaying in only his 19th game of the season because he isn't eligible to play home games because of New York City's mandate requiring vaccination against COVID-19, Irving reached the 50-point mark by spinning a layup off the glass with 5:02 left in the third quarter.\n\n“A few shots I probably shouldn't have taken. Tough ones, with double-teams and triple-teams coming,” he said. “But as long as I can do it with a smile on my face and my teammates weren't too angry with me, it was worthwhile.”\n\nIt marked the sixth 50-point game of Irving's NBA career and the 16th 50-point game in the league this season, including two apiece by Irving, Durant, LeBron James of the Los Angeles Lakers and Boston's Jayson Tatum.\n\nHe went on to pass Deron Williams' Nets record of 57 points. Irving has four 40-point games with the Nets and Durant has two.\n\nIrving scored 50 points last Tuesday in a 132-121 win at Charlotte. His previous career high was 57 points for Cleveland at San Antonio on March 3, 2015.\n\nIrving had 16 points and three assists in the Nets' 48-point first quarter, in which they shot 74% (20 for 27) including 5 of 6 on 3s.\n\n“When a guy has a game going like that, there's nothing he can do wrong,” said center Andre Drummond. “He was rolling, so it was fun to watch.”\n\nThe Nets led 86-56 after Irving's 41-point first half. He was 14 for 19.\n\n“There's times he's shooting over two people,” said Magic coach Jamahl Mosley. “You try to double-team him, he's smart enough to know when to go and when not to go. He's fast in transition so you can't speed up and try to deny him. They're setting backscreens. He's crafty enough and he's seen every coverage and he knows how to play with a pace. That makes it hard.”\n\nDurant added 19 points in the Nets’ fourth straight win.\n\nCole Anthony had 19 points and seven assists for Orlando.\n\nTIP-INS\n\nNets: Brooklyn shot 16 for 27 from 3-point range, with Patty Mills hitting 5 of 7. . . . G Cam Thomas (back contusion) did not play, and G Seth Curry (left ankle) missed a second straight game. Coach Steve Nash said both players might be available Wednesday night against Dallas. ... The Nets won three of four against the Magic this season. Neither Durant nor Irving played in the loss.\n\nMagic: G Jalen Suggs did not play for the third time in five games after re-injuring his right ankle on Sunday night. ... The Magic announced that F Jonathan Isaac will not play this season, marking the second straight season Isaac has missed entirely since tearing his left ACL on Aug. 2, 2020.\n\nUP NEXT\n\nNets: Play at home Wednesday night against Dallas.\n\nMagic: Play at home Thursday night against Detroit.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.715464",
+  "pipeline_version": "v1"
+}

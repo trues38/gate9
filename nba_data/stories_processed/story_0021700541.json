@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700541",
+  "espn_id": "400975287",
+  "date": "Dec 31, 2017",
+  "matchup": "OKC vs. DAL",
+  "headline": "Barnes leads Mavericks past Thunder for 4th straight win",
+  "cleaned_body": "OKLAHOMA CITY --  Mavericks rookie Dennis Smith Jr. made the plays down the stretch in a point guard matchup otherwise dominated by Thunder star Russell Westbrook.\n\nSmith scored 11 of his 19 points in the final 1:39 and Dallas closed 2017 with its season-best fourth straight win, beating Oklahoma City 116-113 on Sunday night.\n\nHarrison Barnes led the Mavericks with 24 points and Dirk Nowitzki added 13 for Dallas, which had lost four straight in Oklahoma City and seven of nine overall against the Thunder.\n\n\"He was great tonight,\" Dallas coach Rick Carlisle said of Smith. \"He finished the game with a couple of big baskets, some big free throws. Look, it was an up-and-down night, there was a lot going on. ... He went through some situations that were very difficult but he kept his energy up, he kept his head up, he kept attacking and he kept encouraging everybody in the huddles during timeouts, too.\"\n\nDallas won despite Westbrook recording his 12th triple-double of the season with 38 points, 15 rebounds and 11 assists. The Thunder had been 11-3 in December before consecutive home losses to Milwaukee and Dallas to end the month.\n\nPaul George scored 25 points and Carmelo Anthony had 21 for Oklahoma City, combining to go 8 of 14 from 3-point range. Despite their hot shooting, Westbrook took the big shots late for OKC and missed a trio of 3-pointers in the final 30 seconds. He was 0 for 4 from deep for the game and was mostly curt with reporters afterward.\n\n\"We just didn't get the stops we needed to,\" he said.\n\nConsecutive 3-pointers by Smith -- the second one banked in -- put the Mavericks up 111-108 with 1:17 left. Smith hit a driving layup with 30.4 seconds left to give Dallas a 113-110 lead, then rebounded a 3-point miss by Westbrook at the other end and made two free throws with 15.8 seconds left.\n\n\"I just saw an open shot and I took it, so I was like with the next one, I'm going to take it as well and they started to fall,\" Smith said. \"It might have been around the five-minute mark or somewhere around there that I realized it was time for me to get it going.\"\n\nGeorge made three free throws with 12.7 seconds left to pull the Thunder within 115-113, and then Smith made 1 of 2 free throws with 11.8 seconds left. Westbrook missed two more 3-point attempts in the final seconds.\n\nTIP-INS:\n\nMavericks: Josh McRoberts was in uniform for the first time this season but didn't play. The veteran forward-center hasn't appeared in a NBA game since Dec. 23, 2016 for Miami, after which he dealt with a stress fracture in his left foot. ... Carlisle moved into a tie with John MacLeod for 17th on the NBA coaching wins list with his 707th career victory. ... Yogi Ferrell was called for a technical foul by official Marc Davis between the third and fourth quarters.\n\nThunder: Starting guard and defensive ace Andre Roberson sat out with patellar tendonitis. Josh Huestis made his first career start in Roberson's place. ... George, who sat our Friday's game with left knee soreness, said his knee felt fine after Sunday's game . Oklahoma City is 8-2 in New Year's Eve games. The Thunder have hosted a Dec. 31 game in all 10 seasons the franchise has been in Oklahoma City. ... Westbrook has 91 career triple-doubles, fourth-best in NBA history.\n\nPATTERSON FINED\n\nThe NBA fined Thunder forward Patrick Patterson $10,000 on Sunday for public criticism of officiating on his Twitter account. The fine was announced by Kiki VanDeWeghe, the NBA's executive vice president for basketball operations.\n\nUP NEXT\n\nMavericks: Begin a four-game homestand Wednesday night against Golden State.\n\nThunder: Face back-to-back games in Los Angeles, against the Lakers on Wednesday night and the Clippers on Thursday night.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "TripleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "PhysicalGame",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.347156",
+  "pipeline_version": "v1"
+}

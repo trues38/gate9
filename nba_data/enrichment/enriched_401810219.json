@@ -1,0 +1,28 @@
+{
+  "game_id": "401810219",
+  "home_id": "11",
+  "away_id": "23",
+  "referee_context": {
+    "crew_chief": "Scott Foster",
+    "regime": {
+      "style": "Control Enforcer",
+      "home_win_pct": 61,
+      "foul_rate": "High",
+      "variance_impact": "Suppressor",
+      "pace_impact": "Slow"
+    }
+  },
+  "market_context": {
+    "provider": "Draft Kings",
+    "details": "IND -3.5",
+    "overUnder": 233.5
+  },
+  "injury_context": {
+    "home": [],
+    "away": []
+  },
+  "rosters": {
+    "home": [],
+    "away": []
+  }
+}

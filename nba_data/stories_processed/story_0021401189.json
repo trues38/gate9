@@ -1,0 +1,22 @@
+{
+  "game_id": "0021401189",
+  "espn_id": "400579481",
+  "date": "Apr 11, 2015",
+  "matchup": "CHI vs. PHI",
+  "headline": "Pau Gasol, Derrick Rose help Bulls beat 76ers 114-107",
+  "cleaned_body": "CHICAGO -- As Derrick Rose stepped to the free-throw line late in the Chicago Bulls' 114-107 victory over the Philadelphia 76ers on Saturday night, several fans in the United Center began chanting, ``M-V-P! M-V-P!''\nIt's not that the fans believe Rose -- who missed nearly two months following his third knee surgery in less than three years -- is deserving of the NBA's top individual honor this season.\nThe fans were simply making a statement that Rose, in just his third game back, displayed many of the aggressive moves to the basket that helped him win the MVP award in 2011.\n\nHe had 22 points, eight assists and no turnovers in 28 minutes as the Bulls shook off the pesky 76ers late.\n\"I thought he played terrific -- in all areas,\" Bulls coach Tom Thibodeau said. \"You can tell he feels good, and that's the most important thing.\"\nAfter being limited to 20 minutes in his first two games, Rose was given more minutes Saturday and made the most of them.\nHe wasn't quite MVP-caliber, but attacked the basket and finished in traffic -- and showed that he could be ready to perform at a high level when the playoffs begin next week.\n\"I'm getting there,\" Rose said. \"It's still going to take time. I'm just happy I have the teammates I have. When a guy's missed so many games and comes back ... they're sticking with me, so I'm grateful, excited and filled with joy that I'm back playing.\"\nPau Gasol added 24 points and 13 rebounds to help the Bulls remain tied with the Toronto Raptors for third place in the Eastern Conference.\nThe 76ers dressed just nine players, but stayed close with an aggressive, attacking style on both ends. Robert Covington led Philadelphia with 22 points, Jason Richardson had 19, and JaKarr Sampson 18.\nThe Bulls have dropped seven home games to teams with losing records this season, so it wasn't surprising they got off to a sluggish start against Philadelphia and had to battle to the end.\nThe Bulls opened up leads of at least seven points -- they led by as many as nine -- on four occasions in the fourth only to see the 76ers charge back within striking range. The spread was just three points before Rose scored on a spinning driving layup with a minute to play for a 110-105 lead.\n\"I just felt like we took the circumstance and we tried to make it work as best we could,\" 76ers coach Brett Brown said. \"To do that with no point guards and have our guys respond the way they did, I really can't ask much more from them.\"\nNO LIMIT\nCenter Joakim Noah said he has been told he won't face a minutes restriction in the playoffs. His limit of 32 minutes became an issue -- and a point of contention between Thibodeau and Bulls management -- last month when the center had to sit the final six minutes of a game because the limit had been reached.\n\"His minutes restriction, it's not a big deal,\" Thibodeau said Saturday. \"Thirty-two to 34 minutes is a good number for him -- I've told him that -- but he has to play well, too. We're not just going to put guys out there to put guys out there.\"\nTIP INS\n76ers: Nerlens Noel (right ankle sprain), Luc Richard Mbah a Moute (left shoulder strain), Isaiah Canaan (right foot sprained) and Ish Smith (left groin strain) didn't play, leaving Philadelphia short-handed. \"We're hurting,\" Brown said. \"We're left with nine players. Other than that, we're doing great.\"\nBulls: Guard Kirk Hinrich didn't play in the second half after hyperextending his left knee in the first half. He was scoreless in 5 minutes.\nUP NEXT\n76ers: Host Milwaukee on Monday night.\nBulls: At Brooklyn on Monday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.741145",
+  "pipeline_version": "v1"
+}

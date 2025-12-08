@@ -1,0 +1,24 @@
+{
+  "game_id": "0021200627",
+  "espn_id": "400278347",
+  "date": "Jan 23, 2013",
+  "matchup": "POR vs. IND",
+  "headline": "Trail Blazers halt six-game losing streak with rout of Pacers",
+  "cleaned_body": "PORTLAND, Ore. --  LaMarcus Aldridge insists he wasn't thinking about an All-Star spot.\n\n\"I was just trying to win,\" shrugged the Trail Blazers forward after scoring 27 points in Portland's 100-80 victory over the Indiana Pacers on Wednesday night.\n\nThe victory snapped a six-game losing streak for the Blazers. Portland also ended a four-game skid at home and avoided dropping five straight at the Rose Garden for the first time since 2006.\n\nAldridge was a first-time All-Star last year, but is by no means a lock this season. The reserves, selected by the coaches from each conference, will be announced on Thursday.\n\nThe six-year veteran said he honestly doesn't believe that he'll make the West squad this year.\n\n\"If I don't get in, I'm not going to worry about it,\" he said.\n\nRookie Damian Lillard added 20 points and eight assists, while J.J. Hickson had 14 points and 13 rebounds for his 24th double-double this season.\n\nPortland shot a season-high 56.4 percent from the floor against Indiana, the league's best defensive team. No other team had shot that well from the floor against the Pacers this season.\n\nPaul George had 22 points and seven rebounds for Indiana, which had won seven straight against Western Conference teams, its longest streak since 2004. Indiana (26-17) lost for the third time in 10 games.\n\n\"We knew coming in that this team was going to challenge us, especially on their floor,\" said George, himself a candidate to nab a reserve spot on the East All-Star team. \"They had us scrambling, running all over the floor all night. Aldridge did a good job of knocking shots down and getting hot.\"\n\nThe Pacers were coming off an 82-81 victory at Memphis on Monday to open their four-game road trip.\n\nThe Blazers (21-21) bounced back from a 98-95 loss to Washington on Monday on Jordan Crawford's buzzer-beating 3-pointer. Nicolas Batum, who had his first career triple-double in that game, hit a 3-pointer that gave the Blazers an early 18-13 lead over the Pacers.\n\nPortland snapped a 10-game streak in which all of its games were decided by six points or less, a franchise record.\n\n\"It was refreshing, especially since we were on the good side of it,\" Blazers coach Terry Stotts said about the lopsided margin. \"That 10-game streak of last-minute games, that was fun basketball but it was tough. To be honest, when you're up 15 with three minutes to go, you still don't think you quite have it. But we needed a win like that.\"\n\nD.J. Augustin tied it at 20 with a 3-pointer to start the second quarter. Augustin hit another 3 to put the Pacers ahead 24-22, but the lead was short-lived and Portland went up 34-26 on rookie Will Barton's running jumper and layup.\n\nAldridge made three consecutive long jumpers for a 44-28 lead as Portland broke it open with a 22-4 run. The Blazers led 44-32 at the half.\n\nHis dunk made it 55-42 midway through the third quarter.\n\nLillard's pull-up jumper gave the Blazers a 76-59 lead early in the fourth quarter, but the Blazers' biggest margin of the game was the final score. It was Portland's greatest margin of victory this season.\n\n\"It's about time,\" said Lillard, who did not commit a single turnover in the game.\n\nThe Pacers have lost four straight in Portland.\n\n\"They came out and played with great desperation. It's very difficult to come out play a really good team on a six-game losing streak,\" Pacers coach Frank Vogel said. \"They came out and brought the fight to us with their defense.\"\n\nGame notes The Blazers' first poster night of the season got off to a rocky start because of a printing error. The posters, which feature Hickson, won't be ready until next week. Fans with a ticket stub to Wednesday night's game will be able to get one in the team's fan shop. ... Indiana's 32 first-half points were a season-low for a Portland opponent this season. ... Indiana defeated Portland 99-92 on Dec. 5.",
+  "tags_rule": [
+    "DoubleDouble",
+    "TripleDouble",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.756948",
+  "pipeline_version": "v1"
+}

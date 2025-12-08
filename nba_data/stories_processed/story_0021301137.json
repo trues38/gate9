@@ -1,0 +1,22 @@
+{
+  "game_id": "0021301137",
+  "espn_id": "400490010",
+  "date": "Apr 04, 2014",
+  "matchup": "CHI vs. MIL",
+  "headline": "Bulls spread scoring load, cruise past Bucks for 4th straight win",
+  "cleaned_body": "CHICAGO -- The Chicago Bulls have experienced such a turnaround this season that their wins are now being rated.\nAccording to some observers, the 102-90 victory over the hapless, short-handed Milwaukee Bucks didn't rate because the expected lopsided blowout didn't materialize.\nThe Bulls, who spent much of the first two months of the season below .500, took issue with that assessment.\n\"Just because they're the worst team in the league doesn't mean . nothing, really,\" Taj Gibson said. \"It's tough because you're playing against guys fighting for their jobs, fighting for their livelihoods. They're going to play hard.\"\nJimmy Butler and Kirk Hinrich had 17 points apiece to lead seven players in double figures, and the Bulls, despite some occasional lapses in the fourth quarter, cruised.\nCarlos Boozer and D.J. Augustin scored 14 points apiece. Gibson added 13, Mike Dunleavy 12 and Joakim Noah had 11 points and 13 rebounds.\n\"A win's a win,\" Butler said. \"Wins are hard to come by in this league. Every team has a roster full of NBA players; there really are no bad teams. You get a win, you're happy with that.\"\nThe Bulls have won four straight and six of seven, and remained tied with the Toronto Raptors for third in the Eastern Conference. The Bulls (44-32) face Washington, a possible first-round opponent, on Saturday.\n\"I love the balance of the team,\" Bulls coach Tom Thibodeau said. \"We had seven guys in double figures again. The shot distribution was pretty even, and that's important for us.\n\"I like the balance of our team. Each night it could be someone different.\"\nBrandon Knight had 22 points before fouling out with just over two minutes left for Milwaukee. Jeff Adrien added 21 points for the Bucks, who have dropped four straight overall and 12 straight on the road to fall to 14-62 overall.\nMilwaukee entered the game with just eight healthy players because of injuries and coach Larry Drew decided to play just seven of those until the final 22 seconds of the game.\n\"I thought we did a good job fighting back in the second half,\" Knight said. \"Playing hard. Not backing down.\n\"They're a great team playing great basketball right now. They're a very solid defensive team. They're physical. They're everything you'd want in a team.\"\nThe Bulls' lead was 27-15 after the first quarter and 51-35 at halftime. The Bucks rallied at the start of the second half and pulled within 63-53 midway through the third quarter. But they weren't able to trim the deficit to single digits and the Bulls built their advantage back up to 82-62 entering the fourth quarter.\nThe game appeared over, but the Bulls created some suspense by managing to score just three points in the first six minutes of the period to let Milwaukee pull within 85-77. Hinrich finally broke the drought when he hit a 3-pointer with 5:59 left to make it 88-77.\n\"You have to give them credit,\" Thibodeau said. \"I thought they played hard throughout the game. They never went away. Even when we got up 20, they kept battling back.\n\"I think Larry's done a good job keeping them together. They've been hit with a lot of things, but they're still together.\"\nGame notes\nThe Bulls waived rookie Erik Murphy on Thursday and there have been multiple reports saying they are interested in signing a veteran, possibly former Bull Ronnie Brewer. Murphy had been with the team all season, but only played a total of 62 minutes in 24 games. \"It was done more so for roster flexibility,\" Thibodeau said. \"I thought he did a great job for us, and I thought he had gotten significantly better.\" . Bucks C Larry Sanders, currently out with an injury, was suspended for five game on Friday for violating the NBA drug policy. Sanders said in a statement released by the team that he was penalized for using marijuana. \"I think the most important thing is that he learns from his mistakes,\" Drew said. \"Hopefully, he can put them behind him, get on the right track and stay on the right track.\"",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.845671",
+  "pipeline_version": "v1"
+}

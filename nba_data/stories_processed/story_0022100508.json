@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100508",
+  "espn_id": "401360327",
+  "date": "Dec 28, 2021",
+  "matchup": "MIL @ ORL",
+  "headline": "Bucks win 4th straight behind 28 from Antetokounmpo",
+  "cleaned_body": "ORLANDO, Fla. -- — Giannis Antetokounmpo had 28 points, Bobby Portis scored 17 of his 19 points in the first half and the Milwaukee Bucks defeated the Orlando Magic 127-110 on Tuesday night.\n\nMilwaukee has won four in a row and five of its last seven. Since starting the season 6-8, the Bucks have gone 17-5 to surge back near the top of the Eastern Conference standings.\n\n“The ball movement, the playing together and the unselfishness really stood out,” Milwaukee coach Mike Budenholzer said. “Guys were making the right pass and the right read and then Bobby Portis had an insane shooting half.”\n\nKhris Middleton scored 21 points for the Bucks, while Jrue Holiday chipped in 18 points and 10 assists. Antetokounmpo, who returned from COVID-19 protocols on Christmas, capped his 24th 20-point night in the fourth quarter by chucking Orlando’s Freddie Gillespie to the floor with a forearm before dunking with his left hand.\n\n“I think we did a great job of moving the ball and that’s when it’s fun to play,” said Holiday, who had nine points and two assists in the fourth quarter. “That’s definitely the way we want to be. When everybody is touching the ball, it’s always good. When we do that, we’re pretty good.”\n\nOrlando rookie forward Franz Wagner scored 27 of his career-best 38 points in the second half. He made 12 of 20 shots and 4 of 8 3s.\n\nThe Bucks outscored the Magic 40-21 in the second quarter, led by as much as 29 late in the first half and withstood a 19-0 third-quarter run by Orlando, which dropped to 2-12 at home. Orlando also got within 106-98 with 7:15 to play.\n\nHowever, Milwaukee responded with seven straight points to all but seal the game and beat the Magic for a third time this season.\n\nOrlando had six players out with injuries, and Terrence Ross, Mo Bamba, Chuma Okeke and Mychal Mulder couldn't play because they were in the NBA’s COVID-19 health and safety protocols.\n\nKNOCK ON WOOD\n\nBudenholzer sounded almost embarrassed Tuesday when discussing his team’s luck with good health — both on the injury front and COVID-19. The Bucks entered Tuesday with only Brook Lopez (back surgery) out of action.\n\n“When you look around the league and see what other teams are having to do, we’re very fortunate,” Budenholzer said. “We felt like when (GM) Jon (Horst) put together the roster, it was going to be very deep. It’s a good place to be, but it’ll probably change tonight, tomorrow or sometime soon. But we’ll take it while we have it.”\n\nTIP-INS\n\nBucks: University of Michigan coach Juwan Howard attended the game. His Wolverines play at Central Florida on Thursday. … The Bucks beat the Magic for the 10th consecutive time, a streak that's in line with 10 straight over the Kings and 12 straight wins against the Pistons. … DeMarcus Cousins was whistled for a technical foul after screaming, “ball don’t lie!’ following a missed free throw.\n\nMagic: Guard Tim Frazier picked up four fouls in his first seven minutes of action. … Orlando was without point guard Cole Anthony for a second straight game because of “maintenance” on his sprained right ankle. … Magic coach Jamahl Mosley described Jalen Suggs’ recovery from a fractured thumb as “progressing along slowly” and added the rookie guard would be reevaluated in “a couple of weeks.” Suggs, the No. 5 pick in last summer’s NBA Draft, hasn’t played since Nov. 29.\n\nUP NEXT\n\nThe two teams play again in Orlando on Thursday night.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.709585",
+  "pipeline_version": "v1"
+}

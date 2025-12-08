@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100714",
+  "espn_id": "401360533",
+  "date": "Jan 25, 2022",
+  "matchup": "DET vs. DEN",
+  "headline": "Jokic's 28 points, 21 rebounds leads Nuggets past Pistons",
+  "cleaned_body": "DETROIT -- — Nikola Jokic had 28 points, 21 rebounds and nine assists, Monte Morris made four free throws in the final 11.5 seconds, and the Denver Nuggets beat the Detroit Pistons 110-105 on Tuesday night.\n\nJokic was asked if he'd check the film for a missed assist, having fallen just short of a triple-double.\n\n“I'm not worried about that,” he said. “It was a good game for me and a huge win for our team. I knew I was having a big night, but I wasn't thinking about the stats.”\n\nJeff Green added 20 points for the Nuggets in the second game between the teams in three nights. Denver won 117-111 at home on Sunday.\n\n“It's incredible to play with Jokic — he's one of the best players I've ever been on the floor with,” Green said. “When you are out there with him, you know that if you do your job, you're going to get open shots. The defense has to focus on him.”\n\nThe Nuggets turned the ball over 25 times for 38 Detroit points and won despite a 13-point fourth quarter.\n\n“I think we might have had a game a few years ago when we won while giving up 40 points on turnovers, but it isn't something you want to do,” Denver coach Michael Malone said. “It shows you how good we were on defense in the second half, because we won that game while beating ourselves on offense.”\n\nCade Cunningham led Detroit with 34 points, eight rebounds and eight assists.\n\n“It's surreal to be out there battling guys like Jokic — those are the moments I dreamed about my whole life,” the rookie said. “I thought we played really well defensively in the second half, but we gave them too much in the first half.”\n\nCunningham looked like a vet, though, making a layup with 1:31 left in the game to pull the Pistons within four, 106-102. Detroit then got a pair of stops, but Saddiq Bey missed at the rim and Cunningham came up empty on a pair of jumpers.\n\n“What a player,” Malone said of Cunningham. “He showed again tonight how special he's going to be in this league. Detroit's really got a star there.”\n\nJokic had 19 points, 11 rebounds and five assists in the first half, helping the Nuggets build a 69-59 lead.\n\n“The first half was the difference in the game,” Pistons coach Dwane Casey said. “Our defensive intensity wasn't there and they shot 20 free throws. In the second half, we bounced back and played physical basketball without fouling. That's how we gave ourselves a chance to win.”\n\nIsaiah Stewart, who was guarding Jokic, picked up his fourth and fifth fouls early in the third quarter, which allowed Denver to build the margin to 15 points.\n\nCunningham, who had 10 points in the quarter, hit a 3-pointer to make it 88-82, but Detroit couldn't get enough stops to continue the rally.\n\nThe Nuggets led 97-85 going into the fourth, but didn't score for the first five minutes, allowing Detroit to get within 97-91.\n\nCunningham's 3-pointer made it 99-96 with 5:33 left, but Jokic returned to the game and immediately hit a 3-pointer.\n\n“I think that's the play of the night by far,” Malone said. \"We were really struggling, and they were making a heck of a run. Nicola had been sitting on the bench for quite a while, but he comes in and immediately knocks down that 3.\n\n“That was huge.”\n\nTIP-INS\n\nNuggets: Jokic picked up his 3,000th NBA assist in the first quarter. He is the only Denver player to have 5,000 rebounds and 3,000 assists.\n\n“It's hard to keep track of all the milestones he's passing,” Malone said. “He just won Western Conference Player of the Week, and then he has 28, 21 and nine tonight.”\n\nPistons: Josh Jackson was ejected in the second quarter after picking up two technical fouls for arguing calls.\n\nUP NEXT\n\nNuggets: Visit the Brooklyn Nets on Wednesday.\n\nPistons: Visit the Orlando Magic on Friday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.822655",
+  "pipeline_version": "v1"
+}

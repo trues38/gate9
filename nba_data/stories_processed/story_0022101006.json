@@ -1,0 +1,24 @@
+{
+  "game_id": "0022101006",
+  "espn_id": "401360825",
+  "date": "Mar 12, 2022",
+  "matchup": "CHI vs. CLE",
+  "headline": "DeRozan, Vucevic lead Bulls to 101-91 win over Cavaliers",
+  "cleaned_body": "CHICAGO -- — Alex Caruso returned to the rotation, and the Chicago Bulls went back to their disruptive ways.\n\nNo coincidence there.\n\nDeMar DeRozan scored 25 points, Nikola Vucevic added 20 points and 14 rebounds, and the Bulls beat the Cleveland Cavaliers 101-91 on Saturday night.\n\nAyo Dosunmu made three 3-pointers and finished with 17 points. Caruso made a big impact on defense in his return from a broken right wrist that kept him out of the previous 22 games, and Chicago held an opponent below 100 points for the first time since he was injured.\n\n“How vocal he is, his leadership, that helps us overall and it helps us get better and better each time,\" Dosunmu said. “The thing I love about Alex is not only is he willing to give out so much wisdom and words of encouragement, he also is willing to take it. That's what makes him very unique.”\n\nThe Bulls came away with their second straight win after losing five in a row even though they were missing Zach LaVine. The two-time All-Star was sidelined because of lingering soreness in his left knee.\n\nDarius Garland led Cleveland with 25 points, though he was 9 of 24 from the field. Evan Mobley had 17 points and seven rebounds.\n\nDeRozan shot just 9 of 26 in the game, but the five-time All-Star scored 17 points in the first half, including nailing a buzzer-beating jumper from the wing over Isaac Okoro and Kevin Love. That sent Chicago to the locker room with a 53-42 lead, and the Bulls remained in control the rest of the way.\n\nVucevic recorded his 38th double-double. Caruso added 11 points and four steals in his first appearance since he was injured at Milwaukee on Jan. 21. And the Bulls came out on top in a matchup of teams jockeying for playoff positioning in the crowded Eastern Conference.\n\n“It felt great,” Caruso said. “I'm excited to just play basketball again. Caught myself just walking onto the court for pregame warmups just kind of smiling, just excited to be out there. When the game started, I was standing up for random plays that probably didn't need to be cheered for.”\n\nCAVS FALL\n\nCleveland lost for the second time in as many nights after falling at Miami on Friday.\n\n“I just felt like they were the aggressor tonight,” said Love, who had 10 points and 11 rebounds. “You've got to tip your hat to the Bulls. Great all season. Obviously, Miami and Chicago back to back is not easy. I think you saw it in our energy level tonight, us just trying to find and manufacture some offense.”\n\nTIP-INS\n\nCavaliers: The Cavaliers lost for the eighth time in 11 games. ... F Lauri Markkanen missed the game because of a sore right ankle after tweaking it in Friday’s loss at Miami. The 7-footer from Finland missed 11 games in late January and February because of a sprained right ankle. ... All-Star C Jarrett Allen (broken finger on his left hand) missed his third game in a row. ... The Cavaliers were 5 of 24 on 3-pointers.\n\nBulls: Caruso got a nice ovation when he checked into the game midway through the first quarter. He missed 22 games after he got knocked to the floor by Milwaukee’s Grayson Allen, resulting in an injury that required surgery. ... The fact LaVine wasn’t able to play even though they had two days off after winning at Detroit on Wednesday to stop a five-game losing streak did not seem to raise extra alarms for coach Billy Donovan. “It’s not necessarily him regressing,” Donovan said. “It’s just something that he’s going to have to manage and deal with throughout the course of the season.” Lavine missed the final three games before the All-Star break. The high-flying guard had platelet-rich plasma therapy, a cortisone injection and fluid drained in Los Angeles, hoping the treatment will help him get through the remainder of the season. ... Chicago was 14 of 15 from the foul line, with DeRozan making all seven attempts.\n\nUP NEXT\n\nCavaliers: Host the Los Angeles Clippers on Monday.\n\nBulls: Visit Sacramento on Monday.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.245927",
+  "pipeline_version": "v1"
+}

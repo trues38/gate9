@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700871",
+  "espn_id": "400975617",
+  "date": "Feb 22, 2018",
+  "matchup": "OKC @ SAC",
+  "headline": "Westbrook's 3-pointer at buzzer lifts Thunder past Kings",
+  "cleaned_body": "SACRAMENTO, Calif. --  Russell Westbrook had a harder time trying to figure out the official score sheet than getting free for a 3-pointer at the buzzer.\n\nWestbrook made a 3-pointer off an inbounds pass as time expired, lifting the Thunder to a 110-107 victory over the Sacramento Kings on Thursday night.\n\n\"Got to find a way to get space with one second left,\" Westbrook said. \"They thought I was going for a lob. I just read the defender and tried to pop back and get some space.\"\n\nThe Thunder blew a 23-point lead and trailed 105-102 with 4  1/2 minutes remaining before closing the game on an 8-2 run.\n\nPaul George scored 26 points, Carmelo Anthony had 23 and Westbrook finished with 17 to help Oklahoma City to its second win in three games against Sacramento this season.\n\nComplete final statistics were unavailable after a computer glitch froze the Kings' system at the end of the third quarter. A team official later distributed copies of the official scorer's book to media and players.\n\nWestbrook grabbed a copy and looked at it briefly before tossing it aside.\n\n\"I used to be able to do those back in the day but I don't know (what) it looks like now,\" Westbrook said. \"I can't understand it.\"\n\nWestbrook, who notched his 18th triple-double of the season, made three free throws sandwiched around a bucket in the paint by Steven Adams to put Oklahoma City up 107-105.\n\nJustin Jackson's 6-foot jumper off an offensive rebound tied the game. After a timeout, the Thunder got the ball in front of Sacramento's bench and Anthony found Westbrook atop the 3-point line for the winner.\n\nIt came after Sacramento's Garrett Temple was screened away from Westbrook, leaving the All-Star guard open.\n\n\"We at least got him a clear look and obviously he made a tough shot,\" Thunder coach Billy Donovan said. \"He missed a lot of shots in that second half but he just stuck with it and obviously when it counted and we needed one he made it.\"\n\nWestbrook lifted the Thunder from what would have been a devastating loss after a fast start in their first game since the All-Star break. They set a season high with 44 points in the first quarter and made 12 3-pointers but still had to rally in the final minutes to win.\n\n\"It was like I was watching in slow motion a little bit,\" Sacramento's Skal Labissiere said of Westbrook's winner. \"That's what he does. He works really hard and it pays off.\"\n\nAnthony matched his season high of seven 3-pointers and George had three from beyond the arc, ending his five-game streak with five or more 3s. It was the second-longest streak in NBA history behind George McCloud's six-game streak in 1996.\n\nThe Thunder shot nearly 70 percent in the first quarter and made seven 3s, including three straight by Anthony. George had two of them and added a three-point play and two free throws to put Oklahoma City up 44-21.\n\nIt was the complete opposite for Donovan's club after that.\n\nSacramento went on a pair of big runs early in the second quarter and got within 64-60 before Anthony's fifth 3 of the first half briefly halted the onslaught and put Oklahoma City up by seven at halftime.\n\nThe Thunder led 85-74 midway through the third before the Kings made another surge. Vince Carter, the 41-year-old former dunk champion, had a three-point play and 3-pointer and Sacramento scored the final 16 points of the period to go up 90-85.\n\nZach Randolph scored 29 points to lead five Kings in double figures.\n\nSO CLOSE, SO FAR\n\nThe Kings missed three shots in the final 55 seconds when they were down by two, including a pair of attempts close to the rim. \"Made some mistakes at the end, didn't finish,\" Sacramento coach Dave Joerger said.\n\nTIP-INS\n\nThunder: Oklahoma City went 11 for 11 on free throws in the first half. . The Thunder have scored 100 or more in four consecutive games and 14 of the previous 16.\n\nKings: Frank Mason scored six points in his first game since Dec. 31. Mason had been sidelined with a partially torn right facscia. . De'Aaron Fox (conjunctiveitis) and Kosta Koufos (ill) were held out.\n\nUP NEXT\n\nThunder: At Golden State on Saturday.\n\nKings: Host the Lakers on Saturday.",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "EarlyRun"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.958995",
+  "pipeline_version": "v1"
+}

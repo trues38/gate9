@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700169",
+  "espn_id": "400974920",
+  "date": "Nov 10, 2017",
+  "matchup": "ATL @ DET",
+  "headline": "Drummond, Jackson lead Pistons past Atlanta 111-104",
+  "cleaned_body": "DETROIT --  It has been over a decade since the Detroit Pistons started a season like this, and the question now is how they will handle their early success.\n\nCoach Stan Van Gundy has his concerns, but even a poor second half couldn't keep Detroit from another victory.\n\nAndre Drummond had 16 points, 20 rebounds and a career-high seven assists, and Reggie Jackson made a pair of 3-pointers in the final minute to lift the Pistons to a 111-104 victory over the Atlanta Hawks on Friday night. Detroit let a 19-point second-quarter lead slip away but recovered in time to earn its seventh win in eight games.\n\n\"I don't want to sit here and just beat up on my guys to death, but I'm answering questions about the game. I can't sugarcoat the second half,\" Van Gundy said. \"We totally got outplayed in the second half.\"\n\nThe Central Division-leading Pistons (9-3) are off to their best start since 2005-06, when they went 10-2 to begin the season and ended up winning 64 games. Detroit outscored Atlanta 31-19 in the second quarter and led 57-41 at halftime, but couldn't shake the Hawks. Atlanta rallied and finally tied it at 94 when Kent Bazemore made back-to-back 3-pointers.\n\nIt was tight the rest of the way, and Jackson's 3-pointer with 52.5 seconds remaining put the Pistons up 103-100. He connected again from beyond the arc with 21.3 seconds left to make it 107-100 and help Detroit close out the win after an uneven performance.\n\n\"I think the goal is to always learn, whether you're victorious or in a loss,\" Jackson said. \"Regardless of what our record is right now, playing well, we've been trying to go back to the drawing board each and every game just to be better than we were the day before.\"\n\nDennis Schroder had 17 points and 11 assists for Atlanta (2-10), which has the worst record in the Eastern Conference.\n\n\"We've just got to smarten up,\" Bazemore said. \"They are a team that's been together for a while and they made some huge plays down the stretch and you've got to give them credit.\"\n\nDrummond surpassed his previous career high of five assists by halftime, and he calmly made two free throws with 1:28 remaining to put the Pistons up 100-98. Drummond's foul shooting has improved noticeably this season, and he was 4 for 6 against the Hawks.\n\nCONSISTENT\n\nDrummond has had at least 12 rebounds in each of his first 12 games this season, matching Kevin Love's streak to start the 2011-12 season. The last player with a longer streak to start a season was Moses Malone with 16 games in 1978-79.\n\nBAD TREND\n\nThe Hawks have allowed at least 110 points in six straight games. It looked as if they might end that streak when they held Detroit to 19 in the third quarter, but the Pistons scored 35 in the fourth.\n\n\"Hopefully we can build on the second half, the way we played,\" coach Mike Budenholzer said. \"It's really how we need to play for the whole game. Not good enough in the first half and dug ourselves a hole.\"\n\nTIP-INS\n\nHawks: Mike Muscala (sprained left ankle), DeAndre' Bembry (fractured right wrist), Miles Plumlee (strained right quad) and Ersan Ilyasova (bruised left knee) missed the game. ... Bazemore scored a team-high 22 points.\n\nPistons: Detroit was without Stanley Johnson (strained right hip flexor) and Jon Leuer (left ankle sprain). ... Jackson led the Pistons with 22 points and Avery Bradley scored 20.\n\nUP NEXT\n\nHawks: At Washington on Saturday night.\n\nPistons: Vs. Miami on Sunday.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball\n\n---\n\nFollow Noah Trister at www.Twitter.com/noahtrister",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.803961",
+  "pipeline_version": "v1"
+}

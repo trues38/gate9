@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100954",
+  "espn_id": "401360773",
+  "date": "Mar 05, 2022",
+  "matchup": "SAC @ DAL",
+  "headline": "Mavericks overcome 19-point deficit to beat Kings 114-113",
+  "cleaned_body": "DALLAS -- — Dorian Finney-Smith hit a 3-pointer from the right corner with 3.3 seconds left and the Dallas Mavericks, playing without All-Star guard Luka Doncic, overcame a 19-point deficit for the second time this week to beat the Sacramento Kings 114-113 on Saturday.\n\nDoncic was listed on the injury report as having a left toe sprain, and coach Jason Kidd wouldn’t elaborate on the injury. It was the first game Doncic has missed since Jan. 7 and the 16th game overall.\n\nSpencer Dinwiddie scored a season-high 36 points to go with seven assists in his first start for Dallas since being acquired from Washington on Feb. 10. Jalen Brunson added 23 points and assisted on the winning basket, passing from behind the basket to Finney-Smith for a 114-111 lead.\n\n“We want Luka playing, and it took us some time to get used to him not being on the floor,” Kidd said. “I thought the guys got their legs and got their rhythm without Luka out there. It helps us – makes us a better team – but hopefully Luka’s back Monday.”\n\nThe Kings had a chance to tie it in the closing seconds, but Harrison Barnes’ 30-footer went off the rim and Justin Holiday converted the miss for a layup for the final points.\n\nDallas trailed by 19 at Golden State last Sunday before rallying for a 107-101 victory. The Mavericks have won five straight and pulled within one game of fourth-place Utah in the Western Conference.\n\nDe’Aaron Fox matched a career high with 44 points on 18-for-31 shooting, and Domantas Sabonis added 15 points and 10 rebounds – but only four points and three rebounds in the second half while often guarded by Finney-Smith – for the Kings.\n\n“I think we’ve done an OK job so far,” Fox said about establishing chemistry with Sabonis, who was acquired Feb. 8 from Indiana. “I think we have a good ways to go, and we just want to bring our team wins.”\n\nKings interim coach Alvin Gentry was upset about some of Fox’s other numbers.\n\n“As much as De’Aaron Fox drives the ball to the basket and as much as he is in the paint, I’m a little bit miffed as to how he shoots six free throws,” Gentry said.\n\nFox hit the second of two free throws to tie it at 111 with 12 seconds to play, and Dallas called a timeout. Finney-Smith asked Kidd if he could set up in the right corner. Brunson took the inbound pass and, guarded by Davion Mitchell, drove to the basket before whipping the ball to Finney-Smith.\n\nDinwiddie averaged 14.5 points in 27.3 minutes in his first six Mavericks games coming off the bench. He was 8 for 12 from the floor in the second half and overall has scored at least 20 in three of his last four games.\n\nTHE PARTY GOES ON\n\nThe Mavericks hosted Slovenia Night in honor of Doncic’s homeland and scheduled the game for a 4 p.m. local start in conjunction with European television. The first 3,000 fans received Slovenia scarfs, and a group of fans traveled from there to attend the game.\n\nDoncic watched the game from the end of the bench and met afterward with the visiting Slovenians. He came to the scorer’s table once in the first half to chat with the officials during a timeout after the Dallas bench was particularly upset with multiple calls.\n\nNOT-SO-SWEET SIXTEEN\n\nWith the loss, the Kings will finish with a losing record for the 16th consecutive season. Of their 37 seasons in Sacramento, they’ve had winning finishes only in the eight seasons under Rick Adelman (1998-99 through 2005-06).\n\nTIP-INS:\n\nKings: Richaun Holmes returned after missing five games because of back soreness. Holmes had six points and six rebounds in 16 minutes. … Guard Jeremy Lamb sat with left hip soreness.\n\nMavericks: Finney-Smith had 17 points, hitting 5 of 11 from 3-point range. … Dallas came in second in the NBA allowing only 10.8 3-pointers per game and held Sacramento to nine, three in the second half. … Power forward Maxi Kleber missed his second straight game with an ankle injury.\n\nUP NEXT\n\nKings: Host New York on Monday night.\n\nMavericks: Host the Jazz on Monday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.140856",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300053",
+  "espn_id": "400488926",
+  "date": "Nov 05, 2013",
+  "matchup": "DET vs. IND",
+  "headline": "Paul George leads unbeaten Pacers past Pistons",
+  "cleaned_body": "AUBURN HILLS, Mich. --  The Indiana Pacers lost six of their first nine games last season -- and they seem intent on making up for that in 2013.\n\n\"We just want play well and get out of the gates,\" center Roy Hibbert said. \"We're an experienced team and we know every win's important.\"\n\nPaul George scored 31 points, and the Pacers remained the NBA's only unbeaten team with a 99-91 victory over the Detroit Pistons on Tuesday night.\n\nIndiana matched its best start in franchise history. The Pacers are 4-0 for the first time since the 2004-05 season.\n\nIndiana blew a 15-point lead in the first half but took control again with a strong third quarter. C.J. Watson had 15 points and David West finished with 12 for the Pacers. Hibbert had eight points, 10 rebounds and seven blocks.\n\nIndiana will try to extend its unbeaten run Wednesday night against Chicago.\n\n\"It would be a big win, a huge confidence booster,\" George said. \"But it's no statement. The season's still early.\"\n\nBrandon Jennings scored 17 points for the Pistons, who were done in by their 5-for-25 shooting from 3-point range.\n\nDetroit led 44-40 early in the third quarter before the Pacers went on a 15-2 run capped by an alley-oop to George. He scored 14 points in the quarter, and Indiana led 74-63 entering the fourth.\n\n\"Our starters' disposition and attitude and energy took the game back over,\" Pacers coach Frank Vogel said. \"We were able to ride it out.\"\n\nDetroit cut the deficit to four early in the final period, but Indiana responded with six straight points to lead 82-72. The Pacers stretched the lead to 19 at 94-75 before the Pistons rallied in the final minutes to make the final score more respectable.\n\nIt was 96-91 after Detroit's Kyle Singler made two free throws with 32.6 seconds left, but the Pacers broke Detroit's pressure and the Pistons didn't foul. West made a layup with 16.6 seconds left.\n\nThe Pacers have won six straight over the Pistons, and the previous three wins had been lopsided, by 19, 32 and 18 points.\n\nThe Pacers were without George Hill (sore left hip) for a second straight game, and Danny Granger is still out with a strained left calf, but they haven't allowed an opponent to shoot better than 40 percent from the field. Detroit finished at 38 percent and could not overcome its poor showing from the perimeter.\n\n\"They were aggressive, and we didn't respond,\" Pistons coach Maurice Cheeks said. \"The paint was packed in, but we still have to attack the basket and either make shots or get to the line. It's a lot easier to do that when you are hitting shots from the perimeter, but you still have to do it.\"\n\nGreg Monroe had 14 points and 10 rebounds for the Pistons.\n\n\"They have monster size and great guards -- very proud of the effort,\" Vogel said. \"Paul George did everything I asked him to do -- everything you could possibly ask a player to do tonight.\"\n\nGeorge made his first five shots and finished the first quarter with 12 points, helping the Pacers to a 29-14 lead. Then they were outscored 27-9 in the second.\n\n\"We had to just get back to sharing the ball,\" George said. \"We were making a lot of one-on-one plays. We were getting really pressured out up top and just not getting into our offense.\"\n\nJennings, acquired in an offseason trade, made his first start for the Pistons in his second game with his new team. He was injured for the first two games of the season, and Detroit looked out of sorts offensively Tuesday.\n\nJosh Smith, another new acquisition this season for Detroit, scored 16 points but shot 5 of 16. He went 1 of 6 from beyond the arc.\n\n\"That's a team that has been together for a number of years, and we're still getting to know each other,\" Smith said. \"That's important, but we still have to do a better job than we did.\"\n\nGame notes Indiana also started 4-0 in 1989-90, according to STATS. ... Detroit's starting backcourt of Jennings and Chauncey Billups went 8 for 25, including 1 of 9 from 3-point range.",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.357329",
+  "pipeline_version": "v1"
+}

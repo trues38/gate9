@@ -1,0 +1,21 @@
+{
+  "game_id": "0022101207",
+  "espn_id": "401361026",
+  "date": "Apr 08, 2022",
+  "matchup": "MIA vs. ATL",
+  "headline": "Bam Adebayo's late dunk lifts Heat over Hawks, 113-109",
+  "cleaned_body": "MIAMI -- — Bam Adebayo made the go-ahead dunk with 27 seconds remaining and scored 24 points in the Miami Heat’s 113-109 comeback victory over the Atlanta Hawks on Friday night.\n\nJimmy Butler added 20 points, Kyle Lowry finished with 16 points and Tyler Herro had 15 for the Heat. They finished on a 10-2 run and won their sixth straight.\n\nDanilo Galinari’s 3-point attempt for Atlanta with nine seconds left bounced off the rim and Herro’s two free throws secured the victory.\n\nIt was the first of two meaningless games, standings-wise at least, for Miami to finish the regular season. The Heat were locked into the No. 1 seed for the Eastern Conference playoffs on Thursday and know that they’ll play Game 1 of a first-round series at home on April 17 against either Cleveland, Brooklyn, Charlotte or Atlanta, which dropped into a tie for ninth with Charlotte.\n\n“This is a night that we wanted to come in with a winning mentality,” Herro said. “We know we had the one seed but everyone played tonight, wanted to compete. It’s good to get a win.”\n\nHerro hit a 30-foot shot that bounced off the front rim and through the net, giving the Heat a 109-107 lead with 1:44 remaining. The Hawks responded on Trae Young's floating jumper 17 seconds later.\n\nYoung scored 35 points for Atlanta. Bogdan Bogdanovic added 25 points, and Clint Capela had 17 points and 14 rebounds.\n\n“All loses are tough,” Hawks coach Nate McMillan. “Tonight we didn’t execute the last five minutes of the game. Their pressure sped us up. We had some turnovers late. That was the difference.”\n\nYoung scored Atlanta’s final 12 points of the second quarter for a 61-56 lead at halftime. But Young was limited to four points in the final period.\n\n“It’s tough, we definitely had a chance,” Young said. “We put ourselves in a good position. They’re just a good team that keeps fighting until the end.”\n\nMiami coach Erik Spoelstra returned to the club after a two-game absence because of health and safety protocols.\n\n“It was great just to find a way to gut out a close and competitive game,” Spoelstra said. “If I could have scripted it, this is what it would be. Back and forth, lead changes. It’s good to get back out there. It’s always good to be around the group.”\n\nTIP-INS\n\nHawks: The contract of G Skylar Mays was converted from a two-way deal to the standard NBA pact. Drafted in the second round by the club in 2020, Mays has appeared in 27 games with the Hawks this season in addition to an eight-game stint with the G League College Park Skyhawks. ... G Lou Williams (low back discomfort) missed his second consecutive game.\n\nHeat: Adebayo shot 8 of 14, extending his streak of shooting 50% or better to a career best 16 games. ... .P.J. Tucker (calf strain) was out Friday and won’t play in the regular-season finale Sunday either. The Heat are hopeful he could be ready for Game 1 of the playoffs.\n\nUP NEXT\n\nHawks: At Houston on Sunday.\n\nHeat: At Orlando on Sunday.",
+  "tags_rule": [
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.916690",
+  "pipeline_version": "v1"
+}

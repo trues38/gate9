@@ -1,0 +1,26 @@
+{
+  "game_id": "0021700066",
+  "espn_id": "400974817",
+  "date": "Oct 26, 2017",
+  "matchup": "MEM vs. DAL",
+  "headline": "Gasol's double-double leads Grizzlies over Mavericks, 96-91",
+  "cleaned_body": "MEMPHIS, Tenn. --  This time the Memphis Grizzlies came out raring to go, though they couldn't sustain the momentum.\n\nThe Grizzlies turned back a second-half rally by Dallas and closed with a late run to pull away and preserve a 96-91 victory on Thursday night.\n\nMarc Gasol had 25 points and 13 rebounds, and Mike Conley added 22 points for the Grizzlies, who lost to the Mavericks 103-94 on Wednesday night in Dallas. The Grizzlies came out sluggish in the loss, but opened Thursday's game with a much better approach, building the lead to 22 in the first half and 20 in the third quarter.\n\nThen almost saw it slip away.\n\n\"They made us play one-on-one, and then we got a little happy with that and stuck to it,\" Gasol said. \"We got enough stops, especially at the end, to stop the bleeding.\"\n\nThe Grizzlies almost squandered away that second-half advantage. Wesley Matthews, who finished with 18 points, had four 3-pointers in the third to start the comeback. Then a fourth-quarter push gave the Mavericks an 86-84 lead with 3:56 left when J.J. Barea converted three free throws, capping an 18-8 run to open the quarter.\n\nThat was the last lead for Dallas, as Conley scored the next five points and had nine of the Grizzlies' next 10.\n\n\"We shouldn't have been in that position in the first place,\" Matthews said. \"We put ourselves there. . (Wednesday) night we had them down 19 playing the way we did in the second half. What team do we want to be?\"\n\nHarrison Barnes led Dallas with 22 points and 11 rebounds. Dirk Nowitzki added 14 points.\n\nMemphis led 28-14 after one and 54-35 at halftime and seemed in control of the game, holding the Mavericks to 27 percent shooting. Dallas hit only one of its 13 3-point shots before halftime.\n\n\"The second quarter was a killer,\" Dallas coach Rick Carlisle said, later adding: \"I loved the fight in three of the four quarters. I thought we played hard. The second quarter was what really did us in.\"\n\nTIP-INS\n\nMavericks: Nowitzki has scored 1,445 points against the Grizzlies, more than any active player. Only Kobe Bryant, with 1,636, has more points against the Grizzlies. ... F Josh McRoberts (lower extremity injury), G Seth Curry (stress reaction left tibia) and Devin Harris (personal reasons) were not with team. . Dallas hit only 14 of 40 shots inside the paint. ... Barnes recorded the third 20-10 game of his career.\n\nGrizzlies: Gasol has scored at least 25 points in every game this season, except the opener against New Orleans. .It was Gasol's fourth double-double of the season. . Tyreke Evans recorded a season-high 19 points. . Jarell Martin recorded a career-high five blocks and tied his career high with nine rebounds.\n\nA LITTLE HELP FROM MY FRIENDS\n\nEvans' 19 points helped the Grizzlies bench outscore the Mavericks reserves 34-23, marking the fourth time in five games this season that the Memphis subs have outscored their counterparts. Wednesday's loss to Dallas was the only time this season the Memphis bench has been outscored.\n\nMY BAD\n\nThe Mavericks, trailing 94-91 and with the ball in the closing 15 seconds, ended up with a forced 3-pointer from rookie Dennis Smith Jr. with 3 seconds left that was off the mark, preserving the Memphis win. \"That was on me,\" Carlisle said. \"With that amount of time, he has to know that a quick 2 is OK. I didn't make that clear to him, so that's on me. There's going to be many occasions like this where he learns a lot, but that one is my fault.\"\n\nUP NEXT\n\nMavericks: Host the Philadelphia 76ers on Saturday.\n\nGrizzlies: Host the Houston Rockets on Saturday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "LateCollapse",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.680325",
+  "pipeline_version": "v1"
+}

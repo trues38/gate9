@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700676",
+  "espn_id": "400975422",
+  "date": "Jan 20, 2018",
+  "matchup": "CHA vs. MIA",
+  "headline": "Olynyk's late FT helps Heat stun Hornets 106-105",
+  "cleaned_body": "CHARLOTTE, N.C. --  Kelly Olynyk thought he was fouled. Dwight Howard clearly disagreed.\n\nCharlotte coach Steve Clifford was more concerned about the way his Hornets \"butchered\" the fourth quarter.\n\nOlynyk scored 14 of his 16 points in the fourth quarter, including a free throw with 0.2 seconds left following Howard's disputed foul, to help the Miami Heat erase a five-point deficit in the final 34 seconds and stun Charlotte 106-105 on Saturday night.\n\nThe foul came after Charlotte's Kemba Walker missed on a drive to the basket. Olynyk grabbed the rebound and drove the length of the floor, and Howard appeared to hook Olynyk's right arm on the way to the basket just as Olynyk started to lose control of the ball. Olynyk fell to the ground as the whistle blew, enraging the home crowd.\n\nOlynyk missed the first free throw, but calmly made the second to give the Heat the lead.\n\nCharlotte's inbound heave was deflected away as time expired.\n\n\"He had already lost the ball and was falling before I even pushed him,\" Howard said. \"I just thought that it was something that shouldn't have been called at that point in the game. They should have just let the clock run out and let the teams duel it out in overtime.\"\n\nOlynyk saw it a little different.\n\n\"We were just trying to push the ball and make a play and they fouled,\" Olynyk said.\n\nHeat coach Erik Spoelstra said his team has worked on that scenario in practice with his point guards, but never with the 7-foot Olynyk.\n\n\"I think it surprised them,\" Spoelstra said.\n\nThe crowd stood shouting and booing as officials left the floor.\n\nClifford was more upset by the fourth-quarter collapse. He called out his team for a \"total lack of concentration, intensity and technique\" in his opening statement following the game.\n\nWayne Ellington had 26 points on six 3-pointers and Joe Johnson added 22 points for the Heat.\n\nNic Batum scored a season-high 26 points and Walker had 22 for Charlotte, which had a two-game winning streak snapped. Howard had 14 points and 15 rebounds.\n\nWith Miami trailing 105-100, Johnson got free for a dunk. The Hornets inbounded the ball to Batum, but Josh Richardson stripped the ball and passed it to Johnson, who knocked down a 3-pointer from the wing to tie it.\n\n\"I didn't see him,\" Batum said. \"I was facing the (inbounder) and he came in from behind. I had no idea he was behind me. I barely touched the ball. ... I don't have eyes in the back of my head.\"\n\nThe Hornets trailed by eight in the third quarter before Batum got hot. The French shooting guard scored 14 points during a 16-6 run to give the Hornets their first lead since 2-0.\n\nCharlotte stretched the lead to 10, outscoring the Heat 35-17 in the third quarter.\n\n\"They just lit us up,\" Spoelstra said. \"It looked a lot like last night. Guys took ownership of it. Our defensive intensity in the fourth quarter was the best part and the most consistent part of it during the game.\"\n\nDown 10 to start the fourth quarter, Olynyk made three 3-pointers to help cut the lead to three.\n\nTIP-INS\n\nHeat: Goran Dragic sat out with a bruised knee. ... The Heat shot 51 percent from the field in the first half to build a 57-48 lead.\n\nHornets: Howard had 14 points and 15 rebounds for the Hornets.\n\nUP NEXT\n\nHeat: Wrap up a five-game road trip on Monday night at Houston.\n\nHornets: Host Sacramento on Monday night.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "LateCollapse",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.579191",
+  "pipeline_version": "v1"
+}

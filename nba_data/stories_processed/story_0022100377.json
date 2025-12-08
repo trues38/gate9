@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100377",
+  "espn_id": "401360201",
+  "date": "Dec 08, 2021",
+  "matchup": "SAC vs. ORL",
+  "headline": "Fox, Haliburton lead Kings past Magic 142-130",
+  "cleaned_body": "SACRAMENTO, Calif. -- — De’Aaron Fox scored 33 points, Tyrese Haliburton had a big fourth quarter and the Sacramento Kings won their season-best third straight game, beating the Orlando Magic 142-130 on Wednesday night.\n\nFox shot 12 of 18 and made a pair of 3-pointers to help the Kings set a season high for scoring.\n\n“We were very good offensively, moving the basketball, creating shots,” interim coach Alvin Gentry said. “But I don’t want to try to win games where you’re giving up 130 points. That put really, really too much pressure on the offense.”\n\nHaliburton added 18 points and matched his career high with 11 assists for his third NBA double-double and second this season. The 12th overall pick in the 2020 draft, Haliburton scored 11 in the fourth quarter with three 3s and a floater off the glass. He also threw a pair of alley-oop passes for dunks.\n\nThe Kings are 5-3 since Gentry replaced Luke Walton.\n\nThere wasn’t much celebrating afterward, however. As good as Sacramento’s offense was, the defense struggled most of the night. Orlando’s 130 points were 30 more than its season average.\n\n“It’s not acceptable. It’s not going to be sustainable as we move forward,” said Haliburton, who had three of Sacramento's seven steals. “If we’re not going to guard then we have to score and we did that tonight, but it’s not something that we can continue to think that we are able to do.”\n\nCole Anthony had 33 points and eight assists for the Magic (5-21), who have lost three straight and 10 of 11.\n\n“I’m still tired,” Anthony said. “We got into a shootout and lost. That’s not how we want to play. We have to hold ourselves to a higher standard.”\n\nFox scored 10 points in the third quarter when the Kings led by 16, then made a 3-pointer late to put Sacramento ahead 137-124.\n\nDavion Mitchell had 18 points off the bench for the Kings. Terrence Davis and Harrison Barnes scored 16 apiece. Tristan Thompson added 14 points and 10 rebounds.\n\nMarvin Bagley III, playing increased minutes since the coaching change nearly three weeks ago, had eight points in the first quarter, including back-to-back 3s, to put Sacramento ahead.\n\nOrlando stayed close and got within 70-67 on Mo Bamba’s buzzer-beating 3 to end the second quarter.\n\nBut the Magic couldn’t keep up and faded in the fourth.\n\nAfter trailing by 16 midway through the third, the Magic closed to 98-90 when Terrence Ross converted a four-point play followed by a thunderous, one-handed dunk and free throw.\n\n“You score 130, you should give yourself a chance,” Orlando coach Jamahl Mosley said. “The defensive side of the floor is what travels. We cannot get into a shootout with certain teams.”\n\nHOLMES LEAVES INJURED\n\nKings center Richaun Holmes was taken to the locker room in the second quarter after getting cut near his right eye when he was hit in the head by Wendell Carter Jr. The play was reviewed and determined to be a common foul. Holmes had blood trickling down his face and was being evaluated for a concussion. He was wearing a thick patch over his eye after the game.\n\nCOMMISSIONER VISITS\n\nNBA Commissioner Adam Silver was on hand for the game and watched from the stands. Silver had been in Reno for a speaking engagement earlier in the day.\n\nFAN CLUB\n\nA small but vocal group of fans seated in one corner of Golden 1 Center loudly cheered every play made by Orlando backup center Robin Lopez. When Lopez was fouled and went to shoot free throws, the group chanted “MVP! MVP!”\n\nTIP-INS\n\nMagic: Jalen Suggs missed his fourth consecutive game with a fractured right thumb. Suggs, who was injured Nov. 29, is expected to be re-evaluated every two weeks.\n\nKings: Buddy Hield missed nine of his first 10 3-point attempts. Hield entered the day second in the NBA with 87 makes from beyond the arc. … Thompson was called for a technical foul for taunting when he dunked and then turned and pointed at Ross.\n\nUP NEXT\n\nMagic: Play in Los Angeles against the Clippers on Saturday. Orlando had lost 14 straight against the Clippers before winning last March.\n\nKings: Play the Hornets in Charlotte on Friday.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.619621",
+  "pipeline_version": "v1"
+}

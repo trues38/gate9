@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700610",
+  "espn_id": "400975356",
+  "date": "Jan 10, 2018",
+  "matchup": "MIL vs. ORL",
+  "headline": "Giannis, Bucks wear down lowly Magic in 110-103 win",
+  "cleaned_body": "MILWAUKEE --  With a lineup full of long, athletic players, the Milwaukee Bucks can make up for poor nights from the 3-point line by wearing down opponents in transition.\n\nThey ran away from Orlando on Wednesday night once they figured out how to slow down the lowly Magic.\n\nGiannis Antetokounmpo scored 26 points, Khris Middleton added 22 and the Bucks turned up their defensive intensity after a porous first quarter for a 110-103 win on Wednesday night.\n\nJohn Henson picked up his fifth double-double of the year with 14 points and 10 rebounds for the Bucks, who handed the Magic their sixth straight loss and 15th in their last 16.\n\n\"Our defense is our biggest thing right now so we can get out on transition,\" guard Eric Bledsoe said. \"I thought we got a lot of easy buckets in transition -- that's our game.\"\n\nAntetokounmpo was a matchup problem all night around the rim. His play helped make up for the Bucks' poor night from beyond the arc, where they were 4 of 19 (21 percent).\n\nThe 6-foot-11 forward backed down Aaron Gordon in the post, then used a spin move to drive for a layup on a three-point play for a 66-57 lead with 7:55 left in the third.\n\nAfter an empty Orlando possession, Antetokounmpo took a feed along the baseline from Bledsoe for an uncontested dunk. The Magic called timeout but it did not help.\n\n\"In the third quarter, the starting group did a really good job of taking control of the game,\" Milwaukee coach Jason Kidd said.\n\nLeading by 20 to start the fourth quarter, Kidd was able to get some rest for Antetokounmpo and Bledsoe (15 points) with the Golden State Warriors visiting Milwaukee on Friday night.\n\nEvan Fournier had 21 points to lead Orlando, which cut the deficit to single digits during the closing minutes with reserves on the floor.\n\nGordon had 11 points but was just 4 of 18 from the field in 30 minutes, including a stretch of 12 straight missed shots in the second and third quarters. He was averaging 24.8 points over his previous five games.\n\nAfter shooting 50 percent in the first quarter, Orlando tailed off to 32 percent (15 of 46) in the second and third quarters combined.\n\n\"I think we're fighting. I think we're playing hard,\" coach Frank Vogel said. \"We're just not a very good basketball team right now. We got to fight and execute.\"\n\nTIP-INS\n\nMagic: A stretch of losing has led to questions from some fans about whether Orlando should be tanking for a high draft pick. Vogel wants no part of that discussion. \"That's not a word I digest. I'm trying to build a winning culture, winning habits. And that's my only focus,\" Vogel said before the game.\n\nBucks: F Jabari Parker is on target to return from a left knee injury the week before the All-Star break. Kidd said Parker was doing great and is about a month away from playing. ... Henson had an active night , including eight points and eight rebounds to help the Bucks take a seven-point halftime lead.\n\nOUT OF THE PAINT\n\nMiddleton said the Bucks made a concerted effort to keep the Magic out of the lane after the first quarter, forcing them to take contested jumpers. Gordon didn't have his outside shot to make up for his lack of production inside.\n\n\"I mean, they've got a long defense,\" Gordon said. \"They don't make it easy for you to score at the rim. My outside shot definitely was not falling tonight.\"\n\nNO SHOT\n\nThe Magic also had a tough night from 3-point range, shooting 2 of 13 (15 percent) in the first half. They finished 8 of 29 (27 percent), including 4 of 8 by Marreese Speights (14 points).\n\nQUOTABLE\n\n\"Energy-wise, it was a 10. Sharing the ball, getting stops ... I thought they did a great job.\" -- Kidd.\n\nUP NEXT\n\nMagic: Wrap up a three-game trip with a visit to the Washington Wizards on Friday.\n\nBucks: Reach the midpoint of the season by hosting Golden State on Friday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.881068",
+  "pipeline_version": "v1"
+}

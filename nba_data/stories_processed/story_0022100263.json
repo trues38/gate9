@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100263",
+  "espn_id": "401360087",
+  "date": "Nov 23, 2021",
+  "matchup": "MIA @ DET",
+  "headline": "Herro leads Heat past Pistons 100-92 with 4th-quarter rally",
+  "cleaned_body": "DETROIT -- — Tyler Herro had 31 points and eight rebounds as the Miami Heat rallied to beat the Detroit Pistons 100-92 on Tuesday night.\n\nMiami (12-6) outscored the Pistons 27-6 in the first 8:17 of the fourth quarter to turn a nine-point deficit into a 12-point lead.\n\n“It wasn't just Tyler. Our whole second unit turned the game around in the third quarter,” Heat coach Erik Spoelstra said. “We really didn't have any offensive rhythm in the first three quarters — and Detroit had a lot to do with that — but we put together some stops and that helped us get going offensively.”\n\nJimmy Butler and Bam Adebayo each added 15 points and nine rebounds for the Heat, who won for the fifth time in six games. Kyle Lowry had 15 points, eight assists and six rebounds.\n\n“It's easy to get assists when Tyler is shooting like that,” said Lowry, who had seven assists in the fourth. “I'd pass him the ball and he'd hit a 3.”\n\nJerami Grant had 21 points and seven rebounds for Detroit (4-13), which went 1-4 on its homestand. The Pistons played without center Isaiah Stewart, who served the first of a two-game suspension for Sunday's altercation with Lakers star LeBron James.\n\nDetroit led the Lakers by 15 after three quarters on Sunday before losing 121-116.\n\n“The game is different in the fourth quarter and we're still learning how to handle that,” Pistons coach Dwane Casey said. “You can be up 10 or up 15, but it doesn't matter because of the 3-pointer and the way teams turn it up late.”\n\nThe Pistons led 53-47 at halftime, and Miami couldn't put together a significant run in the third quarter. Hamadou Diallo's layup with 0.2 seconds left in the period gave Detroit a 76-67 advantage going into the fourth.\n\nHerro's back-to-back 3s cut the deficit to 77-74, and Casey called timeout with 9:58 to play.\n\n“We played sluggishly for three quarters, but we got rolling in the fourth,” said Herro, who had 14 points in the fourth. “I've always been the guy who took big shots, all the way back to high school, so this is the situation I love. I want to win games.”\n\nThe timeout didn't help much, as Herro's floater gave the Heat an 80-79 lead with 8:09 left, and Herro hit another 3-pointer on the next possession. After a Pistons miss, Dewayne Dedmon's dunk put Miami ahead 85-79, extending the run to 18-3, and prompted another Detroit timeout.\n\n“They went to a zone and we just couldn't get a bucket,” Casey said. “We didn't score and we didn't contain Herro.”\n\nTIP-INS\n\nHeat: Duncan Robinson played despite a bruised knee, extending his consecutive games streak to 165. Glen Rice holds the franchise record with 174.\n\nPistons: With Stewart suspended and Kelly Olynyk (knee) weeks away from a possible return, rookie center Luka Garza got his first NBA start. Garza scored seven points in 17 minutes.\n\n“Obviously, when you are a kid, you dream about doing what I did tonight,” Garza said. “It was amazing, but I wish I could have stayed out of foul trouble and been able to help win the game.”\n\nUP NEXT\n\nHeat: Visit the Minnesota Timberwolves on Wednesday, the third stop of a four-game road trip.\n\nPistons: At the Milwaukee Bucks on Wednesday to start a five-game road trip.\n\n------",
+  "tags_rule": [
+    "CoachComment",
+    "PhysicalGame",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.004737",
+  "pipeline_version": "v1"
+}

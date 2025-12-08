@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700138",
+  "espn_id": "400974889",
+  "date": "Nov 05, 2017",
+  "matchup": "ORL vs. BOS",
+  "headline": "Celtics extend win streak to 8 with 104-88 win over Magic",
+  "cleaned_body": "ORLANDO, Fla. --  Kyrie Irving and Al Horford have been the primary forces behind so much of what the Boston Celtics are doing well during their eight-game winning streak.\n\nOn Sunday, it was key contributions off the bench from Marcus Smart and Terry Rozier. The reserve duo brought energy and grit during the Celtics' 104-88 win over Orlando on Sunday night.\n\nBoston (8-2) carried a modest eight-point lead into the fourth quarter, but quickly pushed that advantage to double-digits as Smart and Rozier hustled for loose balls to help turn a tight game into a blowout in the final quarter.\n\n\"Their impact is huge,\" said Celtics coach Brad Stevens. \"I thought a big part of our playoff success last year was Smart and Terry coming off the bench together and that has been validated in the first couple of weeks of the season.\"\n\nSmart was one of six Celtics players in double figures with 11 points to go along with eight rebounds, eight assists and three steals. Rozier added six points and seven rebounds.\n\n\"We play really well off of each other,\" Smart said. \"When Terry has the ball he can create for himself and when I have the ball vice versa.\n\n\"Me and Terry, we just complement each other.\"\n\nThey helped put together an impressive defensive performance by the Celtics, limiting the NBA's best 3-point shooting team to just under 21 percent from behind the arc. Boston outscored the Magic 27-19 in the fourth quarter while leading by as many as 23 points in the final period.\n\nThe Magic (6-4) only got six points from leading scorer Evan Fournier. Nikola Vucevic was held to just 13 points, which included a 1 for 4 showing from beyond the arc. It was the eighth time during this current eight-game winning streak that the Celtics have held an opponent to under 94 points.\n\nBoston, meanwhile, received strong scoring from Jaylen Brown and Horford, who finished with 18 points and 14 points, respectively.\n\n\"We're in a good place presently but we understand there are still some things we can control on that end, some effort things as well as principle things,\" said Irving, who only scored one point in the second half and finished with 11 points on the night. \"But we feel like we are in a good place, but obviously there is always room to improve.\"\n\nThe Magic, which has been slowed by injuries to their top two point guards, were out of offensive rhythm for the second straight game and their second straight loss. They shot just 36 percent from the field and converted only 6 of 29 3-point attempts.\n\n\"We didn't execute great shot selection and patience at times,\" said Orlando coach Frank Vogel. \"Credit Boston's defense because they take you out of your stuff, your first action or your first look and you have to be patient against that.\"\n\nTIP-INS\n\nCeltics: Morris, who made his season debut during Friday's win over Oklahoma City, was inserted into the starting lineup for Sunday's game. Celtics coach Brad Stevens, however, said Morris will not play in Monday's game at Atlanta. Morris missed the first eight games due to a sore knee. ... After a subpar first half on Friday, Irving had 10 points on 4-of-8 shooting in the first half Sunday to help the Celtics take a 49-38 lead into halftime.\n\nMagic: Point guard Elfrid Payton missed his eighth straight game with a strained left hamstring injury, but Vogel is expecting him to be ready to go against the New York Knicks on Wednesday night. ...The Magic converted just 3 of 13 from 3-point range in the first half.\n\nUP NEXT\n\nCeltics: Visits Atlanta on Monday to conclude a back-to-back on the road.\n\nMagic: Hosts the New York Knicks on Wednesday.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.971070",
+  "pipeline_version": "v1"
+}

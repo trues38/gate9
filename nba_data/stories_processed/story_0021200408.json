@@ -1,0 +1,23 @@
+{
+  "game_id": "0021200408",
+  "espn_id": "400278128",
+  "date": "Dec 25, 2012",
+  "matchup": "CHI vs. HOU",
+  "headline": "James Harden, Omer Asik power Rockets' big victory over Bulls",
+  "cleaned_body": "CHICAGO -- Omer Asik enjoyed his trip back to Chicago. And he got help from James Harden and Jeremy Lin.\n\nAsik returned to the United Center and had a double-double with 20 points and 18 rebounds to lead the Houston Rockets to a 120-97 win over the Chicago Bulls on Tuesday night.\n\nIt was his first trip to Chicago since signing with the Rockets in the offseason.\n\n\"Omer is a big-time player in the middle,\" Rockets coach Kevin McHale said. \"Tonight he was blocking shots, getting rebounds and outletting the ball for us. He's got a big body and sets wide picks for us. This was a very good game for him.\"\n\nHarden scored 26 points, and Lin added 20 points and 11 assists for Houston, which had all five starters score in double figures.\n\nChandler Parsons scored 23 points, and Marcus Morris had 10.\n\nHouston has won six of seven.\n\nThe Rockets had been just 3-7 on the road entering Tuesday, but a strong second quarter turned the holiday matchup into a blowout. The Rockets outscored the Bulls 31-19 in the period to break open the game.\n\nLin capped a 14-2 run midway through the quarter with a drive and a layup to make it 55-34. He scored 12 in the second quarter, and Harden had 13.\n\nHouston led 58-41 at halftime.\n\n\"We are a very young team but are continuing to learn and believe in our system,\" McHale said.\n\nNate Robinson led the Bulls with 27 points, and Marco Belinelli scored 15.\n\nHouston entered the game tops in the league in scoring at 105.4 points per game, while Chicago allowed the third fewest in the league at 91.\n\nHouston, though, was not slowed at all.\n\nThe Rockets pushed the pace and shot well against Chicago's defense. The Rockets outscored the Bulls 66-32 in the paint and 31-8 in transition. Their largest lead was 35 points.\n\nThe 120 points allowed and the 23-point loss were season worsts for the Bulls.\n\nThe Turkish-born Asik spent his first two years in the NBA with Chicago. He signed a three-year, $25 million offer sheet with the Rockets this summer that the Bulls did not match.\n\nHe entered the game averaging 10.6 points and 11.4 rebounds, and put together perhaps his best game of the season.\n\nAsik received a round of applause when he was introduced at the beginning of the game, but the hospitality didn't last. He quickly heard jeers when he stepped to the free throw line early in the first quarter.\n\n\"I'm just happy we won the game,\" Asik said.\n\nHe added that he did not think much about his return to Chicago.\n\n\"He was great just rolling to the basket,\" Bulls center Joakim Noah said. \"They played four out and one in, and he was able to get a lot of easy things around the rim.\"\n\nHarden, fourth in the league in scoring, followed up two strong performances -- 37 points against Detroit and 45 against Atlanta -- with another strong game. He was 7-for-13 from the field and 11-for-13 from the free throw line.\n\nHouston improved to 11-2 against the Eastern Conference.\n\nThe Bulls had won nine of 13 to climb into first place in the Eastern Conference's Central Division but were flat for the second consecutive game. Chicago lost 92-75 on Saturday in Atlanta.\n\nBoos came down from the United Center crowd when Asik scored to make it 82-51 in the third quarter.\n\n\"If you are not right and don't have an edge, you are not going to win without the right amount of intensity,\" Bulls coach Tom Thibodeau said. \"They completely outplayed us from the start.\"\n\nChicago cut the Houston lead to 100-85 with just less than eight minutes to play in the fourth quarter, but a 6-0 Rockets run ended the rally.\n\nGame notesBoth teams have quick turnarounds for Wednesday games. The Bulls travel to Indianapolis to play the Pacers, and the Rockets visit the Minnesota Timberwolves.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.031124",
+  "pipeline_version": "v1"
+}

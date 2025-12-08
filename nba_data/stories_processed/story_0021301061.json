@@ -1,0 +1,25 @@
+{
+  "game_id": "0021301061",
+  "espn_id": "400489934",
+  "date": "Mar 26, 2014",
+  "matchup": "CHA vs. BKN",
+  "headline": "Al Jefferson powers Bobcats past Nets in OT",
+  "cleaned_body": "CHARLOTTE, N.C. -- Al Jefferson and the Charlotte Bobcats can't help but sneak a peek at the Eastern Conference standings every now and again.\n\"I would be great to get in that sixth spot,\" Jefferson said.\nThe reasoning if obvious: It would help the Bobcats avoid a potential first-round playoff series with Indiana or Miami.\nFor now, the Bobcats are the seventh seed in the East, but they're gaining ground. Charlotte took a big step on Wednesday night with Jefferson scoring 35 points and Kemba Walker adding a double-double in a 116-111 overtime victory over the Brooklyn Nets.\nThe win pulled the Bobcats within 1/2 games of sixth-seeded Washington, which lost Wednesday night to Phoenix, and three games behind the fifth-seeded Nets.\n\"I think if we continue to win games everything will take care of itself, everything will work out,\" Jefferson said. \"At this point we should be happy and blessed to be in any (playoff) spot.\"\nWalker had 20 points and 12 assists, and Chris Douglas-Roberts added 16 points, including two big jump shots in overtime.\nDeron Williams finished with 29 points for Brooklyn after scoring 18 in the first quarter. Joe Johnson had 18.\nJosh McRoberts put the Bobcats ahead for good in overtime when he cut to the basket, received a pass from Jefferson and twisted his body in midair for a reverse dunk in traffic, bringing the crowd to its feet.\nDouglas-Roberts and Johnson traded 3-pointers before Walker hit a 19-footer over Williams to push the lead to 114-111.\nShaun Livingston missed a driving layup with 35 seconds left and the Bobcats got the ball. McRoberts was blocked on the ensuing possession, but Douglas-Roberts tracked down the loose ball and made a 20-footer from the left wing to push the lead to five and seal the victory.\n\"I thought the defense was great, but in the end, we come up with a blocked shot, the ball bounces, and you know CDR, he makes a shot with the shot clock winding down and so everybody executed,\" Nets coach Jason Kidd said. \"The ball just bounced their way tonight.\"\nWilliams tied the game with 26.8 seconds left in regulation when he knocked down a 20-footer from the left wing.\nThe Bobcats had a chance to win the game at the end of regulation, but the ball slipped out of Walker's hands as time expired.\nDouglas-Roberts joined the Bobcats in December from the NBA Developmental League and has been a reliable contributor during the team's playoff push. He saw extra minutes off the bench with Gary Neal out with an ankle injury.\n\"I'm very confident when I'm on the floor and I go in there knowing I have to contribute for this team,\" Douglas-Roberts said.\nWilliams set a career-high with 57 points in this same building against the Bobcats on March 4, 2012.\nAnd early on he looked like he was aiming to better the mark.\nDespite missing the morning shootaround with an illness, he made seven of his first eight shots, including four 3-pointers to finish with 18 points in the first quarter.\nThe Bobcats, who have surrendered 62 points to Carmelo Anthony and 61 points to LeBron James this season, seemed intent not to allow that to happen again. They shaded their coverage to Williams in the second quarter and he was limited to only two more points before halftime.\nIn the meantime, Jefferson was starting to heat up, scoring 22 points in the first half on 9-of-14 shooting, using a variety of low-post moves and jump hooks.\n\"We gave him some easy ones early,\" Brooklyn's Mason Plumlee said. \"... You can't give a great scorer easy buckets early.\"\nBrooklyn's Jorge Gutierrez was ejected from the game with 6:42 left in the fourth quarter after a flagrant two foul against Cody Zeller. Zeller grabbed an offensive rebound and Gutierrez came down hard with both hands on Zeller's shoulders, sending the 7-footer crashing to the hardwood.\n\"I watched the replay and it looked pretty bad -- but that wasn't my intention to do that,\" Gutierrez said. \"Coach always says `Nothing easy. Make them earn it on the free throw line.' I was just trying to do a hard play.\"\nGame notes\nThe Bobcats are 12-7 since the All-Star break. ... Grammy Award winner Nelly took in the game from a courtside seat. ... The Bobcats and Wells Fargo gave away a new home to former Marine Josh Morgan during the first half of the game as part of the Military Warriors Support Foundation. Morgan was injured in Afghanistan.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.524007",
+  "pipeline_version": "v1"
+}

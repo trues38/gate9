@@ -1,0 +1,25 @@
+{
+  "game_id": "0021401209",
+  "espn_id": "400579501",
+  "date": "Apr 13, 2015",
+  "matchup": "OKC vs. POR",
+  "headline": "Westbrook scores 36; Thunder beat Trail Blazers 101-90",
+  "cleaned_body": "OKLAHOMA CITY -- Russell Westbrook made the most of his second chance.\nThe NBA's scoring leader tallied 36 points, 11 rebounds and seven assists, and the Thunder beat the Portland Trail Blazers 101-90 on Monday night to keep their playoff hopes alive.\nWestbrook almost didn't get to play. He picked up his 16th technical at Indiana on Sunday. The automatic one-game suspension that usually accompanies that number would have kept him out of what turned out to be a must-win game. But the foul was rescinded Monday morning.\n\n\"I was worried once I got it during the game, but at the same time, the NBA does a great job of figuring out which tech is doable and which ones get rescinded, and I'm just happy mine got rescinded,\" Westbrook said.\nEnes Kanter added 27 points and 13 rebounds for the Thunder, who would have been eliminated from the Western Conference playoff race with a loss. Now, the Thunder need a win at Minnesota and a loss by New Orleans at home against San Antonio on Wednesday to advance. Any other scenario and New Orleans secures the No. 8 seed.\n\"We put ourselves in this position,\" Westbrook said. \"But at the same time, we've just got to go out and take care of our business and see what happens.\"\nMeyers Leonard scored a career-high 24 points for Portland. The Trail Blazers, who already were locked into the No. 4 spot in the West, were without injured starters LaMarcus Aldridge (left foot sprain) and Arron Afflalo (right shoulder strain).\nPortland coach Terry Stotts said Aldridge, who missed his second straight game, might play in the regular-season finale Wednesday at Dallas.\n\"I think it is important that if L.A. can play, that he can play, and he has been out for a little bit,\" Stotts said. \"I think that is important to kind of keep the edge, but how much? That is to be seen.\"\nWestbrook followed up his career-high 54-point effort Sunday by making 13 of 27 shots to extend his lead over Houston's James Harden in the race for the scoring title. He scored 17 points in the first half, and Oklahoma City led 49-42 at the break. The Thunder shot just 35 percent in the first half, but they had 13 offensive rebounds and 10 second-chance points.\nDamian Lillard's 28-foot 3-pointer cut Oklahoma City's lead to five with about seven minutes left in the third quarter before the Thunder went on a 7-0 run, highlighted by a 3-point play by Dion Waiters, to go up 66-54. Westbrook scored 13 points in the third quarter, and Oklahoma City led 81-70 heading into the fourth.\nPortland cut Oklahoma City's lead to six midway through the fourth, but Anthony Morrow quickly drained a 3-pointer, and the Thunder maintained control from there.\nTIP-INS\nTrail Blazers: Leonard started for the seventh time this season. ... G C.J. McCollum earned his third start of the season. He sprained his left ankle in the final seconds of the first half and did not return. ... F Nicolas Batum left the game in the first quarter after holding his right knee and did not return. X-rays were negative. ... Lillard joined Clyde Drexler as the only Trail Blazers to have more than 1,700 points and 500 assists in a season. ... Oklahoma City held Lillard, an All-Star, to 10 points on 3-for-9 shooting.\nThunder: Oklahoma City won despite making just 4 of 21 3-pointers . ... The Thunder outrebounded Portland 19-6 in the first quarter and 58-35 in the game. ... C Steven Adams made 2 of 8 free throws in the first half, but made both of his attempts in the second.\nQUOTE OF THE NIGHT\nWestbrook, on if he would be a Spurs fan for a night: \"I ain't got to root for nobody. I ain't no Spurs fan. What type of question is that?\"\nQUOTE OF THE NIGHT II\nWaiters, who overheard Westbrook's answer: \"Russ said he's not going to be a fan. I'm going to be a fan of the Spurs on Wednesday. I've never been to the playoffs. I `m hoping that they go in there and they play and they get a win, and we go and handle our business.\"\nUP NEXT\nPortland: at Dallas on Wednesday.\nThunder: at Minnesota on Wednesday.",
+  "tags_rule": [
+    "PlayoffContext",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.478152",
+  "pipeline_version": "v1"
+}

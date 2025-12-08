@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100320",
+  "espn_id": "401360144",
+  "date": "Dec 01, 2021",
+  "matchup": "ORL vs. DEN",
+  "headline": "Anthony scores 23 as Magic rally by Nuggets, end 7-game skid",
+  "cleaned_body": "ORLANDO, Fla. -- — Cole Anthony scored 24 points, Wendell Carter Jr. added 18 and the Orlando Magic rallied from a 16-point deficit to beat the Denver Nuggets 108-103 on Wednesday night and end their seven-game losing streak.\n\nThe Magic took their first lead of the night at 106-103 when rookie Franz Wagner drilled a step-back 3-pointer with 1:45 to play. Wagner had 15 points, while his brother, Moritz Wagner, chipped in 12 points off the bench.\n\n“I came off a pick-and-roll looking to pass it early, but they messed up the switch and I was just open and shot a 3,” Franz Wagner said. “Obviously, it felt really good.\"\n\nDenver’s final chance fell short when Will Barton’s 25-foot shot with 2 seconds remaining badly missed the rim. The Nuggets were outscored 66-38 in the paint by the Magic, who shot better than 60% from the floor in each of the final three quarters.\n\n“After that (first) quarter, they got anything they wanted and the biggest thing that stands out is our inability to defend the paint,” Denver coach Michael Malone said. \"It was a 12-3 punch in the mouth (to start the second half). We tried to go zone and it was layup after layup after layup.”\n\nOrlando ended a 10-game losing streak against Denver, a skid that dated to March 15, 2016. The Magic’s rally also ruined the return of Denver’s Aaron Gordon, who played at the Amway Center for the first time since Orlando traded him to Denver on March 28. Gordon, who spent seven seasons in Orlando from 2014-21, scored 17 points, grabbed eight rebounds and had three thunderous dunks on Wednesday.\n\n“It was kind of a weird experience, coming into Amway on the other side for the first time in my career,” Gordon said. “I didn’t want to make it about me; I wanted to make it about getting a win, but unfortunately we didn’t.”\n\nThe Magic came into the night ranked 28th in the NBA in field goal percentage, but they shot a season-best 54.3%.\n\nAnthony, who returned after missing the previous six games with an ankle injury, had his ninth 20-point game and chipped in eight rebounds and seven assists. Gary Harris, who was traded from Denver in the Gordon deal, had 11 points.\n\nOrlando outscored Denver 32-20 in the third quarter and dominated the fourth to win for the first time since Nov. 17. Also, the Magic won for just the second time at home — both victories coming as a result of fourth-quarter rallies.\n\nMonte Morris scored a season-best 22 points, while Nikola Jokic had 18 points, 15 rebounds and seven assists. Jokic had a turnover and a layup attempt blocked in the final minute.\n\nAfter ending a six-game losing streak on Monday in Miami, the Nuggets fell to 3-7 on the road. They are in the midst of a seven-game, 13-day road trip.\n\n“We weren’t doing anything on defense and they were getting whatever they wanted,” Gordon said. “This one hurts.”\n\nPRAISE FOR GORDON\n\nMalone raved about how Gordon has embraced his role in Denver. He came in averaging 13.9 points on 51.7% shooting.\n\n“When we traded for him at the deadline last (season), we went 19-6 to close out the season with Aaron in the lineup,” Malone said. “I think this is the best Aaron Gordon has ever played. What he is doing on both ends of the floor for us is remarkable.”\n\nTIP-INS\n\nNuggets: Malone said that he and President of Basketball Operations Tim Connelly spoke on Wednesday about possible wing additions to the roster with the Nuggets down several players. Jamal Murray has yet to play following knee surgery, while Michael Porter Jr. is out for the season with a back injury. … The Nuggets were also without guard Austin Rivers, who was placed on the NBA’s health and safety protocols. That kept Rivers from playing in Orlando, where he starred in high school following his father, Doc Rivers’ stint as coach of the Magic.\n\nMagic: After further evaluation, Orlando determined guard Jalen Suggs won’t need surgery to repair the fractured right thumb he suffered on Monday. As of Wednesday, Suggs ranked seventh among rookies in scoring (12.3) and third in assists (3.6).\n\nUP NEXT\n\nNuggets: At New York on Saturday night.\n\nMagic: At Houston on Friday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.659982",
+  "pipeline_version": "v1"
+}

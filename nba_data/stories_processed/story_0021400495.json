@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400495",
+  "espn_id": "400578787",
+  "date": "Jan 03, 2015",
+  "matchup": "CHA @ ORL",
+  "headline": "Kemba Walker scores 30 points as Hornets halt 5-game skid",
+  "cleaned_body": "ORLANDO, Fla. -- This time, the Charlotte Hornets protected their big lead against the Orlando Magic.\nKemba Walker scored 30 points, and the Hornets beat the Magic 98-90 on Saturday night to stop a five-game losing streak.\nMichael Kidd-Gilchrist had 17 points and 12 rebounds for Charlotte, which blew a 23-point lead in a 105-100 loss to Orlando on Nov. 21. Gary Neal added 16 points and Cody Zeller finished with 12.\nThe Hornets outscored the Magic 30-9 in the second quarter, including a 22-0 run in the final seven minutes of the period. Gerald Henderson made 1 of 2 foul shots with 1.1 seconds left to make it 52-29 at the break.\n\"The stretch where we played well, we got a lot of effort points, fast breaks, and guys keeping the ball alive for second chances,\" Charlotte coach Steve Clifford said. \"That gave us a cushion to play with on the road.\"\nCharlotte limited Orlando to 2-of-17 shooting and forced six turnovers in the second quarter.\n\"Our communication on defense was great and we just made some great plays,\" Walker said. \"Guys were in the right spots, helping each other and this how it has to be night in and night out.\"\nVictor Oladipo scored 21 points for the Magic, and Nik Vucevic had 20 points and 10 rebounds. Tobias Harris also had a double-double with 18 points and 11 boards.\nOrlando has lost three in a row, all at home.\n\"I think it's the fragility of the group,\" Magic coach Jacque Vaughn said. \"I have to find a group that is mentally tough enough to find some adversity in their life and be able to fight through it.\"\nOrlando shot 38 percent (33 for 87) from the field, including a 4-for-19 night from 3-point range. The Magic were coming off a 100-98 loss to Brooklyn on Friday night.\n\"It's unacceptable for us to play with such bad effort in front of our home crowd for two nights in a row,\" Vucevic said. \"They came right at us and we didn't respond. We didn't put up with their effort and it showed. We have to have more pride in us to put up a better fight.\"\nOladipo hit two free throws to get Orlando within one with 6:59 left in the second period, but those were the last points of the half for the Magic. Orlando went 0 for 10 with five turnovers for the rest of the quarter.\nCharlotte missed its first eight shots of the second half, opening the door for a 10-0 run by the Magic. Two more free throws by Oladipo cut the deficit to 52-39 with 8:20 left in the third, but the rally died quickly.\nZeller had a tip-in, and Walker took over from there. The point guard scored eight of his 20 second-half points in the next four minutes, including a pair of 3-pointers that helped stretch the lead back to 20.\nTIP-INS\nHornets: Charlotte, which is 1-17 when outrebounded by opponents, beat Orlando 53-44 on the boards.\nMagic: F Channing Frye sprained his right elbow in the second quarter and did not return. ... Payton, who nearly had his first career triple-double in the loss to the Nets, followed the solid performance with seven points and seven assists against Charlotte. ... Orlando begins a four-game road trip Wednesday. The Magic have been considerably better in away games this season: 9-12 on the road vs. 4-12 at home.\nUP NEXT\nHornets: Visit Boston on Monday.\nMagic: Visit Denver on Wednesday.\nBACK-TO-BACK PERFORMANCE\nThe Magic-Hornets game was nearly identical to the one Orlando played against Brooklyn on Friday night. Orlando trailed the Nets by 26 before rallying in the fourth quarter and coming up short.\n\"Honestly, I'm surprised by our lack of energy, especially after the game last night and then kind of having a repeat performance,\" Magic guard Ben Gordon said. \"We've got to get out of the funk, take ownership in ourselves and collectively come together to play better basketball.\"",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.629591",
+  "pipeline_version": "v1"
+}

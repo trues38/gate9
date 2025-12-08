@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700932",
+  "espn_id": "400975678",
+  "date": "Mar 02, 2018",
+  "matchup": "MIL vs. IND",
+  "headline": "Oladipo scores 21, Pacers hold on to beat Bucks 103-96",
+  "cleaned_body": "MILWAUKEE --  The Indiana Pacers can finally smile on their four-game road swing.\n\nGrinding out a 103-96 win over the Milwaukee Bucks erased the bitter taste of back-to-back defeats to 40-loss teams Atlanta and Dallas during the first two stops on the trip.\n\nVictor Oladipo had 21 points to lead the Pacers, who held on after nearly blowing a 17-point lead in the middle of a mistake-laden fourth quarter Friday night.\n\nBut any win over a fellow Eastern Conference playoff hopeful can boost a team's confidence, especially on the road.\n\n\"From the arena to the players to the (officials), it definitely felt like a playoff atmosphere,\" Oladipo said. \"It was a great win for us.\"\n\nWith his team trailing by five, Milwaukee's Khris Middleton missed a corner 3-pointer off an inbounds play with 8.9 seconds left. Bojan Bogdanovic hit two foul shots at the other end to seal it and hand the Bucks their fourth straight loss.\n\nThe Bucks nearly stormed back from a 93-76 deficit with 6:34 left. Indiana committed four turnovers during a 12-0 Milwaukee run that tightened what looked to be a blowout.\n\n\"We had some turnovers late in the game, a little careless with the ball,\" Pacers coach Nate McMillan said. \"You have to value every possession.\"\n\nOladipo hit a runner in the lane with 1:13 left for a 98-92 lead to slow Milwaukee's momentum. He also scored six straight Indiana points during a 14-1 spurt in the third that helped the Pacers build a double-digit edge in the fourth.\n\n\"That's where I thought it went wrong, middle to end of the third,\" Bucks coach Joe Prunty said. \"The pick-and-roll was really causing us problems ... and then on the other end of the floor (the ball) wasn't moving as freely.\"\n\nLance Stephenson added 16 points for Indiana, and Bogdanovic had 14 after going 12 of 13 from the foul line.\n\nMiddleton led all scorers with 30 points, and Giannis Antetokounmpo added 24 points and 10 rebounds for the Bucks. Milwaukee looked out of sorts at times offensively and alternated near-misses with out-of-control possessions until the near-comeback in the fourth quarter.\n\n\"We're not moving the ball side-to-side as much as we need to,\" Middleton said.\n\nTIP-INS\n\nPacers: After an ugly 24-turnover game in a loss Wednesday at Atlanta, Indiana's 13 turnovers against the Bucks were in line with its season average of 13.4. ... Indiana entered 13-16 on the road, matching last season's win total.\n\nBucks: Jason Terry made his first start since Jan. 22, 2016, with Houston. The 40-year-old guard blocked three shots for the first time since Dec. 22, 2010, with Dallas against Philadelphia. ... G Tony Snell missed his second straight game with a bruised right thigh. The backcourt is already thin with Malcolm Brogdon (left quad) and Matthew Dellavedova (right ankle) still sidelined.\n\nON GUARDS\n\nIt didn't help Milwaukee that the injury-thinned backcourt also had to deal with foul trouble for starting point guard Eric Bledsoe, who was saddled with two fouls for much of the first quarter and played much of the fourth with five. Bledsoe finished with 15 points on 3-of-11 shooting.\n\nSLOPPY START\n\nA choppy first half ended with the Bucks leading 46-45. The game got off to a testy start after officials called five technical fouls in the last 6:14 of the first quarter, including one each on Stephenson and Milwaukee's Sterling Brown after the players got tangled up under the basket. At one point early in the second quarter, the teams had combined for 15 fouls and 19 field goals.\n\n\"Both teams were getting after it from the start. Both teams are playing for the same thing,\" McMillan said.\n\nGIANNIS' NIGHT\n\nAntetokounmpo was 6 of 18 from the floor but went 10 for 12 at the foul line.\n\n\"We need him to be aggressive. We need him to do multiple things. If you're shot isn't going down, he knows that he can move the ball,\" Prunty said.\n\nUP NEXT\n\nPacers: Wrap up the four-game trip Sunday at Washington.\n\nBucks: Another important game in the Eastern Conference playoff race when they host Philadelphia on Sunday.\n\n---\n\nMore AP NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "FoulTrouble",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.622520",
+  "pipeline_version": "v1"
+}

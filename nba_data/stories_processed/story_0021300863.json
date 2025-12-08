@@ -1,0 +1,21 @@
+{
+  "game_id": "0021300863",
+  "espn_id": "400489736",
+  "date": "Feb 27, 2014",
+  "matchup": "MIL @ IND",
+  "headline": "East-best Pacers lose big lead, then rally to take down Bucks",
+  "cleaned_body": "INDIANAPOLIS -- Indiana Pacers coach Frank Vogel was worried about facing the Milwaukee Bucks in a matchup of the teams with the best and worst records in the NBA.\nTurns out, he had reason for concern.\n\"If you're a team without a great record, and you've got a chance to knock off one of the top dogs, that's obviously a win that scores more points with you,\" Vogel said before the Pacers' 101-96 comeback victory Thursday night.\nRoy Hibbert had 24 points and 12 rebounds, and Paul George and Lance Stephenson each scored 18 points for Indiana. The Pacers, 44-13 overall and an NBA-best 28-3 at home, blew a 17-point lead in the first half.\n\"They're a real good team and I thought we did a pretty good job of keeping it close into the fourth quarter,\" Bucks rookie guard Nate Wolters said. \"But then just like the other night we let it slip away. It wasn't real hard to get up for these guys tonight.\"\nIndiana's George Hill took a nasty spill along the baseline late in the game. Vogel said the starting guard was day to day with a bruised left shoulder.\nThe Bucks, an NBA-worst 11-46, tied it at 50 at the half and built a six-point lead in the third quarter. Brandon Knight had 23 points for Milwaukee, Khris Middleton added 22, O.J. Mayo had 14, and Ramon Sessions 13. Ersan Ilysova had 11 rebounds and nine points.\n\"We're still a team that's pretty much trying to find something to hang our hat on,\" Mayo said. \"We're a young team that is still learning and we just have to keep getting better every day. This was definitely a winnable game, but we made too many mistakes on the road against the best team in the Eastern Conference.\"\nIndiana led 32-15 early in the second quarter after going 13 of 19 from the field in the first 12 minutes. The Pacers were 8 of 19 in the second quarter, while the Bucks shot 13 of 21 after going 7 of 22 in the first.\n\"I don't think our guys let down at all,\" Vogel said. \"They understand a 15-point lead in the first quarter means nothing.\"\nStephenson's layup put the Pacers up 50-38 with 2:10 to play in the first half. But Middleton scored seven straight points, and Knight had the last five points of the half as the Bucks used a 12-0 run to tie it.\nKnight opened the second half with a 3-pointer for Milwaukee's first lead, 53-50. The Bucks extended the lead to six at 60-54 before George and Stephenson hit 3-pointers to tie it.\n\"They've got a lot of great shot-makers over there, that's why they've been staying in games here lately,\" Hill said.\nThe Bucks took a 64-60 lead on consecutive baskets by Nate Wolters and Zaza Pachulia, but the Pacers scored seven of the next nine points to regain the lead at 67-66.\nThe Bucks got no closer than two points the rest of the way.\n\"I think we got a couple stops down the stretch that we really needed, and we capitalized on the offensive end when we did get those stops,\" Hill said. \"You've got to tip your hat to Milwaukee; no matter what their record says, that's a good team over there.\"\nGame notes\nBefore the game, the Bucks waived forward Caron Butler after agreeing to a contract buyout. The 33-year-old Butler made 13 starts and appeared in 34 games this season, averaging 11.0 points and 4.6 rebounds. ... On Saturday night, Indiana is at Boston, and Milwaukee will be home against Brooklyn.",
+  "tags_rule": [
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.419702",
+  "pipeline_version": "v1"
+}

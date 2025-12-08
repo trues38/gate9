@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700367",
+  "espn_id": "400975118",
+  "date": "Dec 08, 2017",
+  "matchup": "CHA vs. CHI",
+  "headline": "Markkanen scores 24, Bulls end skid with OT win over Hornets",
+  "cleaned_body": "CHARLOTTE, N.C. --  The Chicago Bulls thought they were trending in the right direction in the last few games of their 10-game losing streak. On Friday night, they kept their poise and finished strong.\n\nLauri Markkanen had 24 points, including a key 3-pointer in overtime, and 12 rebounds to lead Chicago to a 119-111 win over the Charlotte Hornets.\n\n\"Lauri showed again that he's going to be a heck of a player in this league,\" Bulls coach Fred Hoiberg said. \"He was awesome down the stretch making big, clutch plays for us.\"\n\nRobin Lopez had 19 points and 10 rebounds for Chicago. Kris Dunn scored 20 points, Justin Holiday had 17 and David Nwaba chipped in with 11 for the Bulls, who are 2-0 against Charlotte and 2-20 against the rest of the league.\n\nDwight Howard had 25 points and 20 rebounds to lead the Hornets, his second 20-20 game of the season. Kemba Walker added 20 points, and Marvin Williams had a season-high 17.\n\n\"We have to rely on (Howard) quite a bit,\" Hornets' coach Stephen Silas said. \"Dwight was great tonight as far as his post presence, paint catches, rebounding and just keeping us in the game.\"\n\nCharlotte made up a two-possession deficit in the final minute. Walker made a pair of free throws with 5.3 seconds left to force overtime in a back-and-forth game that featured 17 lead changes and 20 ties. Neither team led by more than eight.\n\nThe extra period belonged to Chicago as the Bulls never trailed.\n\n\"We thought, as a team, the last couple close games, we thought we could have won them. It just happened down the stretch we didn't execute,\" Dunn said. \"We finally got the monkey off our back. It felt good, and we should start something new.\"\n\nThe Bulls used an 8-0 run to open the fourth quarter and gain an 83-79 lead, setting up a frantic final few minutes.\n\n\"The thing I was most impressed by with our guys was how they just kept playing, how they showed the resolve,\" Hoiberg said. \"After Kemba tied it up to send it into overtime ... to be able to keep our composure and make winning plays was huge.\"\n\nTIP-INS\n\nBulls: Chicago, despite a significant size disadvantage, outscored the Hornets 56-50 in the paint. ... Nikola Mirotic saw 14 minutes of action, scoring six points, in his return from injury. Mrotic suffered facial fractures in a fight with teammate Bobby Portis during practice on Oct. 17.\n\nHornets: Charlotte was without a pair of big men as Frank Kaminsky and Cody Zeller did not play after picking up injuries in Wednesday's loss to the Warriors. ... Silas coached the Hornets for the third straight game in place of Steve Clifford, who is out indefinitely with health issues.\n\nCALLING THE RESERVES\n\nThe Bulls' bench provided 32 points and tight defense to keep the game close.\n\n\"The second unit was key,\" Holiday said. \"It was like, `Right now is when we need to make our push,' and they came in and I think might've gotten four stops in a row. ... The second unit got us the lead and we won the game.\"\n\nNO TIME TO REST\n\nThe short-handed Hornets will turn around and play again Saturday against the Los Angeles Lakers. Four Charlotte players were on the floor for at least 39 minutes against the Bulls, and Silas believes fatigue will be a factor.\n\n\"It's a mindset. We have to be in the right frame of mind to go out and play well,\" he said. \"Guys are going to have to come off the bench and play more minutes than usual.\"\n\nUP NEXT\n\nBulls: Host the Knicks on Saturday night.\n\nHornets: Host the Lakers on Saturday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.801063",
+  "pipeline_version": "v1"
+}

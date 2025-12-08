@@ -1,0 +1,21 @@
+{
+  "game_id": "0021401160",
+  "espn_id": "400579452",
+  "date": "Apr 08, 2015",
+  "matchup": "CHA vs. TOR",
+  "headline": "DeMar DeRozan helps Raptors beat Hornets 92-74",
+  "cleaned_body": "CHARLOTTE, N.C. --  The Toronto Raptors were determined to beat the Charlotte Hornets for the first time in seven games Wednesday night.\n\nTaking control midway through the second quarter, the Raptors led by as many as 29 points and rolled to a 92-74 victory that likely quashed the Hornets' slim playoff hopes.\n\n\"The first quarter wasn't very good,\" Toronto coach Dwane Casey said. \"But I thought in the second quarter we set the tone of how we want to play. We started the second quarter and finished the game doing what we wanted to do defensively.\"\n\nDeMar DeRozan scored 18 points for Toronto, Lou Williams and Greivis Vasquez had 16 points, and Tyler Hansbrough added 12 points and 12 rebounds.\n\n\"For some reason, we've always had bad luck against this team, especially playing here (in Charlotte),\" DeRozan said. \"But it felt good to get a win against this team at a critical time for us.\"\n\nKemba Walker had 15 points for Charlotte. The Hornets are 11th in the Eastern Conference, three games out of the eighth and final playoff spot.\n\nMo Williams added 10 points for Charlotte, playing without three injured starters.\n\n\"We just had no juice,\" Charlotte coach Steve Clifford said. \"We're going to have to find a way to be professional. I think our team has stood for effort and purposeful play all year long, and we're going to have to find a way to do that over these last four games.\"\n\nThe Raptors took the lead for good at 15-13 on Hansbrough's two free throws with 4:31 left in the first quarter. Lou Williams made a 3-pointer early in the second quarter to stretch the lead to double digits for the first time, 29-19, and it was 47-31 at the half.\n\nToronto led by 28 in the third quarter took a 69-45 advantage into the fourth.\n\nThe Hornets made just 17 of 60 field-goal attempts through the first three quarters for 28 percent, including 3 of 13 from 3-point range. During that span, the Raptors were 24 of 61 from the field and 10 of 23 on 3s, with DeRozan and Lou Williams hitting three each.\n\n\"It was an all-around game against a depleted team,\" Casey said. \"It's a good `W,' but they had a lot of their guys out. We've got to keep that same focus. Consistency is what we've been building for. It's one game, so let's do it again.\"\n\nMVP OF NIGHT? Casey singled out the aggressive play around the basket by Hansbrough at both ends of the court as a key to the Toronto victory.\n\n\"Tyler, I thought, was the MVP. He gave us all we wanted inside. He gave us toughness and energy and quickness that you need,\" Casey said. \"He had a few opportunities around the basket that he missed, but his energy was infectious. He got in there and made things tough for everybody.\"\n\nTIP-INS\n\nRaptors: Amir Johnson (right ankle sprain) and Kyle Lowry (back spasms) sat out.\n\nHornets: Lance Stephenson (right toe sprain) was ruled out before the game, joining previously injured teammates Al Jefferson (sore right new), Michael Kidd-Gilchrist (left ankle sprain) and Cody Zeller (sore right shoulder) on the sideline.\n\nUP NEXT\n\nRaptors: At Orlando on Friday night.\n\nHornets: At Atlanta on Friday night.",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.697144",
+  "pipeline_version": "v1"
+}

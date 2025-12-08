@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700418",
+  "espn_id": "400975169",
+  "date": "Dec 15, 2017",
+  "matchup": "CHA vs. MIA",
+  "headline": "Ellington and Johnson score 16 each in Heat win vs. Hornets",
+  "cleaned_body": "CHARLOTTE, N.C. --  Playing without two injured post players on Friday night against the Charlotte Hornets, the Miami Heat turned to perimeter shooting from its bench for scoring punch.\n\nTyler Johnson and Wayne Ellington delivered to lift Miami to a .500 record with a 104-98 victory.\n\nJohnson and Ellington scored 16 points each in Miami's 24th win in its past 30 games against Charlotte (10-18), which opened a stretch of six of seven home games with a loss. Johnson and Ellington combined for 10-of-16 shooting on 3-pointers.\n\nWith center Hassan Whiteside and forward Justise Winslow back home with knee injuries, Johnson and Ellington routinely hit 3-pointers at points in the game the Hornets appeared poised to make a comeback.\n\n\"It's very, very helpful to have that,\" said the Heat's Kelly Olynyk, who, along with Josh Richardson, James Johnson and Bam Adebayo, scored 11 points. \"That second unit is tough to guard. They're making guys pay.\"\n\nDion Waiters scored 12 for the Heat.\n\n\"They showed their depth tonight,\" Hornets associate head coach Stephen Silas said. \"They had seven guys in double figures and no one over 16 points. When you play like that, it's a winning combination.\"\n\nKemba Walker led Charlotte with 23 points after aggravating a wrist injury and leaving the game in the first half. He returned to start the second half with his left wrist wrapped, and his 3-pointer with 3:16 left pulled Charlotte within 100-93 after trailing by 17.\n\n\"As soon as Kemba Walker hit that one 3-pointer, I turned to the bench and said, `Uh-oh,\" said coach Erik Spoelstra, who tied Pat Riley's career win record for Miami. \"I like our guys having to go through all that stress and anxiety and have to execute under duress and under the pressure in context of a close game.\"\n\nWalker drew a foul against Johnson, his fifth, with 2:02 left. His free throws closed the gap to 100-96, and Dwight Howard's driving layup brought the Hornets within 100-98. Waiters hit a fadeaway for Miami's first basket in more than 2 minutes and a 102-98 lead.\n\nMiami pulled away with free throws from Goran Dragic for the final margin.\n\n\"We have to find a way to be consistent and win these games,\" said Hornets guard Nicolas Batum, who struggled to a 2-for-7 shooting performance but finished with a season-high tying 10 assists. \"It's right there. We have to find a way to create for other guys.\"\n\nMichael Kidd-Gilchrist shot 6 of 8 for 13 points for Charlotte, which has lost five of its past six. Howard recorded his fourth double-double in five games for Charlotte with 15 points and 16 rebounds. It was his 16th double-double this season.\n\nTIP-INS\n\nHeat: Whiteside (knee), who has missed eight consecutive games, returned to practice on Thursday.\n\nHornets: The Hornets last won the series against Miami in 2009-2010. Miami leads the season series 2-0.\n\nMICKEY'S DEVELOPMENT: F Jordan Mickey nearly gave Miami four double-digit scorers off the bench. Mickey, who has spent time working on skill development with Juwan Howard, shot 4 of 6 with seven rebounds in more than 15 minutes on the court.\n\n\"He's in the best shape that he's been in this past week,\" Spoelstra said. \"All of his testing has been phenomenal and that is what you want of your young players. You never know when you're going to get an opportunity.\"\n\nTROUBLE WITH THE 3: Miami (11 for 31, 35.5 percent) shot slightly lower than Charlotte (10 for 27, 37 percent) from 3-point range, but the timing made the difference. Heat shooters found open shots on defensive lapses off penetration all night.\n\n\"We were biting on shot fakes, they were driving by us,\" Silas said. \"They had isolations, they were driving by us. It wasn't necessarily the rim protection, it was the drive and kicks. That's the problem that I see and it's a recurring issue that we've had.\"\n\nUP NEXT\n\nHeat: Host Clippers on Saturday night.\n\nHornets: Host Trail Blazers on Saturday night.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.123200",
+  "pipeline_version": "v1"
+}

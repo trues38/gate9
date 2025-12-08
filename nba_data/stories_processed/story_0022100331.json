@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100331",
+  "espn_id": "401360155",
+  "date": "Dec 02, 2021",
+  "matchup": "PHX vs. DET",
+  "headline": "Suns push past Pistons, win franchise record 18th straight",
+  "cleaned_body": "PHOENIX -- — Cam Johnson and Cameron Payne both scored 19 points to lead the Phoenix Suns to their franchise-record 18th win in a row, beating the Detroit Pistons 114-103 on Thursday night.\n\nJohnson and Payne sparked a stellar effort from the Suns bench, which finished with 48 points. Deandre Ayton had 17 points and 12 rebounds as Phoenix improved to 19-3 for the season.\n\n“I haven’t talked about streaks of any kind just because we have been so focused on improving,” Suns coach Monty Williams said of the run that's lasted more than a month. “But it is really cool to be a part of something like that.”\n\nPhoenix won despite not having leading scorer Devin Booker for the first time this season. The two-time All-Star suffered a left hamstring injury in the second quarter of Tuesday’s game against the Golden State Warriors.\n\nSeven Suns scored in double figures in a balanced effort. Phoenix shot 54% from the field.\n\n“It is hard to win in this league and we are not satisfied but it is special,” Williams said. “To do it in front of our fan base, in a special city like this with the history of this franchise is pretty cool and I want our guys to enjoy it.”\n\nPhoenix shot 76% in the second quarter and led 69-51 by halftime. Payne had 11 points in the second quarter.\n\nThe Pistons fought back in the third on a 17-0 run to get within 80-79 after a 3-pointer by rookie Cade Cunningham. It appeared that Detroit tied it at 82 moments later, but a 3-point shot by Hamidou Diallo was ruled to have come after the 24-second clock expired.\n\n“When we play like that, we can win games,” Pistons center Isaiah Stewart said.\n\nPhoenix stopped the rally when Payne hit two free throws and Landry Shamet made a 3, enabling Phoenix to take a six-point lead after three.\n\n“We came out there and just did our job as usual,” Payne said about the bench.\n\nDetroit did get within five points in the fourth quarter a few times, the last with 2:57 remaining at 104-99 on Saddiq Bey's 3-pointer, but Jae Crowder connected from behind the arc to keep the Pistons chasing. Chris Paul finished with 12 points and 12 assists.\n\nThe Suns have not lost since Oct. 27, when Sacramento Kings forward Harrison Barnes hit a 3-pointer as time ran out for a 110-107 victory.\n\nJerami Grant had 34 points for Detroit, which fell to 2-10 on the road. Cunningham — last year's No. 1 overall draft pick — scored 19 points on 8-of-15 shooting.\n\n“We'll learn from it,” Pistons coach Dwane Casey said. “We had some growth.”\n\nTIP-INS\n\nPistons: Kelly Olynyk (left knee strain), Jamorko Pickett (G League–Two Way), Isaiah Livers (G League–On Assignment) and Chris Smith (G League–Two Way) did not play.\n\nSuns: The Suns feel Booker's hamstring injury is minor, but they still expect him to miss a few games. Coach Monty Williams said they'll monitor him and see how he progresses. ... Shamet replaced Booker in the starting lineup and scored 14 points. ... F/C Frank Kaminsky (right knee), F Abdel Nader (right knee) and F Dario Saric (right knee) didn’t play. ... Williams was named NBA coach of the month for November. The Suns were perfect for the month, winning all of their 16 games.\n\nUP NEXT\n\nPistons: Host the Thunder on Monday.\n\nSuns: Travel to face Golden State on Friday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.441475",
+  "pipeline_version": "v1"
+}

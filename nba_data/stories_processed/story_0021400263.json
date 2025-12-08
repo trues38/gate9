@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400263",
+  "espn_id": "400578555",
+  "date": "Dec 03, 2014",
+  "matchup": "CHI @ CHA",
+  "headline": "Gasol scores 19, Bulls defeat Hornets 102-95",
+  "cleaned_body": "CHARLOTTE, N.C. --  Pau Gasol addressed his new Chicago Bulls teammates following their double-overtime loss to the Dallas Mavericks on Tuesday night.\n\nHe wanted to make sure the team would shake off the sting of the defeat and get focused on the Charlotte Hornets.\n\nApparently it worked.\n\nGasol had 19 points and 15 rebounds, Joakim Noah and Nikola Mirotic each posted double-doubles, and the Bulls handed the Hornets their 10th straight loss, 102-95 on Wednesday night.\n\n\"These types of games really make a big difference at the end of the season with your record,\" Gasol said. \"It's a game where if you come in with low energy and try to cruise through it, you walk out with a loss. So this was a game that builds character and shows what you're made of.\"\n\nNoah had 14 points and 10 rebounds, and Mirotic added 11 points and 12 rebounds.\n\nKirk Hinrich, who committed the costly intentional foul on a 3-point shot in the loss to the Mavericks -- that he termed a bonehead play -- came up with two big 3-pointers in the final three minutes to help the Bulls (12-7) hold on and improve to 10-3 on the road.\n\n\"I've realized with my time in this league you have to move on because you're going to make mistakes,\" Hinrich said. \"The hardest thing is when the game is over and you feel like you let your teammates down. But I have great teammates, and everyone has been trying to pick me up.\"\n\nIt is the fifth straight game Chicago has scored at least 100 points.\n\nJimmy Butler, who had led the Bulls in scoring in seven of the previous nine games, and Derrick Rose both had 15 points in a well-balanced scoring attack.\n\nThe Bulls were 12 of 28 from beyond the 3-point arc. The Hornets made 2 of 15.\n\n\"That's the difference in the game,\" Hornets coach Steve Clifford said.\n\nKemba Walker had 23 points to lead the Hornets (4-15), who have lost 12 of 13.\n\n\"It's a long season,\" Walker said. \"I am loving the fact that we're still fighting, that we're still working hard to win.\"\n\nThe Hornets were coming off three days of rest while the Bulls played deep into overtime in Chicago on Tuesday.\n\nCharlotte trailed 61-55 before Walker scored 12 points during a three-minute span near the end of the third quarter to pull the Hornets within 72-71.\n\nWalker had 17 points in the third.\n\nThe highlight came when the 6-foot-10 Mirotic got stuck covering Walker on a pick and roll, and tripped and fell when the fourth-year point guard hit the big man with a nasty crossover and stepped back to drain a 3-pointer. The play quickly became the rage on Twitter.\n\nBut Mirotic would get his revenge, scoring nine of his points in the fourth quarter, including a key 3-pointer from the right baseline that helped the Bulls push the lead to double digits.\n\nHinrich's two 3-pointers sealed the win.\n\n\"It was a gut check, and I'm proud of the guys for hanging in there and getting this one,\" Hinrich said.\n\n---\n\nTIP-INS\n\nBulls: Doug McDermott was a late scratch due to a sore right knee. Taj Gibson sat out with a left ankle injury.\n\nHornets: Coach Steve Clifford said Michael Kidd-Gilchrist (stress reaction) will be out at least until next Wednesday and possibly longer. He has missed 13 games. Gary Neal (strained shoulder) also remains out.\n\nSTEPHENSON STEPS UP\n\nLance Stephenson has struggled in his first season with the Hornets, but turned in one of his better games with a season-high 20 points and eight rebounds.\n\nARGUING CALLS\n\nMaybe it was a lack of sleep, but Noah and Rose received technical fouls for arguing calls.\n\nUP NEXT\n\nBulls: Host Golden State Warriors on Saturday night.\n\nHornets: Host the New York Knicks on Friday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.808734",
+  "pipeline_version": "v1"
+}

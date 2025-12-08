@@ -1,0 +1,21 @@
+{
+  "game_id": "0021700132",
+  "espn_id": "400974883",
+  "date": "Nov 04, 2017",
+  "matchup": "SAC @ DET",
+  "headline": "Drummond powers Pistons past Kings 108-99",
+  "cleaned_body": "DETROIT --  Detroit coach Stan Van Gundy knew during the offseason that he needed another piece to get the Pistons into playoff contention in the Eastern Conference.\n\nIt appears he found the right player in Avery Bradley.\n\nBradley scored 24 points, Andre Drummond had 16 points and 19 rebounds, and the Pistons beat the Sacramento Kings 108-99 on Saturday.\n\nThe 26-year-old Bradley went 10 for 15 from the field. He was acquired in a trade with Boston in July.\n\n\"I've said this several times, but he has really changed the defensive demeanor of our team,\" Van Gundy said. \"He doesn't deserve all of the credit -- moving Stanley (Johnson) into the starting lineup has also helped -- but we're playing much better defense with Avery on the floor.\"\n\nTobias Harris added 20 points for Detroit (7-3), which won for the fifth time in six games.\n\nThe Pistons had 18 points off Sacramento turnovers, while the Kings only had nine. They have recorded more points off turnovers than their opponent in nine of their 10 games.\n\n\"This wasn't our best game, but we were able to get some stops when we needed them,\" Harris said. \"We're building off each other, and that's a good thing.\"\n\nSacramento (1-8) lost its seventh straight game and gave up more than 100 points for the sixth time in a row. Zach Randolph led the Kings with 19 points, and Bogdan Bogdanovic added 14.\n\n\"This is a learning experience,\" Kings coach Dave Joerger said. \"It was a small-ball game tonight, and they were able to hurt us with that.\"\n\nBack-to-back 3-pointers by Reggie Jackson and Harris gave the Pistons a 77-69 lead late in the third quarter. Detroit led 85-74 heading into the fourth, and held off a brief Sacramento surge early in the period.\n\n\"That wasn't an easy win by any means,\" Van Gundy said. \"We didn't have a lot of energy, and their starting lineup gave us a lot of trouble, but we were able to grind it out.\"\n\nThe Pistons scored the game's first 10 points, but Randolph scored 10 points in the first quarter to keep the Kings close. Sacramento led briefly in the second quarter, but Bradley's 13 points were enough to give Detroit a 52-49 lead at halftime.\n\n\"It seemed like we were down four points around 80 times tonight, but we could never put together the big run we needed,\" Joerger said. \"We talked about how much ball pressure they use, and then we would come down three times and they would deflect three passes.\"\n\nTIP-INS\n\nKings: Randolph's first-quarter scoring started moments after Michigan State's winning field goal against Penn State was shown on the Little Caesars Arena scoreboard, accompanied by the MSU fight song. Randolph went to the Final Four as a Spartan in 2001.\n\nPistons: Jon Leuer (ankle sprain) missed the game, while Johnson is day to day after leaving in the third quarter with a sore hip flexor.\n\nUP NEXT\n\nKings: Host the Oklahoma City Thunder on Tuesday.\n\nPistons: Host the Indiana Pacers on Wednesday.",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.444160",
+  "pipeline_version": "v1"
+}

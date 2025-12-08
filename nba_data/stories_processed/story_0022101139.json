@@ -1,0 +1,25 @@
+{
+  "game_id": "0022101139",
+  "espn_id": "401360958",
+  "date": "Mar 30, 2022",
+  "matchup": "MIA @ BOS",
+  "headline": "Jimmy Butler scores 24 to help Heat fend off Celtics 106-98",
+  "cleaned_body": "BOSTON -- — An untimely losing streak has left the Miami Heat with some late-season competition for the Eastern Conference’s top seed.\n\nThey took a step toward regaining some of the ground they lost recently against one of their chief challengers.\n\nJimmy Butler scored 24 points, Kyle Lowry added 23 and the Miami Heat rallied in the fourth quarter to hold off the Boston Celtics 106-98 on Wednesday night to stay atop the tight race for the conference’s top seed.\n\nBam Adebayo finished with 17 points and 12 rebounds as Miami posted its second straight win since a season-worst four-game losing streak.\n\n“I think we did a good job of just communicating and being there for each other,” Lowry said.\n\nAfter briefly taking over the East’s top spot, Boston has lost two in a row for the first time since late January.\n\nJaylen Brown led the Celtics with 28 points and 10 rebounds. Jayson Tatum added 23 points and six assists.\n\nDespite the loss, Tatum said in the long run it will help strengthen the mettle of this team.\n\n“It’s a good thing for us to learn from,\" Tatum said. “The season is not decided today. We've still got games to play, playoffs. So, we'll be good.”\n\nThe back-and-forth game had very much the intensity of a playoff matchup, featuring nine ties and 16 lead changes.\n\nTrailing by four points entering the fourth, Miami outscored Boston 27-15 over the final 12 minutes with a level of execution that has been missing over the past few weeks.\n\n“We’ve gotten a lot better of knowing where the ball has to go,” Butler said. “Putting everybody in the position that they need to be in to be successful.”\n\nMiami led by just a point at the half, but opened an 11-point cushion at the start of the third quarter.\n\nThe Celtics answered, running off 16 straight points to nudge back in front and eventually carried a 83-79 edge into the fourth.\n\nIt grew to 90-85 with 7:40 remaining when Daniel Theis tipped in a lob from Derrick White through contact from Dewayne Dedmon, who fouled out on the play.\n\nThe Heat stayed composed and responded with 12-3 spurt to take a 98-93 lead on a short jumper by Butler.\n\nBoston cut it 98-96 with less than three minutes left, but came up empty on three straight possessions.\n\nLowry broke the stalemate with a jumper. Brown then had his shot blocked on the the Celtics' next trip, and Lowry fed Butler for a fastbreak dunk to make it 102-96 with 1:43 left to play.\n\nBoston had its own transition chance trailing 102-98 before Tatum was called for an offensive foul. The Celtics challenged the call, but it stood after review.\n\nAfter another miss by Boston that was called out of bounds on Boston, Marcus Smart threw his hands up in frustration at the call and was ejected.\n\nMiami was then able to close out the game on the free throw line.\n\nCoach Erik Spoelstra said he likes the seeds his team is planting with the playoffs looming.\n\n“That’s why I like going through all these kind of games during the regular season,” Spoelstra said. “We had our share of challenges going down the stretch. But what I love about this group is we come in the next day, work at it and really try to get better. Those experiences make you stronger.”\n\nTIP-INS\n\nHeat: Caleb Martin sat out with a right calf bruise.\n\nCeltics: Grant Williams took Robert Williams place in the starting lineup. ... Tatum was whistled for a technical foul late in the second quarter after complaining about a foul on Butler.\n\nEARLY ACTION\n\nWednesday marked the first true glimpse at what the Celtics’ lineup and rotations will look like for the foreseeable future with center Robert Williams III sidelined following knee surgery.\n\nThings started a little rocky for Boston with Miami jumping out to an early 8-3 lead, scoring some wide-open baskets as it capitalized on some early miscommunication by the Celtics on the defensive end.\n\nBoston cleaned that up in the second quarter by limiting the Heat to one-shot possessions, forcing turnovers and converting them into points.\n\nMiami took a 53-52 advantage into halftime, with both teams virtually mirroring each other on the stat sheet.\n\nThe Heat shot 46% from the field with 14 assists, knocking down eight of 19 from the 3-pont line. The Celtics shot 45% from the floor with 14 assists, connecting on eight of 21 of their shots from beyond the arc.\n\nUP NEXT\n\nHeat: Continue three-game road trip at Chicago on Saturday.\n\nCeltics: Host Indiana on Friday.\n\n------",
+  "tags_rule": [
+    "Streak",
+    "ThreePointExplosion",
+    "FoulTrouble",
+    "CoachComment",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.473996",
+  "pipeline_version": "v1"
+}

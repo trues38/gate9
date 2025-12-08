@@ -1,0 +1,19 @@
+{
+  "game_id": "0021300180",
+  "espn_id": "400489053",
+  "date": "Nov 22, 2013",
+  "matchup": "DET vs. ATL",
+  "headline": "Jeff Teague helps Hawks hold off Pistons, 96-89",
+  "cleaned_body": "ATLANTA --  The Detroit Pistons' game at the Atlanta Hawks scheduled for Wednesday night has been postponed due to the winter storm which has made travel unsafe in Atlanta.\n\nThe Pistons were unable to make their scheduled flight into Atlanta on Tuesday night from Detroit.\n\nThe game will be rescheduled but no date was immediately announced.",
+  "tags_rule": [],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.022558",
+  "pipeline_version": "v1"
+}

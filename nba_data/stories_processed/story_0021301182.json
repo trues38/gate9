@@ -1,0 +1,24 @@
+{
+  "game_id": "0021301182",
+  "espn_id": "400490055",
+  "date": "Apr 11, 2014",
+  "matchup": "MEM vs. PHI",
+  "headline": "Grizzlies blow out 76ers, take over No. 8 spot in West from Suns",
+  "cleaned_body": "MEMPHIS, Tenn. -- The Memphis Grizzlies took care of their business and grabbed a hold of the Western Conference's last playoff spot.\nThe Grizzlies used a third-quarter burst to beat the Philadelphia 76ers 117-95 on Friday night, then checked on the Phoenix-San Antonio game when they adjourned to the locker room.\n\"Before we came in the locker room they were already talking about it,\" Memphis guard Tony Allen, who scored 15 points, said of his teammates. \"The guys had it on their phones.\"\nBy the time the postgame interviews started, the Suns had lost to the Spurs 112-104, leaving Phoenix and Memphis with 47-32 records. The Grizzlies own the tiebreaker over Phoenix, having already clinched the season series over the Suns.\nMarc Gasol had 21 points and 10 rebounds and Mike Miller added 19 points to help the Grizzlies past Philadelphia. Memphis wanted to make sure that while battling for their playoff lives they didn't fall victim to the Sixers, one of league's worst team simply playing out the season.\nMemphis also didn't want to lose momentum as it leaves on a two-game road trip to face the Lakers and Suns.\n\"It was not an easy game to play,\" Memphis coach Dave Joerger said. \"We have one eye on next week, but we know that every single game is a must-win game for us. Our focus was really good.\"\nNick Calathes added 12 points, while Zach Randolph finished with 10 points and 11 rebounds as Memphis won its 13th straight at home, matching the franchise record set last season.\n\"We came out and we didn't overlook these guys just because of their record,\" Memphis guard Courtney Lee said. \"We still have to go out there and get better as a team and approach every game like it's our last game and our most important game.\"\nTony Wroten and Thaddeus Young led the Sixers with 18 points apiece. Elliot Williams added 13 for Philadelphia, which lost its third straight and fifth in the last six.\n\"I didn't think we played well,\" Sixers coach Brett Brown said. \"I think for some of that, you have to give credit to a team that went to the Western Conference Finals last year and is now fighting for their lives to continue to play in the playoffs.\"\nThe Grizzlies held a 10-point lead at halftime and outscored the Sixers 30-17 in the third with Allen and Gasol scoring eight points each. The Grizzlies crafted a 24-7 run spanning the last 7 minutes of the third and carrying into the fourth.\n\"That third period did set the table for the rest of the night,\" Brown said.\nMemphis led 57-47 lead at intermission as Miller and Gasol scored 13 points each. Young scored 10 points for Philadelphia.\nThe Grizzlies continued to build the lead in the third, turning up the defense as the Sixers seemed to lose whatever spirit they had at this point in a tough season.\n\"We all know the situation at hand,\" Young said of the Sixers' season at this point.\nNear the end of the quarter and with the shot clock running down, Gasol connected from outside the top of the key -- only his second 3-pointer of the season -- to help the Grizzlies carry an 87-64 lead into the fourth.\n\"We got in foul trouble and kept sending them to the line in the third,\" Williams said. \"It's hard playing physical defense when they're making free throws and being aggressive.\n\"We let the game get away from us in the third.\"\nThe Memphis rally that carried into the fourth was enough for the Grizzlies to coast to the finish and get starters some rest heading into the final stretch run of the season. Gasol even acknowledged peeking at the scoreboard in the arena as he sat out the bulk of the fourth quarter.\n\"At the end of the day, you depend on yourself,\" Gasol said. \"That's all you want at this point in the season, to be under your control.\"\nGame notes\nThe Sixers had several Memphis connections. Wroten was drafted by the Grizzlies. Elliot Williams and 10-day signee Adonis Thomas played at the University of Memphis, while Young was a high school standout in the city. Arnett Moultrie, who also played high school ball in Memphis, was inactive serving five-game suspension for violating league anti-drug policy. ... The Sixers have trailed by double-digits in 64 of their 79 games this season. ... Philadelphia is now 6-56 when it fails to reach 110 points. ... Memphis' last home loss was Feb. 5 to Dallas.",
+  "tags_rule": [
+    "MomentumShift",
+    "FoulTrouble",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.281210",
+  "pipeline_version": "v1"
+}

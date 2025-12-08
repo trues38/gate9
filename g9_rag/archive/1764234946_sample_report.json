@@ -1,0 +1,29 @@
+{
+    "date": "2025-11-28",
+    "headline": "Sample Report: Global Liquidity Shift",
+    "pattern_ids": [
+        "P-011",
+        "P-020"
+    ],
+    "embedding_text": "Global liquidity is shifting as central banks pivot. P-011 and P-020 are active.",
+    "analysis": {
+        "thesis": "Liquidity is tightening in the West but loosening in the East.",
+        "narrative": "Divergent Central Bank Policies",
+        "strategy_bias": "Hedge",
+        "signals": [
+            "Fed Hawkishness",
+            "PBOC Stimulus"
+        ],
+        "risks": [
+            "USD Spike"
+        ],
+        "counter_scenario": "Coordinated easing"
+    },
+    "action_items": {
+        "checklist": [
+            "Long USD",
+            "Short EM Currencies"
+        ]
+    },
+    "quality_score": 90
+}

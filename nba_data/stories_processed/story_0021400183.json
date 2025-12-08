@@ -1,0 +1,27 @@
+{
+  "game_id": "0021400183",
+  "espn_id": "400578475",
+  "date": "Nov 21, 2014",
+  "matchup": "CHI @ POR",
+  "headline": "Blazers rout short-handed Bulls 105-87",
+  "cleaned_body": "PORTLAND, Ore. --  Injuries and a scuffle overshadowed another strong effort by Portland's Damian Lillard.\n\nLillard had 21 points and nine assists to help the Trail Blazers beat the short-handed Chicago Bulls 105-87 on Friday night.\n\nHowever, Mike Dunleavy's flagrant foul on Lillard in the third quarter, followed by Taj Gibson's painful left ankle injury, marred Portland's sixth straight win.\n\nLillard was going up for a 3-pointer when Dunleavy barreled into him, knocking him down. Wesley Matthews ran over and pushed Dunleavy, and Aaron Brooks in turn shoved Matthews. LaMarcus Aldridge stepped in to separate the group.\n\nDunleavy was served with a flagrant foul, while Matthews and Brooks got offsetting technicals. Lillard made all three shots.\n\nAfterward, Lillard called it a cheap play.\n\n\"When I was shooting the ball I saw him coming at me and I thought, `He's not stopping,\" Lillard said. \"Anything could have happened.\"\n\nDunleavy called it an \"awkward moment.\"\n\n\"I was going to intentionally foul him, but he went up to shoot,\" he said. \"What was I supposed to do?\"\n\nChicago lost Gibson in the third quarter when he sprained his left ankle. Gibson, who came down on Portland's Wesley Matthews, clutched his ankle and grimaced in pain before he was helped off the court. The 6-foot-9 forward was averaging 12.9 points and 5.9 rebounds coming into the game.\n\nCoach Tom Thibodeau said he didn't think it was serious, but Gibson left the Moda Center in a boot and on crutches.\n\n\"We'll see where he is tomorrow,\" Thibodeau said.\n\nThe Bulls were already limited without Derrick Rose, who missed his fourth straight game with a sore left hamstring. Pau Gasol missed his third game with a left calf strain.\n\nThey were also missing starting guard Kirk Hinrich, who left Thursday night's 103-88 loss to the Sacramento Kings with a chest contusion. X-rays were negative, but Thibodeau said before the game that Hinrich was day-to-day.\n\nRookie Nikola Mirotic came off the bench and had season highs with 24 points and 11 rebounds for the Bulls.\n\nAldridge added 16 points and nine rebounds for the Blazers, who got Nicolas Batum back after he missed four games with a right knee contusion.\n\nPortland jumped out to an early 25-9 lead after Aldridge's 3-pointer. Lillard had seven assists in the first quarter alone and finished three short of matching his career high.\n\nThe Bulls closed the gap in the second quarter with an 8-0 run that pulled them to 39-35. The rally was short-lived and the Blazers went up 51-39 after a 10-0 run, capped by back-to-back 3-pointers from Lillard.\n\nPortland led 61-42 at the half.\n\nAldridge passed to Robin Lopez for a dunk to put Portland up 70-45 before the Blazers sat their starters for the final period.\n\n\"Obviously Chicago didn't have three of their main guys, but I liked our demeanor,\" coach Terry Stotts said. \"I liked our disposition, the way we came out of the gates. Our defense was solid.\"\n\nDespite the drama, Lillard thought it was one of the Blazers' most complete games of the season.\n\n\"We started the game really well and then they found their way back in -- and we picked it right back up,\" he said.\n\nTIP INS\n\nBulls: Brooks, who went to the University of Oregon, got warm applause when he was announced as a starter. ... Thibodeau, who was an assistant coach on the U.S. national team that won the FIBA World Cup, said he has been impressed with Lillard.  \"He's terrific. There's nothing he can't do,\" Thibodeau said. Lillard did not make the final cut for the team, with Thibodeau called a tough choice.\n\nTrail Blazers: Lillard's 33 3-pointers through the first 10 games were the most made over the opening 10-game stretch in Blazers' history. ... Lillard has had at least seven assists in seven straight games.\n\nTAKING THREE\n\nAldridge had a pair of 3-pointers in the first quarter, the third time in his career he's had a game with multiple 3s.  \"It's there,\" Aldridge said about the 3 being part of his repertoire.\n\nDOMINANCE OVER THE BULLS\n\nThe Blazers have won seven straight against Chicago, their longest winning streak against any team in the league. The streak also ties the franchise high for wins against the Bulls.\n\nON MOUNTING INJURIES:\n\n\"You've got to keep moving forward because the games keep coming,\" the Bulls' Joakim Noah said. \"Nobody feels sorry for you so you've got to keep going and getting better. Hopefully Taj will be all right.\"\n\nUP NEXT\n\nBulls: At Utah on Monday.\n\nTrail Blazers: At Boston on Sunday.",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "EarlyRun",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.143259",
+  "pipeline_version": "v1"
+}

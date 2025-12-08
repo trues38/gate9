@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700105",
+  "espn_id": "400974856",
+  "date": "Nov 01, 2017",
+  "matchup": "MIL @ CHA",
+  "headline": "Walker, Monk lead Hornets past Bucks 126-121",
+  "cleaned_body": "CHARLOTTE, N.C. --  Malik Monk said his goal was just to bring a little energy to the Charlotte Hornets in the fourth quarter.\n\nThe rookie from Kentucky did a whole lot more than that.\n\nMonk scored 16 of Charlotte's first 18 points in the fourth quarter to help the Hornets beat the Milwaukee Bucks 126-121 on Wednesday night for their third straight win.\n\n\"I can score,\" Monk said with a laugh.\n\nThe Bucks learned that the hard way.\n\nKemba Walker had 26 points, Monk scored 18 of his 25 points in the fourth quarter and the Hornets put the clamps on the NBA's leading scorer, holding Giannis Antetokounmpo to a season-low 14 points and 13 rebounds. Antetokounmpo came in averaging 33.7 points per game, but struggled with foul trouble and was limited to five points in the final three quarters.\n\nKhris Middleton led Milwaukee with 43 points. Malcolm Brogdon added 20.\n\nBut this was Monk's night.\n\nThe Hornets trailed 86-85 when Antetokounmpo picked up his fifth foul with 36 seconds left in the third quarter.\n\nThe Hornets went on a 21-9 tear behind Monk and fellow rookie Dwayne Bacon. Monk had four 3-pointers early in the fourth and Bacon made some clutch shots to help stretch the lead and finished with 10 points.\n\nWhen Antetokounmpo returned with 7:21 remaining, the Bucks were down 11 and could never regain the lead.\n\n\"I like shooting the ball, but attacking is going to help open everything else for my teammates,\" Monk said.\n\nThe effort certainly impressed Bucks coach Jason Kidd.\n\n\"He made some great plays and you have to tip your hat to the rookie making shots,\" Kidd said. \"As we go forward we'll have a better scouting report, but we know he can shoot the ball and he can get going. He's done that in college and he did that tonight.\"\n\nTIP INS\n\nBucks: John Henson started for the first time this season over Thon Maker. ... Greg Monroe and Jabari Parker did not play due to injuries.\n\nHornets: Walker recorded his 193rd 20-point game, passing Larry Johnson for the franchise record. ... Jeremy Lamb had 16 points and has scored at least 15 points in every game this season. ... Michael Kidd-Gilchrist played only seven minutes before leaving with an illness. ... Nic Batum, Michael Carter-Williams and Julyan Stone did not play due to injuries.\n\nMIDDLETON LIGHTS IT UP: The loss overshadowed a terrific night for Middleton, who was 15 of 28 from the field and made five 3-pointers to keep the Bucks close.\n\n\"It finally felt good to see multiple shots go down, but it would have felt a little bit better if we got the win,\" Middleton said.\n\nFOUL TROUBLE: As for Antetokounmpo, he could never seem to get into a rhythm after picking up two fouls in the first quarter.\n\n\"Any time you are going to have to sit and then you have to worry about picking up another foul, you can't be aggressive,\" Kidd said. \"He has to understand where they are going to try to get his next foul. Him and Khris and our bigs have been fouling at a very high rate. As a team we have been fouling at a very high rate. We have to do a better job at that.\"\n\nAntetokounmpo said fatigue played a factor after playing the second night of a back-to-back.\n\n\"I just missed shots,\" Antetokounmpo said. \"I think that was what happened tonight. I don't see any defense that affects me.  I can shoot over guys easily but there were no legs tonight.\"\n\nCLIFFORD: DEFENSE AWFUL\n\nDespite the win, Hornets coach Steve Clifford was not happy with his team's defensive performance, saying that is not a formula for winning games.\n\n\"That's not a defensive game that's going to lead to consistent success in this league,\" Clifford said.\n\nWALKER'S BIG FIRST HALF\n\nWalker had an impressive first half, scoring 20 points on 6-for-7 shooting from the field, which included making all three 3-point attempts and all five of his free throws to give the Hornets a 60-57 lead at the break.\n\nUP NEXT\n\nBucks: At Pistons on Friday night.\n\nHornets: at San Antonio on Friday night.",
+  "tags_rule": [
+    "ClutchShot",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.530564",
+  "pipeline_version": "v1"
+}

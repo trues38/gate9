@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700261",
+  "espn_id": "400975012",
+  "date": "Nov 22, 2017",
+  "matchup": "MIN vs. ORL",
+  "headline": "Butler ties season high with 26, Wolves beat Magic 124-118",
+  "cleaned_body": "MINNEAPOLIS -- The fourth quarter has been problematic lately for the Minnesota Timberwolves.\nGood thing for the Wolves they were ahead by so much after three.\nJimmy Butler tied a season high with 26 points, Taj Gibson scored a season-best 24, and Minnesota held off the Orlando Magic 124-118 on Wednesday night.\nJeff Teague had 22 points and 11 assists, and Andrew Wiggins added 20 points as the Timberwolves ended a two-game slide.\nUp by 26 after three quarters, Minnesota was outscored 38-18 in the final 12 minutes.\n\"I guess we got a little stagnant and they started making plays. It happens,\" Teague said.\nKarl-Anthony Towns had 18 points and 13 rebounds for his 14th double-double, which tied DeMarcus Cousins for the league lead.\nMinnesota shot just 26.9 percent and was outscored 34-22 in the final period in Monday's 118-106 loss in Charlotte. One night earlier, Minnesota allowed an 11-point lead to slip away in the final quarter of a 100-97 home loss to Detroit.\n\"The fourth quarter's different,\" said coach Tom Thibodeau. \"You can't be casual, your decisions. The intensity in the fourth quarter is different. So, you have to execute. It comes down to being strong.\"\nAaron Gordon scored 26 points and added nine rebounds for the Magic, who have lost six straight. Terrence Ross scored a season-high 22 points, Evan Fournier had 19 and Nikola Vucevic finished with 11 points and 14 rebounds.\nOrlando was outscored 41-18 in the third quarter. In their last three games, the Magic have been outscored by 49 points coming out of halftime.\n\"They were able to get to their spots; they were able to get to the line. We just made it too easy for them coming out of half. They just took the momentum and it carried them over to a win,\" Gordon said.\nHowever, the Magic started the fourth quarter on a 19-1 run to get within eight.\n\"Our starters came back in a little mad about how they performed in the third quarter,\" coach Frank Vogel said. \"We got to play mad for four quarters. We've lost six in a row. Got to play that way to start games and throughout the game.\"\nMinnesota missed its first 14 shots of the fourth quarter, before Butler made a 3-pointer midway through the period to end the rally. The Magic got within four in the waning seconds before Teague hit two free throws.\n\"We got to play like we're down 20 instead of playing like we're up 20,\" Gibson said. \"When you try to guard the lead, things tend to happen. When you're playing like you've got nothing to lose and you're down, you keep playing and running fast, running to offense, trying to get your points, trying to just get things done. When you're trying to be safe with the lead, you never know.\"\nButler has scored at least 20 points in three of his last four games and seven overall this season.\nHe had 16 points in the first half, and added seven in the first 4:36 of the second half to give Minnesota an 84-71 lead.\nWiggins had seven points as Minnesota finished the third quarter on a 14-0 run for a 106-80 lead.\nTIP-INS\nMagic: Elfrid Payton had a season-high 13 assists. . Vogel is optimistic that F Jonathan Isaac (sprained right ankle) will return on the current four-game road trip that ends Monday. Isaac, the team's first-round pick this year, has missed five straight games. ... Orlando had just four fast-break points.\nTimberwolves: Minnesota begins a stretch of playing 10 of 14 games at home, where it is 6-2. ... G Jamal Crawford finished with nine points playing his 1,200th career game. ... Thibodeau said rookie C Justin Patton, out all season with a left foot injury, is going through non-contact drills and is close to a return.\nBENCH WOES\nMinnesota's bench combined for 14 points on 3-for-20 shooting in just over 49 minutes.\nTHREE TIDBITS\nOrlando was 12 for 37 from 3-point range. It entered the game making 38.6 percent, fifth-best in the league. Minnesota was 8 for 23.\nGordon, the league's top 3-point shooter a couple weeks ago, was 2 of 8 and has made just nine of his last 39 attempts from beyond the arc.\nTOUGH STRETCH\nBeginning Wednesday, six of seven Magic games are against teams with winning records. The other? Oklahoma City. The Thunder are 8-9, but beat Golden State by 17 Wednesday.\nUP NEXT\nMagic: At Boston on Friday.\nTimberwolves: Host Miami on Friday.\n---\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "ThreePointExplosion",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.860678",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,21 @@
+{
+  "game_id": "0021700365",
+  "espn_id": "400975116",
+  "date": "Dec 07, 2017",
+  "matchup": "OKC @ BKN",
+  "headline": "Short-handed Nets beat Thunder 100-95 in Mexico City",
+  "cleaned_body": "MEXICO CITY --  Playing short-handed because of injuries and a trade, the Brooklyn Nets found a way to hold off Russell Westbrook and the Oklahoma City Thunder.\n\nIt was a nice little start to their stay in Mexico.\n\nCaris Levert scored 21 points, Rondae Hollis-Jefferson had 17 and Brooklyn overcame another strong performance by Westbrook to beat Oklahoma City 100-95 on Thursday night in the first of the Nets' two games in Mexico City.\n\nWestbrook had 31 points, eight rebounds and six assists.\n\nThe Nets played without guards Jeremy Lin and D'Angelo Russell because of injuries. They also traded power forward Trevor Booker to Philadelphia before the game.\n\n\"Sometimes when you have injuries you discover new things and that*s what*s happening to us,\" said Brooklyn coach Kenny Atkinson, who praised his team for playing hard after the trade. \"I spoke to everybody individually, I felt it was important, we told them why we made the trade and why it*s good for the future and they understood.\"\n\nAllen Crabbe had 15 points for Brooklyn, which won for the third time in four games. The Nets will play the Miami Heat on Saturday at Arena Ciudad de Mexico.\n\nThe Thunder had won three in a row.\n\n\"For most of the first half we played good but we did not come out great in the second half,\" Thunder coach Billy Donovan said. \"I think the difference was that they went downhill into the basket and we weren*t able to go downfield enough.\"\n\nDonovan said Mexico City*s altitude did not play a role in the team*s fourth-quarter performance, when it managed just 16 points.\n\nSteven Adams scored 12 points for the Thunder, and Carmelo Anthony had 11 on 5-for-20 shooting. Oklahoma City played without Paul George (right calf contusion) and Jerami Grant (left hip contusion).\n\nWestbrook made a foul shot to give Oklahoma City an 85-84 lead with 7:38 left. But Crabbe, Hollis-Jefferson and Spencer Dinwiddie each made a 3-pointer to help Brooklyn grab a 93-85 advantage with 5:38 left. LeVert added four foul shots in the final 19 seconds.\n\nTIP-INS\n\nThunder: Shot 38.8 percent (38 for 98) from the field and 12 for 24 at the free-throw line.\n\nNets: Quincy Acy and Tyler Zeller each scored 11 points. ... The Nets will play in three countries in the first half of December. They split two games against Atlanta before their trip to Mexico City. They visit Toronto on Dec. 15.\n\nGETTING BETTER\n\nBrooklyn improved to 10-14. The Nets didn't get their 10th win last season until March 1.\n\n\"I feel that every game we are getting more comfortable within the roster,\" Atkinson said. \"We are in a good place a little over a year into this.\"\n\nUP NEXT\n\nNets: Play against Miami on Saturday at Mexico City.\n\nThunder: Host Memphis on Saturday.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.954665",
+  "pipeline_version": "v1"
+}

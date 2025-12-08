@@ -1,0 +1,24 @@
+{
+  "game_id": "0022101141",
+  "espn_id": "401360960",
+  "date": "Mar 30, 2022",
+  "matchup": "TOR vs. MIN",
+  "headline": "Siakam has triple-double, Raptors rout Timberwolves 125-102",
+  "cleaned_body": "TORONTO -- — Pascal Siakam had 12 points, 10 rebounds and a career-high 13 assists for his second career triple-double, Gary Trent Jr. scored 29 points and the Toronto Raptors strengthened their hold on sixth place in the Eastern Conference by beating the Minnesota Timberwolves 125-102 Wednesday night.\n\nToronto (44-32) moved two games ahead of Cleveland for sixth after the Cavaliers lost to Dallas.\n\nOG Anunoby scored 22 points, Scottie Barnes had 17 and Precious Achiuwa 13 as the Raptors overcame a 17-point second-quarter deficit to complete a 4-0 homestand.\n\nSiakam said he enjoyed dishing out assists.\n\n“Every time down the floor everyone was open,” he said.\n\nSiakam failed to score 20 points for the first time in six games and made only five of 15 field goal attempts. He also had six turnovers.\n\n“He brings a certain amount of attention to him,” Trent said of Siakam. “He did a great job of facilitating, finding everybody tonight and getting guys open shots.\n\n“Great talent, great player,” Trent added. “I’m glad he’s on our team.”\n\nMinnesota coach Chris Finch, formerly a Toronto assistant, called Sikam “super dynamic.”\n\n“He’s playing really, really good basketball and he’s a big reason why they’ve won 10 of 12,” Finch said.\n\nFred VanVleet scored 12 points and Thad Young had 10 as Toronto matched idle Chicago for the fifth-best record in the conference. The Bulls hold the tiebreaker on the Raptors after winning three of four meetings.\n\nKarl-Anthony Towns had 16 points and 10 rebounds, and Anthony Edwards scored 24 points as the Timberwolves (43-34) lost for the fourth time in five games. Minnesota visits Denver on Friday in a key Western Conference game.\n\n“Things are tough right now,” Finch said. “We’ve got to plow through them.”\n\nSixth place is the last guaranteed postseason spot, with teams finishing in the Nos. 7-10 spots headed for the play-in tournament.\n\nMinnesota has five games left, while Toronto has six games remaining.\n\n“These games ain’t going to get any easier,” Towns said. “It’s going to get much, much harder.”\n\nTowns had seven shot attempts in the first quarter but only six more the rest of the way.\n\n“The game just didn’t find me,” Towns said.\n\nFinch said the Timberwolves can’t afford to let that happen.\n\n“We’ve got to do a better job of getting him the ball,” he said.\n\nD’Angelo Russell scored 13 points, and Jarred Vanderbilt and Patrick Beverley each had 10 as all five Timberwolves starters reached double figures.\n\nThe Raptors trailed 40-23 with 9:42 left in the second quarter but closed the gap with a 19-6 spurt. Toronto shot 8 for 12 from 3-point range in the second, and VanVleet’s buzzer-beating 3 at the end of the half gave Toronto a 62-60 lead.\n\nTrent scored 14 points in the third, connecting on 3 of 4 attempts from distance, as Toronto took a 97-82 lead to the fourth.\n\nTIP-INS\n\nTimberwolves: G Malik Beasley (sprained left ankle) sat for the second straight game. ... Finch said F Jaden McDaniels (sprained left ankle) has been cleared to resume basketball activities and will be evaluated again in one week. ... Minnesota had 11 turnovers in the first quarter. They finished with 23, leading to 25 points. … Outrebounded Toronto 49-35\n\nRaptors: C Khem Birch returned after sitting out Monday’s win over Boston because of a sore right knee. ... Achiuwa started the second half in place of Barnes, who returned with 5:02 remaining in the third. ... Toronto improved to 17-4 when at least six players score 10 or more points.\n\nUP NEXT\n\nTimberwolves: Visit Denver on Friday night.\n\nRaptors: Visit Orlando on Friday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "CareerHigh",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.983213",
+  "pipeline_version": "v1"
+}

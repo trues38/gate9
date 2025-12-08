@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100409",
+  "espn_id": "401360233",
+  "date": "Dec 13, 2021",
+  "matchup": "MEM vs. PHI",
+  "headline": "Brooks, Jackson lead Grizzlies in 126-91 blowout of 76ers",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Dillon Brooks scored 23 points, Jaren Jackson Jr. added 22 and the Memphis Grizzlies shot better than 50% to dominate the Philadelphia 76ers for a 126-91 victory Monday night.\n\nDe’Anthony Melton finished with 15 points and Tyus Jones scored 13 for Memphis, making all but one of his seven shots. The Grizzlies have won eight of their last nine, which is a change from early in the season, where a good win could be followed by a blowout loss.\n\n“I think our guys just understood: ‘Gosh, we can play so much better,’” Memphis coach Taylor Jenkins said. “Sometimes it takes you a minute to get the chemistry and remember all the standards that we talk about. It just doesn’t happen when you wake up Day One.”\n\nTyrese Maxey led the Sixers with 23 points, and Charles Bassey added 13 and 10 rebounds. Shake Milton and Tobias Harris ended up with 12 points each.\n\nPhiladelphia played without Seth Curry and center Joel Embiid, who was a late scratch with right rib soreness. Both were declared out shortly before game time.\n\n“Obviously, it hurt us,” Harris added. “That’s a big scoring punch. With Joel, he’s been where our offensive game really flows through. For us, it was just a tough adjustment.”\n\nFor the Grizzlies, it was another step in a streak that has now resulted in a 8-1 record since leading scorer Ja Morant suffered a left knee injury against Atlanta on Nov. 26.\n\nMemphis has relied on an array of scorers to pick up Morant's missing 24.1 points a game, and against the Sixers, its reserves had 57 points.\n\n“We just come in and play hard, play together, move the ball really well,” said John Konchar, who finished with 11 points, hitting all four of his shots, including three from beyond the arc. “We had 29 assists tonight. Everybody moves the ball really well and gets open shots.”\n\nPart of Philadelphia’s problems were from 3-point range, where it went 4 for 22. The Sixers' 15 turnovers led to 18 Memphis points.\n\nMemphis led by 12 points at the half and stretched the advantage to 82-60 with a 14-4 run to open the third quarter. That was only the start: Memphis was up 101-75 entering the fourth, in part because of Jackson’s 13 third-quarter points, and because the Sixers turned the ball over six times in the quarter.\n\nBy that point, Rivers let his reserves close out the game. Memphis’ lead got up to as many as 36 in the fourth.\n\n“We couldn’t get stops all night,” Rivers said. “It was just the theme all night. I think they had (101 points) going into the fourth quarter. You’re not supposed to win any games like that.”\n\nTIP-INS\n\n76ers: Andre Drummond started his 10th game of the season in Embiid’s spot. Furkan Korkmaz started his sixth game of the season with Curry out. … Reserve Shake Milton has 10 double-digit scoring games off the bench. … Philadelphia has not won in Memphis since Dec. 26, 2012. …Bassey recorded a career-high with four blocks, part of a season-high 10 blocks for Philadelphia.\n\nGrizzlies: Have won eight straight in the series. … A number of players were listed as questionable through the day but ended up playing — C Steven Adams (left ankle sprain), F Jaren Jackson Jr. (left knee soreness) and G Desmond Bane (left foot soreness). …Melton had a pair of 3-pointers, giving him 200 for his career.\n\nTHIEVES IN THE NIGHT\n\nMemphis had 12 steals, a continuing theme in recent games as the Grizzlies have increased their defense. “We don’t really talk about it. Like, ‘Let’s get X amount of steals’ or create steals. We just talk about us being active,\" Memphis coach Taylor Jenkins said. \"It’s solid on-ball defense. Not gambling. Not fouling. You’re going to create turnovers because our guys are inherently active on the ball.”\n\nLAST WORD\n\n“This is a burn-it film. Throw it away and move on to the next game.” — Philadelphia coach Doc Rivers.\n\nUP NEXT:\n\n76ers: Host Miami on Wednesday.\n\nGrizzlies: At Portland on Wednesday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.502129",
+  "pipeline_version": "v1"
+}

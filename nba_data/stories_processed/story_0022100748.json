@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100748",
+  "espn_id": "401360567",
+  "date": "Jan 29, 2022",
+  "matchup": "MIA vs. TOR",
+  "headline": "Fred VanVleet, Raptors outlast Heat in 124-120 in triple-OT",
+  "cleaned_body": "MIAMI -- — Fred VanVleet hit two 3-pointers in the third overtime and the Toronto Raptors outlasted the Miami Heat 124-120 on Saturday night.\n\nGary Trent Jr. led Toronto with 33 points, Scottie Barnes added 22, Pascal Siakam had 21, and OG Anunoby 20. Sidelined the previous two games because of right knee soreness, VanVleet finished with 19 points.\n\n“We hung in there and certainly could’ve went either way several times,” Toronto coach Nick Nurse said. “And to just keep hanging in there and keep fighting and keep figuring it out.”\n\nVanVleet’s first 3 tied it at 117. Anunoby’s dunk with 3:05 left put Toronto ahead for good before VanVleet connected again from long distance and a 122-117 lead.\n\n“We fought through some adversity so it was good for us tonight to stick it out and keep our composure,” VanVleet said.\n\nJimmy Butler had a triple-double with 37 points, 14 rebounds and 11 assists for the Eastern Conference-leading Heat.\n\n“It was highly competitive and wild swings, back and forth, of emotion,” Miami coach Erik Spoelstra said. “It was going to require a great deal of mental toughness to be able to fight through a lot of frustrating moments in the first three quarters, but I thought we responded. Just a terrific ball game in the fourth quarter and all the overtimes.”\n\nAfter shooting 3 for 15 in regulation, VanVleet was 4 of 7 in the overtime periods.\n\n“At that point we tried everybody, everybody had a shot,” VanVleet said. “Everybody had their chance once and it came to me again. By that point I’m going to shoot those and if we miss them we lose and if I make them we win.”\n\nFormer Raptors guard Kyle Lowry missed his seventh straight game for Miami. Lowry, who joined the Heat in the offseason after nine years in Toronto, is out because of personal reasons.\n\nMiami prematurely celebrated Gabe Vincent’s dribble to the front court and 35-foot heave that bounced in and would have given the Heat a 3-point win in the second overtime. But Vincent had not seen Spoelstra signal a timeout before his attempt.\n\nEmotionally, it was a battle for us, going in there on the second night of a back to back,” said Heat guard Tyler Herro, who finished with 13 points. “The mentality is just to do whatever it takes to get the win and we came up a little short. But we battled and that’s all we can ask for.”\n\nTwo free throws from Trent with 16.8 seconds left in overtime tied it at 105 and forced the first additional five minutes. Trent shot 13 of 28 from the field in his third consecutive game of scoring 30 or more points.\n\nThe Heat rallied from a 16-point third quarter deficit and outscored Toronto 27-17 in the fourth period.\n\nTIP-INS\n\nRaptors: The five starters played more than 50 minutes. ... Began a stretch of 10 of 14 road games. ... Siakam has scored 20 or more points in nine of his last 11 games.\n\nHeat: Missed their first four free throw attempts after converting 26 of 27 against the Los Angeles Clippers on Friday. Butler’s string of 19 straight converted free throws ended when he missed two attempts in the first period. ... Dropped to 19-6 at home.\n\nUP NEXT\n\nRaptors: At Atlanta on Monday night.\n\nHeat: At Boston on Monday night.",
+  "tags_rule": [
+    "TripleDouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.293348",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300381",
+  "espn_id": "400489254",
+  "date": "Dec 19, 2013",
+  "matchup": "CHI @ OKC",
+  "headline": "Thunder beat Bulls for 8th straight win, up home record to 13-0",
+  "cleaned_body": "OKLAHOMA CITY -- Kevin Durant and Oklahoma City had an answer for every challenge from the Chicago Bulls.\nIt was just business as usual for the Thunder at home.\n\nDurant scored 32 points and the Thunder beat the Bulls 107-95 on Thursday night for their eighth straight win.\nOklahoma City led by 15 in the opening minute of the fourth quarter, but the Bulls pulled within seven on D.J. Augustin's 3-pointer with 8:50 to go. Oklahoma City then outscored Chicago 16-4 over a late 5½-minute stretch to pull away.\n\"I thought our defense was good the whole game,\" Durant said after topping 30 points for the 13th time this season. \"They slowed us down a little bit with their free throws, but I thought we just played through it in the second half. We were able to come out and speed it up a little bit, get some turnovers and get some easy points.\"\nRussell Westbrook had 20 points and 10 assists, and reserve Reggie Jackson added 18 to help the Thunder improve to 13-0 at Chesapeake Arena. Oklahoma City is the only NBA team with a perfect home record.\n\"If we move the ball like that with the guys we have that create for everybody, create for themselves, it makes it tough on other teams,\" Durant said.\nJoakim Noah had 23 points and 12 rebounds for the banged-up Bulls, who have lost four straight and seven of eight. Taj Gibson scored 16 points and Augustin added 15.\nChicago played without Kirk Hinrich (back tightness) and Luol Deng (sore Achilles), and Jimmy Butler left during the game with a right ankle injury.\n\"I thought we still had a shot in the second half,\" Bulls coach Tom Thibodeau said. \"I thought we were within striking distance, but we couldn't get the key stops when we needed them. ... You've got to give them credit.\"\nOklahoma City led by 14 in the first half, but their advantage was cut to three at the break, prompting a strong response from the Thunder in the third quarter.\n\nThey used a 13-4 run to go up 68-56 with 7:52 to go in the period. Westbrook's layup increased the advantage to 13 about 1½ minutes later, and then he had a layup and Durant made a jumper to make it 79-64 with 3:25 left in the third.\nJackson's 3 in the final minute put Oklahoma City up 84-72 heading to the fourth, and Nick Collison opened the final quarter with three-point play. The Bulls put together another spurt to close to 89-82 on Augustin's 3, but that was as close as it would get.\n\"We were just trying to shut down the paint,\" Jackson said. \"That was our main focus at halftime and I think we did a good job of locking in, getting some stops, and getting out on the break. ... They're physical. They play really well defensively, especially half-court sets. Right now they're a little depleted, people are banged up, beat up.\"\nJeremy Lamb's dunk with 7:44 left made it 93-82, pumping up the home crowd. Durant made a 3-pointer and Westbrook's two free throws with 3:06 to go extended the lead to 105-86.\n\"I think our defense just hasn't been there to help us out,\" Gibson said. \"We are normally a great defensive team. We just got to get guys more reps, especially now that we lost Jimmy with the ankle.\"\nJackson made six of the Thunder's seven baskets in a 6:13 stretch bridging the first two quarters. Lamb's steal and fast-break dunk with 9:21 left in the second interrupted Jackson's streak at four consecutive baskets.\nJackson's jumper about a minute later gave Oklahoma City a 41-27 lead.\nChicago battled back, and Mike Dunleavy hit two 3s in the final minute to get the Bulls within 55-52 at halftime.\nNOTES: Durant was whistled for a technical foul with 2:25 left in the first quarter for arguing following his second personal foul. ... Led by Jackson and Lamb, Thunder reserves came in averaging 33.6 points per game, the franchise's highest since moving to Oklahoma City. ... Deng missed four games earlier this month due to a strained left calf. The Bulls are now 1-4 in his absence. ... About 45 minutes after the game, Thabo Sefolosha brought Noah to the Thunder locker room with the media still present, but the Bulls star was chased out by Oklahoma City's Kendrick Perkins.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.263417",
+  "pipeline_version": "v1"
+}

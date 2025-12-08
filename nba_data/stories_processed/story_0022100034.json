@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100034",
+  "espn_id": "401359858",
+  "date": "Oct 23, 2021",
+  "matchup": "MEM @ LAC",
+  "headline": "Morant scores 28, leads Grizz to 120-114 win over Clippers",
+  "cleaned_body": "LOS ANGELES -- — Ja Morant led five starters in double figures with 28 points and the Memphis Grizzlies defeated the Los Angeles Clippers 120-114 in their home opener Saturday night.\n\nMorant burned Cleveland for 37 points — second-most in franchise history in a season opener — in the Grizzlies’ 11-point win. He came back strong to open a four-game West Coast trip in which the Grizzlies face three playoff teams from last season.\n\nThe Clippers twice got within two points in the final 1:14 on baskets by Paul George, who finished with 41 points — seven off his career high — and 10 rebounds.\n\nBut Jaren Jackson Jr. answered with a 3-pointer that kept the Grizzlies in front 119-114 with 17 seconds to go.\n\n“You can hear the crowd just feel sick,” Jackson said. “It’s a good feeling.”\n\nMemphis coach Taylor Jenkins said, \"Ja collapsing the defense and then kicking out and trusting his teammate to make a big shot. That's leading by example.”\n\nGeorge missed a 25-footer and Luke Kennard fouled Desmond Bane, who made 1 of 2 free throws. George missed again from the left side as the Clippers fell to 0-2 to start the season.\n\n“I’m happy we fought, but that can’t be who we are, just be happy that we played hard,” George said. “Play hard should be a given. We got to win games.”\n\nDe’Anthony Melton added 22 points, Jackson had 21 points, Bane had 19 points and Steven Adams 17 points and nine rebounds for the Grizzlies.\n\n“To close out this one was good, especially on the road,” Jackson said.\n\nReggie Jackson added 17 points for the Clippers.\n\nMemphis outscored the Clippers 30-11 to open the third and take an 89-73 lead after trailing much of the first half. Morant and Adams scored nine points each, and Melton and Bane hit back-to-back 3-pointers.\n\n“He’s just explosive. He’s so good and so fast,” George said of Morant. “He made it tough for us, he put a lot of pressure on us.”\n\nThe Clippers closed with a 14-8 spurt, including consecutive 3-pointers from George, to trail 97-89 going into the fourth.\n\n“They were going zone, going physical, trapping and doing everything to get us out of our rhythm, but we made some big-time plays,” Jenkins said.\n\nTIP-INS\n\nGrizzlies: Ziaire Williams, the 10th overall pick in the NBA draft, finished with six points, two rebounds and two assists in 16 minutes.\n\nClippers: Dressed in street clothes, Kawhi Leonard sat next to the coaches on the bench. He’s rehabbing from surgery in July for a partial tear of his right ACL. ... Lost to Golden State by three in their season opener.\n\nUP NEXT\n\nGrizzlies: Play the Lakers on Sunday as part of a four-game trip, tied for their longest of the season.\n\nClippers: Host Portland on Monday in the middle of a three-game homestand.\n\n------",
+  "tags_rule": [
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.743311",
+  "pipeline_version": "v1"
+}

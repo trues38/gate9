@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100856",
+  "espn_id": "401360675",
+  "date": "Feb 13, 2022",
+  "matchup": "ATL @ BOS",
+  "headline": "Tatum scores 38, Celtics rally past Hawks for 8th win in row",
+  "cleaned_body": "BOSTON -- — Jayson Tatum scored 38 points and led a third-quarter surge that sent the Boston Celtics past the Atlanta Hawks 105-95 Sunday for their eighth straight win.\n\nTatum also had 10 rebounds. Robert Williams added 10 points and 14 boards, Jaylen Brown scored 17 points and Marcus Smart had 13.\n\n“We're just cooking right now,” said Tatum, who had 16 points in the third as the Celtics outscored the Hawks 42-23 in the period.\n\nTrae Young had 30 points and 10 assists to lead Atlanta, keeping the Hawks within range until the final few minutes of the fourth quarter. Bogdan Bogdanovic finished with 26 points and Clint Capela pulled down 17 rebounds for the Hawks, who lost for the fourth time in five games.\n\nAtlanta held a 10-point lead at halftime but unraveled quickly in the third quarter.\n\n\"I thought in the third quarter, we got distracted by the officiating. They got into the penalty early and they had a 42-point quarter,\" Atlanta coach Nate McMillan said. “I thought that was the difference in the game. We just were not able to recover from that.”\n\nThe Celtics, who lost their first two against the Hawks this season, trailed 55-45 at halftime and allowed an early basket by Young to start the third.\n\nBoston responded with a 12-0 run and dominated the rest of the period. The Celtics made 13 of 18 shots in the third. Tatum hit a pair of 3-pointers late in the period and adding a dunk with three seconds remaining to put the Celtics up 87-78.\n\nTatum wasn’t done. After the Hawks pulled within 89-84, Tatum hit a turnaround jumper, then another 3-pointer to stretch the lead back to 94-84 with 6:32 left and prompted the Hawks to call a timeout.\n\nThe break didn’t slow down Boston, which forced a miss by Young under the basket and got another 3-pointer by Grant Williams from in front of the Atlanta bench. The Celtics were able to hold a wide lead the rest of the way.\n\nAlthough the Hawks held Boston to only 18 points in the fourth, Atlanta scored just 17 in the final period.\n\n“We played really good defense until that third quarter,” Young said. “We’ve just got to stay solid throughout the four quarters and we’ve got to do a little bit better offensively, especially down the stretch.”\n\nALMOST BREAK TIME\n\nThe Celtics' streak is by far the longest under first-year coach Ime Udoka, whose patience was tested a few times during the early months of the season.\n\nBrown said the team's chemistry has been fine all along and it's the Celtics' overall play that has improved.\n\n“We definitely lost some games we felt like we shouldn’t have lost early in the season. Now we get the chance to play some of these teams again and we’re looking to pull out some wins,” Brown said. “We had a lot of guys making plays right now and that’s what we need to do in the fourth quarter. We’ve been finding ways to win — defensively, timely baskets and we’ve been sealing out games.”\n\nTIP-INS\n\nHawks: F John Collins was out with a strained right foot that is expected to sideline him at least three games. Collins injured the foot Friday night against San Antonio and did not return. An MRI revealed the strain and Colins will be re-evaluated after a few days of rest, the Hawks said. … The Hawks successfully challenged an offensive foul called on Young with 1:55 left to play.\n\nCeltics: Got off to a rough start from outside, making just 4 of 20 3-pointers in the first half. … Derrick White, playing in just his second game for Boston since coming over in a trade with San Antonio at the deadline Thursday, had 10 points in the first half and finished with 14.\n\nUP NEXT\n\nHawks: Host Cleveland on Tuesday night.\n\nCeltics: At Philadelphia on Tuesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.609913",
+  "pipeline_version": "v1"
+}

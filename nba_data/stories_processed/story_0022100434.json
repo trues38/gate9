@@ -1,0 +1,28 @@
+{
+  "game_id": "0022100434",
+  "espn_id": "401360258",
+  "date": "Dec 17, 2021",
+  "matchup": "ATL vs. DEN",
+  "headline": "Hyland, Morris pace Nuggets in 133-115 win over Hawks",
+  "cleaned_body": "ATLANTA -- — Rookie Bones Hyland scored a career-high 24 points in a reserve role, Monte Morris added 21 and the Denver Nuggets beat the Atlanta Hawks 133-115 on Friday night.\n\nNikola Jokic and Jeff Green each finished with 20 points for the Nuggets, who have won three of four and had their highest scoring total of the season.\n\nThe Hawks were coming off a fifth straight road victory, but they have dropped six in a row at home. Trae Young had 34 points and 10 assists in Atlanta's fifth loss in seven games overall. John Collins added 20 points and 10 rebounds.\n\nDenver (15-14) took command of the game by outscoring the Hawks 43-28 in the second quarter.\n\n“I attribute that to our defense,\" Nuggets coach Michael Malone said. “We were able to string consecutive stops together and when we do that, we defend and we rebound, now we can get out and attack and push the ball in transition, and I think we saw countless examples of that. We wanted to be the aggressor the best we could.\"\n\nGreen’s 3-pointer from the left wing made it a 21-point lead early in the third, but Jokic, the reigning NBA MVP, picked up his fourth foul in the first two minutes of the quarter and spent the rest of the period on the bench. It hardly hurt the Nuggets, who finished 58.1% from the field and 44.7% beyond the arc.\n\nJokic finished with 10 rebounds and seven assists.\n\nThe Hawks (14-15) pulled within 15 midway through the third but got no closer the rest of the way. Austin Rivers’ 3 made it another 21-point lead in the final minute of the quarter.\n\n“As I said to them, I haven't questioned their effort, but tonight there's a concern,\" Atlanta coach Nate McMillan said. “I didn't like what I saw out there tonight. We've got to commit to defending or playing defense out there. It can't be about scoring. I thought tonight when our shots didn't fall we took it to the defensive end of the floor and we didn't compete. That's a concern when you see that.\"\n\nHyland came off the bench to score 15 points in the first half, hitting a 3 that put Denver up 44-38. A dunk by Green gave the Nuggets a 48-38 lead, and it didn’t take long for Denver to push the advantage to 16 on Jokic’s finger-roll hook. The lead swelled to 24 on consecutive 3s by Aaron Gordon and Jokic’s steal and layup.\n\nHyland was back on the floor after missing the last game for a team violation.\n\n“I was just out there being aggressive, not waiting to be aggressive,\" Hyland said. “As soon as I check in, my guys are always telling me to be myself. It was a point of emphasis to be locked in and provide whatever I can.\"\n\nThe Nuggets led 72-54 at halftime. They tied their season high for most points in the first half.\n\nGreen made it 15-3 for the game’s first double-digit lead with a 3 midway through the first, but Atlanta went on a 16-2 run to take a two-point lead on Collins’ 3.\n\nTIP-INS\n\nNuggets: Jokic averaged 28 points, 13.7 rebounds, 10.7 assists and 1.7 steals while shooting 58.4% from the field and 35.7% on 3s during his six previous games. He had four triple-doubles over that span. Denver is 9-2 when Jokic has 30 points and 15 rebounds, and has won 13 of 14 when he scores at least 30 and has won 24 of 25 when he gets at least 15 boards. ... The Nuggets were without F Michael Porter Jr. (spine), G Jamal Murray (knee), C Bol Bol (health and safety protocols), G P.J. Dozier (knee), F JaMychal Green (ankle) and G Marcus Howard (knee). ... Rivers returned from health and safety protocols to score nine points.\n\nHawks: Young is the only NBA player ranked in the top five in scoring and assist averages. He has 14 points-assists double-doubles, tied with Chris Paul for most in the league. He began the night averaging 30.3 points and 9.9 assists over his previous seven games. ... In Wednesday’s victory at Orlando, Atlanta became the first team since Philadelphia in 2004-05 to follow a seven-game road losing streak with a five-game road winning streak, according to the Elias Sports Bureau. ... The Hawks were without G Bogdan Bogdanovic (ankle) and F De’Andre Hunter (wrist).\n\nHE’S BACK\n\nOnyeka Okongwu made his season debut for Atlanta, scoring 10 points with two rebounds in 13 minutes. Okongwu, the No. 6 overall draft pick of 2020, had been sidelined with a shoulder injury.\n\n“You want to put him out there and let him play and let him get a feel for what is needed,” McMillan said. “We need rebounding, we need energy, we need that scrappiness, we need that toughness he’s capable of bringing to the floor.”\n\nUP NEXT\n\nNuggets: At Brooklyn on Sunday.\n\nHawks. Host Cleveland on Sunday.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "ReturnFromInjury",
+    "TripleDouble",
+    "ThreePointExplosion",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.324715",
+  "pipeline_version": "v1"
+}

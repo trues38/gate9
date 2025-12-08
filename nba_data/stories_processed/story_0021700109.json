@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700109",
+  "espn_id": "400974860",
+  "date": "Nov 01, 2017",
+  "matchup": "SAC @ BOS",
+  "headline": "Irving, Celtics beat skidding Kings 113-86 for 6th straight",
+  "cleaned_body": "BOSTON --  Jaylen Brown has already figured out he'll receive a lot less attention from opposing defenses when he's on the floor with Kyrie Irving. Brown has also realized he'll get some open shots, too.\n\nBrown scored 22 points on 7-of-8 shooting in three quarters, and the Boston Celtics coasted past the skidding Sacramento Kings 113-86 on Wednesday night for their sixth straight victory.\n\n\"Kyrie and (Al) Horford are going to draw so much attention, especially Kyrie,\" Brown said. \"I'm just licking my chops anytime they double-team Kyrie. I'm just trying to be as ready as possible to take the pressure off them.\"\n\nIrving also scored 22 for the Celtics, who posted their 11th consecutive win over the Kings in Boston, dating to their last loss on Jan. 19, 2007. Terry Rozier added 12 points, and Daniel Theis had 10 points with 10 rebounds.\n\n\"You know what was interesting? I thought that he only took eight shots, but obviously 22 points on eight shots is great,\" Boston coach Brad Stevens said about Brown. \"I thought that he took all the right ones.\"\n\nBuddy Hield scored 17 points and Zach Randolph 16 for the Kings, who lost their sixth in a row -- the last three by an average of 24 points.\n\n\"Despite these losses, I think we're playing better. We're moving the ball, playing with each other,\" Hield said. \"It can mentally break you down. We've just got to be mentally strong each and every day.\"\n\nBoston led 58-45 at halftime and took complete control early in the third quarter, pushing it to 66-47 on Irving's second 3-pointer in the opening two minutes.\n\nBrown hit consecutive 3-pointers 27 seconds apart during a 17-2 run that made it 87-56 late in the third. Irving had seven points during the spree, including his third from beyond the arc in the quarter.\n\nThe Celtics led 89-60 after three.\n\nTIP-INS\n\nKings: Have been held to 100 points or fewer in four of their seven losses. . Sacramento was outrebounded 52-26 and shot only 43 percent. \"We just struggle to score,\" coach Dave Joerger said. \"When you play a team that can score, sometimes that inability lets them be even more free and more loose.\"\n\nCeltics: F Marcus Morris, who has not played this season due to a sore left knee, worked \"really hard\" on Wednesday and the team expects to see him play \"sooner than later,\" Stevens said. Morris is scheduled to go on the upcoming road trip.\n\nHAYWARD UPDATE\n\nStevens talked about star Gordon Hayward's progress from a gruesome broken left ankle suffered in the team's opener at Cleveland.\n\n\"He's going to be in a boot for however long,\" the coach said. \"It's going to be a while before he's allowed to put any weight on it.\"\n\nStevens said Hayward is in \"good spirits\" and \"has been doing his chair shooting every day.\"\n\nThe injured forward has visited the team's practice facility a few times.\n\nSTAY CALM\n\nJoerger talked about the need to stay positive before the game despite his team's rough start.\n\n\"I try not to hit them over the head every timeout, being negative,\" he said, breaking into a smile. \"Very rarely have I lost it this season, which I think you can do twice a season -- you can go temporarily insane.\n\n\"This is about where we're going to be two years from now. I have to look at it in a broader lens on a day-to-day basis.\"\n\nUP NEXT\n\nKings: Complete a three-game road swing at Detroit on Saturday. Sacramento beat the Pistons in both meetings last season.\n\nCeltics: Open a three-game trip at Oklahoma City on Friday. The Thunder won both games against Boston last season.",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.936121",
+  "pipeline_version": "v1"
+}

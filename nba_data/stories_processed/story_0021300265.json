@@ -1,0 +1,26 @@
+{
+  "game_id": "0021300265",
+  "espn_id": "400489138",
+  "date": "Dec 03, 2013",
+  "matchup": "MEM vs. PHX",
+  "headline": "Grizzlies defeat Suns 110-91",
+  "cleaned_body": "MEMPHIS, Tenn. --  Jon Leuer's career night and Ed Davis' double-double helped the Memphis Grizzlies fill a void left by two key injuries.\n\nLeuer scored a career-high 23 points, Davis added 21 points and 12 rebounds, and the Grizzlies made the best of their makeshift lineup to defeat the Phoenix Suns 110-91 Tuesday night.\n\nLeuer and Davis got plenty of playing time because of injuries to front-line starters Zach Randolph and Marc Gasol.\n\n\"When they are out, we just want to fill in for them,\" said Davis, who started in Randolph's spot.\n\nLeuer, who came off the bench, connected on 10 of 13 shots, Davis made 8 of 11, and seven players finished in double figures for Memphis, which shot 55 percent from the floor.\n\nIn addition to a career-high in points, Leuer had three blocks, another career-best, and matched his career-high with nine rebounds.\n\n\"I think early in the game getting in there and grabbing a few rebounds and knocking my first couple of shots down (helped) and getting some easy baskets,\" said Leuer, who entered the game averaging 2.9 points and 1.7 rebounds. \"You get into a rhythm after that. . Confidence starts to build, and from there on I was just feeling good.\"\n\nMike Conley had 18 points and 14 assists for Memphis, which snapped a four-game losing streak at home.\n\nMarcus Morris led the Suns with 18 points, Goran Dragic added 16 and Miles Plumlee had 11.\n\nMemphis played its second straight game without Randolph, who had ingrown toenail surgery Saturday. Gasol is out indefinitely with a left knee sprain.\n\nKosta Koufos, starting in place of Gasol, finished with 14 points and 12 rebounds, while Tony Allen scored 11 points. Tayshaun Prince and Jerryd Bayless had 10 points each.\n\n\"The key is to try and spread it around because I can't do it by myself,\" Conley said. \"Tony (Allen) can't do it by himself. We have to have everybody collectively chip in.\"\n\nThe turnaround in the game came in the second half when Memphis hit two-thirds of its shot and outscored the Suns 64-37.\n\n\"The second half was terrible,\" Suns coach Jeff Hornacek said. \"We have to be able to fight over screens. We have to get after it. We let their guy just shove you in the back. If we have no more fight than that, what else can you do?\"\n\nThe Suns carried a 54-46 lead into the break as Morris had 15 points off the Suns bench. Morris connected on 6 of 12 from the field, including 2 of 4 from outside the arc.\n\nConley had 11 to lead the Grizzlies.\n\nMemphis heated up in the third, hitting 11 of its first 15 shots to go on a 23-9 run and the Grizzlies outscored Phoenix 36-20 in the third for an 82-74 lead heading to the fourth.\n\nDavis had 11 points in the third as Memphis ended up hitting 16 of 23 shots.\n\n\"It stared in the second half,\" Plumlee said of the Suns' downfall. \"I think we got too relaxed. They turned it up, and that's what happens.\"\n\nLeuer stayed hot in the final quarter and Memphis' lead eventually reached 21 points.\n\n\"We all have to pick it up from the first guy to the last guy on the bench,\" Davis said. \"We can't replace Marc, and we can't replace (Randolph), but we all can replace some of the things they do.\"\n\nGame notes Memphis was playing its second game in a six-game homestand, the longest of the season. ... Memphis guard Tony Allen went to locker room holding his hip after a second-quarter scramble for a loose ball, but returned after intermission and started the second half. ... Suns G Eric Bledsoe had nine points, ending his string of 11 straight games in double figures. ... The Suns made only seven 3-pointers, snapping a streak of nine straight games with at least eight 3-pointers. ... Koufos has recorded double-digit rebounds in each of the four games he has started since the injury to Gasol.",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.782849",
+  "pipeline_version": "v1"
+}

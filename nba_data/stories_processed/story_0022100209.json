@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100209",
+  "espn_id": "401360033",
+  "date": "Nov 15, 2021",
+  "matchup": "CHI @ LAL",
+  "headline": "DeRozan, LaVine lead Bulls' 121-103 rout of LA; Davis tossed",
+  "cleaned_body": "LOS ANGELES -- — DeMar DeRozan scored a season-high 38 points and Zach LaVine had added 26 in the Chicago Bulls' 121-103 victory over the Los Angeles Lakers on Monday night.\n\nLonzo Ball had a season-high 27 points, eight assists and seven rebounds against his former team as the promising Bulls rolled to their fourth win in five games, following up their win over the Clippers on Sunday night by sweeping back-to-back games at Staples Center. Chicago also snapped an eight-game skid against the Lakers dating to November 2016 while going to 10-4 in a promising start to the season.\n\n“I think we are one of the top teams in the NBA,” Ball said. “We’ve still got a lot to improve on and a long way to go, but I think we’re moving in the right direction.”\n\nDeRozan and LaVine combined for 39 points in the first half at Staples Center, hitting seven 3-pointers in a dynamic two-man display. DeRozan kept it up after halftime, following up his 35-point effort against the Clippers with another dominant night on his hometown floor.\n\n“Every night you’ve got to find some type of extra motivation,” said DeRozan, a Compton native. “We’ve got a couple of guys that played here, (others who are) from here. Just having that extra juice, that energy to go out there and compete, is always beneficial.”\n\nDeRozan and the Lakers flirted with each other in free agency during the summer, but the Lakers eventually went with Russell Westbrook over DeRozan, his fellow Los Angeles-area native.\n\nAnthony Davis had 20 points and six rebounds before getting ejected by referee Scott Wall with 2:20 left in the third quarter. The Lakers already were well on their way to their fourth loss in the last seven games without LeBron James, who is out with an abdominal strain.\n\n“Coming out with (James) out, you always know you’ve got to play hard and make up the slack for a big piece of our team,” said Talen Horton-Tucker, who had a career-high 28 points against his hometown team. “We’ve all got to bring our games up to another level.”\n\nWestbrook got 19 of his 25 points in the first half for the Lakers, who wrapped up a five-game, eight-day homestand with three narrow wins and two embarrassing defeats.\n\nThree days after Minnesota routed the Lakers with a dominant third quarter, Chicago went ahead by 25 in the third while scoring 37 points.\n\nTIP-INS\n\nBulls: Coby White played 11 scoreless minutes in his season debut after shoulder surgery. White started 54 games last season, but Ball has taken over as Chicago's starting point guard.\n\nLakers: Kendrick Nunn is still “a ways away” from his Lakers debut, coach Frank Vogel said. Nunn has a right knee bone bruise. ... Los Angeles played 12 of its first 15 games at home, but will play five road games in eight days before Thanksgiving.\n\nAD OUT\n\nDavis was ejected for only the second time in his career. He got his first technical midway through the first quarter, and he got another after he lost his shoe while falling out of bounds with the ball under the Lakers’ basket. He yelled at Wall when the referee allowed Chicago to inbound it before Davis put his shoe back on.\n\n“Typically, the ref will wipe the ball, let the guy get his shoe on,” Vogel said. “Have some common sense. Quick inbounds — AD said, ‘That’s B.S.,' which happens about 15 times in the NBA every game. Quick tech, ejection. I don't know what to say about that.”\n\nTHE GREAT CARUSO\n\nAlex Caruso played 35 scoreless minutes with six rebounds and five assists in his first game against the Lakers since Los Angeles declined to match the Bulls’ free-agent offer last summer. Caruso worked his way from the Lakers' G League affiliate to a key role on their 2020 championship team, and the Bald Mamba also became an enormous favorite among the Lakers’ worldwide fan base.\n\nStaples Center played a tribute video to Caruso during the first timeout, and he waved to a lengthy standing ovation.\n\nBRING BACK TERRITORIAL DRAFT PICKS\n\nThe Bulls put out a starting lineup with two former Lakers, two UCLA products, a USC product and two Los Angeles-area natives. The Lakers had two Chicagoland products in their starting lineup: Horton-Tucker is an Uptown native, and Davis is from the South Side.\n\nUP NEXT\n\nBulls: At Portland on Wednesday.\n\nLakers: At Milwaukee on Wednesday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.636606",
+  "pipeline_version": "v1"
+}

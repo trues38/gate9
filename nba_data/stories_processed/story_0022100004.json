@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100004",
+  "espn_id": "401359834",
+  "date": "Oct 20, 2021",
+  "matchup": "CHI @ DET",
+  "headline": "LaVine scores 34 points, Bulls beat Pistons 94-88 in opener",
+  "cleaned_body": "DETROIT -- — Zach LaVine can still score in bunches when needed.\n\nLaVine scored 15 of his 34 points in the third quarter to spark sluggish Chicago, leading the Bulls to a 94-88 victory over the Detroit Pistons on Wednesday night in the opener for both teams.\n\nDetroit’s Jerami Grant was off on an 11-foot baseline jumper with 50 seconds left, missing a chance to tie it. The Bulls sealed the victory by making free throws.\n\nLaVine, an Olympian and All-Star, had a block and a steal to help hold Detroit to 40% shooting.\n\n“Zach really worked on both ends of the floor,\" Chicago coach Billy Donovan said.\n\nDeMar DeRozan had 17 points, and Lonzo Ball had 12 points in their Bulls debut as both players work on creating chemistry on the court with LaVine.\n\n“This is going to be the learning curve for us,\" Donovan said.\n\nChicago's Nikola Vucevic had 10 points and 11 rebounds at halftime and finished with 15 points and 15 rebounds.\n\n“We have a lot of work in front of us, but I give the guys a lot of credit for grinding through the game,\" Donovan said.\n\nThe Pistons were without rookie guard Cade Cunningham, the No. 1 overall pick, whose NBA debut was delayed by a sprained right ankle.\n\nGrant led the Pistons with 24 points. Detroit’s Saddiq Bey scored 13 points, Isaiah Stewart added 12 points and reserve Kelly Olynyk scored 10 points in his debut with the team.\n\nDetroit missed 7 of 8 shots to open the game and Chicago failed to connect on 10 of its first 13 shots. By the end of the dismal first quarter, the Pistons led 20-14 as both teams failed to make more than 30% of their shots.\n\n“First-game jitters whatever it is, I know we’ll shoot better,\" coach Dwane Casey said.\n\nThe Pistons led by as much as nine in the second quarter, but Bulls rallied to trail 44-40 at halftime. After the Pistons went ahead by nine points again in the third quarter, the LaVine-led Chicago pulled into a 69-all tie at the end of the quarter.\n\n“We didn’t shoot the ball well, even when we had good looks,\" Donovan said. “I was really happy that we gave ourselves a chance to win not playing very well on offense. That was a positive.”\n\nPIVOTAL POINTS\n\nBoth teams had 17 turnovers, and Chicago took advantage more than Detroit did with seven more points in a game decided by six points.\n\n“You can’t give them 22 points on turnovers when you’re struggling scoring,\" Casey said.\n\nHE'S OK\n\nChicago's Troy Brown, who was questionable to play due to an illness, had three fouls in four minutes.\n\n“Troy, going through what he’s gone through, he probably wasn’t himself,\" Donovan said.\n\nTIP-INS\n\nBulls: Vucevic was called for a technical foul late in the first period. ... Coby White (left shoulder) was out. ... Chicago swept the season series against Detroit last season.\n\nPistons: Faces in the crowd at Detroit’s home opener included Hall of Famers Isiah Thomas, Dave Bing and Ben Wallace along with 2004 NBA champion Rip Hamilton and rappers Big Sean and Kash Doll. ... Isaiah Livers (right foot) and Chris Smith (left knee ) were out.\n\nUP NEXT\n\nBulls: Hosts New Orleans on Friday night.\n\nPistons: At at Chicago on Saturday night.\n\n------\n\nMore on the NBA At 75: https://apnews.com/hub/nba-at-75\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.117170",
+  "pipeline_version": "v1"
+}

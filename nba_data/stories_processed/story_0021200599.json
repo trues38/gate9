@@ -1,0 +1,22 @@
+{
+  "game_id": "0021200599",
+  "espn_id": "400278319",
+  "date": "Jan 19, 2013",
+  "matchup": "POR vs. MIL",
+  "headline": "Brandon Jennings scores 30 points to lead Bucks past Blazers",
+  "cleaned_body": "PORTLAND, Ore. --  The Jim Boylan era is starting well for the Milwaukee Bucks.\n\nBrandon Jennings had 30 points and eight assists, Ersan Ilyasova added a season-high 27 points and 14 rebounds, and the Bucks beat the Portland Trail Blazers 110-104 Saturday night to win for the fifth time in seven games since Boylan was promoted to replace Scott Skiles as coach.\n\n\"I'm really proud of the guys,\" Boylan said. \"They've really responded well to the coaching change. We've got our eyes on the future and that's where we are going.\"\n\nDamian Lillard had 26 points and 10 assists for Portland, which has lost a season-high five straight games. LaMarcus Aldridge had 20 points and 14 rebounds, while Wesley Matthews added 21 points.\n\nMike Dunleavy had 14 points and Monta Ellis added 13 for Milwaukee. Ilyasova was 10 of 14 from the field, making all three of his 3-point attempts and all four of his free throws.\n\nThe Bucks went 3-1 while on a weeklong road trip. Milwaukee was coming off a historic victory of sorts, beating the Suns 115-107 Thursday night for their first win in Phoenix since the 1986-87 season, ending a stretch of 24 consecutive losses. The Bucks kicked off the trip by beating Toronto. They now head home to host Philadelphia.\n\nBoylan, a longtime NBA assistant who was once interim head coach in Chicago, took over when the team parted ways with fifth-year coach Skiles on Jan. 8 amid talk that Skiles was unhappy with the personnel makeup of his team and looking to leave.\n\n\"He's done a really good job,\" Ilyasova said of Boylan. \"When you look at our record from the point when he became head coach, we play more together, we share the ball well, we have a couple of new plays we execute well, and we're finally finding our rhythm.\"\n\nPortland was one of the hottest teams in the NBA after winning 12 of 15 games between Dec. 10 and Jan. 10. But the Blazers struggled with closing out games of late, losing each of their last five by six points or less. Part of the problem has been a tendency to fall behind and dig too big of a hole.\n\n\"We definitely have had a trend of that lately,\" Aldridge said. \"We have to figure out how to shake it. We always start a little slow and we always find a way to come back, but if we have better starts, then we won't have to fight so hard to come back.\"\n\nThe Bucks led by 16 with 3:45 remaining in the game, but the Blazers managed a 12-0 run to cut it to 104-100, with Lillard and Matthews hitting back-to-back 3-pointers. But Jennings and Ellis made six of eight free throws in the final minute for Milwaukee, while Lillard missed two 3-point tries.\n\nJennings and Ilyasova each had 15 points in the first half and Milwaukee led by 17 going into the break after opening up a big first-quarter lead with a 17-0 run.\n\nThe Bucks extended their lead to 22 points midway through the third quarter.\n\nPortland briefly cut the lead to eight when Lillard beat the third-quarter buzzer with a 3, but the Bucks went on a 7-0 run to open up the fourth, with Beno Udrih feeding Ellis for a dunk and Dunleavy hitting a 3.\n\nJ.J. Hickson had 15 points and 12 rebounds for Portland. Nicolas Batum was just 2 of 9 for seven points after injuring his wrist in practice Friday. However, he had seven rebounds and five assists.\n\nGame notes  Milwaukee C Larry Sanders was ejected late in the third after picking up two technical fouls for arguing with official Danny Crawford. ... Rookie C Meyers Leonard returned to practice Friday for Portland after missing 10 consecutive games with a sprained ankle sustained Dec. 29 against Philadelphia. He dressed but did not play. ... The Blazers had 19 turnovers for the second straight game.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.724556",
+  "pipeline_version": "v1"
+}

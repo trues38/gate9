@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300679",
+  "espn_id": "400489552",
+  "date": "Jan 29, 2014",
+  "matchup": "MIL vs. PHX",
+  "headline": "Dragic scores 30, injures elbow in Suns' win",
+  "cleaned_body": "MILWAUKEE -- Goran Dragic tumbled to the floor after a hard foul.\nWhen he finally got up, he was holding his elbow.\nThat didn't stop him from sealing the game for the Phoenix Suns.\nDragic scored 10 of his 30 points in the final 3:28, helping the Suns beat the Milwaukee Bucks 126-117 on Wednesday night.\n\"Emotions,\" Dragic said. \"You are so much in the zone, the adrenaline keeps you going.\"\nDragic hit the floor hard after a late foul by Larry Sanders, but was able to stay in the game -- and keep scoring, including a pair of 3-pointers on back-to-back possessions.\nBut he was on the bench with a wrap on his left elbow in the closing minutes, and was escorted to the locker room with 52 seconds remaining.\nDragic said an X-ray was negative, but his elbow was swollen.\n\"I'm a little bit concerned,\" Dragic said. \"Right now it is too soon. We will see how I am feeling in the morning. I'm a quick healer.\"\nGerald Green scored 23 and Marcus Morris had 16 points off the bench for the Suns, who have won the first three games of a four-game road trip.\nSuns coach Jeff Hornacek wasn't pleased that his team frittered away a few big leads.\n\"When we get up, we have a tendency to relax,\" Hornacek said. \"If you are not scoring, at least play defense.\"\nErsan Ilyasova scored 27 points and Brandon Knight added 24 for the Bucks, who have only one win in January.\nA sign of the times in a tough season: The biggest ovation of the night went not to a Bucks player but rather to former Green Bay Packers wide receiver Donald Driver, who was sitting courtside.\nStill Bucks coach Larry Drew was pleased with the way his team responded from a pair of blowout losses.\n\"There were some positives to come out of this game, and we're going to continue to try to build on the positives,\" Drew said.\nAnd Drew was plenty impressed by Dragic.\n\"I think a lot of people used to look at him as a reserve,\" Drew said. \"But he has shown that he's a starter. Not only is he a starter, but he has emerged as one of the top point guards in our league.\"\nLeading by 12 at halftime, the Suns let the Bucks back in the game during a third-quarter spurt led by Knight's ability to draw fouls and hit free throws.\nMilwaukee cut the lead to six before Green drained three 3-pointers in a stretch of just over two minutes -- gesturing to the crowd with three fingers on his way back down the court -- but Milwaukee hung close and went into the fourth quarter trailing 91-84.\nGreen said he enjoyed going back and forth with the crowd.\n\"Loved it,\" Green said. \"Best part of the game to me. It kept fueling me up. It got me going. It is exciting playing against a crowd like that.\"\nThe Bucks cut the lead to five on a fast-break slam dunk by rookie Giannis Antetokounmpo with 7:27 left in the game, but Phoenix responded with a 7-2 run. Dragic hit a 3-pointer with 4:04 left, giving the Suns a 114-102 lead, and hit two more 3-pointers to seal the game.\nSanders played for Milwaukee despite a recent illness, coming off the bench to score 14 and grab nine rebounds.\n\"They really capitalize on mistakes,\" Sanders said of the Suns. \"They get out in the open floor and they run, they finish in transition and get fouled -- make something happen.\"\nMilwaukee was without guard O.J. Mayo because of flu-like symptoms, and forward Ekpe Udoh continued to sit out with a sprained left ankle.\nThe Suns led by 12 at halftime, thanks to a second-quarter surge led by Dragic and Morris, who caused fits for Antetokounmpo on defense. A 25-7 run in the middle of the second quarter powered the Suns to a lead as large as 23 before the Bucks made up some ground going into the half.\nGame notes\nAntetokounmpo was selected to play in the \"Rising Stars Challenge\" during All-Star weekend. Coach Larry Drew is glad a national audience will get a chance to watch him. \"It gives everybody a chance to see who he is now,\" Drew said. ... Green was called for a technical foul in the third quarter.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.451287",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0022101155",
+  "espn_id": "401360974",
+  "date": "Apr 01, 2022",
+  "matchup": "MEM vs. PHX",
+  "headline": "Brooks leads short-handed Grizzlies past Suns, 122-114",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Dillon Brooks scored 30 points and the Memphis Grizzlies beat the Phoenix Suns 122-114 on Friday night in a matchup of the NBA’s top two teams, extending their winning streak to seven.\n\nBrooks converted a three-point play with 32 seconds left for an eight-point lead and the short-handed Grizzlies held on to snap the Suns’ nine-game winning streak. Ziaire Williams scored 19 points for Memphis and De’Anthony Melton added 17, including six straight free throws in the final 20 seconds.\n\nThe Suns have clinched the top seed and the Grizzlies the second spot in the Western Conference.\n\n“These are definitely culture wins because you’re going up against the best team in the league,” Memphis coach Taylor Jenkins said.\n\nThe victory came despite several players sitting out to relieve soreness or manage previous injuries. Besides leading scorer Ja Morant, who has missed the last seven games with a sore right knee, guard Desmond Bane (left ankle soreness), center Steven Adams (left calf soreness), Tyus Jones (left hand soreness) and forward Jaren Jackson Jr. (right thigh injury management), all took the night off.\n\nStill, Memphis started fast, built an early lead and then closed the game with a burst.\n\n“They outplayed us,” Suns coach Monty Williams said. “That was the key to the game. Their approach and our approach were two totally different ZIP codes.”\n\nDevin Booker led the Suns with 41 points, while Mikal Bridges added 18. Cameron Payne finished with 11 for Phoenix. While Memphis rested many key players, the Suns came with their full complement of starters, plus JaVale McGee and Cameron Johnson, the latter missing the 13 previous games with a right quad contusion.\n\nAnd yet, the game settled into an exchange of leads early in the fourth until Memphis went on a 17-2 run to give the Grizzlies a 101-87 lead just before the midway point of the period. That was enough of a buffer to claim the victory thanks to seven players reaching double figures.\n\n“We had spurts where we played pretty well,” said Suns guard Chris Paul, who finished with eight points and 11 assists. He added that even though Memphis was playing many non-starters extended minutes, there can't be a letdown.\n\n“I don’t care who’s out there playing, they’ve got an NBA jersey on,” Paul said. “I learned in this league a long time ago, respect whoever it is.”\n\nAfter trailing 54-50 at the break, Phoenix moved into the lead in the third, but Memphis carried an 84-83 lead into the fourth. The Grizzlies closed with a 38-31 fourth quarter, part of 68-point second half.\n\n“This team is very, very deep, so we’ve got to keep going and keep doing this,” said rookie reserve Santi Aldama, who finished with 12 points.\n\nJenkins said his team playing short-handed and still defeating the best team in the league is an example of how the Grizzlies have grown.\n\n“Tonight’s a night where you can put your stamp (on it), and say ‘This is who we are, and we’re going to be here for a really long time,’” Jenkins said.\n\nBALANCING\n\nWith both teams having clinched their spots in the postseason, they took different approaches: the Grizzlies letting people deal with soreness; the Suns playing all of their key people. “I don’t think any of us have the right answer,” Williams said. “Everybody’s trying to strike the balance of health and rhythm and some rest. If you rest too much, then guys lose rhythm and with the positions that we’re both in, you’re going to get a few days off and you’re not going to play NBA basketball so you’re not going to have the same game reps.”\n\nLAST WORD\n\nAlready without top players, the Grizzlies also lost their coach when Jenkins got a pair of quick technicals in the second quarter, courtesy of official Natalie Sago. That left the reins in the hands of assistant Darko Rajakovic.\n\n“I get tossed from a game, and it’s next man up,” Jenkins said.\n\nTIP-INS:\n\nSuns: Had an eight-game road winning streak snapped … Had not lost a road game to a Western Conference opponent since Dec. 13 at the Clippers. …DeAndre Ayton grabbed 12 rebounds.\n\nGrizzlies: Before things settled completely after the two technical against Jenkins, Brooks also got a tech. … Need two wins to set a new franchise mark for wins in a season. The 2012-13 team finished 56-26. …With Adams taking the night off, Xavier Tillman started his first game of the season.\n\nUP NEXT:\n\nSuns: Travel to Oklahoma City to face the Thunder on Sunday\n\nGrizzlies: At Utah on Tuesday.\n\n------",
+  "tags_rule": [
+    "PlayoffContext",
+    "Streak",
+    "CoachComment",
+    "EarlyRun",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.615241",
+  "pipeline_version": "v1"
+}

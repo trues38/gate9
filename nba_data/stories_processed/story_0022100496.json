@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100496",
+  "espn_id": "401360315",
+  "date": "Dec 26, 2021",
+  "matchup": "SAC vs. MEM",
+  "headline": "Bane, Grizzlies rout Sacramento 127-102, end 3-game skid",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Desmond Bane scored 28 points and the Memphis Grizzlies defeated Sacramento for the second time in 10 days, beating the Kings 127-102 on Sunday night.\n\nJa Morant had 18 points, nine assists and seven rebounds to help the Grizzlies end a three-game losing streak. Jaren Jackson scored 21 points and John Konchar had his first career double-double with 11 points and 14 rebounds.\n\n“We were driving the ball in the first half, but shots weren’t falling,” Bane said. “We stuck with it and eventually our defense turned into offense and busted the game open.”\n\nThe Grizzlies beat the Kings 124-105 on Dec. 17 at Golden 1 Center, and won handily again to extend their winning streak against Sacramento to six.\n\nAfter Fox stood and glared following his one-handed dunk early in the third, the Grizzlies took control with a 24-5 run in just under four minutes. Morant had eight points during the outburst and ended it sprinting through the lane for an emphatic dunk, similar to Fox.\n\nSacramento got within 91-79 early in the fourth, but Memphis went on another big run and pulled away. Anderson converted a three-point play, Bane made a deep jumper and Morant added another dunk to make it 116-89.\n\n“It was a collection of cycles, defense to offense, defense to offense,” Grizzlies coach Taylor Jenkins said. “Shots started falling. We got to our pace a little bit more in the full court, but especially in the half court. In that third quarter, we were getting to second-side drives, third-side drives (and) we were relentless on the boards. When we got those second-chance opportunities we capitalized.”\n\nTyrese Haliburton had 18 points and seven assists for Sacramento, ending his run of four consecutive games with at least 20 points and 10 assists. De’Aaron Fox scored 12 points in his return for the Kings after missing nearly two weeks while in the NBA’s health and safety protocol.\n\nKings interim coach Alvin Gentry, who had also been in the protocol, lashed out at his team after what he called an embarrassing performance.\n\n“It’s the most disappointed I’ve been in 34 years in the NBA, I can honestly say that,” Gentry said. “That performance was absolutely ridiculous. We didn’t play hard, we didn’t compete. We didn’t guard the ball, we didn’t guard screen and rolls. We didn’t follow the game plan. No competitiveness whatsoever. They basically toyed with us. I’m totally disappointed and everybody in this building should be disappointed.”\n\nFox, Marvin Bagley III and Terence Davis were cleared to return from the protocols before the game\n\nEven with the added bodies, the Kings had a hard time keeping up.\n\nFox made a pair of free throws and a layup to put Sacramento ahead by one at halftime, but the Kings were outscored 40-27 in the third quarter.\n\nSacramento fell to 7-10 at home.\n\n“I feel like teams come in here licking their chops for sure,” Davis said. “It’s up to us to protect our home court. We have to fix the little things. No excuses whatsoever. Once we get on the same page, all aboard, this team is very talented. It’ll come along.”\n\nTIP-INS\n\nGrizzlies: Before the game Dillon Brooks, De’Anthony Melton and Yves Pons entered health and safety protocol. … Santi Aldama remains out with right ankle soreness.\n\nKings: Fox was whistled for a technical foul after missing a shot midway through the second quarter. Chimezie Metu picked up one in the third. Both calls were made by referee Cheryl Flores. … Davion Mitchell, Alex Len and Neemias Queta remain in the health and safety protocol.\n\nUP NEXT\n\nGrizzlies: Travel to Phoenix to play the Suns on Monday. The Suns won by 25 points when the teams played in Memphis in November.\n\nKings: Face the Thunder at Golden 1 Center on Tuesday. Sacramento swept all three games last season, but lost in Oklahoma City earlier this season in November.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.866306",
+  "pipeline_version": "v1"
+}

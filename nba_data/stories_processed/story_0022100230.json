@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100230",
+  "espn_id": "401360054",
+  "date": "Nov 19, 2021",
+  "matchup": "CHA vs. IND",
+  "headline": "Ball scores 32 points, Hornets hold off Pacers 121-118",
+  "cleaned_body": "CHARLOTTE, N.C. -- — LaMelo Ball had a season-high 32 points and the Charlotte Hornets held off a furious second-half rally from Indiana's backups to beat the Pacers 121-118 on Friday night for their fifth straight victory.\n\nGordon Hayward added 25 points, and Kelly Oubre Jr. had 16 to finish off a 4-0 homestand that included wins over Golden State and Washington.\n\n\"I feel like we are really locking in on defense right now,\" said Ball, who also had 11 rebounds and eight assists.\n\nThe Hornets appeared to be on cruise control after building a 25-point third quarter lead that prompted Pacers coach Rick Carlisle to bench his starters for the remainder of the game.\n\nCarlisle said “the energy wasn't good\" from his starting unit and that “we needed some fighters in there.”\n\nHe found some for sure.\n\nJeremy Lamb scored 23 points in 16 second-half minutes and Brad Wanamaker came up with several big plays as the Pacers methodically cut into Charlotte's lead.\n\nThe Hornets, who had just one turnover in the first half, committed 16 in the second including an ill-advised full-court baseball from Ball that sailed off the hands of teammates Miles Bridges with 16.2 seconds left — and earned Ball a spot on the bench.\n\nBall's turnover caused the crowd to let out a collective gasp, and gave the Pacers a chance to send the game into overtime. But with the Pacers out of timeouts Carlisle was unable to set up a play and Indiana couldn't get a 3-point shot off before the final buzzer.\n\n“They mucked up the game,” Hayward said of Indiana's comeback. \"They trapped (us), made it unorthodox.”\n\nCarlisle said he never thought about putting the starters back in — even after it became a single-digit game.\n\n“These other guys earned a chance to win the game,” Carlisle said. “They almost did it. They almost pulled what would have been a hell of a small miracle. ... They got it to a one-possession game with the ball, so they did an amazing job out there.\"\n\nLamb, a former Hornet, made four 3-pointers and was 7 of 7 from the foul line.\n\n“I was happy that we just kept fighting,\" Lamb said. “We had nothing to lose. We kept playing, keep getting to the line, keep being physical on both ends. ... We have to play like that the whole game. We can’t wait until we are down 20 or 25” points.\n\nHornets coach James Borrego said his team played one of its best games for 2 1/2 quarters but got stagnant after building a big lead.\n\n“That is something I have to look at to see if I could’ve kept them more in attack mode,” Borrego said. “We still want to maintain an aggressive mentality, that is what got us the lead. I’ve seen this countless times in the NBA. It is a long 48-minute game. You don’t want to take your foot off the gas.\"\n\nBall was spectacular in the first half, scoring 21 points.\n\nAt one point attacking the Pacers 1 on 4 in transition and scoring anyway with a scooping layup while drawing a foul on Goga Bitadze for a 3-point play. Later he added step-back 3-pointer from the right wing that spun defender Torrey Craig around.\n\n“I just felt like I wanted to be more aggressive,” said Ball, who had 31 points in the team's previous win against Indiana.\n\nLINEUP CHANGES?\n\nCarlisle said he planned to watch the game film before making any decisions about changing up the starting lineup moving forward.\n\n“The NBA has become a hard-play league,” Carlisle said. “It’s been one of the great things about the evolution of today’s games. It’s highly skilled and highly competitive and if you don’t compete the right way, you get kicked in the face.”\n\nTIP-INS\n\nPacers Malcolm Brogdon and Damantas Sabonis were the only Indiana starters to play more than 20 minutes. Brogdon has 16 points. ... Shot 30.6% from 3-point range. ... Indiana's bench players had two turnovers; the starters had eight.\n\nHornets: Shot 54.3% from the field. ... Had 28 assists.\n\nUP NEXT\n\nPacers: Host New Orleans on Saturday night.\n\nHornets: At Atlanta on Saturday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.852258",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100519",
+  "espn_id": "401360338",
+  "date": "Dec 29, 2021",
+  "matchup": "ATL @ CHI",
+  "headline": "Bulls beat Hawks for 2nd time in 3 nights, run streak to 5",
+  "cleaned_body": "CHICAGO -- — Zach LaVine scored 25 points and the Chicago Bulls beat the Atlanta Hawks for the second time in three nights, 131-117 on Wednesday.\n\nThe Bulls extended their winning streak to a season-high five games. The Hawks, who are playing without 15 players due to the NBA’s health and safety protocols and injuries, lost for the fifth time in six games.\n\nThe Bulls shot 61.9% and had a season-high with 38 assists. They beat the Hawks 130-118 on Monday night in Atlanta.\n\nTrey Young scored 26 points for Atlanta, and Clint Capela added 18 in the opener of a six-game trip.\n\n“We got three-fourths of our team out,” Young said. “I came to shoot around not knowing most of my teammates.”\n\nLaVine punctuated his performance with a. 360 dunk that extended the Bulls’ lead to 119-96 with 6:44 left.\n\nNicola Vucevic had 16 points and a season-high 20 rebounds for Chicago. DeMar DeRozan scored 20 pointts, and guard Coby White had 17 points and 12 assists. Reserve guard Ayo Dosunmu converted 6 of 7 shots and finished with 14 points, as did Javonte Green.\n\n“I think people realize how good (LaVine) is,” Bulls interim coach Chris Fleming said. “I think that secret is out. He’s been an All-Star and has played at an extremely high level.”\n\nThe Bulls made 40 of 43 field goal attempts in the first half (69.8%), including 6 of 10 three-point attempts.\n\nThe Bulls had an 18-1 run to end the first half with a 74-53 lead. They were credited with 24 assists in the first half without point guard Lonzo Ball, who is in health and safety protocols.\n\nTIP-INS\n\nHawks: Chris Clemons and Cameron Oliver were signed to 10-day contracts. Wes Iwundu was activated from the NBA’s health and safety protocol. The Hawks have 12 players in protocols, which has caused coach Nate McMillan to play Young, Cam Reddish, Capela and Skylar Mays, a two-way guard, longer than he’d prefer. “We really don’t have subs for them,” McMillan said. “There are times we’re having to put four-five guys out there who don’t know our system. We’re giving them basic sets.”\n\nBulls: Marko Simonovic entered the NBA’s health and safety protocols. Simonovic is the 17th Bulls player to enter the protocols this season. F Patrick Williams (ligament tear) had pins removed from his left wrist, but Fleming didn’t know how this would affect Williams’ rehab schedule. Williams was expected to miss the regular season. With coach Billy Donovan currently in health and safety protocols, Fleming said he expects to remain as interim coach through at least the next two games.\n\nUP NEXT\n\nHawks: At Cleveland on Friday night.\n\nBulls: At Indiana on Friday.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.571242",
+  "pipeline_version": "v1"
+}

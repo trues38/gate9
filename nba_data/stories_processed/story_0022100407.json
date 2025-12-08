@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100407",
+  "espn_id": "401360231",
+  "date": "Dec 13, 2021",
+  "matchup": "ATL vs. HOU",
+  "headline": "Gordon, Augustin rally Rockets to 132-126 win over Hawks",
+  "cleaned_body": "ATLANTA -- — Eric Gordon scored 32 points, D.J. Augustin added 22 and the Houston Rockets handed the Atlanta Hawks their fifth straight home loss, rallying from 19 points down for a 132-126 victory Monday night.\n\nHouston won on the road for only the second time this season, overcoming a 41-point performance by Trae Young.\n\nThe Rockets trailed most of the game and were down 101-88 heading to the final quarter.\n\nBut Augustin hit a 3-pointer with 3:31 remaining that gave Houston its first lead, 121-119, since the opening quarter. David Nwaba set up the basket by stealing a pass from Young.\n\nAfter Clint Capela missed a pair of free throws, Gordon scored on a drive to the basket. He tacked on a 3 pointer that made it 126-121.\n\nYoung connected on a 3 of his own with 23.9 seconds remaining, cutting the Houston lead to 126-124. But the Rockets, the worst free-throw shooting team in the league, knocked down four straight from the line to seal the victory.\n\nSeven players scored in double figures for Houston, which has won eight of 10 since a 15-game losing streak.\n\n“This was a great way for this team to show growth. We were down the whole game, but different guys stepped up,\" Gordon said. “When multiple guys are doing that, you always give yourself a chance to win.”\n\nThe Hawks scored a season-high 69 points in the first half, but it wasn't enough to hold off the Rockets.\n\nHouston outscored the Hawks 44-25 in the final period, hitting 16 of 25 shots — including 8 of 11 from 3-point range.\n\nIt's been quite a turnaround for the rebuilding Rockets, who started the season 1-16.\n\n“It doesn't matter who's on the floor for us,” Augustin said. “Everybody is ready for their opportunity.”\n\nComing into the season with high hopes after a surprising run to the Eastern Conference final, the Hawks keep breaking down in the fourth quarter.\n\nThey have lost five of their last seven — all at home — to slip to 13-14 on the season. All five of those defeats have been by single digits.\n\n“We scored enough to win tonight,” Young said. “We just didn't get enough stops. We've got to figure it out.”\n\nYoung, who also had nine assists, was essentially a one-man team. He hit 14 of 22 shots, including five 3-pointers.\n\nJohn Collins added 14 points for the Hawks and no one else had more than 12. Capela did have 16 rebounds, but the Hawks were outrebounded 45-40.\n\nNWABA STEPS UP\n\nThe Rockets got a big contribution from Nwaba, who scored 10 points, grabbed six rebounds, doled out three assists and had that big steal in 11 1/2 minutes.\n\nNwaba has played sparingly in recent weeks, including a stretch of six straight games in which he never left the bench.\n\nBut he was a big key to the comeback. The Rockets outscored the Hawks by 17 points while he was on the court.\n\n“I'm the guy who brings energy,” Nwaba said. “I think I showcased that tonight.”\n\nSTREAK ENDS\n\nYoung just missed extending his streak of games with at least 25 points and 10 assists.\n\nHe's already in pretty good company.\n\nYoung joined Michael Jordan and Russell Westbrook as the only players to pull off that feat in at least five consecutive games since the NBA-ABA merger.\n\nTIP-INS\n\nRockets: Improved to 2-12 on the road. ... Gordon returned after missing the previous game at Memphis with a groin injury. ... Shooting a league-low 69.9% from the foul line, Houston made 21 of 27.\n\nHawks: G Bogdan Bogdanovic missed his sixth straight game with a sprained right ankle. While there is still no timetable for his return, he has stepped up his rehab to include individual on-court workouts. ... C Onyeka Okongwu is also moving closer to returning from shoulder surgery. He's on a rehab assignment with the G League’s College Park Skyhawks, where he had 10 points and 15 rebounds in his first game since last season’s conference final.\n\nUP NEXT\n\nRockets: Wrap up a three-game trip Wednesday night at the Cleveland Cavaliers.\n\nHawks: Travel to Orlando to face the Magic on Wednesday night.\n\n------\n\nFollow Paul Newberry on Twitter at https://twitter.com/pnewberry1963 and find his work at https://apnews.com/search/paulnewberry\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.108891",
+  "pipeline_version": "v1"
+}

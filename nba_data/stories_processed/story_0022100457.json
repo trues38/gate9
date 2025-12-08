@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100457",
+  "espn_id": "401360281",
+  "date": "Dec 20, 2021",
+  "matchup": "PHI @ BOS",
+  "headline": "Embiid scores 41, 76ers beat Celtics 108-103",
+  "cleaned_body": "BOSTON -- — Myles Powell was on a layover in Dallas on his way to the G League showcase in Las Vegas when his agent FaceTimed to tell him he’d be signing with the Philadelphia 76ers as an emergency COVID-19 fill-in.\n\nTwo days later, he was in Boston making his NBA debut.\n\n“These last 72 hours have been a dream come true,\" he said after the Sixers beat Boston 108-103 on Monday night. \"I just watched Joel Embiid go out and get 40 and 10. For me, being a rookie in this league and being able to watch that, that’s something I’ll never, ever forget.\"\n\nEmbiid scored 17 of his 41 points in the fourth quarter, hitting three jumpers in the final minutes and three free throws in the last four seconds to ice it. He also played more than 40 minutes — a season high for a game that didn't go into overtime — and Philadelphia's bench contributed just one point as both teams struggled to find healthy players amid the NBA's spreading COVID-19 outbreak.\n\nSeth Curry added 26 points for the Sixers, whose game against New Orleans on Sunday was postponed because they couldn't dress eight healthy bodies. They had three players in the COVID-19 protocol and Boston had seven.\n\nTo fill out the roster, the Celtics signed 15-year NBA veteran C.J. Miles, who hadn’t appeared in a game in more than two years, to a 10-day contract.\n\n“We rolled up today with the cases spreading the way they are, they might not have enough guys to go,” said Sixers forward Tobias Harris, who had 25 points in a (non-overtime) high of 41:22. “That’s the nature of the business in the NBA right now until everybody gets out of safety protocols.”\n\nJaylen Brown scored 30 points, Jayson Tatum had 17 and Enes Kanter Freedom had 15 points and 11 rebounds for the Celtics, who trailed the entire first half but took an 80-75 lead into the fourth quarter. Boston went ahead 97-90 on Brown's 3-pointer with 4:14 left, but Matisse Thybulle hit a 3-pointer and then Embiid made a pair of foul shots.\n\nBoston led 98-96 when Danny Green made a 3-pointer, and then Embiid made three straight mid-range jumpers to hold the Celtics at bay.\n\nWHERE THERE’S SMOKE\n\nThe game was delayed for seven minutes after the national anthem and before the introduction of the Celtics players when a fire alarm went off in the building, accompanied by an announcement telling the crowd it may need to evacuate. After a few minutes of people nervously looking around, the Celtics mascot began waving his arms to pump up the fans; the pregame festivities resumed soon after.\n\nA TD Garden spokesman said the problem was a malfunctioning sprinkler head in a concession area in the balcony level and set off a fire alarm. Building operations coordinated with the Boston Fire Department before giving the all-clear.\n\nIN AND OUT\n\nThe Celtics’ pregame injury list required a three-tweet thread to list everyone, with Al Horford, Jabari Parker, Josh Richardson, Brodric Thomas, Grant Williams, Juancho Hernangomez and Sam Hauser all in the COVID-19 protocol. Robert Williams III was also listed as out for personal reasons.\n\nTatum (ankle), Romeo Langford (neck) and Dennis Schroder (non-COVID illness) were questionable but cleared to play.\n\nThe Sixers were without Andre Drummond, Shake Milton and Georges Niang because of COVID protocols, along with Tyrese Maxey (thigh bruise), Furkan Korkmaz (non-COVID illness), Jaden Springer (concussion protocol) and Ben Simmons, who hasn’t played all year while awaiting a possible trade.\n\nTHROWBACK\n\nThe Celtics celebrated ’60’s night, looking back on the decade when they won 9 NBA titles — going through the Philadelphia Warriors twice and the 76ers four times. (The Sixers were the only team to beat them, in the 1967 Eastern Division finals.\n\nSatch Sanders, Mal Graham and Rick Weitzman were honored on the court, and ’60’s music was played throughout the night.\n\nUP NEXT\n\nSixers: Host Atlanta on Thursday.\n\nCeltics: Host the Cleveland Cavaliers on Wednesday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "HotShooting"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.146289",
+  "pipeline_version": "v1"
+}

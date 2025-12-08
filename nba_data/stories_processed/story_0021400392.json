@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400392",
+  "espn_id": "400578684",
+  "date": "Dec 19, 2014",
+  "matchup": "OKC @ LAL",
+  "headline": "Kevin Durant-less Thunder hold off Lakers as Kobe misses at buzzer",
+  "cleaned_body": "LOS ANGELES -- Although Russell Westbrook grew up watching Kobe Bryant sink innumerable enormous shots for the Lakers, the Los Angeles native didn't worry when No. 24 had the ball with the game on the line against his Oklahoma City Thunder.\n\"I've got confidence in the people that we have on our team to lock in at the end,\" Westbrook said.\nThanks to Westbrook's offense and just enough defense on Bryant's last shot, the Thunder won without Kevin Durant.\n\nWestbrook scored 31 points and hit a key jumper with 38 seconds left, and Oklahoma City overcame the NBA MVP's absence for a 104-103 victory Friday night.\nBryant missed a 17-foot jumper right before the buzzer, the culmination of his 3-for-15 shooting night under the defense of Andre Roberson and his teammates.\nReggie Jackson scored 25 points and hit the go-ahead free throws with 1:05 left for the Thunder, who persevered down the stretch for their eighth victory in nine games.\n\"We did a lot of good things tonight,\" Thunder coach Scott Brooks said. \"We had opportunities to defend, and everybody stepped up. We have a team full of defenders, and everyone has to do their job.\"\nEspecially without Durant, who sat out after spraining his right ankle in the first half of the Thunder's loss at Golden State on Thursday night. Although Durant's X-rays were negative and the sprain was mild, Oklahoma City elected to be cautious with its superstar, who only made his season debut in early December after surgery on a broken right foot.\nAfter Westbrook put the Thunder up 104-101 in the final minute, Jeremy Lin hit a jumper with 32 seconds left. Westbrook missed a shot to set up the Lakers' final shot, but Bryant's jumper clanged off the rim.\nBryant said he got the shot he wanted but couldn't decide whether to try to draw contact.\n\"I didn't have my legs tonight,\" Bryant said. \"It was pretty frustrating. I've got to figure it out. It's kind of hit-and-miss. Some games it's there, and some games it's not. I've just got to keep trying different things to get the proper rest.\"\nBryant had nine points, eight rebounds and eight assists for the Lakers, who had won three of four. He put the Lakers up 99-98 with 2:36 left on a gorgeous fall-away jumper, but it was his only basket of the fourth quarter, where he went 1-for-5.\n\nEd Davis had a season-high 18 points and nine rebounds for the Lakers.\nAfter Ronnie Price scored 11 points for the Lakers in the first 5½ minutes, Westbrook led the Thunder back with 21 points in the first half, including 13 free throws without a miss.\nTIP-INS\nThunder: Durant has missed 18 games this season after missing just 16 in his first seven NBA seasons combined. ... Jackson converted a four-point play in the third quarter. ...Serge Ibaka scored 16 points.\nLakers: Coach Byron Scott voiced pregame support for Lin, who lost his starting job and entered this game in a shooting slump. Scott says Lin \"has to stop thinking so much ... but I think it will start clicking for him pretty soon.\" ... The Lakers honored Bryant before the game for passing Michael Jordan and moving into third place on the NBA's career scoring list during their recent road trip. Bryant was joined by his wife and daughters on the court. ... The Lakers have lost 14 of 18 to the Thunder.\nTOSSED OUT\nNick Young was ejected with 11:24 to play after he retaliated to contact from Steven Adams with a forearm and elbow to the throat of the Oklahoma City center. Young said Adams \"is a sneaky, dirty player,\" but Young also blamed himself for the ejection, saying he \"lost my mind a little bit, checked into the crazy house and got back out.\" Young had 10 points before his ejection. \"He was doing his job. He got me kicked out of the game. That's what they put him in the game to do,\" Young said.\nUP NEXT\nThunder: Host New Orleans on Sunday.\nLakers: At Sacramento on Sunday.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.359611",
+  "pipeline_version": "v1"
+}

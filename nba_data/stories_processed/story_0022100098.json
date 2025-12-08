@@ -1,0 +1,21 @@
+{
+  "game_id": "0022100098",
+  "espn_id": "401359922",
+  "date": "Nov 01, 2021",
+  "matchup": "CHI @ BOS",
+  "headline": "DeRozan scores 37 as Bulls beat Celtics 128-114 to reach 6-1",
+  "cleaned_body": "BOSTON -- — DeMar DeRozan scored 37 points and the Chicago Bulls rallied from a 19-point, second-half deficit on Monday night to beat the Boston Celtics 128-114 and improve to 6-1 for the season.\n\nZach LaVine scored 26 points and Nikola Vucevic had 11 points, 10 rebounds and nine assists for the Bulls, who outscored Boston 39-11 in the fourth quarter to turn a 14-point lead into a 14-point victory.\n\n“It was very gratifying to see we kept the fight,” DeRozan said. “We were down big on the road, tough place to play, we didn't get rattled.”\n\nJaylen Brown scored 28 for the Celtics, who have lost three in a row and left their home court to boos. Al Horford had 20 points and 10 rebounds, and Jayson Tatum scored 20 for Boston.\n\n“We got up, got comfortable, got a little bit too cute thinking the game was over in the third quarter,” said Celtics coach Ime Udoka, who fell to 2-5 in his first season at the helm. “We started celebrating early. It’s a good lesson learned: You mess with the game, it will come back to bite you.”\n\nThe Celtics led 94-75 with about three minutes left in the third quarter and still had a 103-89 lead entering the fourth. But Chicago scored the first 12 points in the fourth to cut the deficit to two points, 103-101, with just over 8 minutes left.\n\nAyo Dosunmu, a second-round draft pick who had his first double-digit NBA game with 14 points, hit a 3-pointer with 6:53 left to put the Bulls up 106-105. The Celtics briefly retook the lead before Chicago scored 18 of the next 20 points.\n\nTatum scored two points on 1-for-8 shooting in the fourth quarter, and Brown was scoreless on just two shots.\n\n“We’re running plays for our best players. Every team knows that. They do a good job of shutting that down,” Celtics guard Marcus Smart said. “We can’t allow that.”\n\nThe Celtics led 35-31 near the end of the first quarter before DeRozan ran off nine straight points, scoring 11 during a 15-0 run that gave Chicago a 46-35 lead. But Brown scored the next 10 on his own — hitting back-to-back 3-pointers to make it a one-point game.\n\nAfter Dosunmu’s layup, Brown hit another 3, then Smart made one of his own and the Celtics made it an eight-point lead at halftime.\n\nTIP-INS\n\nThe Celtics' Marcus Smart appeared to hurt his leg during the third quarter but gave a thumbs-up to the bench and remained in the game. ... Boston's Robert Williams limped off the court and straight to the locker room after a collision in the third quarter. He returned to the bench for the start of the fourth, and the team said he tweaked his hip.\n\nUP NEXT\n\nBulls: Visit Philadelphia on Wednesday night.\n\nCeltics: Play at Orlando on Wednesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.435359",
+  "pipeline_version": "v1"
+}

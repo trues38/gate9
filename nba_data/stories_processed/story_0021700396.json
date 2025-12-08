@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700396",
+  "espn_id": "400975147",
+  "date": "Dec 11, 2017",
+  "matchup": "TOR @ LAC",
+  "headline": "Clippers end Raptors' streak with 96-91 victory",
+  "cleaned_body": "LOS ANGELES --  With Blake Griffin, Patrick Beverley and Danilo Gallinari sidelined by injuries, playing hard has to be the Los Angeles Clippers' calling card.\n\nMontrezl Harrell scored 17 points and the Clippers rallied over the final 3:21 to beat Toronto 96-91 on Monday night, snapping the Raptors' six-game winning streak.\n\n\"We scrapped, we played hard, we got the loose balls, we got the 50-50 game, we took charges, we created turnovers, got baskets,\" Clippers coach Doc Rivers said. \"That's who we have to be right now, and our guys have bought into it.\"\n\nDeAndre Jordan had 14 points and 17 rebounds for the Clippers. Their backups outscored Toronto's reserves 50-17, led by Harrell and Lou Williams, who also had 17 points.\n\n\"Our second group tries to bring a lot of energy and play as hard as we can,\" Harrell said. \"We know we're going to make some mistakes, we know we have some younger guys who aren't accustomed to playing this amount of minutes. Everyone has that next man up mentality.\"\n\nMilos Teodosic scored 12 points in his return after missing 22 games with a left foot injury. His 3-pointer with 40 seconds left extended the Clippers' lead to 91-87.\n\nJordan fouled Kyle Lowry in the lane, and he made one of two free throws to make it 91-88.\n\nWilliams made two free throws before C.J. Miles hit a 3-pointer from the right corner that closed the Raptors to 93-91.\n\nBut the injury-plagued Clippers went 3 for 4 at the line to hang on for their second win in a row.\n\nHarrell gave Los Angeles a scare when he went down near the baseline early in the fourth. Eventually, he got up and stayed in the game.\n\nJonas Valanciunas had 23 points and 15 rebounds for the Raptors, who led by 13 points in the first half. Serge Ibaka and DeMar DeRozan each scored 17 points.\n\n\"We were playing in mud. Psychologically, we were a step behind,\" Toronto coach Dwane Casey said. \"After we lost that lead, we couldn't get our traction back.\"\n\nThe Raptors were up 81-74 early in the fourth on seven straight points, including consecutive baskets by Valanciunas.\n\nTeodosic and Austin Rivers hit 3-pointers and Sam Dekker made a pair of free throws to pull the Clippers into an 82-all tie. They tied it again at 84-all on Dekker's baseline shovel pass to Jordan, who dunked.\n\n\"We kept a high-scoring team under 100 points. That's pretty good, man,\" Austin Rivers said. \"This is the biggest win for us. We kept playing and fighting.\"\n\nHarrell ran off the Clippers' first nine points of the second quarter, cutting their deficit from 13 points to four. He scored 13 in the period, and the Clippers trailed 53-51 at halftime.\n\nPASSING DJ\n\nJordan had four assists. \"He's going to be out there trying to throw all kinds of passes,\" Austin Rivers joked about Jordan.\n\nTIP-INS\n\nRaptors: Fell to 2-1 in the second game of a back-to-back.\n\nClippers: Gallinari has a strained glute, similar to the injury that sidelined him for 13 games recently. He took a hard fall in the fourth quarter against Washington last weekend, when he scored a season-high 25 points, and is expected to be out a few games.\n\nUP NEXT\n\nRaptors: Visit Phoenix on Wednesday in the conclusion of their four-game trip.\n\nClippers: Open a four-game trip in Orlando on Wednesday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.679064",
+  "pipeline_version": "v1"
+}

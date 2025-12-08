@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400510",
+  "espn_id": "400578802",
+  "date": "Jan 05, 2015",
+  "matchup": "CHA @ BOS",
+  "headline": "Walker scores 33, carries Hornets past Celtics 104-95",
+  "cleaned_body": "BOSTON --  Kemba Walker knows there's a lot more riding on him because several key teammates are sidelined with injuries.\n\nHe certainly looked comfortable with that Monday night.\n\nWalker scored 20 of his 33 points in the second half and Cody Zeller finished with a career-high 20 points in a perfect shooting performance, carrying the Charlotte Hornets to a 104-95 win over the Boston Celtics.\n\nIt was just the second win in seven games for the Hornets, who learned last week that leading scorer Al Jefferson will be out for about three more weeks with a left groin injury.\n\n\"I know teams are going to throw multiple guys and try to make it tough on me,\" Walker said, sitting at his locker with both feet in an ice bucket. \"I just play in the flow of the game. My teammates are doing an unbelievable job for me.\"\n\nOne of those teammates who helped pick up some of the scoring slack was Zeller, the younger brother of Boston's Tyler Zeller.\n\nCody Zeller went 8 for 8 from the floor, hit all four of his free throws and improved to 6-0 against his big brother, who had just two points in 16 minutes.\n\n\"I didn't even know that until they told me,\" Cody Zeller said, smiling. \"They were kidding me saying I should have shot more because I didn't miss at all.\"\n\nWalker added five assists and five rebounds.\n\nJared Sullinger led Boston with 22 points and eight rebounds. Reserves Jae Crowder and James Young each had 13 points for the Celtics, who have dropped three straight and seven of eight.\n\n\"I've got to figure out how to coach this team better,\" Boston's Brad Stevens said. \"I'm not doing a very good job. We're not playing well and we're playing almost -- it's not good basketball. We've got to do a better job of playing good basketball and figure out the rotations. ... It's on me.\"\n\nSullinger said the Celtics have a lot to work on.\n\n\"Everything,\" he said. \"Defensively, offensively, executing the game plan. We've just got to do better.\"\n\nThe Celtics trailed 88-72 with just under eight minutes to play before scoring 10 unanswered points.\n\nBut Marvin Williams' three-point play and Walker's driving basket sandwiched around a free throw by Marcus Smart pushed the Hornets' lead back to double digits with 3:19 to play.\n\nCharlotte led by 14 at halftime and increased it to 68-47 on Walker's 3-pointer from the top of the key, his second in just more than a minute.\n\nWalker scored 12 of Charlotte's 16 points during a stretch from midway through the third quarter to the final minute, helping the Hornets maintain a comfortable lead.\n\nCharlotte led 79-62 after three quarters.\n\nIn the first half, Charlotte opened a 46-32 lead on Zeller's layup late in the second quarter en route to a 50-36 halftime edge.\n\nBoston's only lead came on the game's initial basket before the Hornets went on a 15-2 run.\n\n---\n\nTIP-INS\n\nHornets: They were minus two key players again. Jefferson missed his fourth straight game and G Lance Stephenson his 11th due to a pelvic strain. Coach Steve Clifford said the team has had to change its approach offensively without Jefferson's low-post play. \"We were so reliant, probably more than any other team, on how we posted the ball with Al,\" Clifford said. \"Now we're more of a dribble, handoff, pick-and-roll team.\"\n\nCeltics: G Jameer Nelson was sidelined with a sprained right ankle. ... It was \"Seats for Soldiers Night.\" ... The team held a pregame moment of silence for former ESPN anchor Stuart Scott, who died Sunday after a long battle with cancer.\n\nWORTHY PRAISE\n\nBefore the game, Stevens talked about how well Walker has been playing. \"He's a competitive, feisty, tough dude,\" the coach said. \"He plays that way every single night and I really respect that.\"\n\nYOUNG AT HEART\n\nYoung, a rookie forward, had scored just 11 points the entire season in only five games. He missed 26 with a shoulder injury.\n\nROUGH NIGHT\n\nBoston F Jeff Green made his first two shots on drives to the basket. He then went 1 for 11 from the floor.\n\nUP NEXT\n\nHornets: Host New Orleans on Wednesday.\n\nCeltics: At Brooklyn on Wednesday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.749715",
+  "pipeline_version": "v1"
+}

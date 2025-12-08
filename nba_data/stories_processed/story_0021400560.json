@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400560",
+  "espn_id": "400578852",
+  "date": "Jan 11, 2015",
+  "matchup": "MEM vs. PHX",
+  "headline": "Zach Randolph's double-double powers Grizzlies past Suns in 2OT",
+  "cleaned_body": "MEMPHIS, Tenn. --  Marc Gasol struggled through regulation and the first overtime before finally getting untracked.\n\nGasol scored the first seven points of the second overtime, Zach Randolph had 27 points and 17 rebounds and the Memphis Grizzlies outlasted the Phoenix Suns 122-110 on Sunday night.\n\nGasol was 2 of 10 from the field before the second overtime.\n\nThe difference?\n\n\"The ball went in,\" Gasol said.\n\nGasol finished with 12 points. Mike Conley added 25 points and eight assists and Courtney Lee had 18 points.\n\nWhile Gasol didn't elaborate on his play, others provided credit to the center.\n\n\"Marc was huge,\" Conley said. \"Early on, it seemed like he wasn't as aggressive, and finally, it clicked. He wanted the ball.\"\n\nIsaiah Thomas led Phoenix with 20 points, but had a costly turnover trying to get the ball into the front court with the Suns leading late in the first overtime -- one of seven turnovers for Thomas.\n\nThe miscue led to a pair of free throws from Lee to tie it at 108, sending it into the second overtime where Memphis missed only one of seven shots compared to the Suns hitting only one of 11 shots.\n\nMarkieff Morris added 17 points for Phoenix, while Alex Len had 14 points and 13 rebounds. P.J. Tucker, Eric Bledsoe and Marcus Morris had 11 points apiece.\n\nBledsoe had a chance to win it in the first overtime, but his off-balance shot in the lane banged off the front of the rim at the buzzer.\n\n\"He went in with a little pump fake, but it looked like he slipped, and he couldn't get off a decent shot,\" Suns coach Jeff Hornacek said.\n\nPhoenix has lost two straight.\n\nThe Grizzlies were without forward Tayshaun Prince and swingman Quincy Pondexter, awaiting the completion of a three-team trade. On Saturday night, a person familiar with the deal said the Grizzlies, Boston Celtics and New Orleans Pelicans have agreed on a five-player trade that would send forward Jeff Green from Boston to Memphis. The person spoke to The Associated Press on condition of anonymity because the trade hasn't been announced and formal approval by the NBA isn't expected until Monday.\n\nPrince would go from Memphis to Boston and Pondexter from Memphis to New Orleans.\n\nThe Suns trailed by 16 in the second half and 14 early in the fourth quarter. Tucker's layup tied it 101 with 5.9 left in regulation. The Grizzlies begged for basket interference, saying Bledsoe pulled the net as the ball was bouncing on the rim.\n\nBledsoe's 3-pointer with 33.3 seconds left in the first overtime gave the Suns a 108-106 lead. The Suns stopped the Grizzlies on the next possession, but Thomas gave away the ball and Lee -- fouled by Goran Dragic -- made two free throws with 16.2 left. Bledsoe then missed at the buzzer, forcing the second extra period.\n\nTIP-INS:\n\nSuns: Phoenix has lost six straight in the series. ... Brandan Wright, obtained from the Celtics on Friday, made his first appearance for the Suns, entering the game in the first quarter. He finished with seven points, hitting three of four shots. ... The Suns are 0-4 in overtime this season.\n\nGrizzlies: Randolph made six of his first seven shots and had 18 points in the first half. He had his second straight double-double after missing nine games because of soreness in his right knee. ... Memphis' last two opponents -- Atlanta and New Orleans -- were a combined 23 of 45 from 3-point range. The Suns were 8 of 35.\n\nFOUL PROBLEMS\n\nThe Suns found themselves in foul trouble in the second overtime. Goran Dragic fouled out in the first overtime on Thomas' turnover. On the first play on the second overtime, Len fouled out on Gasol's field goal. Then Markieff Morris was called for his sixth foul with just over 2 minutes left.\n\nSO LONG. FAREWELL\n\nEven though the trade is not official, Memphis players were not bashful about their feelings. \"It always affects you when a player gets traded or you've got rumor talk\" Randolph said. \"It's part of being human.\"\n\nUP NEXT:\n\nSuns: Host Cleveland on Tuesday night.\n\nGrizzlies: Visit Brooklyn on Wednesday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.380255",
+  "pipeline_version": "v1"
+}

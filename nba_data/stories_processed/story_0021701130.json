@@ -1,0 +1,27 @@
+{
+  "game_id": "0021701130",
+  "espn_id": "400975876",
+  "date": "Mar 30, 2018",
+  "matchup": "ATL vs. PHI",
+  "headline": "Simmons' triple-double paces Sixers to 9th straight win",
+  "cleaned_body": "ATLANTA --  Ben Simmons keeps getting triple-doubles without making them a focal point of his game.\n\n\"I'll hear a few things like you need two more rebounds or whatever it is, but if I'm not focusing on it, it's easier to get statistics like that,\" he said. \"I'm letting the game come to me.\"\n\nSimmons had a triple-double in three quarters, Ersan Ilyasova scored 21 points and the Philadelphia 76ers won their ninth straight game with a 101-91 victory over the Atlanta Hawks on Friday night.\n\nWith 13 points, 12 rebounds and 11 assists, Simmons has five triple-doubles in his last 10 games and 11 overall. The Rookie of the Year candidate did not play after leaving with 3:37 left in the third, giving Philadelphia the kind of performance it needed one game after All-Star center Joel Embiid suffered an orbital eye fracture and a concussion.\n\nEmbiid's absence made the Sixers a quicker team offensively, but they got off to sluggish start on the perimeter, going just 2 for 19 beyond the arc in the first half.\n\nPhiladelphia jumped out to an 11-point lead twice in the second quarter. The Hawks pulled within three in the first minute of the third before the Sixers put away the game with a 39-15 run that made it 86-59 entering the fourth.\n\n\"Without Joel it just means we run more, we shoot the ball a lot more from 3, and it's a quicker game,\" Simmons said. \"But we lose that big presence of him in the post, changing shots and things like that. So we lose a lot, but we're able to move the ball a lot quicker.\"\n\nDamion Lee finished with a career-high 20 points and Dewayne Dedmon had 11 points and 15 rebounds for Atlanta, the NBA's second-worst team.\n\nThe Sixers, improving to a season-best 15 games over .500, matched the club's longest winning streak since it had nine straight victories from Feb. 12-March 2, 2003.\n\nJJ Redick scored 11 of his 19 points in the third as Philadelphia did as it pleased with the undermanned Hawks, who learned before the game that scoring and assists leader Dennis Schroder will miss the rest of the season.\n\nIlyasova had 11 points in the first, and he finished with a season-high 16 rebounds. Amir Johnson had 11 rebounds in 17 minutes.\n\n\"I think to fill in for Joel Embiid is obviously a difficult task,\" Sixers coach Brett Brown said. \"You'll notice we played Ersan quite a bit at the 5, and I thought Amir was very good.\"\n\nHawks guard Taurean Prince, who went scoreless in the second half after getting 12 in the first, credited Simmons with helping Philadelphia's offense flow so smoothly in the third.\n\n\"Very tough and he has great players around him,\" Prince said. \"It makes it that much easier for him. A lot of shooters, and they do a great job of putting him in position to make those things happen.\"\n\nTIP-INS\n\nSixers: Embiid must wait for swelling to reduce before the team sets a date for surgery to repair an orbital fracture of his left eye. The 7-footer, averaging 22.9 points and 11 rebounds, is also in the NBA concussion protocol. He is expected to miss two to four weeks. ... Brown called timeout with 2:25 remaining after the Hawks closed within 13, but there was no need to worry. Point guard T.J. McConnell ran down the clock and hit a baseline jumper to end Atlanta's hopes.\n\nHawks: Schroder, averaging 19.4 points and 6.2 assists, will miss the final seven games with a medial bone bruise and a sprained left ankle. Schroder underwent an MRI earlier in the day. Expected recovery time is at least two weeks. The fifth-year veteran joins guard Kent Bazemore, the Hawks' third-leading scorer, on the season-ending injury list. ... Atlanta had a season-high 59 rebounds.\n\nUP NEXT\n\n76ers: At Charlotte on Sunday.\n\nHawks: Host Orlando on Sunday.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "TripleDouble",
+    "ThreePointExplosion",
+    "Streak",
+    "CoachComment",
+    "EarlyRun",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.920700",
+  "pipeline_version": "v1"
+}

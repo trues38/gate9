@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400446",
+  "espn_id": "400578738",
+  "date": "Dec 27, 2014",
+  "matchup": "MEM @ MIA",
+  "headline": "Mike Conley leads Grizzlies over Heat with 24 points",
+  "cleaned_body": "MIAMI --  There were 11 instances in the second half where Memphis' once-burgeoning lead was almost gone, with Miami having closed within one or two points.\n\nThe key word: almost.\n\nBending but never breaking, the Grizzlies dug deep to snap their four-game slide. Mike Conley scored 24 points, Marc Gasol added 22 points and 10 rebounds, and the Grizzlies never trailed in a 103-95 win over the Heat on Saturday night.\n\n\"Every time they got to one or two, I thought we executed pretty well,\" Memphis coach David Joerger said. \"We got stops when we needed to. ... If we play that way, we're going to win some games.\"\n\nBeno Udrih scored 11 for the Grizzlies, who led by 19 early in the second half.\n\nDwyane Wade scored 25 points for Miami, which fell to 6-11 at home. Danny Granger scored a season-high 18 off the bench for the Heat, who got 16 from Luol Deng and 13 from Chris Andersen.\n\n\"That's when you can grow the most, when you embrace the struggle, learn from it and get over that struggle,\" Heat coach Erik Spoelstra said. \"We're not quite there yet.\"\n\nTony Allen, Courtney Lee and Tayshaun Prince each scored 10 for Memphis.\n\nThe last few seconds before halftime couldn't have gone more to Memphis' liking.\n\nAlready up by 12, the Grizzlies got possession on a play where Wade dove to corral a loose ball near midcourt, his momentum taking him over the line for a backcourt violation. Spoelstra got a technical for arguing that Wade was fouled on the play, which led to a free throw from Conley.\n\nAnd on the ensuing possession, Conley hit a 30-footer to beat the clock and send the Grizzlies into the break ahead 57-41.\n\n\"We had to earn this,\" Conley said. \"This team wasn't going to go away. They played very well especially at home. They have a great group of guys over there and they're well-coached so we knew it was going to be a dogfight.\"\n\nConley hit another 3 to open the second half and stretch the lead to 19, but the remainder of the quarter was all Miami.\n\nDeng had 10 points in the period, Wade was 3 for 3 with four assists, and the Heat outscored Memphis 23-5 over a stretch of just under 6 minutes to cut it to 65-64 -- starting the trend of Miami getting close, but never getting the lead.\n\n\"We gave ourselves a chance to win,\" Wade said. \"That's all we can do.\"\n\nTIP-INS\n\nGrizzlies: Gasol has scored 20 or more points 17 times this season -- matching his best for any full season. ... Memphis F Zach Randolph missed his fourth consecutive game with right knee soreness. ... Vince Carter played against Miami for the 55th time, Prince for the 53rd time.\n\nHeat: Miami will go into the new year with a losing record, the first time that'll happen since 2008. The Heat are 14-17 with two games left before 2015. ... Wade reached the career 18,000-point mark. ... Heat C Chris Bosh (strained right calf) missed his eighth straight game.\n\nFREE THROW WATCH\n\nMemphis took 37 free throws to Miami's 21. It was the fourth time a Heat opponent got at least 33 free throws in a Miami home game this season.\n\nGRANGER'S NUMBERS\n\nGranger's 18 points matched the most he's scored in his last 72 games -- not counting the 152 games he missed with injuries in that span.\n\nUP NEXT\n\nGrizzlies: Host San Antonio on Tuesday.\n\nHeat: Host Orlando on Monday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.089999",
+  "pipeline_version": "v1"
+}

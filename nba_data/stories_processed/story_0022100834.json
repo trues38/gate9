@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100834",
+  "espn_id": "401360653",
+  "date": "Feb 10, 2022",
+  "matchup": "TOR @ HOU",
+  "headline": "Trent has 42; Raptors push streak to 8 with win over Rockets",
+  "cleaned_body": "HOUSTON -- — Gary Trent Jr. scored a season-high 42 points, and the Toronto Raptors pushed their season-high winning streak to eight games with a 139-120 victory over the Houston Rockets on Thursday night.\n\nToronto’s winning streak is the longest active one in the NBA and the loss extended Houston’s skid to four games.\n\nIt was Trent’s seventh game with 30 points or more this season and Pascal Siakam added 30 points for his sixth 30-point game. Trent and Siakam both got going early and had 25 and 26 points respectively by halftime as Toronto built a 73-64 lead.\n\n“Those two guys really came out ready to go tonight,\" coach Nick Nurse said. “They’re doing it with composure. They’re just really confident with the ball right now.\"\n\nThe 42 points were the most for Trent, who made six 3-pointers, since he had a career-high 44 last April against Cleveland.\n\nTrent said the 51 points he and Siakam combined for in the first half helped get them going on a night they were without Fred VanVleet.\n\n“It was a big boost,\" Trent said. “No Freddie VanVleet, an All-Star being out, everybody needed to pick up the slack in a sense and everybody needed to come ready to get a win and that’s what we did.\"\n\nThe Raptors had a 12-point lead to start the fourth and a 9-2 spurt early in the period, with four points from Chris Boucher, pushed their advantage to 114-95 with about 9 minutes to go.\n\nHouston used a 14-5 run to cut the deficit to 119-109 with about 5 minutes remaining. The Rockets made four 3-pointers in that stretch, with two from Kevin Porter Jr.\n\nToronto called a timeout, and the Raptors scored the next seven points, highlighted by a steal and three-point play by Trent, to make it 126-109 with 4 minutes to go and Houston didn’t threaten again.\n\nNurse was asked about the key to his team's success during this streak.\n\n“Our first five has really meshed together with some great chemistry,\" he said. “They can hit you from a lot of different areas and they’ve been pretty good at finding each other. It’s been a lot of guys playing well and that’s what you need when you go on a longish winning streak.\"\n\nPorter had a season-high 30 points and Garrison Mathews added 19 for the Rockets, who lost for the eighth time in nine games.\n\n“We’ve been starting games off pretty good, our energy’s been very good,\" coach Stephen Silas said. “But... the growing pains that we have are are evident at (key) points of the game.\"\n\nThe Raptors were up by nine with about 4 ½ minutes left in the third quarter when Siakam collected his fifth foul and went to the bench. A 3-pointer by Christian Wood got the Rockets within 93-87 soon after that. But an 8-2 spurt by Toronto, with the first four points from Dalano Banton, pushed the lead to 12 with less than a minute left in the third.\n\nJosh Christopher made a 3-pointer for Houston with 10 seconds left in the quarter before Chris Boucher’s 3 at the buzzer left the Raptors up 104-92 entering the fourth.\n\nTIP-INS\n\nRaptors: VanVleet sat out with left groin soreness. ... Boucher had 16 points off the bench. ... Toronto made 15 of 39 3-pointers.\n\nRockets: Eric Gordon missed his third straight game with a foot injury. ... Jalen Green, the second overall pick in the draft, had 18 points. ... Wood had 17 points and 11 rebounds. ... The Rockets had 21 turnovers.\n\nFIRST HALF HIGHLIGHT\n\nSiakam and Trent are the third pair of teammates since the 1997-98 season to score at least 25 points by halftime. Stephen Curry and Klay Thompson did it for the Warriors and James Harden and Chandler Parsons did it while playing for the Rockets.\n\nUP NEXT\n\nRaptors: Host Denver Saturday night.\n\nRockets: Play the first of four straight road games at Utah Monday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.545724",
+  "pipeline_version": "v1"
+}

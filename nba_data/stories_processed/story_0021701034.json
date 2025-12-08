@@ -1,0 +1,24 @@
+{
+  "game_id": "0021701034",
+  "espn_id": "400975780",
+  "date": "Mar 16, 2018",
+  "matchup": "LAL vs. MIA",
+  "headline": "Dragic lifts Heat past Lakers 92-91",
+  "cleaned_body": "LOS ANGELES --  One little floater for Goran Dragic lifted the Miami Heat to a big win.\n\nDragic scored 30 points, including a go-ahead jumper in the final seconds, and the Heat snapped a nine-game road losing streak with a 92-91 victory over the Los Angeles Lakers on Friday night.\n\nMiami trailed 91-90 after Kyle Kuzma made a 3-pointer for Los Angeles with 1:23 left. But Dragic got the lead back for the Heat with a 10-foot floater in the lane. Isaiah Thomas then missed a fallaway jumper for the Lakers, and the Heat grabbed the rebound to close it out.\n\n\"It was a tough stretch, but finally tonight the basketball gods were on our side,\" Dragic said.\n\nKelly Olynyk scored 17 points for Miami, which was coming off an overtime loss at Sacramento on Wednesday night. James Johnson had 12 points, and Bam Adebayo added 11 points and eight rebounds.\n\nThe road win left the Heat 15 1/2 games back in the Eastern Conference, in a virtual tie with Milwaukee for seventh. Miami (37-33) has played two more games than the Bucks.\n\n\"We thought it was very fitting that this road trip ended on a defensive stop,\" Heat coach Erik Spoelstra said. \"That's all we talked about the last 48 hours.\"\n\nMiami got some help Friday when the officials reviewed a shot by Dragic that they originally said missed the rim. The Heat called timeout, and the shot clock showed 0.5 seconds remaining. When the replay showed the shot had nicked the rim, the Heat got a full 24 seconds to set up Dragic's winning shot.\n\n\"We were definitely fortunate,\" Spoelstra said.\n\nJulius Randle led the Lakers with 25 points and 12 rebounds. Brook Lopez added 18 points, and Kuzma and Travis Wear each had 11.\n\nThomas went 1 for 9 from the field.\n\nTIP-INS\n\nHeat: With G Dwyane Wade out for a third consecutive game with a sore left hamstring, Miami recalled Derrick Jones Jr. from its G-League affiliate. He has three days of eligibility on his two-way contract and the development league season ends March 24, so he could remain with the Heat for the duration of the season.\n\nLakers: Kuzma returned after missing the previous game with a sore ankle. ... Lopez was a game-time decision with back tightness. ... F Brandon Ingram, who has missed the last eight games with a sore groin, has been updated to day to day.\n\nHOME SWEET HOME\n\nSalvaging the final game of their three-game road trip lifted the Heat's spirits ahead of their return to Miami, where they are 20-13 this season.\n\n\"Every game has playoff implications for us,\" Olynyk said. \"We have to treat every game like a playoff game.\n\n\"We really have to go home and take care of business.\"\n\nUP NEXT\n\nHeat: Return home to play Denver on Monday.\n\nLakers: Begin a four-game road trip Monday in Indiana.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "Streak",
+    "ClutchShot",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.837857",
+  "pipeline_version": "v1"
+}

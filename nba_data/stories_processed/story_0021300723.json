@@ -1,0 +1,26 @@
+{
+  "game_id": "0021300723",
+  "espn_id": "400489596",
+  "date": "Feb 04, 2014",
+  "matchup": "CHI @ PHX",
+  "headline": "Carlos Boozer, Bulls bounce back with win over Suns",
+  "cleaned_body": "PHOENIX -- A trip to the desert was enough to get the Chicago Bulls back on track.\nCarlos Boozer had 19 points and 12 rebounds, and the Bulls snapped the Phoenix Suns' five-game winning streak with a 101-92 victory Tuesday night.\nThe Bulls shot 45 percent from the field and had five players score in double figures, bouncing back from an ugly 99-70 loss at Sacramento on Monday. The Bulls shot 28 percent and were outrebounded 53-30 against the Kings.\n\nOne night later, it was a completely different story.\n\"You could have used an excuse if you chose to do so, but that's what I love about the team,\" Bulls coach Tom Thibodeau said. \"They come out and they're going to fight. They picked themselves up and did it together, and you could tell in the first quarter the commitment to get back, the commitment to get to put their bodies in front of people and take charges, make hustle plays, make effort plays.\"\nJimmy Butler and D.J. Augustin had 18 points apiece for the Bulls, who won for the fifth straight time in Phoenix. Joakim Noah, who was ejected in the third quarter of the loss at Sacramento, had 14 points and 14 rebounds.\nChicago (24-24) had dropped three of four, including an 88-79 loss at New Orleans on Saturday.\n\"We got punched in the mouth in New Orleans, we got punched in the mouth in Sacramento, and we just wanted to come out and compete for 48 minutes as a team,\" Noah said.\nThe Bulls kept the Suns' prolific offense in check, holding them 13 points under their average even though Phoenix (29-19) was coming off two days' rest. Boozer didn't play for much of the fourth quarter as Chicago went mainly with Taj Gibson as an interior defender, but his teammates did damage on offense down the stretch.\nAugustin had three fourth-quarter 3-pointers to help keep the Bulls in front. Noah also had a couple of key baskets in the final period.\nButler's 3-pointer with 4:43 to play gave the Bulls an 89-80 lead, but Goran Dragic hit a 3 and Leandro Barbosa, playing extended minutes with sharpshooter Gerald Green struggling, drove for a layup to cut the lead to 89-85.\nThen Butler and Noah came up with back-to-back baskets, and the Suns' rally fizzled.\nDragic, the reigning Western Conference player of the week, led Phoenix with 24 points. It was the guard's fifth straight game with 20 or more points.\nChanning Frye had 18, and Barbosa scored nine of his 13 in the fourth quarter.\n\"We gave up so much easy stuff,\" Dragic said. \"We didn't bring it, no energy and we didn't do smart plays. They did not let us run our actions. They were denying our big guys. It was just hard to pass and cut.\"\nDown 13 points in the third quarter, the Suns went on a 13-4 run to close to 50-46 on Dragic's driving layup at the nine-minute mark. The Bulls went up by 11 on a follow by Boozer, but the Suns cut the lead to 60-55 on a pair of Dragic free throws with 4:36 left.\nMike Dunleavy scored eight of his 11 points in the third quarter, helping Chicago carry a 69-63 lead into the fourth.\nThe game started with a brisk pace, but the Suns missed more shots and had more turnovers in what turned out to be an offensively deficient first quarter. The 13 points for Phoenix were its lowest total in a first quarter this season.\n\"That's the difference of a team that really gets after it defensively and makes it tough on all the shots,\" Suns coach Jeff Hornacek said. \"They took us out of our stuff but we let them do whatever they wanted.\"\nBoozer had eight points and five rebounds to help Chicago to a 21-13 lead after one.\nGame notes\nNoah was fined $15,000 by the NBA for verbally abusing officials after he was ejected Monday in Sacramento. Noah started Tuesday night's game. \"I never thought it warranted suspension, so it was probably appropriate,\" Thibodeau said. \"He got fined for cursing.\" ... Noah has 22 double-doubles and Boozer 15 this season. ... Suns players Markieff Morris, Dragic and Green were assessed technical fouls. ... The Suns never led Tuesday after being in front for all but 1:59 of the 192 total minutes of the previous four games. ... Suns guard Eric Bledsoe missed his bobblehead night with a right knee injury. ... A bird got into the US Airways Center seating bowl during the second quarter and flew a lap around the court and into the upper deck before finding its way out.",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.484051",
+  "pipeline_version": "v1"
+}

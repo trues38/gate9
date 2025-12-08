@@ -1,0 +1,22 @@
+{
+  "game_id": "401810218",
+  "referee_context": {
+    "crew_chief": "Bill Kennedy",
+    "regime": {
+      "style": "Fair & Balanced",
+      "home_win_pct": 52,
+      "foul_rate": "Medium",
+      "variance_impact": "Neutral",
+      "pace_impact": "Neutral"
+    }
+  },
+  "market_context": {
+    "provider": "Draft Kings",
+    "details": "OKC -11.5",
+    "overUnder": 235.5
+  },
+  "injury_context": {
+    "home": [],
+    "away": []
+  }
+}

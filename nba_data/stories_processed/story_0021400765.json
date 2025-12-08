@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400765",
+  "espn_id": "400579057",
+  "date": "Feb 08, 2015",
+  "matchup": "OKC vs. LAC",
+  "headline": "Kevin Durant leads Thunder to blowout win against Clippers",
+  "cleaned_body": "OKLAHOMA CITY -- The Los Angeles Clippers stumbled in their first test without Blake Griffin.\nThe Clippers announced before their game at Oklahoma City on Sunday that the All-Star forward would be out indefinitely because of a staph infection in his right elbow. Without him, the Clippers fell to their most lopsided defeat of the season, a 131-108 loss to the Thunder.\nGriffin will have surgery Monday in Los Angeles and will be re-evaluated after the All-Star break.\n\n\"We're depleted right now, but no one feels sorry for us,\" coach Doc Rivers said. \"I don't feel sorry for us. You got to just figure it out and keep playing.\"\nKevin Durant scored 29 points, Russell Westbrook had 19 points, 11 rebounds and five assists, and rookie Mitch McGary added 19 points and 10 rebounds for the Thunder, who shot 52 percent and moved back above the .500 mark.\nMcGary, a reserve forward, had missed most of the season with left foot and leg injuries and had played in only two NBA games. He provided energy with his play, then took it up a notch by flexing and beating his chest to exhort the crowd. At one point, he drew a standing ovation.\n\"I'm a pretty energetic guy, so usually the crowd gets into it,\" he said. \"I always hear loud fans cheering when I enter the game, even when I don't score or anything like that. I ended up having a good game, and all I could do was get the crowd into it even more.\"\nWestbrook said McGary has put in the time to be ready between rehabbing and playing for the D-League Oklahoma City Blue.\n\"You see how much work he put in over the past month-and-a-half, two months of recovering and getting himself back in,\" Westbrook said. \"To see him get an opportunity was very exciting.\"\nJamal Crawford scored 21 points and Paul had 18 points and 13 assists for the Clippers, who were outrebounded 54-29 without Griffin.\n\"They killed us, and we've got to be better,\" Rivers said.\nThunder center Steven Adams injured his right hand after being fouled with 3:36 left in the second quarter. The right-handed New Zealander shot a pair of free throws with his left and made the second, drawing a roar from the crowd. He did not return.\nThe Thunder led 66-56 at halftime, and Oklahoma City opened the second half on a 9-2 run. A contested 3-pointer by Durant gave the Thunder a 75-58 lead. Westbrook drained a 3-pointer with 11.9 seconds left in the third quarter to put the Thunder up 101-75.\n\"I thought we had the right game plan going into it,\" Rivers said. \"We were going to try to plug up the paint, but as the game went on, it just kind of got away from us.\"\nTIP-INS\nClippers: G J.J. Redick missed the game with back spasms. ... F Spencer Hawes started in Griffin's place and matched a season high with 17 points. ... F Glen Davis left the game in the second quarter with upper back spasms and did not return. ... Crawford was issued a technical foul with 3:07 left in the third quarter.\nThunder: C Kendrick Perkins missed the game because of a suspension. The league said he initiated and made head-to-head contact with Tyreke Evans of the New Orleans Pelicans last Friday. ... G Anthony Morrow sat out with right shoulder soreness.\nDOMINANT DURANT\nDurant, on scoring 15 points in a row for the Thunder in the first quarter, primarily against Matt Barnes: \"I feel like if I get a 1-on-1 matchup there, it's to my advantage, and I was able to make some shots. My teammates were looking for me, and Coach was calling my number.\"\nSTAT LINES\nWestbrook was perfect from the free-throw line for the second straight game -- he made 15 of 15 on Friday against New Orleans, and 6 of 6 against the Clippers.\nUP NEXT\nClippers: At Dallas on Monday.\nThunder: At Denver on Monday.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.737064",
+  "pipeline_version": "v1"
+}

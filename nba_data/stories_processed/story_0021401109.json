@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401109",
+  "espn_id": "400579401",
+  "date": "Mar 31, 2015",
+  "matchup": "DET vs. ATL",
+  "headline": "Drummond leads Pistons past Hawks 105-95",
+  "cleaned_body": "AUBURN HILLS, Mich. --  The Detroit Pistons played without Greg Monroe again on Tuesday night, and their top two point guards were limited.\n\nThey still found a way to beat the top team in the Eastern Conference.\n\nAndre Drummond had 22 points and 13 rebounds, and the Pistons defeated the Atlanta Hawks 105-95 for their fifth victory in the last six games.\n\nAnthony Tolliver had 13 points and 10 rebounds for the Pistons (29-45), who are 6-2 since Monroe strained his right knee in practice. Reggie Jackson collected 12 points and 11 assists despite being limited to four-minute stints in each of the last three quarters by an illness.\n\n\"I was a little under the weather, and I felt it before the game, but I tried to give the guys everything I could,\" Jackson said.\n\nJackson was wrapped in hot blankets for much of the night and Spencer Dinwiddie played four minutes before spraining his ankle, putting Detroit in a bad spot at point guard. But the veterans provided plenty of help.\n\nJohn Lucas III scored 15 points in his first game since March 13, and Joel Anthony played 17 minutes of tough post defense. Caron Butler and Tayshaun Prince combined for 16 points at small forward.\n\n\"I hope all of our young guys are learning from the way they work,\" coach Stan Van Gundy said. \"Joel is always ready to give us great defense and John hadn't played in weeks, but when we needed him tonight, he was there to get us through the game. Caron and Tayshaun, too. This is just a great group of veterans working with a young core.\"\n\nThabo Sefolosha scored 19 points for Atlanta, and Al Horford had 16 on 8-of-11 shooting. The Hawks (56-19), who have clinched the East's top seed for the playoffs, have dropped two of three.\n\nCoach Mike Budenholzer used his bench in a full platoon system, playing the starters for 11 or 12 minutes at the beginning of each half, and then making a five-player switch to the reserves for the rest of the half.\n\n\"We wanted to really give the starting group with Jeff (Teague), Kyle (Korver), DeMarre (Carroll) and Paul (Millsap) a lot of reps together and a lot of time together,\" he said. \"The same thing for the second group. We've used a lot of different combinations, so tonight we wanted to give the two main groups all the reps.\"\n\nSefolosha thought it worked, despite the final score.\n\n\"I think it is good for the second unit to get to play together like we did, because we could work on some things and so could the first unit,\" he said. \"It was very good for communication on defense.\"\n\nThe Pistons hit 10 of their first 11 shots, including four 3-pointers, while building a 25-14 lead midway through the first quarter. But they were unable to keep up their torrid shooting and Atlanta closed to 52-50 at halftime.\n\nJackson had 10 assists in the half, while Horford had 12 points for the Hawks.\n\nKorver hit back-to-back 3-pointers to give Atlanta the lead early in the third, but seven quick points from Kentavious Caldwell-Pope put Detroit back in front.\n\nThe Pistons carried a 76-72 lead into the fourth, and Jackson entered the game again despite having spent the last several minutes wrapped in hot towels. He started the quarter by banking in a 3-pointer, and Prince increased the lead to 11 with a swooping lefty dunk.\n\nTIP-INS\n\nHawks: Because of Budenholzer's platoon system, all five starters played exactly 23:44, while four reserves played 24:16. The only break in the pattern came when Austin Daye replaced Pero Antic late in each half.\n\nPistons: Van Gundy said that he didn't know about Dinwiddie's status, which is a problem with the Pistons starting a stretch of four games in five nights.\n\nUP NEXT\n\nHawks: Off until Saturday, when they host the Nets.\n\nPistons: At the Hornets on Wednesday.\n\n400 FOR VAN GUNDY\n\nVan Gundy became the 10th fastest coach to 400 career wins, accomplishing the feat in 653 games. Van Gundy, though, didn't spend much time basking in the achievement.\n\n\"I think I have 400 losses too, and they might have all been this season,\" said Van Gundy, who will have the first losing record of his career this year. \"All that means is I've coached a lot of games, and that's because I've had a lot of great players and a lot of great bosses who let me stay around for a long time. They deserve any credit for this.\"",
+  "tags_rule": [
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.530990",
+  "pipeline_version": "v1"
+}

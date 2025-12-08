@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300909",
+  "espn_id": "400489782",
+  "date": "Mar 05, 2014",
+  "matchup": "CHI @ DET",
+  "headline": "Joakim Noah records another triple-double as Bulls down Pistons",
+  "cleaned_body": "AUBURN HILLS, Mich. -- The Chicago Bulls didn't get a great night from their starters Wednesday. Their backups made sure they didn't need one.\nReserves D.J. Augustin and Taj Gibson combined for 48 points on 18-of-30 shooting as the Bulls beat the Detroit Pistons 105-94 for their fifth win in six games. The Bulls only led by one point going into the fourth, but Augustin and Gibson had 20 of Chicago's 34 in the fourth.\n\"A lot of guys are stepping up on this team right now,\" Gibson said. \"Everyone is working hard and helping in whatever way we need. The guys are just focused on the team right now.\"\nBoth coaches went with seven-man rotations for most of the game, but Chicago's duo completely outmatched Rodney Stuckey and Will Bynum. They finished with 12 points on 5-of-20 shooting, including a 1-for-11 night from Bynum.\n\n\"Will played his heart out, just like he always does,\" Pistons coach John Loyer said. \"He gives us everything he's got every night, but there are going to be some games where the ball just rolls off the rim. They've got two very good players coming off the bench -- Gibson has done that all year for them and Augustin has been like that since he got to Chicago.\"\nJoakim Noah finished with 10 points, 11 rebounds and 11 assists for his sixth career triple-double, including two in the last three games and three in the last month, while Jimmy Butler had 18 points and 12 rebounds.\n\"Jo's our leader, and a triple-double is nothing to him,\" Butler said. \"We are starting to expect that from him. He does so many things well that it makes it easier for the rest of us.\"\nGreg Monroe led Detroit with 27 points, but the Pistons struggled all night to get anything going from the outside. They took 34 shots from outside the paint, and only hit nine (26.5 percent), including 2-of-11 on 3-pointers. In contrast, the Bulls hit 46.7 percent from outside.\n\"They hit shots, especially in the fourth quarter, and they picked up their intensity on defense,\" Loyer said. \"We didn't match that, and when you do that against a playoff team, you aren't going to win many games.\"\nDetroit led for most of the second quarter, but appeared to get rattled by an official's decision. Smith was driving for a layup that would have made it 43-34, but the shot was blocked by Mike Dunleavy. Smith didn't get back on defense, staying near the basket to argue the call, and Jimmy Butler got an easy alley-oop dunk at the other end.\nSmith was then called for a technical, and Augustin hit the free throw to make it a four-point game.\nChicago scored the next four points to tie the game, and a technical called on Loyer with 3.7 seconds left in the half helped the Bulls take a 52-47 lead at the intermission.\nThe Pistons narrowed the gap to 71-70 in the third quarter, but Augustin and Gibson kept scoring off the bench to help Chicago stay in front. Augustin's three-point play early in the fourth keyed an 11-2 run to start the period, putting the Bulls up by 10.\n\"We talk about how we want to finish games, and we were real strong coming out for the fourth,\" Chicago coach Tom Thibodeau said. \"Our defense was strong, and our ball movement was good. Hitting the open guy makes a big difference.\"\nAugustin wasn't finished, either. His 3-pointer gave the Bulls a 15-point lead with six minutes to go, and the Pistons never threatened down the stretch.\n\"They just outplayed us in the fourth quarter,\" Andre Drummond said. \"They are a very disciplined team that prides itself on defense. We hung with them for three quarters, but they ran their offense in the fourth quarter and outexecuted us.\"\nGame notes\nLoyer's technical at the end of the first was called in a highly unusual manner. Loyer was discussing a call with official Olandis Poole, who showed no indication of calling anything, but John Goble rang him up from 30 feet away. ... Gibson and Brandon Jennings picked up technicals arguing calls in the second half. Gibson left the game with 3:39 to play after rolling his right ankle, but returned moments later. ... IndyCar champion Scott Dixon was honored during the first half as part of a promotion for the Detroit Grand Prix.",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.922942",
+  "pipeline_version": "v1"
+}

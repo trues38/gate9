@@ -1,0 +1,21 @@
+{
+  "game_id": "0022100296",
+  "espn_id": "401360120",
+  "date": "Nov 27, 2021",
+  "matchup": "MIA @ CHI",
+  "headline": "Kyle Lowry scores 19 points, Heat beat Bulls 107-104",
+  "cleaned_body": "CHICAGO -- — Kyle Lowry scored 19 points, Jimmy Butler added 18 and the Miami Heat beat the Chicago Bulls 107-104 on Saturday night.\n\nGabe Vincent made four three-pointers and had 20 off the bench, 16 in the fourth quarter, and Bam Adebayo added nine points, six assists, and seven rebounds.\n\nThe Heat won without Tyler Herro. Averaging 22.2 points over the past 10 games, he sat out because of illness. Before the game, coach Erik Spoelstra said Herro was “under the weather,” and would be a game-time decision.\n\nThat allowed more playing time for Vincent who more than filled the void left by Herro.\n\n“That's usually the deal when you play against really good teams,\" Spoelstra said. \"You're going to need a lot of contributions. You're going to have basically your entire rotation putting their fingerprints on a game to impact the win and that's what you saw tonight. Tyler was out so different guys had to step up.”\n\nDeMar DeRozan led the Bulls with 28 points, and Alex Caruso had 22 in a game that had a playoff feel.\n\n“That's the type of style you're going to get, the type of physicality you're going to get when you are in the playoffs. That's a lesson learned for us to take from,” DeRozan said.\n\nVincent's fourth 3-pointer put Miami up 92-87 with 5:05 left. After the Bulls cut it to three, Lowry answered with a 3 to give the Heat a 95-89 lead and Max Strus extended the lead to 98-91 when he was fouled by Nikola Vucevic on a 3-point attempt.\n\nDeRozan got the Bulls to 102-99 on a layup with 25.9 left, but Lowry sealed the game for the Heat with a layup on the other end.\n\nThe Bulls have lost three of their last four. But DeRozan is not concerned.\n\n“No worry at all. It happens,\" said DeRozan. “It's just a bad week. We have to take from it, understand it, and give us more of that passion to go out there that we can't go out there and give up the next one.”\n\nThe Bulls were playing on a backend of a back-to-back and their third game in four nights. After a 35-point blowout win at Orlando on Friday, the Bulls shot just 41.2 percent in the first quarter as the Heat held the Bulls to 20 points in the first quarter.\n\nTIP-INS\n\nHeat: Robinson went 4 for 11 from 3-point range, extending his franchise-record streak to 68 straight games with at least one 3-pointer.\n\nBulls: Caruso got the fans to their feet early in the game with a dunk over P.J. Tucker for a three-point play in the first quarter. ... The Heat held Zach LaVine to five points in the first half on 2-of-6 shooting and DeRozan to six points on 2-of-5 shooting. LaVine is averaging 25.8 pointers per game. LaVine finished with 16. ... Nikola Vucevic was assessed a technical after he threw his mouth guard on the floor in frustration in the third quarter.. ... The Bulls had 22 turnovers.\n\nUP NEXT\n\nHeat: Host Denver on Monday night.\n\nBulls: Host Charlotte on Monday night.\n\n------",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.732049",
+  "pipeline_version": "v1"
+}

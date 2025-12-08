@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100228",
+  "espn_id": "401360052",
+  "date": "Nov 18, 2021",
+  "matchup": "PHI @ DEN",
+  "headline": "Maxey, 76ers beat Nuggets 103-89 to snap 5-game skid",
+  "cleaned_body": "DENVER -- — Tyrese Maxey scored 22 points, Seth Curry added 20 and the short-handed Philadelphia 76ers beat the Denver Nuggets 103-89 on Thursday night to snap a five-game losing streak.\n\nPlaying without Joel Embiid and three other regulars, the 76ers held Nikola Jokic to three points in the second half in part thanks to the play of rookie big man Charles Bassey. He had 12 points, seven rebounds and three blocks on a night when enraged Nuggets coach Michael Malone was ejected and had to be restrained by Jokic after charging onto the court as the Philadelphia took control in the third quarter.\n\n“I knew coming into the game, missing Joel, that my time was going to come on this trip,” Bassey said. “It was just a matter of getting ready.”\n\nJokic had 30 points, 10 rebounds and seven assists before leaving the court for the locker room late in the fourth quarter. Malone joked that he was just checking on him.\n\n“As far as I know there's nothing wrong with Nikola,” Malone said.\n\nWill Barton returned from a back injury to finish with 19 points, nine rebounds and eight assists for Denver.\n\nThe Nuggets shot 36% from the field in their second straight defeat after a five-game winning streak.\n\n“They came in and beat our (butt),” Malone said.\n\nEmbiid missed his sixth straight game after entering the NBA's COVID-19 health and safety protocols. Embiid’s absence wiped out a center matchup of the top two vote getters for last season’s NBA MVP.\n\nThe award winner, Jokic, was matched up with veteran Andre Drummond and Bassey instead. And while Jokic dominated in the first half with 27 points, he got little help and the Sixers went at him defensively with Bassey and Drummond in the second half.\n\n“He's just so good, so just trying to wear him out as much as you could,\" Sixers coach Doc Rivers said.\n\nPhiladelphia, which also got 17 points from Tobias Harris, was also again without Matisse Thybulle (health and safety protocols) and Danny Green (left hamstring). And there's been no resolution with Ben Simmons (personal reasons), who has asked to be traded.\n\nMalone was nervous before the game because \"everybody at home thinks we should win this game by 30 points.“\n\n\"If we look at no Ben Simmons, no Joel Embiid, no Matisse Thybulle, no Danny Green, they’ve lost five in a row, well, if we start thinking about that stuff that’s when you get your (butt) kicked,\" Malone added.\n\nMalone's fears proved true, as the Sixers dominated Denver's bench and built a 46-29 lead on Georges Niang's 3-pointer midway through the second quarter.\n\nJokic returned and scored in a variety of ways to get Denver to 58-52 at the half. But Philadelphia held the Nuggets to 5-of-22 shooting in the third quarter in building a 20-point lead as Malone lost his cool after thinking Curry got away with an offensive foul.\n\nMalone picked up consecutive technical fouls with 6:04 left and ran to center court to confront the officials. Jokic stepped in to cut off Malone, who was cheered as he headed through the tunnel to the locker room.\n\n“I wasn’t trying to get tossed,\" Malone said.\" I just didn’t understand a lot of things that were going on on the floor.”\n\nThe ejection didn't spark the Nuggets, as a leaky defense and poor shooting allowed the Sixers to win for the first time since Nov. 6 at Chicago.\n\n“We changed some things offensively to help us out,\" Curry said. “We put the ball in our guards' hands a little bit more to make plays.”\n\nRIVERS VS. RIVERS\n\nRivers had dinner with his son, Nuggets guard Austin Rivers, and his two grandchildren Wednesday night.\n\n“Free meal. He owes me about 20,000 more,” Doc Rivers joked.\n\nAustin Rivers, who had five points on 2-of-8 shooting, first signed with the Nuggets in April and re-signed in September.\n\nTIP-INS\n\n76ers: Curry was 8 of 17 from the field after going 8 of 30 in his previous three games.\n\nNuggets: Barton (back) started after missing two games. ... It was the first time in nine home games Denver has allowed 100 points.\n\nUP NEXT\n\n76ers: At Portland on Saturday night in the fourth stop of their season-long six-game trip.\n\nNuggets: Seek a 10th straight victory over Chicago when they host the Bulls on Friday night.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.208384",
+  "pipeline_version": "v1"
+}

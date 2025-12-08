@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700515",
+  "espn_id": "400975261",
+  "date": "Dec 27, 2017",
+  "matchup": "MEM @ LAL",
+  "headline": "Evans 32 points lead Grizzlies past Lakers, 109-99",
+  "cleaned_body": "LOS ANGELES --  Tyreke Evans started his career by being voted the NBA's Rookie of the Year in 2010 after averaging 20.1 points for Sacramento.\n\nThe next six years were difficult. He battled knee problems and missed games, and his scoring average plummeted to 10.3 points per game last season.\n\nBut Evans is finding his game again with Memphis, which the Lakers could attest to after he scored 32 points Wednesday night to lead the Grizzlies to a 109-99 victory over Los Angeles.\n\n\"He's really good,\" said Grizzlies interim coach J.B. Bickerstaff. \"He's been given an opportunity here that he hasn't been given in a while, probably not since his rookie year in Sacramento.\n\n\"We're depending on him to do everything. We all know he has the ability to score but his playmaking is huge because it gives his teammates confidence.\"\n\nEvans has taken over the starting point guard spot for the injured Mike Conley, and Wednesday he added seven assists and seven rebounds.\n\nJarell Martin added 20 points for the Grizzlies, who had lost four of five and were coming off their loss in Phoenix a night earlier on Tyson Chandler's dunk with 0.4 seconds left. Andrew Harrison scored 15 and Deyonta Davis had 14.\n\nThe Lakers, who were again playing without rookie point guard Lonzo Ball, lost their fourth straight.\n\nBrandon Ingram scored 23 points, but the Lakers shot only 37.6 from the field and were just 21 of 33 from the free throw line.\n\n\"I just didn't feel like we were making the extra pass consistently and Memphis did a really good job of being physical with us and they clogged up the paint,\" said Lakers coach Luke Walton.\n\nThe Grizzlies blocked nine shots. Marc Gasol had three alone with his 11 points, nine rebounds and five assists as Memphis bounced back from the loss in Phoenix.\n\n\"It's just the way it is, you have no choice,\" Gasol said. \"You kind of lick your wounds and move on to the next game.\"\n\nTIP-INS\n\nGrizzlies: F Chandler Parsons, who's been battling a sore back and hasn't been playing in back-to-back games, was held out of Wednesday's game in Phoenix but played against the Lakers. ... Bickerstaff said he wasn't concerned how his team would respond after losing to the Suns on the late lob: \"It's frustration, but this team is resilient. It's a tough group mentally.\"\n\nLakers: Ingram was cleared to play after missing the past two games with a right quad bruise and left quad tendinitis. With Ball missing his second consecutive game with a left shoulder sprain, Walton was grateful to get Ingram back. Said Walton: \"He's the best we have at putting pressure on the rim.\"\n\nEVANS ROLLING\n\nHe has started in his last 15 games and now leads the Grizzlies with a 19.4 scoring average.\n\n\"The coach tells me to be aggressive and it helps to look for your teammates, and that's what I was trying to do every chance I got,\" Evans said. \"I was going downhill, attacking and finding open guys.\"\n\nKUZMA OFF\n\nRookie Kyle Kuzma had been on an offensive roll. He scored 31 points on Christmas against the Timberwolves, connecting on 6 of 11 3-pointers.\n\nBut against the Grizzlies, he was just 4 of 24 from the field, going 1 of 11 from 3-point range.\n\n\"He shot short some of the threes,\" Gasol said. \"Most of them were good looks for him, I guess. It happens. It's part of the NBA. You have better shooting nights, worse shooting nights, and you just have to be OK with the shots you've taken.\"\n\nNEXT UP\n\nGrizzlies: Visit Golden State on Saturday.\n\nLakers: Return to Staples Center on Friday as the designated home team against the Clippers.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.136163",
+  "pipeline_version": "v1"
+}

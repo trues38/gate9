@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100219",
+  "espn_id": "401360043",
+  "date": "Nov 17, 2021",
+  "matchup": "MIL vs. LAL",
+  "headline": "Antetokounmpo, Middleton help Bucks defeat Lakers 109-102",
+  "cleaned_body": "MILWAUKEE -- — Giannis Antetokounmpo scored 47 points and Khris Middleton tied Milwaukee’s franchise record for career 3-pointers as the Bucks beat the Los Angeles Lakers 109-102 on Wednesday night.\n\nMiddleton returned after missing eight games due to COVID-19, played 30 minutes and made consecutive 3-pointers 30 seconds apart early in the fourth quarter to put the Bucks ahead for good. The second of those 3s was his 1,051st with the Bucks to match Ray Allen for first place on the team’s all-time list.\n\n“That's a very, very special place to be,” Bucks coach Mike Budenholzer said. “I think we all just admire what Khris does every night, his ability to shoot, the different ways he gets 3's and his kind of consistency and longevity here.”\n\nAllen holds the NBA record with 2,973 3-pointers in a career that also included stints with the Seattle SuperSonics, Boston Celtics and Miami Heat.\n\nLeBron James missed an eighth straight game for the Lakers due to an abdominal strain. The Lakers have gone 3-5 during that stretch.\n\nLos Angeles also is missing Trevor Ariza and Kendrick Nunn, who haven't yet appeared in a game this season.\n\n“It's a part of the game,” said Anthony Davis, who scored 18 points for the Lakers. “Same thing with the team we just played. They've been hit with injuries as well. It kind of goes with the league, the business of the game. You go out there and put your body on the line every night, God forbid, something is going to happen in the course of a season. Someone's going to get hurt. We've got to adjust and continue to fight until we get everybody back.\"\n\nTalen Horton-Tucker scored 25 points for the Lakers two nights after getting a career-high 28 in a 121-103 loss to Chicago. Russell Westbrook had 19 points, Malik Monk 11 and Carmelo Anthony 10.\n\nAntetokounmpo posted his highest point total since scoring 50 in a Game 6 Finals victory over the Phoenix Suns that clinched Milwaukee's first title since 1971.\n\n“I wanted to be the aggressor out there,” Antetokounmpo said. “I wanted to initiate the contact, get in the paint, make the right play and just play with an edge out there.”\n\nBobby Portis added 17 points for the Bucks. Middleton and Pat Connaughton had 16 each.\n\nThis marked just the third game this season in which the Bucks had their three top players – Antetokounmpo, Middleton and Jrue Holiday – all available. The only other times were in a 127-104 season-opening victory over the Brooklyn Nets and a 121-111 triumph at San Antonio on Oct. 23.\n\nBucks center Brook Lopez hasn’t played since that Nets game due to a back issue and guard Donte DiVincenzo still hasn’t made his season debut. DiVincenzo tore a ligament in his left ankle during the first round of the 2020-21 playoffs.\n\nTIP-INS\n\nLakers: Coach Frank Vogel spoke pragmatically about the name change to the Lakers’ home arena. The building known as Staples Center since its October 1999 opening will become the Crypto.com Arena starting on Christmas Day. “It’s tough, you know what I mean?” Vogel said. “Lakers fans and really sports fans in general I guess would know that building as Staples Center. I understand the disappointment the fans will have, but that’s just the way of the world. This is the business we’re in. Almost universally around the country, there’s a business element to naming rights with arenas. It’s really out of our control.”\n\nBucks: This victory started a five-game home stand for the Bucks after they returned from a five-game road trip. The Bucks went 2/3 on the trip and ended it with losses at Boston and Atlanta.\n\nUP NEXT\n\nLakers: At Boston on Friday in the second game of a five-game trip.\n\nBucks: Host Oklahoma City on Friday. The Bucks split two games with the Thunder last season.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "CoachComment",
+    "CareerHigh",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "ReturnBoost",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.588024",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,21 @@
+{
+  "game_id": "0022100997",
+  "espn_id": "401360816",
+  "date": "Mar 11, 2022",
+  "matchup": "DET @ BOS",
+  "headline": "Jayson Tatum scores 31 points, Celtics beat Pistons 114-103",
+  "cleaned_body": "BOSTON -- — Jayson Tatum had 31 points and eight rebounds, Jaylen Brown added 22 points and eight rebounds and the Boston Celtics beat the Detroit Pistons 114-103 on Friday night for their fifth victory in a row.\n\nMarcus Smart added 20 points, and Robert Williams III had 12 points and nine rebounds for the Celtics. They have won 18 of 21 since a Jan. 21 loss dropped them a game below .500.\n\nCade Cunningham had 27 points and eight rebounds for the Central Division-trailing Pistons, who had won three in a row before falling Wednesday night to Chicago. Marvin Bagley III had 20 points and 11 rebounds, and Jerami Grant also scored 20 points.\n\n“They’re a lot better than their record says,” Smart said. “When you’re playing a team like that, sometimes you have a game that’s a grind. They made you grind.”\n\nThe Celtics never led by more than four points before scoring the last four of the third quarter and the first seven of the fourth to turn a two-point deficit into a 99-90 lead.\n\n“That’s how the playoffs are going to be, so that’s a nice test late in the season,” Celtics coach Ime Udoka said. “You don’t want it easy every night, you’ve got to figure things out. I’m happy we can figure out how to get it done.”\n\nDetroit did not make a basket for the first 11:29 of the fourth and finished 2 of 15 from the field in the quarter.\n\nThe Celtics went 6 of 32 from 3-point range, with Tatum and Brown combining to go 3 for 17.\n\n“I think a lot of times early in the year, that would spell doom for us,” Udoka said.\n\nWELCOME HOME\n\nThe Celtics honored some former players who were in town for the retirement of Kevin Garnett’s No. 5 on Sunday. Among them were members of the 2008 NBA championship team, including Paul Pierce, James Posey, Leon Powe and Brian Scalabrine.\n\nPistons forward Kelly Olynyk, who played his first four seasons in Boston, was also recognized.\n\nGarnett will be the 24th Celtic to be honored in the TD Garden rafters, including No. 1 for original owner Walter Brown, No. 2 for franchise patriarch Red Auerbach and “LOSCY” for Jim Loscutoff, who left his No. 18 in circulation so Dave Cowens could wear it.\n\n“We see the banners every day,” Udoka said. “It keeps you sharp, keeps those expectations in your mind.”\n\nTIP-INS\n\nTatum topped 30 points for his fifth straight game, tying the longest such streak of his career. ... The Pistons made their first 19 free throws and finished 23 of 24.\n\nUP NEXT\n\nPistons: Host the Los Angeles Clippers on Sunday.\n\nCeltics: Host Dallas on Sunday.\n\n------",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.881169",
+  "pipeline_version": "v1"
+}

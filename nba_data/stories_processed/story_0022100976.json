@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100976",
+  "espn_id": "401360795",
+  "date": "Mar 08, 2022",
+  "matchup": "IND vs. CLE",
+  "headline": "Garland scores career-high 41, leads Cavs past Pacers",
+  "cleaned_body": "INDIANAPOLIS -- — Darius Garland scored a career-high 41 points, had 13 assists and hit a decisive pair of free throws with 14 seconds left to lead the Cleveland Cavaliers past the Indiana Pacers 127-124 on Tuesday night.\n\nThe Pacers went ahead 124-122 with 40 seconds remaining when Malcolm Brogdon was credited with a basket after Evan Mobley was called for goaltending. Mobley then tied the game on a putback, and Garland put the Cavs ahead with his free throws after Jalen Smith made an ill-advised foul on Garland.\n\n“We have to make sure the guys know the situation,” Pacers coach Rick Carlisle said. “This is a kid (Smith) that cares so much. We told him you can mourn it for 10 minutes and then you have to forget about it.”\n\nDean Wade intercepted a pass by Brogdon on the Pacers' next possession. Lamar Stevens hit a free throw, and Indiana's Tyrese Haliburton missed a desperation heave at the buzzer.\n\nMobley finished with 22 points and 12 rebounds and Lauri Markkanen added 21 points for Cleveland, which has won two straight after losing six of its previous seven.\n\n“It's great to have a point guard like (Garland) that can score the ball and dish out dimes, it makes the game super easier,” Mobley said. “We can rely on him when it comes down to the wire or on a bucket or an assist.”\n\nGarland said the entire team contributed to his big night.\n\n“I was just playing my game,” Garland said. “My teammates told me to keep going and gave me all the confidence.”\n\nGarland scored 21 points in the fourth quarter. Cleveland coach J.B. Bickerstaff said the Pacers tried multiple ways to slow down Garland.\n\n“They tried to trap him, they switched on him, they put bigger bodies on him and he found ways to get it done,” Bickerstaff said. “We need every single bucket. He was primed for the moment and he carried us home.”\n\nHaliburton led the Pacers with 25 points, and Duane Washington Jr., Jalen Smith and Goga Bitadze each scored 15.\n\nIndiana led 98-90 after three quarters, but Cleveland scored the first nine points of the fourth to set up the back-and-forth finish.\n\n“We fell victim to a great player that we were having a hard time getting under control all night,” Carlisle said. “When great players get going, it’s murder in this league to get a guy under control, especially a guy that quick.”\n\nThe Cavaliers led by as many as 12 in the first quarter. The Pacers rallied in the second to tie it 63-all at halftime.\n\n“It was a hard-fought game and a disappointing loss,” Carlisle said. “Some of the things that happened down the stretch we’re just going to have learn from.”\n\nTIP-INS\n\nCavaliers: Bickerstaff said he doesn’t know if Jarrett Allen will return before the regular season ends. Allen, who averages 16.1 points and 10.8 rebounds, broke his left middle finger during Sunday's win over Toronto. He did not travel with the team, which started a three-game trip. ... Caris LeVert, who was traded from the Pacers to the Cavs last month, missed his seventh consecutive game with a sprained right foot.\n\nPacers: Lance Stephenson was a late scratch with an ankle sprain. ... Rookie Chris Duarte returned after missing the previous three games with a toe injury.\n\nUP NEXT\n\nCavaliers: At Miami on Friday.\n\nPacers: At San Antonio on Saturday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.568775",
+  "pipeline_version": "v1"
+}

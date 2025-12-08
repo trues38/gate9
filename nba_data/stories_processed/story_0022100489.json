@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100489",
+  "espn_id": "401358782",
+  "date": "Dec 25, 2021",
+  "matchup": "MIL vs. BOS",
+  "headline": "Bucks rally late in Antetokounmpo's return for 117-113 win",
+  "cleaned_body": "MILWAUKEE -- — Giannis Antetokounmpo said he tried to set low expectations for himself when he returned to action Saturday for the first time since entering the NBA’s health and safety protocols on Dec. 12.\n\nSo much for that.\n\nIn front of a national television audience on Christmas, Antetokounmpo put up exactly the kind of numbers one would expect from him — 36 points, 12 rebounds and five assists — and the Milwaukee Bucks rallied in the closing minutes for a 117-113 victory over the Boston Celtics.\n\n“It feels good,” Antetokounmpo said. “I was excited to be back, excited to be around my teammates and the fans again and excited to play the game.”\n\nAntetokounmpo got off to a slow start and scored seven points before halftime, Milwaukee trailed a COVID-depleted Celtics team 35-22. He shook off any remaining rust with 17 points in the third then added 12 more after Boston took a 13-point lead with five minutes to play.\n\n“He’s a guy who likes his reps, the touches and feels he gets,” Bucks coach Mike Budenholzer said. “It took a half for him to kind of knock the cobwebs off but he had a great second half and I’m really impressed by him.”\n\nBoston had just eight players available after putting Dennis Schroder in the protocols earlier Saturday, but took control for most of the game behind Jaylen Brown, who scored 14 of his 25 points in the opening quarter. Jayson Tatum also scored 25 for Boston, which led by as many as 19.\n\nMilwaukee trimmed the deficit to one when Middleton knocked down a 3 with 3:39 left in the third. But the Celtics answered with five straight and opened the fourth with a 8-0 run, including six from Parker, who converted a three-point play to make it 102-90 with 10:15 to play.\n\nPortis’ put-back with 8 minutes left was the start of the Bucks’ charge. They tied the game at 111 when Antetokounmpo scored and drew a foul with 1:26 left. He missed the free throw and Brown made a pair on the other end to put Boston back in front.\n\nBut Wes Matthews buried a 3 for a 114-113 lead with 30.3 seconds left, and the Bucks held on.\n\n“I think we can only go up from here,” Celtics guard Payton Richard said. “We’re learning how we’re gonna finish games. So for us, we’ve got to take it as a good thing. We’re growing, so eventually we’ll get good at that area and we’ll then be able to take care of it.”\n\nWES’ WINNING WAYS\n\nSaturday was the first time in Matthews’ career that he played a home game on Christmas. It was even more special because it came in his home state and just days after his grandmother died. She was supposed to have been at the game, which would have been her first since the pandemic began.\n\n“She sure showed up, though, didn’t she,” said Matthews, who with his nine points Saturday now has 31 in three games since returning from COVID-19 protocols.\n\n“He’s been so good for us since he’s been back,” Budenholzer said. “He’s having a huge impact on us winning.”\n\nFULL STRENGTH\n\nAlong with Antetokounmpo, the Bucks also welcomed back center Bobby Portis and guard Donte DiVincenzo. Portis was placed in the protocols on Dec. 19, four days after DiVincenzo, who hadn’t played since suffering a left foot injury during the playoffs last season.\n\nOne player was still on the injury report before the game: center Brook Lopez, who is recovering from back surgery.\n\n“It was weird,” Bucks guard Jrue Holiday said. “It was hard to do layup lines because we didn’t have enough people, and now it was crowded.”\n\nAntetokounmpo played 30 minutes Saturday, while Portis scored 16 points in 22 minutes and DiVincenzo added three in 15 minutes.\n\nTIP-INS\n\nTo help fill out their depleted roster, the Celtics signed Al-Farouq Aminu and Norvel Pelle to 10-day contracts Saturday morning. ... The Bucks are 5-3 all-time on Christmas Day, including a 3-0 mark in Milwaukee. The Celtics fell to 15-20 all-time in Christmas Day games.\n\nUP NEXT\n\nCeltics: At Minnesota on Monday.\n\nBucks: At Orlando on Tuesday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.362612",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700529",
+  "espn_id": "400975275",
+  "date": "Dec 29, 2017",
+  "matchup": "LAL vs. LAC",
+  "headline": "Griffin returns to lead Clippers past Lakers, 121-106",
+  "cleaned_body": "LOS ANGELES --  An uncomfortable pattern has emerged the first half of the season for the Los Angeles Clippers. They cannot seem to approach being a healthy team.\n\nOn a night they got Blake Griffin back for the first time in a month from a knee injury in their 121-106 victory Friday over the slumping Los Angeles Lakers, they lost guard Austin Rivers to an Achilles strain.\n\nGriffin returned to lead all scorers with 24 points, but Rivers injured his right Achilles in the third quarter and left the arena on crutches.\n\nThey already lost guard Patrick Beverley for the season to a knee injury. Forward Danilo Gallinari is out for the second time with a glute injury. They only recently got starting point guard Milos Teodosic back from a plantar fascia injury. Like Griffin, all our starters.\n\n\"Now it looks like Austin,\" said Clippers coach Doc Rivers, Austin's dad. \"We just keep rolling. It doesn't matter who is on the floor. We play like a team, we play hard, we defend hard. Our job is to figure it out each game until we get everybody back.\"\n\nThe Lakers have their own problems. The loss was their fifth straight and eighth and their last nine games.\n\nThey fell behind 19-3 to open the game, for the second consecutive game making only one of their first 10 shots, and never could recover. Their defense lacking early, the Clippers never did trail.\n\n\"To me that's the No.1 thing we have to fix,\" said Lakers coach Luke Walton. \"It's what we've been able to hang our hat on all year. We get after it on defense, we get stops and we get out and run. Tonight we scored but we didn't play any defense.\"\n\nGriffin hit only 6 of 15 field goal attempts, but connected on 11 of 12 free throws and added six rebounds and six assists. More importantly, he reported no issues with his knee.\n\n\"It felt good,\" he said. \"I didn't have any second thoughts, any moments when I didn't trust it. That was important.\"\n\nLou Williams, who will likely take over Austin Rivers' starting role, had 23 points off the bench for the Clippers and DeAndre Jordan had 16 rebounds.\n\nJordan Clarkson led the Lakers with 20 points and Brandon Ingram and Julius Randle added 18 points each.\n\nTIP-INS\n\nClippers: Rivers said before the game that Griffin (sprained left medial collateral ligament) would not be on a minutes limit in his first game back since Nov. 11. Said Rivers: \"Not really, I think it's a lung restriction. He'll probably get tired. Other than that, it's not anything we're worried about.\" Griffin was originally expected to be out eight weeks. . F Wes Johnson (foot) also returned after missing three games.\n\nLakers: Instead of practicing Thursday, the struggling Lakers held a team meeting. Walton called it a good meeting, but warned against placing too much significance to it. Said Walton: \"I've been on a championship team where we had meetings in the middle of the season, so this is nothing new in sports and I think every athlete knows that.\" ... F Kyle Kuzma suffered a bruised right quad Wednesday but was cleared to play. . G Lonzo Ball (shoulder) missed his third consecutive game and Walton said would not play Sunday.\n\nLAKERS SHUFFLE LINEUP\n\nRandle, normally a 6-9 forward, started at center Friday. Clarkson, who had started for Ball in the Lakers last game, came off the bench Josh Hart started.\n\n\"We've been losing games and Julius has been great all year for us,\" Walton said. \"I wanted to give him a chance in there. If we'd won five out of six, we probably would have kept it how it is.\"\n\nUP NEXT\n\nClippers:  Will host Charlotte on Sunday.\n\nLakers: Travel to Houston on Sunday to meet the Rockets, who have unexpectedly lost four straight.\n\n--\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.127248",
+  "pipeline_version": "v1"
+}

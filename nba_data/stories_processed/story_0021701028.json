@@ -1,0 +1,24 @@
+{
+  "game_id": "0021701028",
+  "espn_id": "400975774",
+  "date": "Mar 15, 2018",
+  "matchup": "CLE @ POR",
+  "headline": "Blazers win 11th straight with 113-105 victory over Cavs",
+  "cleaned_body": "PORTLAND, Ore. --  Even Cleveland's late rally couldn't rattle the confident Trail Blazers.\n\nCJ McCollum scored 29 points and Portland won its NBA-best 11th straight game with a 113-105 victory over the Cavaliers on Thursday night.\n\nThe Cavs made it uncomfortable for Portland late, when they closed the gap to three points.\n\n\"It came at a time when we would have liked it not to come,\" Damian Lillard said. \"We cut it really close. But you can't complain about how you get it -- and we got another one.\"\n\nLillard added 24 points for the Blazers, on their longest run since also winning 11 in a row in 2013. It was the Blazers' eighth straight win at home.\n\nLeBron James had 35 points, including a highlight-reel dunk in the first quarter that had the fans at the Moda Center momentarily stunned. He also had 14 rebounds. Kyle Korver added 19 points.\n\n\"We sustained our energy, we sustained our effort and we left everything out on the floor,\" James said. \"Even being short-handed we still wanted to play the caliber of basketball we are accustomed to playing, and I think we did that.\"\n\nThe Blazers, currently sitting in third in the Western Conference standings, led by as many as 15 points in the third quarter. Portland kept the margin at double digits well into the final period, but James and George Hill made layups to get the Cavaliers within 105-99 with 3:25 to go.\n\nHill's 3-pointer pulled Cleveland within three points but Al-Farouq Aminu answered with a 3 and Evan Turner added a jumper to hold off Cleveland's rally. Jordan Clarkson's 3-pointer made it 110-105 with 1:34 left, but James missed a layup with 33 seconds to go and Lillard made three free throws to seal it.\n\n\"We've had some teams make pushes but we've always kept it at eight, nine, so it wasn't really dangerous. Tonight they cut it to three. And they did that with momentum, and with LeBron James on the floor,\" Lillard said. \"So that's a dangerous situation for us, but we got some bounces, we hit a few shots, made free throws down the stretch, and when we needed to get one or two stops we got them.\"\n\nThe Cavaliers, third in the East, didn't have Larry Nance Jr. because of a hamstring injury he sustained early in the third quarter of Cleveland's 129-107 victory over the Suns on Tuesday. Tristan Thompson missed his sixth game with a right ankle sprain.\n\nKevin Love, who grew up in nearby Lake Oswego, missed his ninth game with a left hand fracture. Love could return to the Cavaliers as early as next week.\n\n\"We just need to continue to keep building. We've got a lot of injuries, a lot of guys down, so we've just got to have that next man up mentality,\" Cleveland coach Tyronn Lue said.\n\nLillard, the reigning conference player of the week, made his first attempt of the game, a 3-pointer. But the highlight of the first quarter was easily James' monster dunk over Jusuf Nurkic that pulled Cleveland in front 15-14.\n\nMcCollum's 3-pointer gave the Blazers their largest lead of the half, 55-46. James made a turnaround jumper at the buzzer to pull Cleveland to 59-54 at the break.\n\nMcCollum hit consecutive 3-pointers and Lillard made another that stretched Portland's lead to 81-66 midway through the third quarter.\n\n\"I don't know about momentum but I think we're playing well,\" Blazers coach Terry Stotts said. \"Each game is a challenge. But obviously, to string together the wins that we have been, we've been doing good things at both ends of the floor and I think tonight was an example of that as well.\"\n\nTIP-INS\n\nCavaliers: James became the sixth active player with 400 double-doubles. ... It was the fifth game of a six-game road trip for the Cavs.\n\nTrail Blazers: Lillard went 0 for 5 from 3-point range in the first half, but he led all players with five assists. ... With nine assists, Lillard became the third player in league history have 1,500-plus points and 400-plus rebounds in each of his first six seasons. ... The Blazers have won five straight against the Cavs at the Moda Center.\n\nPRAISE\n\nJames was asked at shootaround earlier in the day if Lillard was unappreciated. \"Give me Damian Lillard. I'll show you how appreciated he'd be,\" he said.\n\nUP NEXT\n\nCavaliers: Conclude their road trip on Saturday against the Bulls.\n\nTrail Blazers: Host Detroit on Saturday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.589043",
+  "pipeline_version": "v1"
+}

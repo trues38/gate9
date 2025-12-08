@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700328",
+  "espn_id": "400975079",
+  "date": "Dec 02, 2017",
+  "matchup": "BKN vs. ATL",
+  "headline": "Schroder helps ailing Hawks beat Nets 114-102",
+  "cleaned_body": "NEW YORK --  The Atlanta Hawks got pushed by the Brooklyn Nets in the fourth quarter, and they responded with a game-clinching run.\n\nNot bad for a team playing without a couple of key post players.\n\nDennis Schroder scored 24 points, reserve Luke Babbitt had 20 and the short-handed Hawks beat the Brooklyn Nets 114-102 on Saturday.\n\n\"It's been a grind for us. We're taking it one game at a time and trying to win each game,\" Babbitt said. \"You can't replace John Collins or Dewayne Dedmon. I thought as a collective group everyone pitched in a little bit more tonight.\"\n\nDedmon hurt his left leg Wednesday night, and the center is expected to miss three to six weeks. Collins, the 19th pick in the June draft, injured his left shoulder Thursday night and will be out for two to three weeks.\n\n\"It's a good win for us, feels like we've been playing better,\" Atlanta coach Mike Budenholzer said. \"To actually finish a game and get a win is good for our group.\"\n\nAtlanta (5-17) had five players score in double figures in its third road win of the season. DeAndre Bembry had 12 points, and Isaiah Taylor and Taurean Prince each had 11.\n\nSpencer Dinwiddie had 15 points for Brooklyn, which has lost five of seven. Joe Harris scored 13, and Allen Crabbe, Sean Kilpatrick and Jarrett Allen each had 12 points.\n\n\"I don't think we could really guard them,\" Nets coach Kenny Atkinson said. \"I felt like they were getting us in closeouts and driving us to the rim.\"\n\nAllen's layup trimmed Atlanta's lead to 90-88 with 8:13 left. But the Hawks responded with an 18-3 run.\n\nKent Bazemore made a 3-pointer and Schroder and Babbitt each hit a jumper to make it 108-91 with 3:54 remaining.\n\nTIP-INS\n\nHawks: Ersan Ilyasova had nine points and 11 rebounds. ... After logging just 13 minutes in his first two games back from a quad injury, Mason Plumlee started at center. ... PF/C Mike Muscala was sidelined by a sprained left ankle.\n\nNets: Harris made four of Brooklyn's 17 3-pointers. The Nets were 17 for 42 from beyond the arc.\n\nLEARNING CURVE\n\nBudenholzer said Collins' time away from the Hawks could be beneficial for the 20-year-old rookie, who is averaging 11.5 points and 7.1 rebounds and had started four straight games before he got hurt.\n\nBudenholzer thought back to the 2013-14 season, when former Hawk Al Horford hurt his shoulder late in December and missed the rest of the year. He then made the All-Star team the next two seasons.\n\n\"Injuries are unfortunate, but you get to sit and watch and see things teammates are doing well. You see defensively and offensively places to be,\" Budenholzer said.\n\n\"I think just watching the team play helped (Horford) that summer to decide to work on some things, and in how he came back and approached the next season.\"\n\nUP NEXT\n\nHawks: Host Brooklyn on Monday night.\n\nNets: After visiting Atlanta, the Nets head to Mexico City for games against Oklahoma City on Thursday and Miami on Saturday.",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.371221",
+  "pipeline_version": "v1"
+}

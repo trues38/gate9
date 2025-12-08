@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400194",
+  "espn_id": "400578486",
+  "date": "Nov 23, 2014",
+  "matchup": "POR @ BOS",
+  "headline": "Blazers beat Celtics, extend win streak to 7",
+  "cleaned_body": "BOSTON -- LaMarcus Aldridge likes the attitude the Portland Trail Blazers have during this winning streak.\nAldridge had 20 points and 14 rebounds, reserve Chris Kaman scored 16 points and the Trail Blazers extended their streak to seven games with a 94-88 victory over the Boston Celtics on Sunday night.\n\"I like it because I don't want guys getting caught up in the moment of seven in a row,\" he said. \"Act like we've arrived, still in the moment, still staying hungry.\"\nDamian Lillard added 12 points, nine rebounds and five assists for Portland, which began a brief East swing. Nicolas Batum also had 12 points.\nAfter a rough first half, the Trail Blazers were much better offensively in the second. They added better defense and pulled away early in the fourth quarter.\n\"We started to get stops,\" Lillard said. \"Everything in the first half, they were comfortable and it was simple. We picked it up in the defensive end and made them have to guard more than one thing.\"\nJeff Green and Jared Sullinger had 19 points apiece for Boston, which dropped its fifth in six games. Avery Bradley and Rajon Rondo each scored 13. Rondo added eight assists and six rebounds.\n\"I feel really good about the way we guarded,\" Boston coach Brad Stevens said. \"I feel like now we have a way that we can point to or a game that we can point to that we did it against a good team.\"\nGreen agreed.\n\"I believe we played great,\" he said. \"We put ourselves in a position to win the game.\"\nThe game was tied at 72-all after three quarters before the Trail Blazers took charge with a 17-5 run to start the fourth. Wesley Matthews and Lillard each hit a 3-pointer just over a minute apart.\nBoston missed 12 of its first 14 shots in the quarter.\nThe Celtics made a brief spurt, closing it to 92-88 on consecutive 3s by Bradley and Sullinger with 90 seconds to go, but they were unable to make shots in the final minute.\nPortland shot just 35.4 percent in the opening half, but started 6 of 7 in the second and took their first lead of the game at 59-57 on Aldridge's layup. The teams were then tied five times in the final 4 minutes of the third.\nBefore the game. Portland coach Terry Stotts talked about his team needing to stop its habit of slow starts. It didn't happen, as the Trail Blazers missed 12 of their first 13 shots from the floor and fell behind by 10 midway into the second quarter.\n----\nTIP-INS\nTrail Blazers: It was just the fourth road game of the season for the Blazers. They've played nine at home, winning eight to help them get off to a great start this season. Stotts knows a short trip with three games in the East could be tough. \"It's part of the NBA. Going West to East is a challenge,\" he said. ... G C.J. McCollum missed his second straight with a fractured right index finger.\nCeltics: Stevens said the club's medical staff thinks guard Marcus Smart (sprained left ankle) could start practicing again in the \"middle of the week.\" ... The Celtics sent G/F James Young to the Maine Red Claws of the NBA Development League on Sunday. He's expected back Monday.\nVETERAN LEADERSHIP\nStotts talked before the game about how Steve Blake and Kaman, both 11-year veterans, step up at the right time. Kaman scored his points in just under 18 minutes. Blake had 11 points with five assists. \"They really stabilize. I call them my two pillars,\" he said. \"They've both been in the league for a long time. They embrace their roles.\"\nHIGH SCHOOL TO NBA?\nStevens has his own thought on the rule that a player can't come straight from high school when declaring for the NBA draft.\n\"My thoughts on the rule, and it's obviously been my own personal opinion,\" he said. \"You should go out of high school or you should go (to college) for two or three years. When kids are 18, they can do a lot of things, so they should be able to go pro. On the same time, if they're going to school, it's best for the development of them.\"\nUP NEXT\nTrail Blazers: Visit Philadelphia on Monday.\nCeltics: Host Chicago on Friday.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.090888",
+  "pipeline_version": "v1"
+}

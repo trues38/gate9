@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100189",
+  "espn_id": "401360013",
+  "date": "Nov 13, 2021",
+  "matchup": "TOR vs. DET",
+  "headline": "Jerami Grant scores 24 points, Pistons beat Raptors 127-121",
+  "cleaned_body": "TORONTO -- — Jerami Grant scored 14 of his 24 points in the fourth quarter, Isaiah Stewart scored 20 and Detroit used a big finish to beat short-handed Toronto 127-121 on Saturday night, the Pistons’ fourth straight victory over the Raptors.\n\nKillian Hayes had 13 points and a season-high 10 assists, Saddiq Bey scored 16 points, Josh Jackson had 15 points and Frank Jackson added 14 as the Pistons bounced back from Friday’s 20-point loss at Cleveland to win for the second time in three games, setting season-highs in points, assists (34), and made field goals (43).\n\n“That felt good,” Stewart said. “It felt really good. Just want to continue to keep this up heading into the next game.”\n\nThe Pistons shot 6 for 8 from 3-point range in the fourth, outscoring Toronto 34-26 in the final period.\n\n“When we’re able to share the ball like we did tonight, guys can just make plays,” Hayes said.\n\nDetroit rookie Cade Cunningham scored seven of his 10 points in the fourth.\n\n“He’s made for those kind of moments,” Stewart said. “He’s that kind of player.”\n\nPistons coach Dwane Casey said a team meeting Saturday morning helped change the mood after Friday’s lopsided loss.\n\n“We had a good meeting this morning, just talking about everything as far as team chemistry, discipline, and being a disciplined team, setting our culture,” Casey said. “As ugly as last night was, tonight was a thing of beauty.”\n\nPascal Siakam fouled out with 25 points and 12 rebounds, Gary Trent Jr. scored 23 points and OG Anunoby had 17 for the Raptors. Toronto lost for the fourth time in five games and dropped to 2-6 at home.\n\n“It seems like we haven’t played nearly as good a defense at home as we’ve played on the road,” Raptors coach Nick Nurse said. “We’re not sure why. We should have more energy and juice feeding off our home crowd.”\n\nToronto played without guard Fred VanVleet (left groin) and forward Precious Achiuwa (right shoulder). Forward Khem Birch returned after missing the previous three games because of a sore right knee.\n\nRaptors forward Chris Boucher left after three quarters because of a sore lower back.\n\nDragic started for VanVleet, his first appearance for Toronto since an Oct. 25 loss to Chicago. Dragic scored 16 points in 28 minutes.\n\nDalano Banton scored 12 points for the Raptors and fellow rookie Scottie Barnes had 11.\n\nToronto led 34-32 after one but Grant scored eight points in the second to give the visitors a narrow 65-64 lead at halftime.\n\nStewart shot 6 for 6 in the third and scored 12 points, but Anunoby and Dragic each had six points for the Raptors, who took a 95-93 lead to the fourth.\n\n“Stewart was awesome tonight,” Nurse said. “Part of that was we blew some coverages on him early.”\n\nTIP-INS\n\nPistons: Hayes had seven rebounds. … The Pistons made their first five field goal attempts of the game, then missed the next six. … Detroit scored 44 bench points. … Casey is Toronto’s career leader in coaching wins with 320 victories in six seasons. He received a warm ovation during pre-game introductions.\n\nRaptors: Siakam had seven rebounds. … Toronto went 20 for 31 at the free throw line. … The Raptors scored 25 points off turnovers. … Banton played his fourth game in four days. Banton played at Boston Wenesday and at Philadelphia Thursday, then debuted for Toronto’s G League team Friday.\n\nCANADIAN CONTENT\n\nThe Pistons (Cory Josesph, Trey Lyles, and Kelly Olynyk) and the Raptors (Birch, Banton, and Boucher) are the only two teams in the NBA with three Canadians on the roster. Five of the six were on the court together in the first quarter. The injured Olynyk (sprained left knee) is currently sidelined and expected to miss at least six weeks.\n\nGLASSES HALF-EMPTY\n\nAfter being called for travelling in the third, Barnes picked up a technical foul when he made an eyeglasses gesture toward referee Jacyn Goble. It was the first technical foul of Barnes’ career.\n\nUP NEXT\n\nPistons: Host Sacramento on Monday night.\n\nRaptors: Open a six-game trip at Portland on Monday night.\n\n------",
+  "tags_rule": [
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.944699",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100452",
+  "espn_id": "401401145",
+  "date": "Mar 31, 2022",
+  "matchup": "ATL vs. CLE",
+  "headline": "Young leads surging Hawks past struggling Cavaliers 131-107",
+  "cleaned_body": "ATLANTA -- — Trae Young scored 30 points and the surging Atlanta Hawks never trailed while beating the short-handed Cleveland Cavaliers 131-107 on Thursday night to clinch a spot in the Eastern Conference play-in tournament.\n\nCedi Osman led Cleveland with 21 points. Darius Garland had 18 points and eight assists while sitting out the final quarter of the blowout loss.\n\nCavaliers standout rookie Evan Mobley missed his second consecutive game with a sprained ankle. Cleveland has lost two straight and five of six as it attempts to keep the No. 7 spot in the Eastern Conference.\n\nYoung had nine assists as the Hawks' fourth consecutive win clinched no worse than the No. 10 spot in the Eastern Conference and a berth in the play-in tournament. The Hawks began the night one-half game behind Charlotte and one game behind Brooklyn.\n\n“We’re in a tight race here at the end and we’re starting to click at the right time,” Young said, before offering the reminder the Hawks advanced to the Eastern Conference finals last year. “We did the same thing last year and we were able to make a run.”\n\nKevin Huerter continued his strong finish to the regular season with 23 points, his fourth consecutive game with at least 20 points. Clint Capela added 12 points with 14 rebounds.\n\nCavaliers coach B.J. Bickerstaff said before the game “we’re searching at this point” for a playing rotation due to injuries. Guard Rajon Rando (ankle) missed his 10th consecutive game. Center Jarrett Allen missed his 12th straight with a finger injury.\n\nBickerstaff said he respected the Hawks' “firepower” and said “they have the ability to blow you out because of that.”\n\nThe Hawks delivered on Bickerstaff's assessment.\n\nAtlanta took its first double-digit lead at 29-19 on Bogdan Bogdanovic's 3-pointer with 3 minutes remaining in the opening period. The Hawks stretched the lead to 20 points, 73-53, early in the second half on Young's 3 and extended the advantage to 30 points in the final period.\n\nTIP-INS\n\nCavaliers: Mobley did not travel to Atlanta and is “headed in the right direction,” according to Bickerstaff. ... G RJ Nembhard was converted to a standard NBA contract. ... C Moses Brown had 15 points and 13 rebounds in his second consecutive start after he was signed to a two-way contract.\n\nHawks: C Onyeka Oknogwu had 17 points and 12 rebounds. ... There was no update on F John Collins almost two weeks after the team announced he would be out indefinitely with a plantar fascia tear in his right foot and a right finger sprain. Coach Nate McMillan said Collins “is not doing anything as far as running and jumping” but added “we're not saying he's shut down.” ... In a pregame ceremony, Young was presented the team's Jason Collier Memorial Trophy for community service. The award is given each year in honor of the late Atlanta center who died in 2005.\n\nINJURY SCARE\n\nYoung played the third quarter after suffering what McMillan said he feared was a serious groin injury in the first half.\n\n“It’s been kind of sore these past couple of weeks,” Young said. “... I just took a wrong step and it kind of shocked me for a second. ... I’ll be all right.”\n\nHUERTER’S SCORING SURGE\n\nHuerter is taking advantage of increased scoring opportunities, especially in games when Danilo Gallinari (right elbow contusion) has joined John Collins on the inactive list. Huerter sank five of six 3-pointers, his fourth consecutive game making at least four 3s.\n\nSome of Huerter’s shots are the result of defenses placing extra attention on Young.\n\n“Kevin has been getting more minutes, and playing with Trae the ball has found him,” McMillan said.\n\nUP NEXT\n\nCavaliers: Continue a stretch of three games in four days when they visit the New York Knicks on Saturday.\n\nHawks: Remain home to play the Brooklyn Nets on Saturday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.968165",
+  "pipeline_version": "v1"
+}

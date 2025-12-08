@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700058",
+  "espn_id": "400974809",
+  "date": "Oct 25, 2017",
+  "matchup": "BKN vs. CLE",
+  "headline": "Nets overcome James' triple-double, beat Cavs 112-107",
+  "cleaned_body": "NEW YORK --  With injuries on both sides, the point guard matchup came down to LeBron James against Spencer Dinwiddie.\n\nJames had the bigger numbers.\n\nDinwiddie made the biggest plays.\n\nDinwiddie hit the go-ahead 3-pointer with 43 seconds left, and the Brooklyn Nets overcame James' first triple-double of the season to beat the Cleveland Cavaliers 112-107 on Wednesday night.\n\nA former second-round pick of Detroit starting only because of injuries to Jeremy Lin and D'Angelo Russell, Dinwiddie scored a career-high 22 points as the Nets blew a 14-point lead in the final quarter but recovered to improve to 3-2 -- the same record as the defending Eastern Conference champion Cavaliers.\n\n\"Obviously they're Eastern Conference champions just about every year -- or actually every year -- and then either win the Finals or don't obviously,\" Dinwiddie said. \"And for us to pull out a win and be able to close them out obviously after they made their run and to be able to respond, I think it just of kind of brings a young group a little bit closer together and kind of shows us that we can do it and hopefully propels us going forward.\"\n\nJames had 29 points, 13 assists and 10 rebounds in his 56th triple-double, but he missed two free throws -- the second intentionally -- with the Cavaliers trailing by two with 7.6 seconds remaining. DeMarre Carroll then hit a free throw and the Cavs' long inbounds pass intended for James went out of bounds.\n\nBut the Cavs pointed to the start of the game as their problem.\n\n\"Just taking us too much time to get into the game; like get into the flow of the game,\" James said. \"Teams are playing with a faster pace than us to start the game and we have to figure that out for sure.\"\n\nRondae Hollis-Jefferson and Allen Crabbe added 19 points apiece and Carroll scored 18 for the Nets, who bounced back from Tuesday's loss in Orlando, when Russell sprained his right knee to join Lin on the injured list, and fell just shy of becoming the first NBA team in 32 years to open a season with five straight 115-point games.\n\n\"Everybody from 1 to 15 on the roster, everybody's ready,\" Crabbe said. \"Everybody works hard, so when opportunities come guys are ready to step up and ready to play.\"\n\nWith Derrick Rose still nursing a sprained left ankle and Dwyane Wade joining him after bruising his left knee in Tuesday's victory over Chicago, James started at point guard in his 772nd game with the Cavs, passing former teammate Zydrunas Ilgauskas for most in team history.\n\nHe ran the offense fine but his long-range shooters couldn't convert enough of his passes. Kevin Love finished 4 for 13 from the floor and J.R. Smith was 1 for 9, missing all five 3-point attempts.\n\n\"I mean it's a lot of pressure to put on LeBron, have him handle the ball for 40 minutes, and that's why I talk about playing the point guard position, it could wear you down,\" coach Tyronn Lue said. \"Unfortunately that's all we have right now until D-Rose gets back.\"\n\nThe Nets led by 14 when Quincy Acy made a 3-pointer to open the scoring in the fourth, but James led the Cavs on a 13-0 run that gave them a 94-92 lead on Love's 3-pointer. The teams traded narrow leads from there.\n\nTIP-INS\n\nCavaliers: Lue said he hoped Rose could play Saturday at New Orleans. ... The Cavs had won the last four meetings.\n\nNets: The Nets are 3-0 at home for the first time since 2002-03, when they started 5-0 back in East Rutherford, New Jersey. ... The last team with five straight 115-games to open a season was the 1985-86 Pistons. The Nets came in leading the NBA with 123.5 points per game.\n\nDRAFT DODGING\n\nThe Cavaliers will get the Nets' first-round pick, which originally was dealt to Boston and then sent to Cleveland in the Kyrie Irving-Isaiah Thomas swap. But Lue said the Cavs aren't paying attention to how the Nets are doing.\n\n\"My main focus is just on our team and try to get us to play the right way,\" he said before the game.\n\nBRONX BOMBERS IN BROOKLYN\n\nAaron Judge, CC Sabathia and Dellin Betances of the New York Yankees watched from a sideline seat.\n\nUP NEXT\n\nCavaliers: Visit New Orleans on Saturday.\n\nNets: Visit New York on Friday.",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.943897",
+  "pipeline_version": "v1"
+}

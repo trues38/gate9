@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700408",
+  "espn_id": "400975159",
+  "date": "Dec 13, 2017",
+  "matchup": "POR @ MIA",
+  "headline": "Lillard leads Portland comeback past Miami, 102-95",
+  "cleaned_body": "MIAMI --  The Trail Blazers and Heat began the night with identical records of 13-13, so a close game was to be expected.\n\nFor Damian Lillard to take over down the stretch was also no surprise.\n\nThe two-time All-Star guard scored seven of his 18 points in the final 3:16, and the Trail Blazers overcame a 16-point second-half deficit to break their five-game losing streak, beating Miami 102-95 on Wednesday night.\n\nLillard, who came into the game averaging 26.6 points, had only one field goal in the first 31 minutes because the Heat ganged up on him defensively.\n\n\"They were trying to show me a lot of attention, so I was just trying to make the right plays,\" he said. \"But down the stretch I knew I would have to get aggressive.\"\n\nLillard converted a three-point play to put the Trail Blazers ahead to stay, 98-95, and sank two free throws on their next possession for a five-point lead.\n\n\"You almost hate seeing him have a pedestrian box score stat line going into the fourth quarter,\" Miami coach Erik Spoelstra said. \"You know he's not going to sit back and not put his fingerprints on the game going down the stretch.\"\n\nCJ McCollum scored 28 points for the Trail Blazers, who climbed back above .500 and improved to 7-5 on the road.\n\n\"That was a game we needed to win coming off five losses in a row,\" McCollum said. \"We had to do whatever it takes to come away with a win.\"\n\nThe Heat dropped to 5-7 at home.\n\nMiami reserve Wayne Ellington sank seven 3-pointers and scored a season-high 24 points. Dion Waiters added 17 points for the Heat, who were hurt by three missed free throws down the stretch.\n\nPortland scored the final seven points, shutting out the Heat over the final 2:46. Miami missed its final four shots.\n\n\"These are tough to swallow,\" Ellington said. \"We played about 43 minutes of Miami Heat basketball. We've got to get better at finishing.\"\n\nThe Trail Blazers trailed 70-54 early in the second half, and 79-70 to start the fourth quarter.\n\n\"It wasn't a game where we came out and made every shot and everything went well,\" Lillard said. \"We had to go get it. That's usually how it is when you're trying to get things going back in the right direction, so we worked for it.\"\n\nThe Trail Blazers won for the third time when trailing to start the final period.\n\n\"You have to credit Portland,\" Spoelstra said. \"That's not their first rodeo in a close game on the road.\"\n\nLIMITED ROTATIONS\n\nBoth teams were short-handed. Heat forward Justise Winslow left the game in the first half with a left knee strain and did not return, and guard Tyler Johnson sat out because of a migraine.\n\nMiami was also without center Hassan Whiteside for a seventh consecutive games because of a bone bruise in his left knee.\n\nAl-Farouq Aminu had 15 points and 13 rebounds for the Trail Blazers, who were without Jusuf Nurkic and Meyers Leonard.\n\nCLAMPDOWN\n\nEllington went 5 for 5 from 3-point range in the first quarter, helping Miami to a 33-21 lead. Portland limited him to three points in the second half.\n\n\"When you make some shots in the first half, they're going to stick to you more in the second half,\" he said.\n\nMiami scored 33 points in the first quarter but only 35 in the second half.\n\nTIP-INS\n\nMiami's Kelly Olynyk had a slight edge in the matchup of former Gonzaga centers. He had 10 points and six rebounds in 28 minutes, and Portland's Zach Collins had nine points and three rebounds in 21 minutes.\n\nINJURY REPORT\n\nTrail Blazers: C Nurkic (sprained right ankle) missed his third game in a row. ... F/C Leonard (illness) also sat out. ... F Maurice Harkless (bruised left quad) returned after missing two games but didn't score in nine minutes.\n\nHeat: Winslow said he didn't think his injury was serious. ... Spoelstra said Whiteside is working out and feeling better, but he's not ready to return to practice.\n\nUP NEXT\n\nMiami: The Heat play at Charlotte on Friday night. Miami beat the Hornets earlier this week.\n\nPortland: The Trail Blazers continue a five-game trip when they play Friday night at Orlando.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "Streak",
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.935771",
+  "pipeline_version": "v1"
+}

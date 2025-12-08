@@ -1,0 +1,22 @@
+{
+  "game_id": "0021401183",
+  "espn_id": "400579475",
+  "date": "Apr 10, 2015",
+  "matchup": "OKC vs. SAC",
+  "headline": "Westbrook's 27 and 10 lead Thunder, 116-103",
+  "cleaned_body": "OKLAHOMA CITY --  With Kevin Durant and Serge Ibaka out with injuries, it has fallen on Russell Westbrook to shoulder the load as Oklahoma City tries to grind its way into the NBA playoffs.\n\nFriday night against Sacramento, Westbrook got some help.\n\nWestbrook's teammates stepped up to provide some scoring punch in the Thunder's 116-103 win that broke a four-game losing streak. The victory kept them even with New Orleans for the final playoff spot in the Western Conference.\n\nWestbrook did match his average with 27 points while adding 10 assists and five rebounds. Fellow starters Enes Kanter and Dion Waiters were right behind with 25 and 22 points, respectively. Anthony Morrow came off the bench to hit five 3-pointers to score 19. The balance displayed by his team throughout the game impressed Thunder coach Scott Brooks.\n\n\"Russell played his usual great game and got people involved, but the thing that I liked was the scoring balance,\" said Brooks. \"We had a total team effort and closed out quarters well. Dion and Anthony hit some clutch baskets when Russ wasn't on the floor.\"\n\nOklahoma City led by as many as 13 in the first half with Kanter scoring 17 points, but when Omri Casspi hit a 3-pointer with 1:52 left in the half, the lead had been cut to 51-49. Oklahoma City scored the last six points of the half, then watched the Kings fight back again in the third quarter. Derrick Williams, who had gone 0 for 6 in the first half, scored back-to-back buckets to tie the game at 72.\n\nOnce again, the Thunder closed a quarter strong, outscoring Sacramento 10-4, with Westbrook leading the way. Westbrook hit a 3-pointer and a driving layup to put the Thunder back in front for good, and Anthony Morrow capped the spurt with one of his five 3-pointers. The Thunder expanded a six-point lead at the end of three quarters into a 17-point margin midway through the final period.\n\nAt the same time, New Orleans was winning at home against Phoenix, putting both the Thunder and Pelicans at 43-36 with three games remaining, New Orleans holding the tie-breaker.\n\n\"We can't focus on what they're doing, but we know we need help in order to get in the playoffs,\" Brooks said. \"But we have to control ourselves and our games. The next focus is on Indiana. It's not an easy place to play, they've been playing good basketball. We've got to go win.'\n\nSacramento got 20 points from Ben McLemore and 17 each from Ray McCallum and Williams in losing its fifth straight on the road.\n\nMISSING STARS\n\nBoth teams were missing a pair of key performers.  Durant and Ibaka are out for the season for Oklahoma City. Sacramento was without its top two scorers, DeMarcus Cousins and Rudy Gay, who account for 46 points a game for the Kings.\n\nTIP-INS\n\nKings: McCallum made a return to the area where he spent his formative years. He grew up in Norman while his dad was an assistant basketball coach at Oklahoma.\n\nThunder: Nick Collison returned after missing nine games with an ankle injury. Collison scored five points, grabbed seven rebounds and a steal in 20 minutes.\n\nUP NEXT\n\nKings: visit Denver on Sunday.\n\nThunder: visit Indiana on Sunday.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.653125",
+  "pipeline_version": "v1"
+}

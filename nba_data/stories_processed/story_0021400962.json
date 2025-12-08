@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400962",
+  "espn_id": "400579254",
+  "date": "Mar 12, 2015",
+  "matchup": "MIL @ IND",
+  "headline": "Rodney Stuckey scores 25 points, Pacers beat Bucks in OT",
+  "cleaned_body": "INDIANAPOLIS --  The Indiana Pacers outlasted the Milwaukee Bucks.\n\nThey might just do it in the Eastern Conference standings, too.\n\nRodney Stuckey scored 25 points and Luis Scola had 17 points and 15 rebounds to help Indiana beat Milwaukee 109-103 in overtime Thursday night. Since the All-Star break, the Pacers are NBA-best 9-1 and have pulled within 3 1/2 games of Milwaukee for the sixth seed.\n\nDown by two points in overtime, the Pacers used a 9-0 run to take a 105-98 lead.\n\nGeorge Hill sealed the victory with two free throws with 16 seconds left, stretching the lead to six. Hill and C.J. Miles each finished with 17 points.\n\n\"We took it as a playoff game. That's the way we wanted to come in,\" Miles said. \"It was a big win for us. (Milwaukee's) a team we're chasing in the standings. We were just able to make some plays down the stretch.\"\n\nIndiana was on the verge of closing in the fourth quarter when David West's jumper with 2:45 left in regulation gave Indiana a five-point lead. Indiana failed to score again in regulation, and Milwaukee's Ersan Illyasova had five points in the final 2 minutes to send it to overtime.\n\nMichael Carter-Williams led the Bucks with 28 points. Illyasova had 19 points and 10 rebounds, and Zaza Pachulia finished with 16 points and 12 rebounds.\n\n\"Our guys fought tonight on a back-to-back,\" Bucks coach Jason Kidd said. \"Short-handed, guys stepped up. Everybody gave everything they had. There's a lot of good stuff on the road against a team that is playing extremely well.\"\n\nIndiana never led in the first half and was down 12 in the first quarter. A strong third quarter sent the Pacers into the final period with an eight-point lead. The Pacers biggest lead was 10 points in the game that had eight lead changes and eight ties.\n\nIndiana's backups outscored Milwaukee's reserves 52-10. Along with their effort and production off the bench, Pacers coach Frank Vogel was pleased with the offensive production despite 20 turnovers.\n\n\"The Bucks are No. 1 in the league in forcing turnovers,\" Vogel said.\" We knew it was going to be a much more challenging night on the offensive end, in particular taking care of the basketball, and it was. We've got to be more disciplined. To our guy's credit, they grinded it out and got a win.\"\n\nIndiana's Roy Hibbert missed the game because of an infection in his left elbow, giving Ian Mahinmi the start. Mahinmi fouled out after a flagrant-1 was called in overtime. He had eight rebounds and 10 points.\n\nTIP-INS\n\nBucks: The Bucks are 0-3 on the road in March. Milwaukee is 5-5 this season when scoring 30 or more points in the first quarter.\n\nPacers: Stuckey added six rebounds and six assists.\n\nUP NEXT\n\nBucks: At Memphis on Saturday night.\n\nPacers: Host Boston on Saturday night.",
+  "tags_rule": [
+    "CoachComment",
+    "PhysicalGame",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.497768",
+  "pipeline_version": "v1"
+}

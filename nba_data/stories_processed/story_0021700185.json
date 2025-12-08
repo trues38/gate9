@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700185",
+  "espn_id": "400974936",
+  "date": "Nov 11, 2017",
+  "matchup": "ORL @ DEN",
+  "headline": "Murray scores career-high 32 as Nuggets beat Magic, 125-107",
+  "cleaned_body": "DENVER --  The Denver Nuggets were determined to finish their homestand strong. Jamal Murray made sure they did.\n\nMurray scored a career-high 32 points, Will Barton had 26 points and nine rebounds -- both season bests -- and Denver beat the Orlando Magic 125-107 on Saturday night.\n\nNikola Jokic had 12 points and 17 rebounds for his eighth double-double of the season and also added eight assists for Denver. Six Nuggets scored in double figures.\n\nIt was the first time in five games Murray scored in double figures after averaging 23.3 points in his previous three. The coaching staff urged him to be selfish when the opportunity was there and he responded.\n\nMurray had 22 points in the first half to help Denver take a 70-47 lead and hit a basket late in the fourth to set his career high.\n\n\"I was just playing basketball,\" Murray said. \"Coach told me to be aggressive. Tonight I was hitting and they kept finding me.\"\n\nDenver finished its season-long six-game homestand 5-1 and benefited from a shorthanded Magic team. Guards Elfrid Payton and D.J. Augustin didn't play due to left hamstring injuries, and the Nuggets took advantage of their absence to score 70 points from their backcourt.\n\nThe Nuggets were 22-19 at home last season, which was a big reason they missed the playoffs by one game. They are 6-2 at home to start this season.\n\n\"If you want to be a playoff team you have to win at home,\" coach Michael Malone said.\n\nMarreese Speights led the Magic with 19 points. Evan Fournier and Jonathon Simmons scored 18 apiece.\n\nThe Nuggets took control with a 13-0 run late in the first quarter. Murray scored nine of his 16 points in the period during the run that gave Denver a 35-19 lead.\n\nThe Nuggets put it away in the second quarter when Orlando went cold. The Magic had just one field goal for the first 6 minutes of the period when Denver built a 26-point lead.\n\nThe lead grew to 30 in the third quarter but the Magic battled back to make it a 13-point game but never got closer.\n\n\"To have a good team you need a bench who will come in and do all the gritty work,\" Speights said. \"We wanted to come back and get the win. The group out there was playing hard. We just came up short.\"\n\nTIP-INS\n\nMagic: F Jonathan Isaac sprained his right ankle in the fourth quarter and didn't return. He left the arena in a walking boot. ... Payton didn't play to protect against him aggravating the left hamstring that kept him out of eight games this season. \"One thing he hasn't done since he's been back is playing in a back-to-back,\" coach Frank Vogel said. \"Traveling, arriving late at night, if he still has some tightness in there this is a concern. It's not a setback, we're just being smart with it.\" ... Augustin missed his fifth consecutive game.\n\nNuggets: Jokic outrebounded Orlando's starters 17-12. ... G Gary Harris did not play because of a shoulder injury. Malone would not say if Harris would miss more than one game. ... Denver's 70 points in the first half were its most for any half this season.\n\nPASSING FANCY\n\nJokic and Kenneth Faried hooked up for a highlight play in the second quarter. Jokic threw a halfcourt lob to Faried, who had to reach high to get it with one hand and slam it home to give the Nuggets an 18-point lead.\n\n\"He can jump high,\" Jokic said. \"I thought it was too strong -- not too high, too strong. He caught it. It was a nice play.\"\n\nThe play brought back memories for Malone.\n\n\"It reminded me of Bobby Hurley's pass to Grant Hill back in the day,\" he said, referring to the Duke teammates in the Blue Devils' win over Kansas in the 1991 NCAA title game.\n\nUP NEXT\n\nMagic: Continue their four-game Western Conference road trip at Golden State on Monday night.\n\nNuggets: Play at Northwest Division rival Portland on Monday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.956771",
+  "pipeline_version": "v1"
+}

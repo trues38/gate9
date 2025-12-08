@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700878",
+  "espn_id": "400975624",
+  "date": "Feb 23, 2018",
+  "matchup": "MEM vs. CLE",
+  "headline": "James records triple-double as Cavs defeat Grizzlies 112-89",
+  "cleaned_body": "MEMPHIS, Tenn. --  Cleveland revamped its roster at the trade deadline. The Cavaliers' leader didn't change.\n\nLeBron James had 18 points, 14 rebounds and 11 assists in his 11th triple-double of the season, and the Cavaliers pulled away after a slow start to beat the Memphis Grizzlies 112-89 on Friday night.\n\nGeorge Hill also scored 18 points, while Larry Nance Jr. finished with 15 and Jordan Clarkson had 14 as the newcomers had good nights in the Cavaliers' fifth win in the last six games. The only loss in the stretch was on Thursday night to the Washington Wizards.\n\n\"It's just us communicating, talking. That's it,\" Clarkson said of the Cavaliers' adjustments to new teammates. \"Coaches have us in early before practice running plays. We're trying to get comfortable with everything still. Trying to get comfortable with all the calls. We've got a ways to go, but we're coming.\"\n\nTyreke Evans and JaMychal Green each had 15 points for Memphis, with Evans also dishing out 10 assists and Green grabbing 10 rebounds. Marc Gasol had 14 points and nine rebounds.\n\nThe Cavs showed a bit of fatigue to start the game, perhaps a dose of travel hangover from getting to town late after Thursday's loss.\n\n\"A lot of our guys were -- I don't want to say tired, but sleepy,\" James said, adding: \"For us to come out with the energy we had for the most part of 48 minutes is a good game for us.\"\n\nCleveland trailed by double digits early, but outscored Memphis 58-40 in the second half, sending the Grizzlies to their eighth straight loss. Cavaliers coach Tyronn Lue said the difference was a change in defensive intensity after Cleveland's early struggles gave the Grizzlies a lead that reached 13 in the first quarter.\n\n\"During timeouts, I was telling the guys -- especially at halftime -- `I don't know how we're up, but we're up after playing a bad half of basketball,\" Lue said, adding that the second half was much better defensively.\n\nJames was already under triple-double watch at halftime with 10 points, eight rebounds and seven assists. Hill already had 13 points as the Cavaliers carried a 54-49 lead into the break.\n\nJames reached his triple-double with about 4 minutes left in the third, on an assist leading to a 3-pointer by Cedi Osman. That was part of Cleveland outscoring Memphis 31-22 in a foul-filled third quarter, building the lead to double digits and holding an 85-71 advantage into the fourth.\n\n\"When the game gets choppy, it's difficult, but that's a test of your mental toughness and your fortitude,\" Grizzlies interim coach J.B. Bickerstaff said. \"You have to be able to overcome those situations.\"\n\nTIP-INS\n\nCavaliers: Clarkson was cut under his right eye in the second quarter, but returned in the fourth. He said it took eight or nine stitches to close the wound. ... James has played in all 58 Cleveland games this season ... Played their only road game out of the first seven following the All-Star break. ... Have won four straight road games.\n\nGrizzlies: Evans left the game near the midway point of the fourth with a right rib injury and did not return. Team officials said he will be reevaluated Saturday. ... Memphis is winless in February. Its last victory was Jan. 29 over Phoenix. ... Evans was 3 for 7 from outside the arc, marking his 28th straight game with at least one 3-pointer, breaking the franchise record of 27 previously held by Mike Miller.\n\nWE'RE SORRY\n\nLast year, there were some unhappy local fans when the Cavs came to town because Cleveland sat James, Kevin Love and then-Cav Kyrie Irving for their only visit to Memphis. Lue went as far as to apologize for the situation in his pregame availability. \"I'm sorry for the fans that they had to go through that because they came to see LeBron,\" he said of the situation. \"We just have to be smart resting a guy on a back-to-back.\" James, who played 36 minutes in Thursday's loss to Washington, played just under 37 minutes Friday night.\n\nUP NEXT\n\nCavaliers: Host the San Antonio Spurs on Sunday.\n\nGrizzlies: Travel to Miami for the second night of a back-to-back against the Heat.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.493508",
+  "pipeline_version": "v1"
+}

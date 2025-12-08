@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100817",
+  "espn_id": "401360636",
+  "date": "Feb 08, 2022",
+  "matchup": "BKN vs. BOS",
+  "headline": "Celtics romp to 126-91 win, star-less Nets drop 9th straight",
+  "cleaned_body": "NEW YORK -- — Jaylen Brown and Marcus Smart each scored 22 points and the Boston Celtics rolled to their sixth straight win, beating the star-less Brooklyn Nets 126-91 on Tuesday night.\n\nWithout Kevin Durant, James Harden and Kyrie Irving, the Nets weren't competitive in their ninth straight loss. Boston jumped to a 28-2 lead in a game that was never in doubt.\n\n“I don’t know how often or if we’ve ever been so good to start like that before but it felt good,” Brown said. “We knew some of those guys were out. We wanted to just to take care of business early. We didn’t want to play around and give them confidence and let them linger into the game.”\n\nHarden missed his third straight game with left hamstring tightness. Durant remains out with a sprained knee ligament and Irving is still ineligible to play home games because he isn't vaccinated against the coronavirus.\n\nJayson Tatum scored 19 points as the Celtics continued their strong stretch and moved past the Nets into seventh place in the Eastern Conference.\n\nThe Nets were considered the favorites to win the East with their Big Three, but they have lost 10 of 12 since Durant was hurt in the middle of January.\n\nThey just returned from a winless five-game trip to the West that ended with back-to-back blowouts in Utah and Denver without Harden.\n\nMinutes into this one, it was clear they were headed toward another.\n\nThe Nets missed their first eight shots while Boston raced to a 14-0 lead on Brown’s 3-pointer. Blake Griffin’s jumper got the Nets on the board but the Celtics answered with another 14-0 run that made it 28-2 on Tatum’s second straight layup.\n\n“Frankly, that’s a really good starting five that’s playing really good basketball playing against a reserve lineup, so we’re asking them to match a high, high-quality NBA starting five,” Nets coach Steve Nash said.\n\nThe first-half lead peaked at 67-39 on Smart’s 3-pointer and it was 69-43 at the break.\n\n“We had a game plan that we wanted to go into and we followed it to the T,” Smart said.\n\nBoston's starters played less than 30 minutes but piled up good stats anyway. Smart made six 3-pointers and Brown had nine assists and seven rebounds.\n\nJevon Carter scored 21 points on seven 3-pointers in Brooklyn's worst loss of the season.\n\nTIP-INS\n\nCeltics: Robert Williams had 12 points and 11 rebounds. ... Boston snapped a four-game skid against Brooklyn.\n\nNets: Cs LaMarcus Aldridge (sprained left ankle) and Nic Claxton (left hamstring tightness) remained out. ... Brooklyn is 5-13 without Durant.\n\nTRADE TALK\n\nTwo days after saying the Nets wouldn't trade Harden before Thursday's deadline, Nash made it sound as if they wouldn't make any deals at all.\n\n“Honestly, I think we’ll be exactly the same. I think the chances of trades or deals happening before the deadline are so slim, especially for our group,” Nash said. “So my mind and attention is on this group and putting this thing together as guys become healthy again and trying to build it for the stretch run.”\n\nUP NEXT\n\nCeltics: Host Denver on Friday.\n\nNets: Visit Washington on Thursday.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.448976",
+  "pipeline_version": "v1"
+}

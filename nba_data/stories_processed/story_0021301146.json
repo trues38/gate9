@@ -1,0 +1,22 @@
+{
+  "game_id": "0021301146",
+  "espn_id": "400490019",
+  "date": "Apr 05, 2014",
+  "matchup": "DET vs. BOS",
+  "headline": "Stuckey has 26, Pistons rally past Celtics 115-111",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Rodney Stuckey pulled the Pistons out of trouble.\n\nStuckey came off the bench to score 26 points and the Detroit reserves helped wipe out a 19-point deficit as the Pistons topped Boston 115-111. Stuckey's free throws with 57 seconds left broke a 111-all tie and gave Detroit the lead for good.\n\n\"They got us back in with their energy,\" coach John Loyer said of his reserves, who helped the team end a two-game skid.\n\nThe Pistons trailed by 19 points in third quarter and were down 95-85 at the start of the fourth before embarking on a 15-4 run that gave them their first lead since early in the game. The teams traded the lead several times before Stuckey's free throws.\n\nBoston's Jerryd Bayless tried for a go-ahead shot in the final seconds but his 3-point try rimmed out.\n\nGreg Monroe had 21 points and Brandon Jennings added 20 for Detroit, which also got 19 and 20 rebounds from Andre Drummond, who tied the game at 111 on a tip with 1:52 to play. Thirteen of his caroms were on the offensive glass, giving him 402 this season and making him the most prolific single-season offensive rebounder since 2000.\n\n\"I pride myself on getting offensive rebounds,\" Drummond said. \"That's how I get my points.\"\n\nJerryd Bayless had 25 points and Jeff Green added 22 for the Celtics, who lost their eighth straight and have dropped 12 in a row on the road.\n\nBoston's lead was 82-63 midway through the third before Detroit rallied produced a handful of runs to keep the lead from getting past 20. Pistons reserve Jonas Jerebko had consecutive 3-pointers midway through the final period to give the Pistons a lead. Rookie Peyton Siva had all five of his career-best five assists in the fourth.\n\n\"The reason we won the game was Peyton Siva,\" Drummond said. \"His energy in the fourth quarter was tremendous. He ran the show.\n\nThe Celtics looked sharp from the field in the first three quarters but had several droughts in the final period. They had just six field goals and 16 points in the fourth and did not score in the final three minutes.\n\n\"I thought we let off the gas defensively a couple of times and all of a sudden, instead of a 19-point game, it's a 13- or 12-point game,\" Boston coach Brad Stevens said. \"We have seen that time and again in this league that those leads go quick.\"\n\nBoston's Jared Sullinger, one of the worst 3-point shooters (.253 percent) in the league, made his first four tries from behind the arc. He scored 22 points and had 10 rebounds Saturday night in place of the injured Kris Humphries. Rookie Phil Pressey added a career-best 11 assists.\n\nBoston guard Rajon Rondo, who had a triple double in Friday's loss to Philadelphia, did not play Saturday. He's missed the second game of back-to-back nights since he returned to the roster in January.\n\nGame notes Drummond's offensive rebound total is the most since New Jersey's Jayson Williams (443) and Chicago's Dennis Rodman (421) during the 1997-98 season. . Detroit's bench outscored Boston's 38-11. . Humphries missed the game after injuring his right patella tendon in the loss to Philadelphia. . The Celtics' last road win was Feb. 10 at Milwaukee. . Detroit hadn't won consecutive home games since mid-February.",
+  "tags_rule": [
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.126943",
+  "pipeline_version": "v1"
+}

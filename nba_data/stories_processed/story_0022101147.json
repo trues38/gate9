@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101147",
+  "espn_id": "401360966",
+  "date": "Mar 31, 2022",
+  "matchup": "DET vs. PHI",
+  "headline": "Bey's late scoring surge helps Pistons top 76ers 102-94",
+  "cleaned_body": "DETROIT -- — Saddiq Bey scored 10 of his 20 points in the final 4:23 as the Detroit Pistons pulled away down the stretch and beat the Philadelphia 76ers 102-94 on Thursday night.\n\n“It is huge for us to see that we can play at this level and play well enough to beat a team like Philly,” Bey said. “Early in the season, we were still learning how to do this, but now we know what we need to do on both ends of the floor to win games like this.”\n\nCade Cunningham scored 27 points for Detroit, which snapped a three-game losing streak and had a 39-8 edge in scoring off the bench.\n\n“This is one of those nights where everyone steps up and does their job,” Cunningham said. “We've grown to the point where, when we all get rolling, we're probably going to win the game.”\n\nJoel Embiid had 37 points and 15 rebounds and James Harden finished with 18 points, nine rebounds and seven assists for the 76ers.\n\n“I thought we played with very little life tonight,” Sixers coach Doc Rivers said. “I thought we were pretty good for about the first eight minutes of the first quarter and after that we just stood around. That's something we've been doing too often lately.”\n\nDetroit didn't lead until the fourth quarter, and Isaiah Livers' 3-pointer with 5:05 left gave the Pistons a 90-87 advantage. After Harden missed, Bey made it 93-87 with another 3-pointer, forcing Rivers to call a timeout.\n\nEmbiid answered with a dunk, but Bey scored seven points in a 9-0 run that gave the Pistons a 102-89 lead with 1:54 to play.\n\n“We stopped executing in the fourth quarter,” said former Piston Tobias Harris, who finished with 14 points. “We weren't stopping them on defense and we had too many turnovers to change the momentum. They just kept making plays.\"\n\nEmbiid had 18 points and nine rebounds in the first half, going 10 for 11 from the line. Philadelphia attempted 20 free throws in the half compared to four for Detroit. But the Pistons' 21-0 advantage in bench points kept them within 54-50.\n\n“We played a complete 48 minutes tonight, and our second unit was a big part of that,” Pistons coach Dwane Casey said. “We even had Kelly Olynyk playing tough defense on Joel Embiid, and that's not easy for anyone.”\n\nDetroit stayed close through most of the third, but Embiid dunked over Cunningham and Isaiah Stewart to give the Sixers a 79-73 lead going into the fourth. He had 15 points and six rebounds in the quarter, giving him 33 points and 15 rebounds.\n\nMarvin Bagley III left the game in the third quarter with a hip injury after landing awkwardly while being fouled by Embiid. Casey said he's doubtful for Saturday's game against Oklahoma City.\n\nTIP INS\n\nSixers: Shake Milton's 3-pointer with 4:03 left in the third quarter was the first basket from Philadelphia's reserves after the starters had scored the first 69 points.\n\nPistons: Cunningham could become part of a very rare double. No city has swept the NHL and NBA Rookie of the Year awards since Ray Bourque and Larry Bird did it in Boston in 1980, but Cunningham could join defenseman Moritz Seider or forward Lucas Raymond of the Red Wings, two of the leading candidates for the Calder Trophy.\n\nTWO HUNDRED AND COUNTING\n\nBey's four 3-pointers gave him 201 for the season, extending his single-season franchise record. Bey also holds the team's rookie record with 175 last season.\n\n“I like the idea of breaking my own record every season,” he said. “So I'm going to have to keep getting better.”\n\nUP NEXT\n\nSixers: Host the Charlotte Hornets on Saturday.\n\nPistons: Visit the Oklahoma City Thunder on Friday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.533775",
+  "pipeline_version": "v1"
+}

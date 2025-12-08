@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700234",
+  "espn_id": "400974985",
+  "date": "Nov 18, 2017",
+  "matchup": "SAC @ POR",
+  "headline": "C.J. McCollum scores 25 points, Blazers beat Kings 102-90",
+  "cleaned_body": "PORTLAND, Ore. --  It didn't take the Portland Trail Blazers long to lose the bad taste of a road loss to Sacramento.\n\nC.J. McCollum scored 25 points, Damian Lillard had 22 and the Trail Blazers handed the Kings their ninth consecutive road loss, 102-90 on Saturday night.\n\nPortland, which lost 86-82 at Sacramento on Friday night, turned it around by improving at the offensive end. The Blazers shot a season-high 54 percent (38 of 70) from the floor, a significant improvement over their 38 percent performance the previous night.\n\nBlazers coach Terry Stotts said he sensed things were headed in a better direction at the outset, when Portland had assists on its first five baskets.\n\n\"I liked our demeanor. After being disappointed last night and struggling with the offense, I liked the way we set the tone,\" Stotts said. \"To come back and have this type of game was encouraging.\"\n\nTo Lillard, the combination of a fresh loss to Sacramento and an upcoming five-game road trip, this was as close as it gets to a regular-season must win in the NBA.\n\n\"It was a great win for us. After a tough loss last night on the road we knew that we had to have this one,\" Lillard said.\n\nMcCollum hit four 3-pointers and shot 9 of 16, while Lillard had six assists.\n\nPortland's Jusuf Nurkic, bouncing back from a season-low four-point performance Friday, had 14 points and seven rebounds.\n\nMeyers Leonard, in his second game back after missing four weeks with a right ankle injury, hit three 3-pointers and had a season-high 11 points for the Blazers. Shabazz Napier also had 11 on 5-of-6 shooting.\n\nStotts thought the Blazers' roster contributed to the uptick in offensive performance.\n\n\"C.J., he shot the ball better. I thought it was good by everybody. I thought Damian did a good job managing the game. . Our bench, they struggled last night and they were the difference tonight,\" Stotts said.\n\nMeanwhile, the Kings struggled from the floor, making just 38 percent (34 of 89) of their shots.\n\n\"I thought it was a good offensive night, but more importantly, it was another really good defensive night,\" Lillard said.\n\nWillie Cauley-Stein had 18 points and nine rebounds to lead Sacramento, and Zach Randolph had 17.\n\nSacramento coach Dave Joerger felt the Kings didn't come up short in effort despite the loss.\n\n\"I'm really, really proud of our team because last night was an emotional game for us,\" Joerger said.\n\nNeither team had a significant advantage for most of the first half. But Portland, trailing 33-32 midway through the second quarter, finished the half by hitting four 3-pointers during a 21-8 run to grab a 53-41 lead at the break.\n\n\"We had a little bit of a fight on our hands at the start of the game. They had a lot of confidence,\" Lillard said.\n\nPortland widened its lead to 22 points during the third quarter. During a nine-minute stretch, only Randolph scored for the Kings. Lillard scored nine points that fueled an 11-3 run as Portland took a 78-56 lead late in the third quarter. Sacramento never got closer than 12 points the rest of the game.\n\nTIP-INS\n\nKings: Buddy Hield, who sprained his ankle in Friday's game against the Blazers, did not make the trip to Portland. ... Vince Carter (kidney stones) missed his sixth consecutive game. ... Randolph, scoreless against Portland on Friday, scored the Kings first four points Saturday. .... Sacramento lost its ninth consecutive game in Portland.\n\nTrail Blazers: Ed Davis returned to action after missing Friday's game (ankle). ... Portland heads to Memphis on Monday to start a five-game road trip, tied for its longest of the season. . The Blazers have held four consecutive opponents under 100 points. . Lillard went 5 of 6 at the free throw line, leaving him three free throws shy of making 2,000 during his 412-game NBA career.\n\nUP NEXT\n\nKings: Host Denver on Monday night.\n\nTrail Blazers: At Memphis on Monday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.927049",
+  "pipeline_version": "v1"
+}

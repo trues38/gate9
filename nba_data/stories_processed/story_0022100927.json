@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100927",
+  "espn_id": "401360746",
+  "date": "Mar 01, 2022",
+  "matchup": "ATL @ BOS",
+  "headline": "Tatum scores 33 to help Celtics push past Hawks 107-98",
+  "cleaned_body": "BOSTON -- — Jayson Tatum had 33 points, eight rebounds and seven assists to help the Boston Celtics rally in the second half and beat the Atlanta Hawks 107-98 on Tuesday night.\n\nDerrick White and Grant Williams each added 18 points off the bench. Marcus Smart finished with 16 points and four assists.\n\nBoston has won 10 of its last 12 and three of four since the All-Star break.\n\nThe Celtics played the final three quarters without starter Jaylen Brown, who left the game in the first quarter with a right ankle injury. Being able to recover from Brown's injury taught the team a lot, Smart said.\n\n“It just shows, that if we continue to come out like this, this is the team that we are. This is the identity that we have. It's going to be hard for teams,” he said.\n\nTrae Young had 31 points. Bogdan Bogdanovic added 25 for the Hawks, who have lost two of three.\n\n“They came out aggressive, ready to attack and I thought we got back on our heels,” Hawks coach Nate McMillan said. “We just settled for the long ball. We didn't attack.”\n\nAtlanta led by as many as 17 points in the first half before that cushion evaporated in a 14-0 run by Boston to open the third quarter.\n\nThe Hawks shot selection didn't help, going 7 of 31 from 3-point range in the game.\n\n“I think we kind of bailed them out and let them off the hook taking some shots and obviously not attacking like we did in the first half,” Young said.\n\nThe Celtics seized on it and kept their momentum going, outscoring the Hawks 31-13 in the period to take a 82-78 edge in the fourth.\n\nThe surge was keyed by Boston's defense, which held Young to just nine points after halftime. The increased intensity was a response to a plea by coach Ime Udoka at halftime for his team to be more physical.\n\n“It’s part of us. It’s part of me. It’s something that when we’re being physical, it helps us on the defensive end. But also on the offensive end,” Smart said.\n\nBoston’s lead grew to 102-88 with 3:11 left in the game following back-to-back 3-pointers by Williams. Both baskets were set up by defensive plays by Smart. First, he chased down De'Andre Hunter on a fast break and came up with a block from behind. Then, he stepped in front of an errant pass by Bogdanovic to start another Celtics' sprint out.\n\nThe plays were examples of how they want to play, Smart said.\n\nThe Celtics entered the game at full strength for the first time in weeks, but that changed in the first quarter when Brown left with a right ankle sprain after taking an awkward fall during a drive into the lane.\n\nHe grabbed at his right leg as he toppled to the ground, but was able to walk to the locker room on his own power. Udoka said he was able to move around on the ankle in the locker room, but he is day to day.\n\nTIP-INS\n\nHawks: Shot 14 of 20 (70%) from the field in the second quarter. … Weren’t whistled for their first foul until the 11:08 mark of the second quarter. … Closed the first period on a 17-5 run.\n\nCeltics: White went 4 for 4 and scored nine points in the final 3:55 of the third quarter. … Had 10 turnovers in the first half, leading to 10 Atlanta points.\n\nSORE BUT OK\n\nThe Hawks got their own injury scare in the first quarter when Smart was issued a Flagrant 1 technical after sliding into Young’s landing area on a 3-point attempt. Young suffered a left ankle sprain on the play, but was able to shoot his free throws before heading to the locker room. He returned with 6:20 left in the second quarter.\n\nYoung said his ankle stiffened up some throughout the game, but he doesn't think it will be a serious issue going forward.\n\n“As long as I keep it loose in the next couple of days, hopefully I can keep it going,” he said.\n\nUP NEXT\n\nHawks: Host Bulls on Thursday.\n\nCeltics: Host Grizzlies on Thursday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.497156",
+  "pipeline_version": "v1"
+}

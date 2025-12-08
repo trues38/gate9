@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100163",
+  "espn_id": "401359987",
+  "date": "Nov 10, 2021",
+  "matchup": "CHI vs. DAL",
+  "headline": "Ball, LaVine lead Bulls past Mavericks 117-107",
+  "cleaned_body": "CHICAGO -- — There is no secret to Lonzo Ball's improved 3-point shooting. He put the work in, and it's paying off.\n\nHe has come a long way from long distance.\n\n“It's night and day now,” he said.\n\nBall made seven of Chicago’s 15 3-pointers and Zach LaVine scored 23 points, powering the Bulls to a 117-107 victory over the Dallas Mavericks on Wednesday night.\n\nBall went 7 for 10 from deep and finished with 21 points. He is shooting 44.7% from beyond the arc in his first year with the Bulls, continuing his steady rise from shooting 30.5% from 3 during his rookie season in 2017-18 with the Lakers.\n\n“He deserves a lot of credit,” Bulls coach Billy Donovan said. “He's put in an incredible amount of work to get himself to that level.”\n\nFive players scored in double figures for Chicago during its second consecutive victory. Nikola Vucevic had 18 points and 10 rebounds, and DeMar DeRozan finished with 17 points.\n\nDallas had won three straight and four of five overall, but couldn't keep up with LaVine and Chicago in the second half. Kristaps Porzingis had 22 points and 12 rebounds for the Mavericks, and Luka Doncic finished with 20 points, 10 assists and eight rebounds.\n\n“I should take better shots,” said Doncic, who was 6 for 18 from the field. “I know I always say this, but honestly, I've got to do it, not just say it. I've got to be better.”\n\nDallas trailed by seven in the third quarter before Doncic wrapped the ball around his back and then lobbed to Dwight Powell for a jam over Vucevic with 3:29 left. The play drew an “ooohhh” from the United Center crowd of 20,910, but the rest of the period belonged to Chicago.\n\nAlex Caruso converted a three-point play and made a jumper to give the Bulls a 95-80 lead after three. The reserve guard finished with 16 points on 6-for-7 shooting.\n\n“I just tried to be aggressive when I had the ball and shots went in,” Caruso said.\n\nChicago was never seriously threatened in the fourth, and LaVine punctuated the win when he got an overhead pass from Ball and finished a 360-degree dunk with 1:50 remaining.\n\n“The Bulls are back, man. That's all I can say,” said Tim Hardaway Jr., who scored 21 points for Dallas.\n\nDoncic's free throw gave the Mavericks a 51-48 lead with 4:46 left in the second quarter, but the Bulls closed the first half with a 13-3 run. LaVine opened the spurt with a 3-pointer and a dunk.\n\n“Right there before half, with two minutes left, they went on a run, and we just couldn't recover from that,” Dallas coach Jason Kidd said.\n\nTIP-INS\n\nMavericks: F Maxi Kleber (left oblique strain) missed his fifth straight game. Kidd said Kleber is doing better. “I don't think we've got to the seven- or 10-day mark yet,” Kidd said. “But once we get there, I think I can give you a better update.”\n\nBulls: G Coby White (offseason left shoulder surgery) practiced with the team's G League affiliate Tuesday. Donovan said White will have another workout on Thursday. “If things progress we're hopeful at some point maybe on that West Coast swing that he'd be available to play,” Donovan said. The Bulls open a five-game trip at Golden State on Friday night. ... F Patrick Williams (left wrist) will not travel with the team on its upcoming road trip, Donovan said.\n\nUP NEXT\n\nMavericks: At the San Antonio Spurs on Friday for their third meeting already this season. The Mavericks took the first two, winning 104-99 on Oct. 28 and 109-108 last week.\n\nBulls: At Golden State on Friday night. The Bulls have dropped eight in a row against the Warriors.\n\n------",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.770436",
+  "pipeline_version": "v1"
+}

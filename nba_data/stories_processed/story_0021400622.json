@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400622",
+  "espn_id": "400578914",
+  "date": "Jan 19, 2015",
+  "matchup": "LAL @ PHX",
+  "headline": "Guard trio leads Suns to 115-100 win over Kobe-less Lakers",
+  "cleaned_body": "PHOENIX --  The Phoenix Suns' trio of prolific point guards was at it again.\n\nGoran Dragic and Isaiah Thomas scored 24 apiece, Eric Bledsoe added 17 and the Suns pulled away to hand the Los Angeles Lakers their fifth loss in a row -- the last two without Kobe Bryant -- 115-100 on Monday night.\n\nThat's 65 points -- on 25-of-38 shooting -- for the guard threesome that is at the heart of the Suns' streak of six straight home wins and 13 victories in their last 17 overall.\n\n\"The three guards played tremendous,\" Phoenix coach Jeff Hornacek said.\n\nThey did much of their damage when all three were together on the court.\n\n\"We are ready to play small basketball when he (Hornacek) calls our name and we are all out on the floor together,\" Thomas said. \"I think it is dynamic. You don't see it around the league and it is something we love doing and hopefully we could do it a little more.\"\n\nDragic grabbed a team-high nine rebounds and Bledsoe had seven assists. Twelve of Bledsoe's points came in the third quarter when the Suns took control.\n\nNick Young scored 24 for the Lakers, who were tied 51-all at halftime but fell behind by 10 in the third quarter and 19 in the fourth.\n\nBryant sat out the loss at Utah on Friday to rest and then took Monday off, too. He is expected to rejoin the team for practice on Tuesday.\n\nThe Lakers have lost seven of eight, eight of 10 and 13 of 17.\n\n\"Turnovers,\" Los Angeles coach Byron Scott said. \"We had eight at halftime and we finished with 23. You're not going to win a whole lot of games with 23 turnovers.\"\n\nThe Suns took the lead for good when Dragic made the first basket of the third quarter.\n\nLate in the period, Bledsoe -- who had 12 points in the quarter -- sank a 3-pointer, Marcus Morris made one of two free throws and Phoenix took an 85-75 lead with 42 seconds left. The Suns were up 87-77 after three.\n\n\"In the first half we weren't aggressive enough,\" Dragic said. \"We fouled too much. They had 23 free throws if I am not mistaken. Then the third quarter was awesome.\"\n\nMorris' 3-pointer put Phoenix up 102-83 with 6:58 to play.\n\nLos Angeles managed to cut it to 106-100 when Jordan Hill sank a 19-footer with 2:59 left, but the Suns finished the game on a 9-0 run, with the last five points coming from Markieff Morris.\n\n\"We turned the ball over and didn't take care of it,\" Lakers guard Jeremy Lin said. \"We ended up shooting ourselves in the foot.\"\n\nThe Lakers led much of the first half but never by more than six points, thanks in part to free throw troubles. Los Angeles was 15 for 23 at the line in the first two quarters.\n\nThe Lakers led 46-40 after Wayne Ellington's 3-pointer with 3:16 to play in the second period. But the Suns outscored the Lakers 11-5 the rest of the half. Thomas' 3-pointer tied it at 51 with 29.9 seconds to go.\n\n---\n\nTIP-INS\n\nLakers: Los Angeles is 2-6 without Bryant this season. ... The Lakers lost center Tarik Black to a sprained right ankle with 5 minutes to play. ... Floyd Mayweather Jr. had a seat behind the L.A. bench. ... Los Angeles entered eighth in free throws attempted per game at 22. The Lakers had 23 in the first half.\n\nSuns: Phoenix's home winning streak is its longest since winning eight in a row from March 14 to April 13, 2010. ... Alex Len had his string of consecutive double-digit rebound games snapped at four.\n\nUP NEXT\n\nLakers: At New Orleans on Wednesday.\n\nSuns: Home against Portland on Wednesday.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.494665",
+  "pipeline_version": "v1"
+}

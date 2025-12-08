@@ -1,0 +1,23 @@
+{
+  "game_id": "0021301010",
+  "espn_id": "400489883",
+  "date": "Mar 19, 2014",
+  "matchup": "CHA @ BKN",
+  "headline": "Nets top Bobcats for 10th straight home win",
+  "cleaned_body": "NEW YORK -- Deron Williams' confidence is sky high and he's taking the Brooklyn Nets along for the ride.\nWith the Nets' winning streak in jeopardy, Williams scored 23 points, 11 in the final six minutes, to lead Brooklyn to a 104-99 victory over the Charlotte Bobcats on Wednesday night.\nThe Nets were trailing 85-82 midway through the fourth quarter following Josh McRoberts' dunk and free throw.\nThat's when Williams took over.\nHe hit a driving layup with 6:00 left, then a 3-pointer on the next possession. He followed that with a steal and two free throws to give the Nets an 89-85 lead with 5:22 remaining.\nThe home team never trailed again in registering its 10th straight win at the Barclays Center.\n\"My confidence is getting back. That's a good thing for me,\" said Williams, who also had eight assists. \"I tend to play well when my confidence is high. I just have to keep it there.\"\nJoe Johnson had 20 points for the Nets. Shaun Livingston finished with 17 and Andray Blatche had 13. Thornton and Mason Plumlee each had 11.\n\"He (Williams) has been clutch the last month or so,\" Plumlee said. \"He's made a lot of big plays in some of these wins. He has more bounce to his step.\"\nAl Jefferson led Charlotte with 18 points and 12 rebounds, and Gary Neal added 17 points.\nAfter Williams' streak put the Nets ahead, the Bobcats managed to pull within 97-95 on Neal's 3-pointer with 1:33 left.\nAfter Paul Pierce hit a free throw with 1:18 remaining, Kemba Walker missed on a 3-point attempt and Williams followed with a foul line jumper with 37 seconds left to give the Nets a 100-95 lead.\n\"Deron took control of the game and made plays on both ends,\" coach Jason Kidd said. \"He's making all the right basketball plays and not settling.\"\nAfter Shaun Livingston hit a free throw with 21 seconds, Neal hit another 3-pointer to bring the Bobcats to within 101-98 with 17 seconds left.\nThen Williams hit two more free throws with 16 seconds remaining to help clinch the win.\n\"I took what the defense game me,\" Williams said. \"They made their run and we needed to make one back. I just happened to be a big part of that, but it could have been any of us.\"\nThe Nets took their biggest lead of the game at 38-25 on Marcus Thornton's 3-pointer with 8:19 left in the first half.\nThe Bobcats' began the game on a 6-0 run, their largest lead of the night.\nThe Nets finished the game with only seven turnovers, tied for their lowest this season. The Bobcats committed 15, five in the fourth quarter.\n\"Turnovers were the biggest difference in the game,\" Charlotte coach Steve Clifford said. \"We had a couple of unforced ones late that were at key times.\"\nChris Douglas-Roberts and Gerald Henderson scored 13 points each for the Bobcats. Cody Zeller had 10.\n\"That's the Deron we're used to seeing,\" Blatche said. \"His confidence is high. He's playing great and carrying this team.\"\nGame notes\nThe Nets haven't lost at home since Jan. 31 against Oklahoma City . Brooklyn's home winning streak is longest current streak in the NBA and is the franchise's longest since the New Jersey Nets won 12 straight Dec. 16, 2005-Feb. 8, 2006 . Brooklyn has beaten Charlotte nine of the last 10 meetings, with the Bobcats' only victory during that span coming on Nov. 20, 2013. Before that, Charlotte hadn't won in the series since April 11, 2011.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.218519",
+  "pipeline_version": "v1"
+}

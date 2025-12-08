@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100875",
+  "espn_id": "401360694",
+  "date": "Feb 16, 2022",
+  "matchup": "DET @ BOS",
+  "headline": "Pistons end 8-game skid, Celtics' 9-game winning streak",
+  "cleaned_body": "BOSTON -- — Jerami Grant hit the winning basket and scored 24 points to help the Detroit Pistons end an eight-game losing streak and the Boston Celtics' nine-game winning streak, 112-111 on Wednesday night.\n\nJayson Tatum had a chance to send the Celtics into the All-Star break on a 10-game roll, but his jumper from the top of the key bounced high off the rim.\n\nCade Cunningham scored 20 points and had a key block in the final minute in the Pistons' first victory since Jan. 30.\n\n“Getting this win going into the break will give us a little confidence,” said Grant, who scored 11 points in the fourth quarter — making all five shots he attempted in the period.\n\nThe Pistons were down 106-98 after Tatum drove for a dunk with 4:25 left to play. Grant started the comeback on a layup with 3:49 left, then added a 3-pointer to cut it to 106-103 with 3:01 remaining.\n\n“Jerami was that guy taking us down the stretch. He made some big, big hoops and some great cuts to the basket,” Detroit coach Dwane Casey said. “It was a big-time performance by Jerami.”\n\nGrant completed the scoring with a jumper from 10 feet with 19.1 seconds left. Cunningham blocked a shot by Brown with 8.9 seconds left and the Pistons survived after Boston's Derick White broke-up the inbounds play, giving the Celtics one more shot to extend their streak.\n\n“They came to play. They were the more deserving team tonight,” said Jaylen Brown, who led Boston with 31 points.\n\nSaddiq Bey added 20 points and 11 rebounds, and Kelly Olynyk had 15 points for the Pistons, who won for just the fifth time on the road this season.\n\nAl Horford finished with 19 points, seven rebounds and seven assists for Boston. Grant Williams scored 17 points. Boston was coming off a 135-87 blowout victory the night before at Philadelphia.\n\n“We knew not to be surprised. I think Detroit played fantastic. I think we got their best shot tonight,” Brown said.\n\nSHARING THE LOAD\n\nCasey said the victory, Detroit's first since beating Cleveland 115-105 late last month, showed how the young Pistons are growing together through what has been a difficult season, which up until Wednesday included only a dozen wins.\n\n“I’m proud of the way we competed. I loved the togetherness that we had. We were connected,” Casey said. “Guys put their words into action. A lot of times we all talk about stuff but there’s no action. So, they really came through.\"\n\nThe Pistons also outrebounded the Celtics 47-30 and forced 17 turnovers.\n\n“That’s a very good team. They’re on of the top teams in the league right now so that should give us some confidence,” Casey said.\n\nTIP-INS\n\nPistons: G Frank Jackson missed his second straight game with a back injury. … The Pistons made 13 of 24 shots in the third quarter, including 6 of 10 from three-point range that helped them to a 84-83 lead after three periods. … Hamidou Diallo opened the second quarter with a powerful, two-handed dunk that tied it at 25.\n\nCeltics: G Marcus Smart, who sprained his right ankle in the second quarter Tuesday night at Philadelphia, did not play and C Robert Williams (right calf tightness) was out for the second consecutive night. … Brown scored 13 points in the first quarter and 14 in the third. … C Daniel Theis, who returned to Boston last week in a trade with Houston, received a warm round of applause when he entered the game with 4:18 left in the first quarter. ... Tatum scored nine of his 22 points in the fourth quarter.\n\nUP NEXT\n\nPistons: Host Cleveland on Thursday, Feb. 24.\n\nCeltics: At Brooklyn on Thursday, Feb. 24.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.265208",
+  "pipeline_version": "v1"
+}

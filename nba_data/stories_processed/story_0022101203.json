@@ -1,0 +1,23 @@
+{
+  "game_id": "0022101203",
+  "espn_id": "401361022",
+  "date": "Apr 08, 2022",
+  "matchup": "MIL @ DET",
+  "headline": "Giannis Antetokounmpo has 30 points, Bucks rout Pistons",
+  "cleaned_body": "DETROIT -- — Giannis Antetokounmpo had 30 points, 13 rebounds and eight assists to help the Milwaukee Bucks rout the Detroit Pistons 131-101 on Friday night.\n\n“I knew I had to be aggressive and play downhill tonight,” Antetokounmpo said. “Even when we had the big lead, I kept going, because this is the time of year when you build good habits. Now isn't the time to cheat the game.”\n\nAveraging 29.9 points, Antetokounmpo needs 35 points or more Sunday in the season finale at Cleveland to join Kareem Abdul-Jabbar as the only Milwaukee players to average 30 points for a season.\n\n“What is huge for us is that Giannis scores of all his points without knocking himself out on double teams,” Bucks coach Mike Budenholzer said. “When he sees an opportunity to find an open teammate, he makes the right play. Not every great scorer has that mentality.”\n\nBrook Lopez added 17 points, and Khris Middleton had 15. The defending champion Bucks led by 32 points en route to their third straight victory. They improved to 51-30.\n\n“That's a well-oiled machine and they are playing like a championship team,” Pistons coach Dwane Casey said. “That's one of the first real stinkers we've played since the All-Star Game, but they make you pay for every mistake you make.”\n\nRodney McGruder had a career-high 26 points for Detroit. Saddiq Bey (20) and Cade Cunningham (14) were the only starters to reach double figures.\n\n“It's fun to play the game and have the opportunity to still play like this,” McGruder said. “I know I'm not going to get 24 minutes very often, and the circumstances weren't great, but I made sure to take advantage.”\n\nThe Pistons missed 15 of their first 16 field-goal attempts, falling behind 23-4. Detroit finished with an NBA-season-low eight points in the first quarter, falling behind by 22.\n\nMilwaukee's defense wasn't quite as sharp in the second quarter, but the Bucks still led 56-38 at the half despite only shooting 41.2% themselves.\n\n“That's a talented team that beat us earlier in the season, so we knew we had to take them seriously,” said Bucks guard Wesley Matthews. “We came out and locked in right away, which is great to see on the second half of a back-to-back.”\n\nThe Bucks moved the margin to 31, 76-44, on Antetokounmpo's three-point play midway through the third quarter, and only McGruder's career night kept the Pistons from being humiliated.\n\nMilwaukee's George Hill left the game with back spasms after scoring 10 points in 16 minutes.\n\n“We will see how he feels tomorrow, but he's really sore right now,” Budenholzer said.\n\nTIP INS\n\nBucks: Milwaukee improved to 13-1 against the Pistons under Budenholzer. The only blemish was Detroit's 115-105 win in Milwaukee on Jan. 3. ... Antetokounmpo reached 2,000 points for the second time in his career. He needs 13 points in the finale to break his current career high of 2,014, set in 2017-18.\n\nPistons: Detroit's loss guarantees it will finish with fewer than 25 wins for the third straight season — the longest streak in franchise history.\n\nUP NEXT\n\nBucks: At Cleveland on Sunday.\n\nPistons: At Philadelphia on Sunday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.781968",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,27 @@
+{
+  "game_id": "0022100157",
+  "espn_id": "401359981",
+  "date": "Nov 09, 2021",
+  "matchup": "LAC vs. POR",
+  "headline": "George scores 24, Clippers beat Blazers to extend win streak",
+  "cleaned_body": "LOS ANGELES -- — Paul George has been putting the Los Angeles Clippers on his shoulders the first month of the season. He needed some help Tuesday night after running into foul trouble midway through the third quarter against the Portland Trail Blazers.\n\nReggie Jackson and Nicolas Batum were able to pick up the slack.\n\nGeorge led the Clippers with 24 points in their 117-109 victory over the Trail Blazers, but Jackson added 23 and Batum scored a season-high 22 points as Los Angeles extended its winning streak to five.\n\n“We just keep being resilient and finding ways to win,” coach Tyron Lue said. “In the timeouts my message was I wanted us to keep our poise. We had to keep playing through it. They held it down until we got Paul back in the game.”\n\nGeorge went to the bench with 5:53 remaining in the third quarter and the Clippers up 70-65. When he came back into the game with 9:55 left in the fourth, LA had extended the lead to 88-82.\n\nBatum and Isaiah Hartenstein keyed the Clippers' offense during George's absence with eight points apiece.\n\n“The first two or three possessions we didn’t play well. We weren’t moving the ball,” said Batum, who was 6 of 8 from beyond the arc. “Then we just started to play simple, move around and got open shots. That was a big stretch before Paul came back.”\n\nGeorge, the reigning Western Conference player of the week, played only 33 minutes because of his foul trouble. Despite the decreased playing time, he was near a triple-double with nine rebounds and seven assists.\n\n“So many guys are stepping up when we need them. You never know in a big night who it is going to be. You can’t put enough emphasis on that,” said George, who is fifth in the league in scoring at 26.7 points per game.\n\nDamian Lillard led Portland with 27 points and Norman Powell scored 23. Jusuf Nurkic had 15 points and 13 rebounds for the Trail Blazers, who are winless in their first five road games.\n\nThe Clippers had an 83-79 lead going into the fourth quarter before going on a 13-6 run to take control. They would extend the lead to 12 in the final minute.\n\nBlazers coach Chauncey Billups thought his team played well for the first three quarters but became undisciplined in the fourth.\n\n“There is a different level of focus you have to have here and we didn’t get that done,” he said. “We had some shots we couldn't make late.”\n\nThe third meeting between the teams was close compared to the first two. The Clippers won 116-86 on Oct. 25 before the Trail Blazers countered with a 111-92 victory four nights later.\n\nNOT AMUSED\n\nLillard looked perturbed postgame, mostly about the offseason rule emphasis that has taken away players relying on non-basketball moves to draw fouls.\n\n“I feel like the way the game is being officiated is unacceptable. I don't want to go too deep into it but the explanations and (stuff) that is getting missed ...\" he said. “I felt like, coming in, the rule change wouldn’t affect me because I don’t trick the referees. I don’t do the trick plays.”\n\nROLLERCOASTER FIRST\n\nThe Clippers jumped out to a 13-3 lead less than three minutes into the game on the strength of three 3-pointers. The Trail Blazers would rally though and go up by 26-20 on Cody Zeller's dunk with 3:44 remaining in the period.\n\nLA would score the last 13 points in the period to have a 33-26 advantage after 12 minutes.\n\nTIP-INS\n\nTrail Blazers: The 33 points by LA in the first quarter is the most Portland has allowed in the first 12 minutes this season.\n\nClippers: Hartenstein came off the bench and scored a season-high 14 points in 17 minutes.\n\nUP NEXT\n\nTrail Blazers: Travel to the Phoenix Suns on Wednesday. Portland won the first meeting 134-105 on Oct. 23.\n\nClippers: Host the Miami Heat on Thursday. LA has won the last five meetings.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "ThreePointExplosion",
+    "FoulTrouble",
+    "Streak",
+    "CoachComment",
+    "EarlyRun"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.025407",
+  "pipeline_version": "v1"
+}

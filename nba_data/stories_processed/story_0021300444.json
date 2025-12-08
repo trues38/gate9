@@ -1,0 +1,25 @@
+{
+  "game_id": "0021300444",
+  "espn_id": "400489317",
+  "date": "Dec 28, 2013",
+  "matchup": "MIL vs. MIN",
+  "headline": "Love and 3s help Timberwolves rout Bucks 117-95",
+  "cleaned_body": "MILWAUKEE -- Kevin Love had both feet soaking in a bucket of cold water and ice packs wrapped around his knees. A knee to the thigh might have stung him the most, but his sixth straight double-double made up for the brief burst of pain.\nLove had 33 points and 15 rebounds, Nikola Pekovic added 19 points and 11 boards, and the Minnesota Timberwolves climbed back to .500 by routing the Milwaukee Bucks 117-95 on Saturday night.\n\"I'll be good to go. Once they called a timeout and worked on it, it was fine,\" Love said.\nGood thing for Minnesota (15-15), which won its second straight game behind another stellar outing from Love.\n\"He wakes up getting double-doubles,\" said teammate Kevin Martin, who had 20 points.\nLove hit four of Minnesota's 11 3-pointers and the Timberwolves pulled away with a 14-0 run to start the second half. Perimeter defense was once again a huge problem for the Bucks, who have allowed opponents to hit at least 10 3s in seven consecutive games.\nKhris Middleton scored 23 points on 10-of-20 shooting for the Bucks, who fell to an NBA-worst 6-24. Larry Sanders had nine points and 10 rebounds in 33 minutes, his first start since missing seven weeks following right thumb surgery.\n\"We were just kind of deflated. We didn't get our momentum back,\" Sanders said. \"We got a little in the first half, lost it for a second, and just never got it back. That's the story of the game.\"\nMinnesota had an easy time snapping a three-game losing streak away from home. Martin smiled after his shot from the wing bounced on the rim a couple of times before falling through the net for a 24-point lead with 4:32 left in the third quarter.\nThe Timberwolves led by as many as 31 before the Bucks mounted a late charge. It was nerve-racking enough that coach Rick Adelman put Love back on the floor late to ensure the Bucks didn't complete an improbable comeback.\nIf there was anything for Adelman to worry about from this blowout heading into a three-game stretch at home, it was the play of his bench late.\n\"When they go in, no matter what the score is, they have to play like the game is on the line,\" he said.\nIf only Milwaukee could have contained Minnesota from the perimeter. The Timberwolves, the league's third-highest scoring team (106.1 points per game) shot 45 percent from 3-point territory after hitting at a 33 percent clip for the season.\nA nine-point halftime lead climbed to double digits following a 14-0 run to start the third quarter.\nCorey Brewer (12 points) got the fun started by freezing rookie Giannis Antetokounmpo on the perimeter and hitting an 18-footer.\nMartin hit a 3 from the wing to make it 73-55 with 9:33 left after getting a pass from Brewer. Martin was so open that Brewer raised both arms in the air in celebration as he backpedaled on defense before the ball floated through the net.\nHalfcourt defense and ball movement sparked the Timberwolves, while Bucks coach Larry Drew said his team got broken down off the dribble and beaten on back cuts.\n\"We got caught a couple of times staring at the ball and they just back-cut us,\" Drew said. \"Nothing we weren't ready for, we just didn't get the job done.\"\nO.J. Mayo's 3 with 7:26 left finally ended the slide, but the offensively challenged Bucks were still saddled with a 20-point deficit. Milwaukee came in 28th in the league in scoring at 92.6 points per game.\nMayo finished with 19 points. The Bucks had 20 turnovers, leading to 25 points for Minnesota.\nGame notes\nBucks C John Henson had to celebrate his birthday on the bench with a left leg injury. Henson, who turned 23, said he thought he might have a high ankle sprain, though he is supposed to undergo more tests to determine exactly what's ailing him. It is unclear how long he might be out. ... F Luc Richard Mbah a Moute, drafted by the Bucks in 2008, returned to Milwaukee for the first time since being traded in the offseason to Sacramento. The Kings traded him to Minnesota last month for F Derrick Williams.\n---\nFollow Genaro Armas at http://twitter.com/GArmasAP",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.856997",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0022101033",
+  "espn_id": "401360852",
+  "date": "Mar 16, 2022",
+  "matchup": "CHA vs. ATL",
+  "headline": "Ball scores 22, Hornets pull away late to beat Hawks 116-106",
+  "cleaned_body": "CHARLOTTE, N.C. -- — LaMelo Ball had 22 points, 11 assists and eight rebounds, P.J. Washington scored 13 of his 16 points in the fourth quarter and the Charlotte Hornets defeated the Atlanta Hawks 116-106 on Wednesday night for their third straight win.\n\nMontrezl Harrell brought energy off the bench with 20 points and Terry Rozier and Miles Bridges each had 18 points for Charlotte.\n\nThe Hornets entered the night a half-game behind the ninth-place Hawks in the Eastern Conference but vaulted ahead of their division foes to get back to .500 on the season.\n\n“It was a huge (win), definitely huge for us,” Washington said. “We showed we can do it. If we play like that it will be tough for teams to beat us.”\n\nClint Capella had 17 points and 15 rebounds for the Hawks, who had their three-game win streak snapped. Trae Young had 15 assists but was held to a season-low nine points on 3-of-12 shooting and the Hornets doubled-team him whenever possible.\n\n“We made the game very difficult for him,” Harrell said. “... We knew that he is the guy who makes them go. Stats show that if he scores more than 30 points they generally win.”\n\nSaid Hornets coach James Borrego: “We used our length, size and physicality and we made it tough on Trae. He is a heck of a player and getting him out of the pick and roll, we went through probably three or four iterations tonight to make him think on the fly.\"\n\nThe Hawks and Hornets entered the fourth quarter tied at 85 in a game in which neither team led by more than eight points through the first three quarters.\n\nBut the Hornets started to pull away late after going with a “small-ball” lineup, using the 6-foot-7 Washington at the 5 spot — something they have done in past years but haven't used much this year.\n\nBorrego's late fourth-quarter move, which featured Washington on pick and pops, paid off.\n\nWashington stepped out to knock down a 3-pointer from the top of the key and Rozier followed with an off-balance 3 from the right wing to beat the shot clock and give the Hornets a 105-98 lead with 3:06 left in the game.\n\nWashington then scored an old-fashioned three-point play off a pick-and-roll pass from Ball to give Charlotte a double-digit lead. Washington drilled another 3 to push the lead to 11 and then got free underneath for a dunk off a pass from Bridges to put the final touches on the win.\n\nBorrego said he hasn't used the small-ball lineup much this season because Mason Plumlee, who had 12 points and 10 rebounds, and Harrell have been playing well.\n\n“He’s a matchup problem when we go small ball,” Borrego said of Washington.\n\n“We was capable of doing that,” Hawks coach Nate McMillan said. \"We didn’t get out quick enough, and we didn’t get out to the shooters, and they basically just ran a pick-and-pop game and he was able to knock down some shots.”\n\nWashington's eruption came after he missed a dunk earlier in the second half.\n\n“I was mad,” Washington said.\n\nSHOOTING LEFTY\n\nCharlotte's Mason Plumlee has been struggling so much from the foul line that the 7-foot center has switched to shooting his free throws left-handed. Plumlee air-balled his first attempt but then returned to the line later in the second quarter and made back-to-back free throws as the crowd erupted in cheers.\n\nPlumlee is shooting 36.4% from the foul line, well below his career average of 58.3%.\n\nTIP-INS\n\nHawks: Were outscored 60-48 in the paint.\n\nHornets: Miles Bridges scored 18 points for Charlotte — all in the first half.\n\nUP NEXT\n\nHawks: Host Grizzlies on Friday night\n\nHornets: Host Mavericks on Saturday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.414292",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0022101151",
+  "espn_id": "401360970",
+  "date": "Apr 01, 2022",
+  "matchup": "TOR @ ORL",
+  "headline": "Raptors beat Magic 102-89 for fifth straight win",
+  "cleaned_body": "Orlando, Fla. -- — Fred VanVleet and Scottie Barnes scored 19 points apiece, Pascal Siakam added 16 points and 11 rebounds and the Toronto Raptors beat the Orlando Magic 102-89 on Friday night for their fifth straight win.\n\nGary Trent Jr. finished with 17 points for Toronto, which took advantage of 21 Orlando turnovers.\n\nMo Bamba had 15 points, 10 rebounds and three blocks for the Magic, who lost their fifth straight.\n\nVanVleet had 13 points in the third quarter while the Raptors were pulling out to a 22-point lead. He also contributed five steals and five rebounds.\n\n“It was Fred VanVleet being Fred VanVleet,” Trent said. “His resume speaks for itself. He's been great for us all year.”\n\nThe Raptors were never threatened in the second half, but coach Nick Nurse was somewhat disappointed that all five of his starters had to play 35 minutes or more against the team with the worst record (20-58) in the Eastern Conference.\n\n“I usually try to coach the game that's in front of us,” Nurse said. “If someone comes off the bench and gives us a contribution he can get extended minutes, but that was not the case. I think tonight our starters got more minutes than usual out of necessity.”\n\nBarnes scored nine straight points to help the Raptors close the first half on a 20-4 run and take a 13-point lead.\n\nA 3-pointer by Chuma Okeke had given Orlando its only lead of the game at 42-39 with 5:29 left in the half. Trent tied it with a 3-pointer, before Siakam hit a 12-footer and got into the lane for two layups while Orlando went scoreless for more than three minutes.\n\nVanVleet took over in the second half, hitting the first three of five 3-pointers that helped the Raptors stretch their lead to 22.\n\n“It’ll be different guys every game,” VanVleet said. “That’s kind of the way it’s been all season. But at the end of the day it’s about wins and losses, and I like the way we’ve been playing.”\n\nThe highlight for the Magic was the return of guard Davin Cannady, who signed a 10-day contract on Thursday, almost a year after breaking his right ankle in a game against Indiana on April 25, 2021.\n\n“It just feels good to be back on an NBA floor after an 11-month grind,” said Cannady, who hit three 3-pointers. “Whether I made or missed every shot, I was going to have fun out there.”\n\nThe Magic lost forward Franz Wagner to an ankle injury just 20 seconds into the game. The 6-foot-10 rookie, who has started all 78 games, was called for fouling Barnes and fell backward into the lane.\n\nTIP-INS\n\nRaptors: The Raptors scored 32 points off 21 Magic turnovers. ... F Yuta Watanabe did not play because of a sore left quad. An MRI revealed some damage and Watanabe is expected to miss some time.\n\nMagic: Cannady played 29 minutes, more than any Magic player except Bamba. ... Rookie G Jalen Suggs missed his 32nd game, the last nine with a right ankle bone bruise. ... F Wendell Carter Jr. sat out the fourth game of the last five with a sprained left wrist.\n\nUP NEXT\n\nRaptors: Host the Miami Heat on Sunday night.\n\nMagic: Host the New York Knicks on Sunday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.349700",
+  "pipeline_version": "v1"
+}

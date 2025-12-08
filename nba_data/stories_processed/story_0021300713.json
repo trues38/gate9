@@ -1,0 +1,25 @@
+{
+  "game_id": "0021300713",
+  "espn_id": "400489586",
+  "date": "Feb 03, 2014",
+  "matchup": "DET @ MIA",
+  "headline": "Heat stay in gear as LeBron James flirts with triple-double",
+  "cleaned_body": "MIAMI -- Outfought for a late rebound by Dwyane Wade, a grinning LeBron James chided his teammate as they ran upcourt.\nWith the game in hand, the Miami Heat could worry about individual stats. Wade and James had handsome numbers in Monday's 102-96 victory over the Detroit Pistons.\nJames totaled 24 points, 11 assists and eight rebounds, just missing the Heat's first triple-double of the season. Wade scored 30 points, his best total since Dec. 18 in an injury-hampered season, and he added a season-high 10 rebounds and five assists.\n\nJames, who has come close to a triple-double several times this season, was blanked in the rebound department down the stretch. When Wade snatched one away from him with 4 minutes left, he heard about it from his taller teammate.\n\"D-Wade knew what he had going on, too,\" James said. \"He was like, 'I need this double-double.' He had a heck of a game. He was spectacular.\"\nWade pleaded guilty to being briefly motivated by getting his first double-double of the season.\n\"I was going for a double-double,\" he said with a laugh. \"Sorry.\"\nHeat guard Ray Allen also outmaneuvered James for a rebound in the final minutes, which left James muttering to the Heat bench. James finished two rebounds shy of a triple-double for the third time this season, and another time he came within two assists.\n\"He's working on the all-time record for near misses on triple-doubles,\" Heat coach Erik Spoelstra said.\n\"It's not meant for it to happen this year,\" James said with a chuckle. \"My own guys got me. But a win is what it's about, and I'm happy we played well for most of the game.\"\nWade, who sat out four consecutive games last month to rest his troublesome knees, looked rejuvenated. He shot 13 for 19 and played 37 minutes, his fifth-highest total this season.\n\"That rest did him well,\" teammate Chris Bosh said. \"He has a lot of spring in his legs. When he plays well, we're a tough team to beat.\"\nBosh scored 17 points to help Miami win for the fifth time in six games.\nAllen's buzzer-beating 3-pointer put the Heat up 84-80 after three periods, and they pulled away from there. Wade's 3-pointer put them ahead by 13 points for the first time, 98-85.\nBrandon Jennings had 26 points and seven assists for the Pistons, who trailed almost the entire game and took it badly. They were called for four technical fouls.\n\"We can get upset with them, but you have to learn how to deal with it,\" coach Maurice Cheeks said. \"When you're on the road, you have to learn to forget about what's going on.\"\nGreg Monroe had 17 points and 11 rebounds for Detroit, which lost despite forcing 20 turnovers and holding an edge of 51-44 in rebounds.\n\"We just fell short,\" said Josh Smith, who shot only 5 for 20. \"They are the world champs, so we have to play almost perfect.\"\nThe Heat, who began the week three games behind Eastern Conference leader Indiana, started strong and scored 13 points before they missed a shot.\nFrom 41-all, James and Wade teamed up for back-to-back fast-break baskets. The second came when Wade fed Mario Chalmers, whose alley-oop over the hoop perfectly led an airborne James for a one-handed throw-down dunk.\n\"The way it came out of Rio's hand, I didn't think I was going to get it,\" James said. \"But I tried, and the man above has given me some unbelievable abilities. I just try to take full advantage of them.\"\nJames also tweaked his left shoulder and right hand, and was called for committing a foul with his face when he became entangled with Monroe.\nWill Bynum's four-point play put the Pistons up 48-47, but that was their last lead. Miami went on a 14-2 run near the end of the half and led 63-57 at halftime.\nGame notes\nMiami's Michael Beasley tipped a rebound into the Pistons' basket in the second quarter. ... Pistons F-C Josh Harrellson sat out with a sore knee. ... The Heat play six road games before their next home game Feb. 23. ... The Heat improved to 20-5 when leading after one quarter. ... The Pistons are 1-21 when trailing after three periods.",
+  "tags_rule": [
+    "DoubleDouble",
+    "TripleDouble",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.197300",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021301073",
+  "espn_id": "400489946",
+  "date": "Mar 27, 2014",
+  "matchup": "MIL vs. LAL",
+  "headline": "Bucks end 8-game skid, complete season sweep of Lakers",
+  "cleaned_body": "MILWAUKEE -- Struggling through one of the worst seasons in franchise history, Brandon Knight and the Milwaukee Bucks wish they could play the Los Angeles Lakers every night.\nKnight scored 30 points and Ramon Sessions added 22 to lead the Bucks to a 108-105 victory over the Lakers on Thursday to break an eight-game losing streak.\nThe Bucks swept the season series for the first time since 2006-07, as Milwaukee beat Los Angeles 94-79 on Dec. 31. Knight scored a career-high 37 points in the first meeting.\n\"I'm not sure what it was, but I was able to have two good games against them,\" Knight said. \"Some teams you just match up well against and we did this year against the Lakers.\"\nKnight also hit the key shot, a 17-foot jumper with 16 seconds remaining to give the Bucks a 105-99 lead.\n\"They did a good job of cutting off a drive to the basket, but I was able to step back and get a good jumper that went down,\" he said. \"It really felt nice to win a game like that.\"\nKhris Middleton added 14 points for the Milwaukee, which won for only the 14th time this season. The Bucks hit 55.7 percent from the field, just the eighth time this season the Bucks have shot better than 50 percent.\n\"We feel very fortunate that we were able to play well both times that we faced them, but I don't really sense pride in beating them twice to be honest,\" Bucks coach Larry Drew said.\nDrew said Knight and Sessions really opened the floor for Milwaukee.\n\"We probably ran more pick-and-roll than any other game we played. But we really were just focused on trying to open up the floor and both guys were getting to the basket and making shots,\" he said. \"They seemed to play well off one another tonight. I played them both heavy minutes but they responded very well.\"\nBucks rookie Giannis Antetokounmpo was injured midway through the fourth quarter when he stepped on Nick Young's foot while driving to the basket and hurt his left ankle. He was helped to the locker room and did not return.\nDrew said the team would know more about Antetokounmpo's injury on Friday.\nThe Lakers had won two straight, including a 127-96 win over the New York Knicks on Tuesday when they scored 51 points in the third quarter.\nJordan Hill had 28 points and 16 rebounds for the Lakers, while Young added 17 points.\nYoung said the Lakers can't overlook any team, no matter its record.\n\"This is the NBA where anyone can win on any night,\" he said. \"You have to give them credit. They were more aggressive than we were at the end and really took it to the basket hard.\"\nYoung hit a 3-pointer and Hill made a jumper to trim the lead to 103-99 with 1:43 remaining.\nKnight's 17-foot jumper then gave the Bucks a six-point lead. Young countered by hitting a 3-pointer with 16 seconds remaining, but the Lakers were unable to foul and Zaza Pachulia layup made it 107-102.\nKent Bazemore hit a desperation 3-pointer for the Lakers with 2 seconds remaining, but Sessions was fouled and hit one of two free throws to make the score 108-105 with 0.6 seconds remaining. Young was unable to get off a final shot.\n\"I felt like we could get it done, but it didn't happen,\" Young said.\nThe Lakers played without Pau Gasol, who was out with vertigo for the second straight game, and Steve Nash, who has missed 18 of the team's last 19 games with nerve irritation.\nGame notes\nThe Bucks announced Thursday that forward Ersan Ilyasova would be sidelined for the remainder of the season with a right ankle and foot injury. ... O.J. Mayo also missed the game for the Bucks as he sprained his ankle in the team's loss to the Los Angeles Clippers on Monday. ... Lakers center Chris Kaman arrived at the arena just 30 minutes before the game, but still started and scored 13 points.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.726398",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400101",
+  "espn_id": "400578393",
+  "date": "Nov 10, 2014",
+  "matchup": "CHI vs. DET",
+  "headline": "Rose returns, helps Bulls beat Pistons 102-91",
+  "cleaned_body": "CHICAGO --  Derrick Rose said everything he wanted to say about his health on the court.\n\nRose had 24 points and seven assists in his return to the lineup, and the balanced Chicago Bulls beat the Detroit Pistons 102-91 on Monday night.\n\n\"In the first half, I thought he set the tone for us,\" coach Tom Thibodeau said. \"And certainly the way he finished was great.\"\n\nRose was 9 for 20 from the field in a season-high 32 minutes after being sidelined by sprained ankles. The 2011 NBA MVP had missed four of the previous five games after he was injured in a 114-108 overtime loss to Cleveland on Oct. 31.\n\nRose departed before the media was allowed in the locker room, leaving his teammates to discuss his best performance of the young season.\n\n\"He was confident out there and he was just playing his style of basketball, which was good for us because he's so fast and he's getting out in transition, getting guys layups and dunks,\" said Jimmy Butler, who finished with 19 points. \"Then he's stepping up and making big shots. It's always a plus to have him on your team.\"\n\nPau Gasol had 17 points and 15 rebounds for Chicago, and Joakim Noah finished with 13 points, 14 boards and six assists. The Bulls outrebounded the Pistons 49-46 after they had lost the battle on the glass in the previous six games, rankling the hard-nosed Thibodeau.\n\nJosh Smith had 19 points and 11 rebounds for Detroit, which was coming off a 97-96 home loss to Utah on Sunday. Greg Monroe had 16 points and 10 boards, and reserve D.J. Augustin scored 16.\n\n\"The second half was a positive for us by and large,\" Pistons coach Stan Van Gundy said. \"But when you give away the first half and then play better, but still come up short, I can't accept it. You have to play to win.\"\n\nPistons center Andre Drummond, who began the game in a jersey that had his name misspelled on the back, grabbed 12 rebounds, but was 0 for 5 from the field and finished with two points.\n\nThe Pistons trailed by as many as 19, but Kyle Singler had a layup and Augustin made a long jumper to trim Chicago's lead to 90-88 with 2:43 remaining.\n\nGasol responded with a clutch jumper and Smith missed a 3-pointer on the other end for Detroit. Rose then came down and found Butler for a 3, making it 95-88 with 1:56 left.\n\nRose also hit a key jumper and two foul shots to help the Bulls hold on down the stretch.\n\nDetroit dropped the opener of a four-game trip to fall to 0-3 on the road this season. Brandon Jennings had 11 points and eight assists, but also committed four turnovers.\n\n\"It's the little things we have to get better at,\" Monroe said. \"We have to pay attention to details defensively.\"\n\nRose had his best play of the night in the final seconds of the first half, when he faked a cross-court pass in midair, and then fired underneath to Noah for a layup. The flashy move was reminiscent of Rose's MVP season and helped the Bulls to a 60-44 lead at the break.\n\n---\n\nFOR STARTERS\n\nThibodeau used a starting lineup of Rose and Butler in the backcourt, Gasol and Mike Dunleavy at forward and Noah at center for the first time this season.\n\n\"It was great to have everyone,\" Gasol said. \"A full roster available and healthy. I hope we can keep it that way.\"\n\nTIP-INS\n\nPistons: Augustin played almost 21 minutes in his first game in Chicago since he signed a free-agent deal with the Pistons in July. Augustin averaged 14.9 points in 61 games with the Bulls after he was cut by Toronto last December. \"He saved us last year,\" Thibodeau said. \"He had an incredible year.\" ... F Cartier Martin is out with a mild plantar fascia strain in his right foot. He has yet to play this season. \"He's been cleared medically for a couple of weeks, so, you know, whenever he can handle the pain, he'll be back playing,\" Van Gundy said. \"And I don't know when or if that's going to happen.\"\n\nBulls: Reserve F Tony Snell did not play on his 23rd birthday. ... The Bulls have won 16 of their last 17 home games against the Pistons.\n\nUP NEXT\n\nPistons: At Washington on Wednesday.\n\nBulls: At Toronto on Thursday.\n\n---\n\nJay Cohen can be reached at http://www.twitter.com/jcohenap",
+  "tags_rule": [
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.833511",
+  "pipeline_version": "v1"
+}

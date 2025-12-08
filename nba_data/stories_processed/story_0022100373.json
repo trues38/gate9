@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100373",
+  "espn_id": "401360197",
+  "date": "Dec 08, 2021",
+  "matchup": "MEM vs. DAL",
+  "headline": "Doncic scores 26, Mavs rally past Grizzlies to end skid",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Luka Doncic scored 26 points and Kristaps Porzingis added 19 as Dallas used a fourth-quarter rally to defeat the Memphis Grizzlies 104-96 on Wednesday night, ending the Mavericks’ three-game skid.\n\nReggie Bullock had 15 points for the Mavericks, who surpassed 100 points for only the second time in the past six games.\n\nJaren Jackson Jr. led Memphis with 26 points, while Dillon Brooks added 15 points before being ejected late in the fourth quarter. Desmond Bane finished with 14 points. Memphis' five-game winning streak ended.\n\n“We’ve just got to play better,” Memphis coach Taylor Jenkins said. “But I thought the urgency in making plays like we’ve done in recent games wasn’t there.”\n\nDallas held Memphis to 40% shooting overall, including 9 of 31 from outside the arc.\n\n“We’re playing at a high level on the defensive end,” Mavericks coach Jason Kidd said. “Offense is starting to come slowly. This is a good sign tonight shooting 48% and not having to take 40-plus 3s”\n\nDallas held a 76-75 lead entering the fourth quarter, but unlike in Tuesday night’s loss to the Nets — in which the Mavs were held to 13 points in the fourth — Dallas used a 7-0 run to pull ahead and stretched the lead to 100-86 with 2:55 left.\n\nThe first half was feisty with plenty of fouls, technicals and wrestling for the ball. There was some pretty good defense, too, as both teams shot less than 45% from the field and about 25% from 3-point range.\n\nAs testy as the first half was, things got even worse after halftime. By the end, the officiating crew of John Goble, Sean Corbin and Matt Boland had handed out six technical fouls, including four against Memphis in the final six minutes. Two of those went against Brooks, who had to be restrained as he yelled at officials with 27 seconds remaining.\n\nKidd and Bullock said the Mavericks talked at halftime about not getting rattled, especially when Doncic got a technical after the close of the second quarter.\n\n“We kept our composure in the fourth when things were getting heated and just tried to stay within the game and keep playing the right way,” Bullock said. “It worked out for us.”\n\nTIP-INS\n\nMavericks: Doncic was listed as questionable and a game-time decision because of left ankle soreness. ... Doncic has 15 straight games of 20-plus points. ... Tim Hardaway Jr., who scored 29 points in Dallas’ 97-90 loss to the Grizzlies on Saturday night, had nine points. ... Dallas was 9 of 46 from 3-point range in Tuesday’s loss to Brooklyn, and started 0 of 6 before finishing 12 of 33.\n\nGrizzlies: G Ja Morant, who already was out with a left knee sprain, was placed in the league’s health and safety protocol earlier Wednesday. “He’s feeling well, and the thing to also note is he is fully vaccinated,” Jenkins said. As far as the situation with other players, Jenkins said the team is “in constant contact with the league ... taking all their guidance.” ... When Porzingis made a free throw to complete a three-point play with 10:52 left in the first, the score was 3-2 — the first time Memphis had trailed in a game since Nov. 26 loss to Atlanta. Memphis led throughout five straight games, except for a 2-2 tie against Miami on Monday night.\n\nBROOKS’ COMPLAINT\n\nBrooks was still irritated about his ejection after the game. He said the officiating crew was inconsistent after the Grizzlies played physical basketball for the past week or so. Brooks, who complains often about calls, said officials made “ticky-tack” calls in the first half and then let the physical play get out of control in the second.\n\n“There’s a lack of protection for players. That's the main thing,” Brooks said. “I felt like this crew came out there and made it about them.”\n\nUP NEXT\n\nMavericks: At Indiana on Friday night, the second of a three-game trip.\n\nGrizzlies: Host the Los Angeles Lakers on Thursday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.784512",
+  "pipeline_version": "v1"
+}

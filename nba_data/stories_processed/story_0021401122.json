@@ -1,0 +1,28 @@
+{
+  "game_id": "0021401122",
+  "espn_id": "400579414",
+  "date": "Apr 01, 2015",
+  "matchup": "POR vs. LAC",
+  "headline": "Chris Paul has 41 points, 17 assists to lead Clips' rally over Blazers",
+  "cleaned_body": "PORTLAND, Ore. -- Don't mess with the Los Angeles Clippers. And certainly not Chris Paul.\nA third-quarter shove by Portland's Chris Kaman spurred an intense rally, and the Clippers defeated the Trail Blazers 126-122 on Wednesday night.\nPortland's four-game winning streak was snapped, and the Trail Blazers were denied a chance to clinch their first Northwest Division title since the 2008-09 season, when they shared it with Denver.\nPaul finished with a season-high 41 points and added 17 assists.\n\nIt was late in the third quarter when Kaman pushed Paul after a scramble under the net. Paul chased after Kaman, but the refs separated the groups. Following a review, Kaman was handed a flagrant foul.\nClippers coach Doc Rivers said the play gave the Clippers a boost. Los Angeles, which had dropped a game at home to the Warriors the night before, went on to outscore the Blazers 45-30 the rest of the way.\n\"CP already had it going before that to be honest, but that just brought more energy into the game,\" Rivers said. \"When you're lacking energy or just looking for anything, little plays like that can help you -- or they can do you in, too. You never know how that's going to go. I was happy with how we responded to it.\"\nJ.J. Redick added 25 points, including five 3-pointers, for the Clippers, who trailed by as many as 19 points in the first half and then held off a desperate Portland push in the final minutes.\nPaul maintained the shove didn't necessarily light a fire, but he went on to score 12 points in the final quarter.\n\"It gave me a chance to get to the free throw line and get a little bit of a rhythm,\" he said. \"I think it was just a gutsy win.\"\nLaMarcus Aldridge led the Blazers with 29 points, while Damian Lillard had 18 points and 10 assists.\nRedick's 3-pointer put the Clippers ahead 100-98 with 6:66 left, the team's first lead of the game.\nBlake Griffin and Paul hit consecutive 3-pointers, and the Clippers went ahead 106-100. Another Paul 3-pointer made it 114-103 and appeared to seal it.\nThe Blazers chipped away, pulling within 122-119 on a pair of free throws from Aldridge with 19 seconds left. After Paul made free throws on the other end, C.J. McCollum hit a 3-pointer with 5.4 seconds left that closed Portland within 124-122.\nNicolas Batum fouled Paul, who made both shots, and Portland couldn't get a clear shot off in the final seconds.\n\"Look, you hate losing games,\" Blazers coach Terry Stotts said. \"You hate losing at home and you hate losing to a team that you might see in the playoffs. There's a lot of things not to be happy about tonight.\"\nThe Clippers (50-26) and the Blazers (48-26) have already secured a place in the playoffs; now they're fighting for home-court advantage. Both teams, as well as San Antonio, are locked in a battle behind Golden State, Memphis and Houston for one of the top four spots. The Clippers have played two more games than the Blazers.\nHome-court advantage in the playoffs goes to the teams with the best records. However, the division title is a tiebreaker if the two teams vying for the fourth spot finish with identical records.\nPortland's magic number to claim the Northwest Division going into the game was two, but the Blazers were helped by Oklahoma City's 135-131 loss at to the Mavericks.\nPortland jumped ahead 27-17 on Aldridge's long jumper in the first quarter. He added another jumper at the buzzer to finish the quarter with 16 points and put the Blazers in front 33-26.\nLillard's layup capped the first half for a 68-55 Portland lead at the break.\nKaman wouldn't talk about the third-quarter incident, but he would talk about the game.\n\"They played last night, so give them credit for waking up there in the second half,\" he said.\nPortland maintained a double-digit margin until Paul's step-back jumper and his toss to DeAndre Jordan for the dunk to close within 75-67. Paul added a 3-pointer to narrow it to 75-70, but Batum momentarily stopped the rally with a 3-pointer of his own.\nTIP-INS\nClippers: Owner Steve Ballmer was at the game. ... Paul has six straight double-doubles against the Blazers.\nTrail Blazers: The team awarded Aldridge with this year's Maurice Lucas award, given to the Portland player who best exemplifies the spirit of Lucas on the court and in the community. Lucas, who played on the 1977 NBA championship team, died in 2010 at age 58.\nBAD NEWS\nFollowing the game, the Blazers announced that Dorell Wright had fractured a bone in his left hand. It was unclear when the injury occurred in the game. Wright was averaging 4.5 points and 2.2 rebounds off the bench for Portland this season. His status for the rest of the season was not immediately known.\nUP NEXT\nClippers: Visit the Nuggets on Saturday.\nTrail Blazers: Visit the Lakers on Friday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "ClutchShot",
+    "PlayoffContext",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.152946",
+  "pipeline_version": "v1"
+}

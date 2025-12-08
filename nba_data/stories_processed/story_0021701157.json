@@ -1,0 +1,22 @@
+{
+  "game_id": "0021701157",
+  "espn_id": "400975903",
+  "date": "Apr 03, 2018",
+  "matchup": "BKN @ PHI",
+  "headline": "Redick, Simmons lead Philadelphia to 11th straight win",
+  "cleaned_body": "PHILADELPHIA --  The focused 76ers have their eyes and hearts set on home-court advantage in the playoffs.\n\nJ.J. Redick scored 19 points and Ben Simmons had 15 points and 12 rebounds to lead Philadelphia to its 11th straight victory, 121-95 over the Brooklyn Nets on Tuesday night. That kept the 76ers in fourth place in the Eastern Conference with five games remaining.\n\n\"We don't hide from our goal,\" Philadelphia coach Brett Brown said. \"We want home court.\"\n\nIf the playoffs started on Wednesday, the 76ers would host a first-round series. They remained a half-game behind third-place Cleveland and in front of fifth-place Indiana, which began Tuesday a half-game behind Philadelphia. The 76ers have five games remaining, including Friday's home contest against the Cavaliers.\n\nRedick said that goal helped Philadelphia easily dispatch the Nets, who merely are playing out the string.\n\n\"It's tough when you're not playing for anything,\" Redick said. \"We have to take advantage of teams that aren't playing for anything. We really imposed our will defensively and the force we played with offensively.\"\n\nThe veteran guard even got some welcomed rest.\n\nNeither Simmons nor Redick played in the fourth quarter for Philadelphia, which won its third consecutive contest without All-Star center Joel Embiid. Embiid had surgery on Saturday after suffering an orbital fracture in his left eye in Wednesday's 118-101 win over the Knicks. Embiid will be out for the remainder of the regular season and is slated to return for the playoffs, although his exact return date is not known.\n\nMarco Belinelli added 17 points for the 76ers (47-30), who also didn't have starter Dario Saric (cellulitis right elbow).\n\nSpencer Dinwiddie had 16 points for the Nets (25-53).\n\nBrooklyn coach Kenny Atkinson was displeased with the effort.\n\n\"From a physical and mental standpoint, we weren't focused and ready to play,\" he said. \"It was evident. We were not engaged physically or mentally and that's what happens. It was a layupathon.\"\n\nThe 76ers were up 61-49 at the half and took control in the third quarter. Philadelphia scored 11 of the first 12 points of the period, capped by Redick's fast-break layup with 8:36 left that made it 72-50. They went on to outscore the Nets 32-22 in the period to take a 93-71 advantage into the fourth.\n\nTIP-INS\n\nNets: Atkinson said he wants rookie Jarrett Allen to focus on improving his rebounding this offseason by bulking up and developing a more \"assertive\" mentality. ... Brooklyn lost the rebounding battle 56-36.\n\n76ers: The 76ers unveiled a sculpture of Hall of Famer Julius \"Dr. J\" Erving on Tuesday at their practice facility in Camden, New Jersey. Erving rang the ceremonial Liberty Bell prior to tipoff. ... Brown said it's unlikely that guards Markelle Fultz and Simmons would see the court together during the playoffs, explaining that he needs to surround both with shooters. The duo did see time together in the third quarter against the Nets.\n\nIMITATE THE PROCESS\n\nAtkinson is trying to model the Nets' rebuild after the 76ers. \"I observed closely their whole process and how they built this,\" he said before the game.\n\nWALKING WOUNDED\n\nNets F DeMarre Carroll (left hip strain) limped to the locker room 3  1/2 minutes into the second half and didn't return. He finished with 10 points in 18 minutes. Atkinson didn't have an update afterward. Brooklyn G Allen Crabbe (illness) didn't play. Joe Harris replaced him in the starting lineup and had 13 points.\n\nG Isaiah Whitehead had season-ending surgery on Tuesday to repair a ligament injury in his right wrist. Whitehead averaged 6.3 points in 16 games for Brooklyn.\n\nSaric won't make the trip to Detroit for Wednesday's game against the Pistons. Brown expects him to return for Friday's home contest against Cleveland.\n\nUP NEXT\n\nNets: At Milwaukee on Thursday night.\n\n76ers: Host Detroit on Wednesday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.192223",
+  "pipeline_version": "v1"
+}

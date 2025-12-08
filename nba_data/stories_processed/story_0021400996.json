@@ -1,0 +1,25 @@
+{
+  "game_id": "0021400996",
+  "espn_id": "400579288",
+  "date": "Mar 16, 2015",
+  "matchup": "OKC @ DAL",
+  "headline": "Chandler Parsons, Rajon Rondo lead Mavs' rally past Thunder",
+  "cleaned_body": "DALLAS -- Chandler Parsons and Rajon Rondo were a solid combination on offense for the Dallas Mavericks.\nAnd they were tag-team partners for the sequence that sent Russell Westbrook to the bench with six fouls.\nParsons scored 31 points, Rondo had 13 assists while drawing a key charge on Westbrook in the final minute, and the Mavericks rallied from 15 down in the third quarter for a 119-115 victory against the Oklahoma City Thunder on Monday night.\nWestbrook came within two rebounds of his seventh triple-double in 10 games, finishing with 24 points, 12 assists and eight rebounds. But he picked up his fifth foul pushing off on Rondo on a drive when trailing by two, then got No. 6 immediately after by knocking over Parsons on the inbounds pass with 59.3 seconds left.\n\n\"He's got a lot on his plate with those guys out so the ball's going to be in his hands a lot,\" Parsons said of Westbrook, who's playing without backcourt mate Kevin Durant and forward Serge Ibaka. \"We wanted to be physical with him. When you stop a guy's momentum like that, he definitely gets more and more timid to go in there.\"\nDirk Nowitzki added 22 with some big 3-pointers in a playoff-like finish to a game that had all the elements of a tense postseason matchup through the first three quarters. There were five technical fouls and matching flagrant fouls called on Tyson Chandler and Westbrook.\nThe Mavericks moved into fifth place in the Western Conference and put a little more distance between themselves and the Thunder and New Orleans Pelicans, who are a half-game apart in the race for the final playoff spot.\n\"A lot of things, a lot of parts are moving right now,\" Thunder coach Scott Brooks said. \"Our guys are workers. We're going to figure it out. We always have. We're not going to stop now.\"\nRondo scored 11 points for his first double-double with points and assists since his second game in Dallas nearly three months ago after getting traded by Boston.\nEven with the news that Ibaka is out indefinitely with right knee soreness, the Thunder dominated inside for three quarters with the trio of Steven Adams, Enes Kanter and rookie Mitch McGary, who already had a career high of 11 rebounds in his first 6 minutes as the Thunder outrebounded the Mavericks 59-37 overall.\nBut Chandler sent notice that Dallas would have an inside presence late, emphatically rejecting a shot by McGary early in the fourth quarter. Chandler finished with just five points and seven rebounds but hit two free throws to put the Mavericks ahead for good at 110-108 with 1:32 remaining.\nParsons hit a runner in the lane for a four-point lead, and Westbrook was called for his third charge of the game when he put an elbow into Rondo. Westbrook argued the call briefly, then jumped into Parsons as the Mavericks hurried to get the ball thrown in.\n\"Just mental breakdowns,\" Westbrook said.\nDallas' Monta Ellis scored 24 and made four free throws in the final 31 seconds after giving the Thunder an opening by missing a pair from the line.\nMATCHING FLAGRANTS\nThe Dallas bench was livid when Chandler's flagrant foul was called on video review and replay showed him partially blocking Kanter's shot, with Kanter falling to the court after hitting the backboard with his arm. Teammates had to pull Chandler back so he wouldn't get a second technical after getting called for one earlier when he made contact with Kanter after a foul.\nThere was little question about the call against Westbrook, whose arm came down on J.J. Barea's face on a drive.\nTIP-INS\nThunder: Westbrook had seven of Oklahoma City's 21 turnovers and four steals, both game highs. The Mavericks had 30 points off those turnovers ... Kanter had 19 points and 13 rebounds, while McGary finished with 12 points and 13 boards. The previous rebounding high for McGary, a rookie from Michigan, was 10 against Portland on Feb. 27.\nMavericks: Nowitzki was 4 of 7 from long range, including a pair in the third quarter before Parsons hit a tying 3 to finish the quarter after Dallas fell behind 73-58. Parsons missed a chance for a four-point play after he was fouled by Kyle Singler. ... Devin Harris left early in the second quarter with an undisclosed illness and didn't return.\nUP NEXT\nThunder: Home against Boston on Wednesday.\nMavericks: Home against Orlando on Wednesday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.968429",
+  "pipeline_version": "v1"
+}

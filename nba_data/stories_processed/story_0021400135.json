@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400135",
+  "espn_id": "400578427",
+  "date": "Nov 15, 2014",
+  "matchup": "CHI vs. IND",
+  "headline": "Pacers shake off injuries, beat Bulls 99-90",
+  "cleaned_body": "CHICAGO --  The Indiana Pacers were without six players and coming off a 21-point loss.\n\nCoach Frank Vogel felt he still had enough to win, and that's what the Pacers did.\n\nA.J. Price, Luis Scola and Solomon Hill all scored 21 points, and the injury-plagued Pacers beat the Chicago Bulls 99-90 on Saturday night.\n\nChris Copeland added 13 points for the Pacers, who had lost seven of nine and fell 108-87 to the Nuggets on Friday after trailing by as much as 33.\n\n\"We got plenty of guys in uniform. Let's focus on the strengths we have with this group, try to win the next game, weather the storm,\" Vogel said about his team's focus.\n\nThe Pacers (4-7) earned another impressive win after beating Miami 81-75 on Wednesday.\n\n\"It's going to be somebody different every night,\" Pacers center Roy Hibbert said. \"We're not a team that has someone who scores 20 every night.\n\n\"We're trying to hold it down until everybody gets back.\"\n\nJimmy Butler had a career-high 32 points for the Bulls, who played without the injured Derrick Rose and had won six of seven.\n\nThe Pacers shot 7 for 18 from beyond the arc and 48 percent overall. The Bulls shot just 4 for 17 from 3-point range and 42 percent from the field.\n\nThe Pacers also outrebounded the Bulls 46-34. Hill grabbed 12 rebounds and Scola had 11.\n\n\"It's a tough-minded group,\" Vogel said. \"We're just trying to play to our strength, which is our size up front, even with (David) West out.\"\n\nThe Bulls are 2/3 at home compared to 5-0 on the road.\n\n\"We got beat in every aspect of the game,\" Bulls coach Tom Thibodeau said. \"We've got to figure out how to play better here. We just played a low-energy game.\"\n\nButler pulled the Bulls within two on a breakaway dunk late in the third, but Copeland hit a 3 and Price completed a three-point play early in the fourth for a 75-65 lead.\n\nPrice's 3 extended the lead to 88-71 with 6:42 left, and Hill made one for a 93-81 lead with 1:29 remaining.\n\nThe Pacers led 46-42 at halftime after shooting 50 percent to the Bulls' 44 percent. Scola led the Pacers with 12 points on 6-of-7 shooting after entering the game averaging seven points.\n\nPau Gasol finished with 12 points and six rebounds for the Bulls after averaging 19.3 and 11.1. The Bulls ended their streak of having at least five players score in double figures in all their games. Kirk Hinrich scored 15.\n\nThe Pacers were 29th in the league in scoring at 91.2 points per game entering Saturday.\n\n\"When the guys are back, we're going to have a really strong team,\" Scola said.\n\n---\n\nTIP-INS\n\nPacers: Rodney Stuckey (sore foot), CJ Miles (sore calf), David West (sprained ankle), George Hill (bruised knee), CJ Watson (bruised foot) and Paul George (broken leg) all sat out. . Vogel said Stuckey and Miles are likely the closest to returning, perhaps early next week.\n\nBulls: Hinrich started in place of Rose. . With his first assist, Gasol became the sixth player in NBA history with 16,000 points, 8,000 rebounds, 3,000 assists and 1,500 blocks.\n\nROSE UPDATE\n\nRose was out after straining his left hamstring Thursday in the Bulls' 100-93 victory over the Toronto Raptors. He is day to day and missed four games because of sprained ankles. \"To try to speculate where he'll be tomorrow, I don't know,\" Thibodeau said. \"I'm hopeful if he improves the way he did today, that'll be a really positive thing, so that's what we're hoping for.\"\n\nBIG NIGHT\n\nButler scored at least 20 points for the fifth time this season. He is the first Bulls player to score 30 or more since Luol Deng had 37 on Dec. 2, 2013, against New Orleans.\n\nUP NEXT\n\nPacers: Host Charlotte on Wednesday.\n\nBulls: Visit Clippers on Monday to begin a two-week, seven-game trip.",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.694156",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400484",
+  "espn_id": "400578776",
+  "date": "Jan 02, 2015",
+  "matchup": "CHA vs. CLE",
+  "headline": "Kevin Love scores 27 as Cavs beat Hornets to snap 3-game skid",
+  "cleaned_body": "CHARLOTTE, N.C. -- David Blatt was more than a little concerned when he saw Kevin Love holding his left knee on the floor under the basket.\nHard to blame the Cavaliers' first-year coach given the run of injuries for his team.\n\"Every time I see somebody fall down or bend over to fix their shoelaces I'm a little worried right now -- I really am,\" Blatt said. \"We're a little bit on eggshells as far as that stuff is concerned.\"\n\nLove's injury turned out to be nothing serious, and the veteran forward scored 27 points to help the Cavaliers snap a three-game losing streak with a 91-87 win over the Charlotte Hornets on Friday night.\nKyrie Irving added 23 points as the Cavaliers won their first game since the team announced Thursday that LeBron James would miss two weeks with knee and back strains. Tristan Thompson had 14 points and 14 rebounds, and reserve Dion Waiters finished with 17 points.\n\"It's an opportunity with LeBron out to show what I can do and try to help this team,\" Love said. \"I think there are a going to be a number of different guys who are going to have to step up with his absence because he brings so much to the table.\"\nLove returned to the lineup after missing one start with back spasms and played 38 minutes. He was 9 of 15 from the field and helped the Cavaliers (19-14) take control of the game with three straight 3-pointers in the third quarter after an injury scare.\nBlatt leaned heavily on his starters, using a seven-man rotation. Thompson played 43 minutes and Irving played 42.\nGerald Henderson led Charlotte (10-24) with 14 points. The Hornets have lost five in a row.\nLove came up with a big basket with 22 seconds left after Charlotte had cut the lead to 86-83, knocking down a 17-foot turnaround jumper over Marvin Williams from the left baseline.\nKemba Walker missed a driving layup, but Charlotte corralled the loose ball and Henderson rolled down the lane for a two-handed dunk to cut the lead back to three.\nIrving knocked down three free throws in the final 10.3 seconds to seal the win.\nThe game turned with 10:37 left in the third quarter when Love drove the baseline after recovering a loose ball and appeared to bang knees with Charlotte's Bismack Biyombo. Love remained the floor under the basket as the Hornets raced the ball up the floor.\n\n\"I got dead-legged,\" Love said.\nLove remained on the floor for about two minutes as teammates gathered around him before getting up and walking off. He remained in the game and proceeded to knock down 3-pointers on three consecutive possessions to give the Cavaliers a 51-50 lead.\nIrving then started driving to the basket and within a matter of minutes Cleveland had turned a six-point deficit into a 62-55 lead.\nBlatt was pleased with his team's pace and patience on offense.\n\"We're missing the best player in the world right now and we want him to come back fast,\" Blatt said. \"But only when he's healthy. We will continue to play properly so that when he comes back, he's coming into a more functional situation.\"\nThe Hornets turned the ball over 15 times, leading to 23 points.\n\"We cannot turn the ball over,\" coach Steve Clifford said. \"It's not possible for us to win -- unless our defense is just ridiculous -- with 15 turnovers. And that pretty much was the game.\"\n---\nTIP-INS\nCavaliers: The Cavaliers entered the game allowing just 97.7 points per game over the previous 20 games, third-best in the league during that span.\nHornets: Clifford said Lance Stephenson is still not close to getting back on the floor while battling a groin injury.\nMISSING BIG AL\nThe Hornets remained handicapped offensively without their best player in center Al Jefferson, who is out with a groin injury. Biyombo, his replacement, had two points and eight rebounds in 27 minutes but did not attempt a shot from the field.\nUP NEXT\nCavaliers: Host Dallas on Sunday.\nHornets: Visit Orlando on Saturday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.070382",
+  "pipeline_version": "v1"
+}

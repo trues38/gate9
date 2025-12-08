@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400601",
+  "espn_id": "400578893",
+  "date": "Jan 17, 2015",
+  "matchup": "DET vs. PHI",
+  "headline": "Singler leads surging Pistons to 107-89 win over 76ers",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Stan Van Gundy is not going to brag about his Detroit Pistons being 16-25 midway through the season.\n\nConsidering they were 5-23 at one point, though, he knows it could be a lot worse.\n\n\"I told our guys that we're still only 16-25, and that's a long way from worrying about making the playoffs,\" the coach said. \"That's just a distraction anyway. We need to be thinking about stopping the pick-and-roll, finding a way to make shots and finding a way to finish games.\n\n\"If we do all those things, the wins and the standings will take care of themselves.\"\n\nSaturday night's 107-89 rout of the Philadelphia 76ers finished off an impressive 12-day stretch for the Pistons, who went 6-2 despite practicing only once in almost two weeks.\n\n\"We gave the guys three days completely off, just to keep physical fatigue from becoming too much of an issue,\" Van Gundy said. \"But there's still the mental strength you need to get yourself ready to play night after night and put forth a big effort. It is big for a young team to be able to prove to itself that it can handle a stretch like this.\"\n\nKyle Singler shot 6 of 8 on 3-pointers in a 20-point performance, and Greg Monroe finished with 12 points and 13 rebounds as the Pistons won for the 11th time in 13 games and improved to 6-15 at home.\n\nSix players scored in double figures for Detroit, and Andre Drummond grabbed 15 rebounds.\n\n\"We played with great energy from the beginning of the game,\" Monroe said. \"The ball was moving, and our guys were hot from behind the arc. We just have to continue to come out with that effort.\"\n\nMichael Carter-Williams had 15 points for Philadelphia (8-32), but only one other starter reached double figures. Henry Sims contributed 12 points and 10 rebounds off the bench.\n\n\"I just don't think we had the right mindset tonight,\" said 76ers coach Brett Brown. \"To win two in a row in this league is hard, and we didn't have the ability to do that tonight. We probably had 25 possessions that we wanted back tonight, and this game is too unforgiving to win when you do that.\"\n\nThe Pistons have struggled with lowly Philadelphia recently, including a home loss this season, but ended most of the suspense on this night in the first half. Detroit hit its first five shots, including a trio of 3-pointers, and led 13-4 after 3 minutes.\n\nNine first-half turnovers and a few missed shots at the rim let the 76ers hang around for a while, but Detroit led 31-21 at the end of the first quarter and 56-37 at halftime. The Pistons picked up 23 points off 12 Philadelphia turnovers and shot 50 percent (8 for 16) on 3s while the 76ers went 2 of 15.\n\nThe 76ers started hitting shots in the second half, cutting Detroit's lead to 66-56, but the Pistons used Singler's steal and 3 to score five points in the final 5 seconds of the third. That moved the margin to 81-62, and Philadelphia never seriously threatened in the fourth.\n\n\"Kyle was really big tonight,\" teammate Brandon Jennings said. \"He had it going, and that meant I was able to get some rest. That felt good.\"\n\n---\n\nTIP-INS\n\n76ers: Philadelphia won the previous two meetings, both in embarrassing fashion for the Pistons. In March, the Sixers won 123-98 at home to end their 26-game losing streak, and on Dec. 6, they won 108-101 in overtime at the Palace to improve to 2-18 on the season.\n\nPistons: Detroit trails Brooklyn by one game for the final Eastern Conference playoff spot. The Pistons haven't made the postseason since 2009, but Van Gundy has never missed the playoffs in his coaching career.\n\nUP NEXT\n\n76ers: Visit the Washington Wizards on Monday.\n\nPistons: Visit the Atlanta Hawks on Monday.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.152239",
+  "pipeline_version": "v1"
+}

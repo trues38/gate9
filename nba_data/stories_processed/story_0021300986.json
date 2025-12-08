@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300986",
+  "espn_id": "400489859",
+  "date": "Mar 15, 2014",
+  "matchup": "CHI vs. SAC",
+  "headline": "Joakim Noah, Taj Gibson power Bulls to win over Kings",
+  "cleaned_body": "CHICAGO -- Chicago Bulls fans chanted \"MVP\" when Joakim Noah made big plays.\nNoah doesn't like the attention.\n\"That's not what's important to me,\" Noah said. \"It's just all about this team right now. We've been through so much. It's not about individual accolades.\"\n\nNoah turned in another MVP-type performance on Saturday night, finishing with 23 points and 11 rebounds in the Bulls' 94-87 victory over the Sacramento Kings.\n\"First thing is his game is through the roof right now. His confidence is through the roof,\" teammate Taj Gibson said.\nBut Noah would rather focus the attention on the team and how it withstood the Kings' comeback. Gibson scored seven of his 19 points in the fourth quarter, Mike Dunleavy added 16 and DJ Augustin had 12 for the Bulls (37-29), who are fourth in the Eastern Conference and improved to 3-2 on their six-game homestand.\n\"It was very physical out there tonight,\" said Noah, who added eight assists, five blocked shots and three steals to his 33rd double-double. \"That was a good win. We didn't let frustration get to us. We stuck with it.\"\nIsaiah Thomas led the Kings with 26 and DeMarcus Cousins had 25 points and 14 rebounds.\nThe Kings (23-43) won the rebounding battle 55-40, but committed 16 turnovers and were 23-of-37 at the free-throw line.\n\"That's a lot of points to be left on the court,\" Kings coach Michael Malone said. \"The reality is we're just not good enough to not take advantage of all of those free throws.\"\nBoth teams struggled on offense, with the Bulls shooting 40 percent and the Kings 37 percent.\n\"The fact that we allowed a team that does not score a lot in transition score 20 fast-break points, obviously that wasn't part of our game plan,\" Malone said.\nThe Kings are 2-4 on their seven-game road trip.\nCousins hit a layup with 1:01 left to cut the Bulls' lead to 88-85. Gibson responded with a jumper with 42.2 seconds left, and the Bulls made four of six free throws to seal the win.\nThe Bulls led 48-43 at halftime before the Kings outscored them 20-16 in the third to pull within one.\nThe Bulls have won four straight at home against the Kings, the only team below .500 to visit during the homestand.\nNoah had 17 points and five rebounds and Rudy Gay led the Kings with 10 points at halftime. Noah scored 12 points in the first quarter, which ended 23-23.\n\"Noah is an incredible player. I say he's the heart and soul of that Bulls team,\" Cousins said.\nThe game was more competitive than the teams' previous meeting. The Kings routed the Bulls 99-70 at Sleep Train Arena on Feb. 3, when the Bulls finished with season lows in points and shooting percentage (28.2).\n\"That's a good team even though their record is not too well,\" Gibson said. \"They tend to play well at times. It was a battle tonight.\"\nGame notes\nDunleavy's right eye was black and blue and he wore tape above it. He received 10 stitches after he caught an elbow when he drew a charge Thursday in the Bulls' 111-87 win over Houston. ... Evans started at power forward for the Kings to match up against the Bulls' front line. Malone said the Kings will decide who plays the position based on each game's matchup. Derrick Williams has played both forward positions. ... Malone was impressed with G Jimmer Fredette, who played 41 games with the Kings this season before he signed with the Bulls on March 2. \"He was always in the gym, even on off days, committed to getting his work in,\" Malone said. \"Even when he was not playing and part of the rotation, he never dropped his head, kept on working, kept on supporting his teammates. That's why I think the Bulls at some point will be able to use him.\" ... The Kings are 10-24 on the road.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.165640",
+  "pipeline_version": "v1"
+}

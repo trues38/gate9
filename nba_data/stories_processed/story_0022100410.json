@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100410",
+  "espn_id": "401360234",
+  "date": "Dec 13, 2021",
+  "matchup": "CHA @ DAL",
+  "headline": "Porzingis leads Luka-less Mavs to 120-96 rout of Hornets",
+  "cleaned_body": "DALLAS -- — Kristaps Porzingis had 24 points, 13 rebounds and five blocks, and Dallas hit a season-high 19 3-pointers as the Mavericks routed the Charlotte Hornets 120-96 on Monday night to sweep a back-to-back without All-Star guard Luka Doncic.\n\nPorzingis led the Mavericks (14-13) to a 70-43 halftime lead, securing his sixth double-double of the season with 22 points and 12 rebounds before the break. The 7-foot-3 Latvian played only eight minutes in the second half to finish with 25.\n\n“We started off shooting really well, and it kind of carried over to everybody,” Porzingis said.\n\nPorzingis only recently began playing both ends of back-to-backs as he gradually made a full recovery from knee surgery in October 2020. He had 13 points and seven rebounds while playing 30 minutes Sunday night in a 103-84 victory at Oklahoma City.\n\n“Obviously, some games are physically more taxing,” Porzingis said. “Yesterday wasn’t one of those games. I felt better than I did yesterday.”\n\nTrey Burke scored a season-high 22 points and Tim Hardaway Jr. had 19 off the bench for the Mavericks. They combined on 6-for-9 shooting from 3-point range before halftime as Dallas snapped a five-game home losing streak with its largest winning margin of the season.\n\nThe Hornets (15-14), who opened a six-game road trip, their longest of the season, were led by Terry Rozier and Kelly Oubre Jr. with 20 points each. Rozier played his first game after missing four while in the NBA’s COVID-19 protocol.\n\n“It’s a disappointing loss, but it’s one,” Hornets coach James Borrego said. “Now, it’s about responding.”\n\nCharlotte played its fifth straight game without guard LaMelo Ball, who is still in the league’s health and safety protocol. Hornets forwards PJ Washington and Nick Richards returned from non-COVID-19 illnesses.\n\nIn their previous game, the Hornets were without seven of their top 10 players. Charlotte center Mason Plumlee and forward Jalen McDaniels left the health and safety protocol Monday and were assigned to Greensboro of the G League for conditioning and rehab.\n\n“I don’t know who’s going to be back next game,” Borrego said. “We’ve just got to find our way through this.”\n\nDallas scored the first 10 points — the first five on Porzingis’ alley-oop dunk and a corner 3-pointer — while Charlotte missed its first seven field goal attempts.\n\n“He was great from the start,” Mavericks coach Jason Kidd said about Porzingis.\n\nDallas led by 30 in the closing seconds of the first half (70-40).\n\nDoncic retwisted an ankle Friday night at Indiana. The Mavericks were 0-4 without the 22-year-old Slovenian before Sunday’s win.\n\nWELCOME BACK\n\nBorrego wasn’t sure if Rozier would approach his usual minutes (averaging 32.9 per game before Monday). Rozier played 33:18, scoring five points in 13 minutes in the first half and 15 over 20 minutes in the second half.\n\n“In the first half, he was just trying to find his rhythm,” Borrego said.\n\nTHE PEOPLE’S CHOICE\n\nWith Dallas comfortably ahead six minutes from the finish, the crowd began to chant for 7-foot-4 Boban Marjanovic to make his first appearance of the night. Marjanovic checked in with 3:14 left and repaid the ovation with baskets on his first two trips downcourt. He had four points and one rebound, and his only miss came on a 3-pointer in the final minute.\n\nTIP-INS\n\nHornets: Charlotte went into play first in the NBA in scoring, averaging 115.8 points per game, but last in scoring defense, allowing 116.3. … The Hornets failed to reach 100 points for the first time in 13 games. … Charlotte was assessed a technical foul in the second half for having six players on the court.\n\nMavericks: Dorian Finney-Smith went 5 of 7 from the floor for 13 points in the third period, the highest-scoring quarter of his six-year NBA career. … Burke also had a season-high six assists. … Doncic will be re-evaluated before the team’s next game, Wednesday at home against the Lakers.\n\nUP NEXT\n\nHornets: At the San Antonio Spurs on Wednesday.\n\nMavericks: Wednesday’s home game against the Lakers will be the first between the teams this season after Dallas took the 2020-21 season series 2-1, with the home team winning each time.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.987097",
+  "pipeline_version": "v1"
+}

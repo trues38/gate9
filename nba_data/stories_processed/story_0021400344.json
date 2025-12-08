@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400344",
+  "espn_id": "400578636",
+  "date": "Dec 13, 2014",
+  "matchup": "MIL vs. LAC",
+  "headline": "Knight scores 22, Bucks beat Clippers 111-106",
+  "cleaned_body": "MILWAUKEE --  Practice may not make perfect, though it made a big difference for the Milwaukee Bucks.\n\nBrandon Knight scored 22 points, Giannis Antetokounmpo added 20, and the Bucks beat the Los Angeles Clippers 111-106 on Saturday night.\n\nThe Bucks' defense had been faltering the past two weeks, allowing at least 107 points in four of five games and losing five of their last six contests.\n\nWith three days off since losing at Oklahoma City on Tuesday night, the Bucks went into the gym to correct some errors. It paid off, with the Clippers star tandem of Chris Paul and Blake Griffin held to just 10 points apiece.\n\n\"We harked in on things that are very valuable about our defense that we've seen on film, where we make little mistakes and our whole defense collapses,\" said Larry Sanders, who had 15 points and nine rebounds, but was just as valuable disrupting the Los Angeles offense in the paint.\n\n\"Everyone has to be on point and I think everyone did a great job of stepping up tonight,\" Sanders said.\n\nThe Bucks held Los Angeles to 43 percent shooting. Griffin missed eight of 12 shots and Paul missed 10 of 15 while committing six turnovers for the second straight game.\n\n\"You can throw them different looks and you just hope that they miss,\" Milwaukee coach Jason Kidd said. \"We gave them different looks and, again, one shot. When Griffin misses a shot, (DeAndre) Jordan normally around the rim cleaning it up. We just tried to make it tough on those guys and they missed some shots down the stretch.\"\n\nIt was the ninth consecutive game the Bucks scored at least 100 points, the franchise's longest run since 1991. Los Angeles shot 39 of 91 while Milwaukee took only 76 shots, but made 43.\n\n\"They got everywhere they wanted to tonight,\" Paul said. \"We never really made an impact on the game. Just like last night, it was (six) turnovers. Never did that before. Don't think I ever had four offensive fouls in a game, either. We have to defend. We have to play better.\"\n\nJamal Crawford hit a 3-pointer with 3.1 seconds left to pull the Clippers to 109-106. Knight's inbounds pass was tipped out of bounds by Matt Barnes, who was tied up with Khris Middleton on a close play.\n\nThe referees reviewed the replay and confirmed that the Bucks had the ball. Milwaukee inbounded again, and Knight hit a pair of free throws with 2.1 seconds remaining to close the scoring.\n\nBarnes scored a season-high 26 points and JJ Redick added 25 for Los Angeles.\n\nMilwaukee made eight consecutive shots en route to a decisive 18-3 run midway through the fourth quarter, sending the Clippers to consecutive losses for the first time this season.\n\n\"We allowed them to shoot 56 percent from the field and 60-something (64 percent) from 3,\" Los Angeles coach Doc Rivers said. \"When you do that, you should probably lose the game and we did.\"\n\n---\n\nTIP-INS\n\nClippers: It was the first time this season the Clippers lost the second game when playing on consecutive nights. They won the first five times. . The Clippers were outscored in the paint, 50-36. . The teams play again next Saturday night in Los Angeles.\n\nBucks: Rookie F Johnny O'Bryant dressed for the first time, but did not play. He missed the team's first 23 games with a sprained right knee. . D.M.C. From the group Run-D.M.C. Performed a short set at halftime.\n\nINTEREST IN RAY ALLEN\n\nRivers said the Clippers would be among the teams with an interest in signing Ray Allen if the veteran guard decides to return to the NBA this season. Rivers said he talks to Allen frequently. \"He wants to wait and see if he wants to play, and I think he is doing the right thing and has earned that right,\" Rivers said.\n\nTECHNICAL AFTER REPLAY\n\nBarnes committed a hard foul on Antetokounmpo with 40 seconds left in the second quarter, and the Bucks forward swiped his free arm at the Clippers forward during the play. Antetokounmpo was called for a technical foul after the referees reviewed the video. \"There's always something you've never seen,\" Kidd said of the technical being assessed after the referees viewed the replay.\n\nUP NEXT\n\nClippers: Host Detroit on Monday.\n\nBucks: Visit Phoenix on Monday",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment",
+    "LateCollapse"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.149067",
+  "pipeline_version": "v1"
+}

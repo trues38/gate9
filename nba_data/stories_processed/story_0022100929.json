@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100929",
+  "espn_id": "401360748",
+  "date": "Mar 01, 2022",
+  "matchup": "LAC @ HOU",
+  "headline": "Zubac has 22 points to help Clippers rout Rockets 113-100",
+  "cleaned_body": "HOUSTON -- — Ivica Zubac had 22 points and 12 rebounds, and the Los Angeles Clippers pulled away in the third quarter and cruised to a 113-100 victory over the Houston Rockets on Tuesday night.\n\nThe Clippers used a 40-point third quarter to take a 14-point lead entering the fourth. They then scored the first seven points of the final period, with five from Amir Coffey, to make it 96-75 with 10 ½ minutes to go.\n\n“We came in at halftime talking about the only adjustment we had to make was to play the right way,\" coach Tyronn Lue said. “And that was on both ends of the floor... in that third quarter we came out and played the right way and we were able to open the game up.\"\n\nZubac and fellow starters Reggie Jackson, Marcus Morris and Nicolas Batum didn't play in the fourth quarter with the game out of reach.\n\nLos Angeles routed Houston 142-111 in the last game before the All-Star break, but barely outlasted the Rockets on Sunday night for a 99-98 win. Houston led by as many as seven in the first half and was up by one at halftime before the Clippers pulled away in the third for another lopsided victory.\n\n“Everyone is happy that we put them away in the third quarter,\" Zubac said. “We made our run. We did what we were supposed to do when we got here, get two wins.\"\n\nThe Rockets got 20 points from rookie Jalen Green as their skid reached 10 games. Houston, which has the worst record in the Western Conference, has won just once in the last 15 games and faces another test Wednesday with a visit from the Jazz.\n\n“This is the NBA. It’s hard,\" Houston coach Stephen Silas said. “We got a bunch of young guys who make mistakes but are trying as hard as they can, and to have an opportunity tomorrow to do it against a good team is good for us.\"\n\nMorris added 18 points and Jackson had 17 to help the Clippers win their fourth consecutive game and their sixth in the last seven.\n\nZubac's performance helped the Clippers outrebound the Rockets 55-45.\n\nHouston was up by two with about 9 minutes left when the Clippers scored the next seven points to start a 16-4 run that gave them a 73-63 lead about four minutes later. Jackson led the way in that stretch with three 3-pointers.\n\nThe Clippers were still up by 10 with about 2 ½ minutes left in the third when Zubac was fouled on a dunk and finished the three-point play to make it 83-70.\n\nGarrison Mathews made a 3 for Houston after that, but Los Angeles closed out the quarter with an 89-75 lead.\n\nTIP-INS\n\nClippers: Jackson had five rebounds and six assists. ... Coffey scored 10 off the bench. ... Terance Mann had 11 points, seven rebounds and five assists.\n\nRockets: Kevin Porter Jr. missed a second straight game with a sprained left ankle. ... Christian Wood scored 17 points. ... Houston made 13 of 39 3-pointers. ... Dennis Schroder sustained a contusion to his right eye in the third quarter but returned to the game.\n\nTHEY SAID IT\n\nLue on his team's evolution with Kawhi Leonard and Paul George both out with injuries: “We’ve just been trying to figure out who we’re going to get scoring from, and I think we understand who we are and how we have to play in order to be successful.\"\n\nUP NEXT\n\nClippers: Host the Lakers Thursday night.\n\nRockets: Host Utah Wednesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.356558",
+  "pipeline_version": "v1"
+}

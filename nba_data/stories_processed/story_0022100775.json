@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100775",
+  "espn_id": "401360594",
+  "date": "Feb 02, 2022",
+  "matchup": "CHA @ BOS",
+  "headline": "Celtics beat Hornets, overcome Ball's career-best 38 points",
+  "cleaned_body": "BOSTON -- — Josh Richardson made six 3-pointers and scored 23 points, Jayson Tatum hit two key free throws and finished with 19 points and the Boston Celtics held off the Charlotte Hornets 113-107 on Wednesday night, overcoming a career-best 38 points by LaMelo Ball.\n\nMarcus Smart scored 22 points and Jaylen Brown 15 as Boston won its third straight.\n\n“We’ve dealt with adversity and not always ended up the best,” Celtics coach Ime Udoka said. “Tonight we handled it well. We were able to make big plays down the stretch.”\n\nTerry Rozier scored 23 points, P.J. Washington 16, Kelly Oubre Jr. 15, and Mason Plumlee had 17 rebounds for the Hornets, who have lost four of six.\n\n“We know these Eastern Conference teams are fighting for (playoff) spots, just like we are,” Rozier said. “It's going to be tough games, just like tonight.”\n\nThe Hornets are in seventh place in the East, a half-game ahead of Boston and Toronto.\n\nBoston shot 14 for 36 from 3-point range and Charlotte made 12 of 40 from long distance.\n\nRozier’s 3-pointer from the top of the key tied it at 107 with 62 seconds left.\n\nTatum then hit two free throws and, after Robert Williams III blocked Washington’s 3-point attempt, Smart hit two free throws with 15.6 seconds to play.\n\n“It's just believing in everyone and trusting in the system that we have on both ends of the floor,” Smart said of Boston's composure at the end. “It's trusting the game plan, the scheme ... and trusting our instincts.”\n\nBoston had opened a 93-83 lead on Richardson’s sixth 3-pointer of the game with just over 10 minutes left in the fourth.\n\nBut the Hornets made a late charge. Rozier’s left-wing 3 sliced it to 103-98 with 2:56 to play. Ball was then fouled by Tatum, who was also whistled for a technical on the play.\n\nBall hit all three from the line, giving him a career high, and cutting it to 103-101 with just over two minutes left.\n\n“We did come back a lot, just couldn't finish it,” said Ball, who was unaware he scored a career best. “It's kind of tight right now. If we want to make the playoffs, its going to be tight down the stretch.”\n\nThe Celtics had scored 18 of the final 26 points of the third quarter, with Brown hitting a jumper from the foul line just before the buzzer to give Boston an 88-78 edge entering the fourth.\n\n“Guys coming out of their comfort zone and playing on a string if we want to compete,” Richardson said of his team's thoughts during the current winning streak.\n\nTIP-INS\n\nHornets: F Gordon Hayward cleared the NBA’s health and safety protocols but didn’t travel with the team. … In their last trip to Boston, Ball had a triple-double, grabbing a rebound to complete it with 0.2 left in a game during a 111-102 victory.\n\nCeltics: Shot 53.7% in the first half (22 of 41) with Tatum, Smart and Richardson all shooting 50% or better. … Al Horford briefly went to the locker room midway into the second quarter.\n\nTHAT WAS QUICK\n\nBoston opened a 12-point lead early in the second quarter, but the Hornets wiped it out quickly with a 14-1 spurt in just 2½ minutes.\n\nUP NEXT\n\nHornets: Host the Cavaliers on Friday.\n\nCeltics: At the Pistons on Friday.\n\n------",
+  "tags_rule": [
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.550606",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100555",
+  "espn_id": "401360374",
+  "date": "Jan 03, 2022",
+  "matchup": "ORL @ CHI",
+  "headline": "Bulls extend win streak to 8 games, beat Magic 102-98",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan scored 29 points, Zach LaVine added 27 and the Chicago Bulls won their eight straight game, beating the Orlando Magic 102-98 on Monday night.\n\nNikola Vucevic had 13 points and 17 rebounds for the Bulls. Coby White came off the bench to score 17 points.\n\nFranz Wagner led Orlando with 22 points. Wendell Carter Jr. finished with 21 points and 10 rebounds for the Magic, who lost their sixth straight. Orlando has three wins since Nov. 17.\n\nLaVine and DeRozan combined for 17 points in the third quarter, helping the Bulls hold off the Magic. Chicago last lost on Dec. 11, 118-92 to Miami.\n\n“We can’t be satisfied with anything,” DeRozan said. “We work extremely hard, and can’t take anything for granted. Yeah, we’ve won some games and we’re on a winning streak, but we’re not satisfied with none of that.”\n\nChicago led by eight points after LaVine hit a step-back 3-pointer with 2:13 left in the fourth quarter. Orlando closed within two points after Wagner hit three free throws in the final 20 seconds. LaVine and DeRozan hit free throws that iced the game for the Bulls.\n\nThe second-half scoring outburst by DeRozan and LaVine was just what Chicago needed to overcome a slow start. The Bulls shot just 5 of 22 in the first quarter, missing their first seven attempts and going 1 of 9 on 3-pointers.\n\n“Our guys gave everything they had,” Bulls coach Billy Donovan said. “I don’t think we shot the ball particularly well. If you don’t defend and shoot it the way we did, we would not have had a chance to win. We’ve got to have the mentality of, if the ball’s not in the basket, we can still defend.”\n\nOrlando started strong despite playing on the second night of a back-to-back, opening the game on an 11-2 run and getting points from all but one of its starters within the first four minutes. The Magic hung with the Bulls throughout, and never fell behind by more than nine. But, the Magic was unable to come up with a key stop down the stretch.\n\n“I was really happy with the way we battled until the end of the game,” Orlando coach Jamahl Mosley said. “Our guys did a great job of understanding our coverages. Offensively, trying to move the ball, understanding how to exploit some of their defense. But their ability to compete for the entire 48 was what I’m most impressed with.”\n\nChicago outscored the Magic 20-9 in the opening minutes of the second quarter to take the lead. LaVine hit a 3-pointer and a driving layup over Magic center Mo Bamba, pushing Chicago’s edge to eight points. A Hassani Gravett 3-point buzzer-beater cut Orlando’s deficit to 45-40 at halftime.\n\nBILLY’S BACK\n\nDonovan returned Monday after missing five games while in NBA health and safety protocols. He entered protocols on Dec. 24, and dealt only with mild symptoms.\n\n“It really was not that bad for me at all,” Donovan said. “I was fortunate. A lot of families have been hit hard with this.”\n\nDonovan was initially cleared to travel for Saturday’s game at Washington, but his flight was canceled because of a snowstorm in Chicago.\n\nChris Fleming went 5-0 serving as the Bulls’ interim coach in Donovan’s absence.\n\nTIP-INS:\n\nMagic: Bamba was assessed a technical foul early in the fourth despite being on the bench at the time. … Carter returned to Chicago for the second time since the Bulls included him in a deal for Nikola Vucevic at last season’s trade deadline. The Bulls drafted him seventh overall in the 2018 draft.\n\nBulls: F Javonte Green (groin) is expected to miss two to four weeks. Green became a starter for Chicago after the team lost F Patrick Williams to an early season wrist injury. … G Alex Caruso (foot) has been ramping up his conditioning, but needs to go through contact drills before the Bulls determine his return date. … F Tyler Cook is expected to miss a couple weeks after spraining his ankle in Saturday’s game against Washington.\n\nUP NEXT:\n\nMagic: Host Philadelphia on Wednesday.\n\nBulls: Host Washington on Friday.\n\n------",
+  "tags_rule": [
+    "Streak",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.995906",
+  "pipeline_version": "v1"
+}

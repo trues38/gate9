@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401033",
+  "espn_id": "400579325",
+  "date": "Mar 21, 2015",
+  "matchup": "DET vs. CHI",
+  "headline": "Pistons erase 19-point deficit in 3rd to beat Bulls 107-91",
+  "cleaned_body": "AUBURN HILLS, Mich. --  It isn't easy to win an NBA game after getting outscored 36-14 in the second quarter and trailing by 19 points in the third.\n\nDoing that without the best player on the team and with two veterans playing out of position is nearly impossible.\n\nDetroit not only did all that Saturday night, it won going away. The Pistons, using Joel Anthony and Tayshaun Prince at power forward, outscored Chicago 54-19 in the final 19 minutes of a 107-91 victory.\n\n\"That was just a tremendous victory, and it only happened because we got contributions from so many players,\" coach Stan Van Gundy said. \"Everyone who played tonight played a big part in that win.\"\n\nOn paper, the stars of the comeback were point guards Reggie Jackson and Spencer Dinwiddie, who combined for 27 points and 13 assists in the second half. Jackson had 17 points and seven assists in the third, starting Detroit's comeback, and Dinwiddie finished it off with 10 points and six assists in the fourth.\n\n\"My teammates made it easy for me,\" Jackson said. \"They did a great job on defense, we got some stops and I was able to get out in transition. All the big guys were setting screens and that let me attack downhill.\"\n\nWhat made the rally possible, though, was the defensive effort by Anthony and Prince. With Greg Monroe (knee) and Shawne Williams (illness) unavailable and Anthony Tolliver in foul trouble, Van Gundy didn't have a power forward to put on the floor.\n\nHe started out with Anthony playing next to Andre Drummond -- a combination that was made up on the fly.\n\n\"Those two have not only never played together before, they've never even practiced together,\" Van Gundy said. \"We just gave it a try and they made it work.\"\n\nWhen Drummond needed a rest, Anthony moved back to center and Prince came in at power forward. That combination had been completely ineffective in the lopsided second quarter, but Prince had two steals and nine rebounds in the fourth.\n\n\"Guys like Joel and Tayshaun have been around for a long time, and they know how to adjust when their teams need it,\" Kentavious Caldwell-Pope said. \"That was huge for us.\"\n\nIt also helped that Chicago's offense disappeared in the second half. Pau Gasol had 17 second-half points on 5-of-8 shooting, but his teammates managed only 18 while going 7 for 30.\n\n\"That was just a lot of sloppy play down the stretch,\" Joakim Noah said. \"We were tired, and when you are tired, you have to play smart. We didn't do that. That's a game we should have had, and we let it slip away.\"\n\nGasol finished with 27 points and 10 rebounds. Aaron Brooks scored 15 of his 19 in the first half.\n\n\"We were 19 with about six minutes left in the third, and they went on a run and we couldn't stop it,\" Chicago coach Tom Thibodeau said. \"The game isn't over if you start giving them easy scores and don't get back on defense. You have to keep playing, and we didn't.\"\n\nThe Pistons led 30-20 after the first quarter, but with Prince in his first stint at power forward, the Bulls went on a 26-6 run to start the second period. Detroit missed 13 of 15 shots during one stretch, even after bringing its starters back in.\n\nThe Bulls ended up outscoring the Pistons 36-14 in the quarter to take a 56-44 halftime lead. Chicago outshot Detroit 53.8 percent to 40.4 percent in the half, but things were vastly different in the final 19 minutes.\n\n---\n\nTIP-INS\n\nBulls: Taj Gibson was a game-time decision due to a left ankle injury, but playing against the depleted Pistons frontcourt turned out to be a good move. Gibson scored eight points in his first 8 minutes, including three straight dunks to start Chicago's second-quarter surge.\n\nPistons: Drummond was presented with his World Cup championship ring by a Team USA representative in a pregame ceremony. In his first international experience, Drummond was the team's 12th man in Spain last summer, averaging 3.0 points and 2.5 rebounds in 5.7 minutes.\n\nUP NEXT\n\nBulls: Host the Hornets on Monday.\n\nPistons: Visit the Celtics on Sunday.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.502073",
+  "pipeline_version": "v1"
+}

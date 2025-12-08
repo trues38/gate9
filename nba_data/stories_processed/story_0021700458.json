@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700458",
+  "espn_id": "400975209",
+  "date": "Dec 20, 2017",
+  "matchup": "ORL @ CHI",
+  "headline": "Valentine, Mirotic help Bulls top Magic for 7th straight win",
+  "cleaned_body": "CHICAGO --  The Chicago Bulls' offense has exploded with Nikola Mirotic back in the lineup.\n\nDenzel Valentine had 16 points and 10 rebounds, Mirotic had 15 points and 10 rebounds, and the Bulls beat the Orlando Magic 112-94 on Wednesday night for their seventh straight win.\n\nChicago had lost 10 straight without Mirotic prior to his return from a facial fracture Dec. 8 and hasn't lost since to improve to 10-20. Behind a season-high 31 assists, the Bulls matched their longest winning streak in three years and sent Orlando to a sixth straight loss.\n\nNikola Vucevic scored 18 points for the Magic.\n\n\"We're improving the communication we didn't have before,\" said Mirotic, who missed the start of the season after teammate Bobby Portis punched him in October.\n\n\"Offensively playing finally the way we have to play, scoring a lot of points and sharing the ball, especially on fast breaks. It's been a lot of fun.\"\n\nThe excitement began early for Chicago, which started on a 12-0 run. Facing the league's fourth-worst scoring defense, the Bulls' strong ball movement resulted in easy looks inside and out, and the team had assists on 10 of its first 15 shots.\n\nRobin Lopez connected on his first four attempts for a team averaging 111.1 points per contest since Mirotic returned to the lineup -- up from 95.7 points in 23 games without the forward.\n\nChicago took a 30-point lead with 8:17 left in the fourth quarter -- its largest advantage of the season.\n\n\"The start was key,\" Bulls coach Fred Hoiberg said. \"I was really pleased with the way the guys came out of the gate.\n\n\"But the thing that pleases you most is the unselfishness.\"\n\nChicago had six players score in double figures, including Kris Dunn with 15 points and Portis with 14.\n\nInjury-riddled Orlando, which played without leading scorers Evan Fournier and Aaron Gordon, struggled to keep pace. The Magic shot only 39 percent, including 5-of-27 on 3-point tries, en route to their 17th loss in 20 games.\n\n\"We've got to play really above ourselves right now to get a win,\" Orlando coach Frank Vogel said. \"We didn't play a great basketball game and the result is what it is.\"\n\nTIP-INS\n\nMagic: Fournier and Gordon were out of action yet again. Each is tied for the team lead with an 18.3-point per game average. Fournier missed his sixth straight game with a sprained right ankle while Gordon didn't play for the fourth time in five contests because of a right calf strain. Guard Terrance Ross missed a 10th straight game due to a sprained right knee.\n\nBulls: Guard Zach LaVine, who is rehabbing from a February surgery to repair a torn ACL in his left knee, has been held out of several practices due to back spasms but should return soon. \"Zach's doing great,\" Hoiberg said. \"He's back to really feeling good again and, hopefully, we'll get him back on the practice court whenever our next practice is.\"\n\nOUT AGAIN\n\nAlready short-handed, Orlando only got 13:50 of playing time from guard Jonathan Isaac before he re-injured a right ankle that previously kept him out of action for 17 games. Isaac, who averages 5.7 points per game, just returned in Sunday's loss at Detroit.\n\n\"Hopefully, it's not too bad,\" Vogel said. \"X-rays were negative and we'll see how he is tomorrow.\"\n\nGOING STREAKING\n\nChicago's seventh straight win is the longest-active winning streak in the Eastern Conference and is the best for the franchise since it rolled off seven in a row from Dec. 18-27, 2014.\n\n\"We lost 10 straight,\" Portis said. \"We had a chip on our shoulder. We were so close to winning some of the games, we lost by one and two. We kind of found a way to start winning those games down the stretch.\"\n\nUP NEXT\n\nMagic: Hosts New Orleans on Friday night.\n\nBulls: At Cleveland on Thursday night.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.490411",
+  "pipeline_version": "v1"
+}

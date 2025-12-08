@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100395",
+  "espn_id": "401360219",
+  "date": "Dec 11, 2021",
+  "matchup": "MEM vs. HOU",
+  "headline": "Brooks, Bane lead Grizzlies past Rockets 113-106",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Dillon Brooks scored 25 points, Desmond Bane added 19 points and the Memphis Grizzlies held on for a 113-106 victory over the Houston Rockets on Saturday night.\n\nChristian Wood had 22 points and 11 rebounds for Houston. Armoni Brooks provided a spark off the Houston bench, scoring 18 points. Alperen Sengu finished with 15 and Garrison Mathews added 12 points as the Rockets lost their second game in two nights.\n\nHouston trailed by as many 21 points in the first half before cutting into Memphis’ advantage as the Grizzlies’ first-half shooting accuracy waned in the third quarter.\n\n“Fatigue was a factor right from the start for us,” said Rockets coach Stephen Silas, whose team arrive in Memphis after a loss to Milwaukee on Friday. “I just felt it with our group. So I tried to sub liberally, try to mix and match.”\n\nMemphis started the second half by missing nine of its first 10 shots. That helped the Rockets cut their deficit to single digits.\n\nThe Rockets closed within six points on a couple of occasions in the fourth, but never caught Memphis.\n\n“It got close,” Memphis coach Taylor Jenkins said. “The Rockets are playing really good basketball now. They are super competitive.”\n\nBoth teams played without significant contributors, such as Ja Morant and Jaren Jackson Jr. for Memphis, and Eric Gordon, Jalen Green and Kevin Porter Jr. for the Rockets. Given those absences, Wood noted a variety of players stepped up.\n\n“I’m very proud, especially with three of our key guys out,” the Rockets' forward said. “We just couldn’t close it out tonight, but I’m happy. No one is discouraged in the locker room.”\n\nJenkins also saw a team that was ready, no matter who was called.\n\n“When you just stay ready and you understand this is how we play Grizzlies basketball, it’s the expectation, no matter if you are 1-5,” Jenkins said. “It’s offense, defense, whatever is asked of you, just go out there and make the right play.”\n\nThe game featured teams playing among the best in the league. Both entered the game 4-1 in December, the Grizzlies winning six of their last seven, and the Rockets going 6-2 over their last eight.\n\nThe night was also a celebration of former Grizzlies forward Zach Randolph, who was honored with having his number 50 retired, the first Memphis player to receive that recognition.\n\nMemphis shot better than 60% through much of the first half and connected on close to 50% of its 3-pointers. That translated to a quick double-digit lead and a 63-47 advantage at halftime.\n\nTIP-INS\n\nRockets: Green missed his eighth game with a left hamstring strain. … D.J. Augustin started his first game of the season. … Houston is 1-12 on the road. Its other road win was Dec. 1 over Oklahoma City 114-110.\n\nGrizzlies: F Jaren Jackson Jr. did not play due to left knee soreness. Jenkins said it was simply soreness and not something that concerns the team in the long term. … Kyle Anderson started in Jackson’s spot and hit all five of his shots in the first half. He finished with 16 points. ... Memphis is 7-1 since Ja Morant sprained his left knee in a Nov. 26 loss to Atlanta. … C Steven Adams suffered a left ankle sprain in the third quarter and did not return.\n\nRANDOLPH’S INFLUENCE\n\nThe Grizzlies honored Randolph, retiring his number 50, the first to receive such recognition in franchise history. And both coaches recalled Randolph’s influence on the game. “He’s a legend with the Grizzlies. He’s a legend in this community,” Jenkins said. “… Such a positive soul. A welcoming soul. But then you saw him on the court, and he was just nasty. Just epitomized the grit and grind.”\n\nRockets coach Stephen Silas said he was honored to be playing the night the team honored Randolph because he “was one of my favorite (players).” Asked about any comparison to Randolph and Silas’ father, Paul Silas, the Rockets coach replied with a laugh: “Zbo could score a lot better than my dad. He loved how tough he was. He loved how he couldn’t jump just like my dad. There are just so many similarities.”\n\nUP NEXT\n\nRockets: Travel to Atlanta to face the Hawks on Monday.\n\nGrizzlies: Host Philadelphia 76ers on Monday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.165637",
+  "pipeline_version": "v1"
+}

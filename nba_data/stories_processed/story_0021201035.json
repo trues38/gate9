@@ -1,0 +1,25 @@
+{
+  "game_id": "0021201035",
+  "espn_id": "400278755",
+  "date": "Mar 23, 2013",
+  "matchup": "CHI vs. IND",
+  "headline": "Luol Deng, Carlos Boozer power short-handed Bulls",
+  "cleaned_body": "CHICAGO --  The Chicago Bulls are used to dealing with injuries, so they weren't rattled when All-Star center Joakim Noah didn't play Saturday night against the Indiana Pacers.\n\nAs they have done all season, the Bulls turned to their reserves, including veteran center Nazr Mohammed, forward Taj Gibson, and guards Daequan Cook and Nate Robinson, to rally from a 10-point deficit for an 87-84 victory that snapped Indiana's three-game winning streak.\n\n\"That is the way we have to play; we have to do it collectively,\" Bulls coach Tom Thibodeau said after his team avoided a three-game losing streak. \"A lot of guys stepped up.\"\n\nForward Luol Deng scored 20 points and Carlos Boozer had 18, but the offensive stars of the second-half Chicago rally came off the bench.\n\nChicago's reserves outscored Indiana 32-15 for the game, and Mohammed had 11 points and seven rebounds in place of Noah, who has a lingering foot problem and Thibodeau said is likely to miss Sunday's game against Minnesota.\n\nGibson scored 11 points while Cook and Robinson had nine each for Chicago.\n\n\"You look at Daequan, coming from the teams he was playing on,\" Gibson said. \"In this league it is all about confidence. And Nazr, his presence speaks for itself. He won a championship, played on numerous great teams. He is always ready to go.\n\n\"They stepped up big and everyone was pulling for them.\"\n\nNoah has plantar fasciitis in his right foot, a problem that dates when he missed three games in February.\n\nDespite the absence of their All-Star center, the Bulls (37-31) went on a 13-5 run starting the fourth quarter to take an 81-72 lead. They still needed Indiana's Paul George to miss two 3-point attempts at the end to secure the victory.\n\nA four-point play by George Hill brought Indiana within 87-84 in the final minute. After a missed driving shot by Chicago's Kirk Hinrich with 16 seconds left, the Pacers had a chance to tie. But George missed from 24 feet with 3.8 seconds left and after an offensive rebound got another chance at the buzzer from 25 feet but it also rimmed out.\n\n\"Both shots felt very comfortable to me,\" George said. \"It just wasn't my night. I couldn't really get into a rhythm outside the 3-point line.\"\n\nGeorge finished with 23 points, but was 1 of 6 beyond the 3-point line and had just three points in the fourth quarter, when the Pacers made only 4 of 20 shots from the floor. They missed 13 of their first 15, while the Bulls went on their 13-5 run.\n\n\"We kind of went for a lot of jump shots,\" George said. \"We should have kept attacking.\"\n\nThe Pacers (43-27) tried taking advantage of Noah's absence immediately by going to center Roy Hibbert. He finished with 18 points.\n\nHowever, George picked up his fourth foul in the third quarter and it slowed Indiana's momentum while the Bulls bench players took control.\n\n\"It was their defense, but we struggled to score,\" said Pacers coach Frank Vogel, whose team was coming off a Friday night win in Milwaukee. \"We had a lot of starters on the bench. Paul was in foul trouble and George (Hill) had a strained groin.\n\n\"We struggled to score down the stretch.\"\n\nHill had 11 points and Lance Stephenson 10 for the Pacers, who were outscored by Chicago 42-30 in the paint and 18-17 on second-chance points despite the absence of Noah.\n\nGame notes Bulls guard Kirk Hinrich bruised his thigh in the game and his status for Sunday's game is uncertain. ... The loss denied the Pacers their first chance for a season sweep of the Bulls since the 2001-02 season. They are 3-1 against Chicago. ... The Pacers played for the fourth straight game without David West due to a lower back sprain. ... Following the game George had his hand wrapped in ice and said he had sprained a ligament in his left pinky finger. \"The first half I really couldn't dribble to my left,\" he said. \"The ball was going all over the place.\"",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "FoulTrouble",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.369309",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0021301029",
+  "espn_id": "400489902",
+  "date": "Mar 21, 2014",
+  "matchup": "DET @ PHX",
+  "headline": "Bledsoe's big 4th quarter leads Suns past Pistons",
+  "cleaned_body": "PHOENIX -- Eric Bledsoe is getting close to his old self, and that's great news for the Phoenix Suns in their stretch run to try to make the playoffs.\nThe Suns' high-energy point guard scored 15 of his 23 points in the fourth quarter and Phoenix pulled out a 98-92 victory over the Detroit Pistons on Friday night.\n\"No question, I think I had a better feel today,\" Bledsoe said. \"Instead of coming out and just forcing stuff, I kind of played with a little more rhythm. `'\nGoran Dragic added 20 points, 15 in the first half, and Markieff Morris scored 16 for the Suns.\nRodney Stuckey scored 23 and Andre Drummond had 13 points and 16 rebounds for the Pistons in their fourth overall loss and 12th straight on the road.\nThe victory pulled the Suns within a half-game of Memphis for the eighth and final playoff spot in the West, although the Grizzlies hold the tiebreaker.\nBledsoe, in his biggest game since returning from knee surgery March 12, made a 3-pointer as the shot clock expired to put the Suns ahead for good 89-86 with 3:22 to play.\n\"I'm good for one a game,\" he joked. \"I think I was 0 for 4 before that.\"\nDetroit was just 10 of 26 at the foul line, to Phoenix's 24 of 35.\n\"I thought there were two major factors,\" Pistons coach John Loyer said. \"One, we turned the ball over 19 times for a team that averages 12 turnovers -- and I think the majority of them were unforced. Then you go 10 for 26 from the line.\"\nDetroit shoots 67 percent from the foul line for the season.\nPhoenix outscored Detroit 12-6 over the final 3:22 in a grind-it-out victory that runs contrary to the Suns' preferred style.\n\"I don't think it every really got into the up-tempo that we want,\" Phoenix coach Jeff Hornacek said. \"I told the guys a couple of games ago that the rest of the season you're going to have to scrap and claw and fight for every play, every possession to have a chance of getting in these playoffs. That's kind of how tonight's game went.\"\nDetroit's worst culprit at the foul line was Josh Smith, who had 15 points and 10 rebounds but missed all eight of his free throws. Greg Monroe scored 16 for the Pistons.\nAfter quickly erasing a 12-point Phoenix lead in the third quarter, Detroit played the Suns close and had an 82-80 lead when Drummond made one of two free throws with 6:31 left. The game was tied three more times before Bledsoe, as the shot clock neared zero, hit a 3 from the top of the key to make it 89-86.\nMonroe made two free throws with 3:02 left to cut it to 89-88, Morris scored on a drive, Channing Frye blocked Kyle Singler's layup try. Morris and Bledsoe each made free throws to put Phoenix up 93-88 with 1:05 to go. Will Bynum scored, then Bledsoe's driving layup had the Suns ahead 95-90 with 48.9 seconds to play.\nNeither team led by more than six points in the first half, with Phoenix up 51-50 at the break.\nDragic hit a 3 and Miles Plumlee made two free throws to put Phoenix up 51-46 with 1:59 left in the half. Drummond's layup with 1:22 left, followed by his tip-in with 6.8 seconds to go, left the Suns with a one-point halftime lead.\nPhoenix opened the second half with a 14-3 run to go up 65-53 on Plumlee's reverse dunk on a pass from Bledsoe. Plumlee scored seven in the spurt.\nBut Detroit responded, outscoring the Suns 14-2 to tie it at 67-67 when Drummond made one of two free throws with 3:34 left in the quarter. Smith was fouled by Dragic on a 3-point try but missed all three at the line and Phoenix led 73-71 entering fourth.\nDragic and Stuckey got into a tiff and drew a double technical in the fourth quarter.\nGame notes\nThe Suns' Markieff Morris drew his 12th technical foul, fourth-most in the NBA. ... Detroit's last road win was at Washington on Jan. 18. ... Nine of the Suns' remaining 13 games are on the road. ... The teams split the season series 1-1. ... Detroit outrebounded Phoenix 53-39, including 14-4 on the offensive boards.",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.337219",
+  "pipeline_version": "v1"
+}

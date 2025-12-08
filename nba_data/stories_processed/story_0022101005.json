@@ -1,0 +1,24 @@
+{
+  "game_id": "0022101005",
+  "espn_id": "401360824",
+  "date": "Mar 12, 2022",
+  "matchup": "MIA vs. MIN",
+  "headline": "Timberwolves beat Heat 113-104 for 7th win in 8 games",
+  "cleaned_body": "MIAMI -- — The Minnesota Timberwolves refused to let one road loss become a streak.\n\nJaylen Nowell scored 16 points, Karl-Anthony Towns and Anthony Edwards each added 15 and the Timberwolves beat the Miami Heat 113-104 on Saturday night.\n\nThe Timberwolves rebounded from a loss at Orlando on Friday night to win for the seventh time in of eight games.\n\n“Last season it was tough. If we lost it would became a losing steak,\" Malik Beasley said. \"Now, we’re better than that. We wanted to make sure we come out with a new winning streak.”\n\nTyler Herro scored 30 points for the Eastern Conference-leading Heat. They had 37 points in the second half after scoring 42 in the second quarter. Miami has lost two of three.\n\n“Their speed and quickness, and their ability to play in the passing lanes, make them very disruptive, and they were disruptive at key times in the second half,” Heat coach Erik Spoelstra said about the Timberwolves. “Those open windows that you have close really quickly with them.”\n\nMiami's Markieff Morris had six points and four rebounds in 17 minutes off the bench in his first game in more than four months. He missed 58 games due to a whiplash injury suffered in a Nov. 8 scuffle with Denver’s Nikola Jokic.\n\n“It felt great, man. It's been a long process,” Morris said. “I'm thankful, and I'm grateful to play the game I love again.”\n\nTowns hit an 11-foot jumper with 3:53 left to give Minnesota the lead for good at 102-100.\n\n“We felt like even though we were down by 12 (at halftime), it didn’t feel like we were down 12,” Minnesota coach Chris Finch said. “We felt like it was a much closer game and we just had to come out with a good start, with great purpose.”\n\nThe Heat played without Jimmy Butler (toe irritation), Caleb Martin (knee), and Victor Oladipo (knee). Oladipo's absence was planned after he played in three games in a five-day span for his first games in nearly a year following surgery.\n\nHerro scored 18 of his 21 first-half points during Miami's 42-point second quarter that helped build a 67-55 halftime lead. Adebayo added 15 first-half points.\n\nTaurean Prince's 3-pointer at the third-quarter buzzer gave Minnesota an 89-86 advantage. Beasley scored nine points — three 3-pointers — in the third quarter for the Timberwolves.\n\nTIP-INS\n\nTimberwolves: Barring all-out collapse, Minnesota will finish with a winning record for the second time in the last 17 seasons. The other instance was 2017-18 (47-35). ... This game was the only one in an eight-game stretch (concluding Wednesday) in which Minnesota was facing a team with a winning record. Next Saturday, the Timberwolves start a stretch where they'll play seven straight games against teams over .500.\n\nHeat: Butler missed his 22nd game of the season. He has missed — for injury, illness or other reasons — 27% of Miami's regular season games over his three years with Miami. ... After playing seven games in a span of 11 days, a stretch that ended Saturday, the Heat now play just four games in the next 11.\n\nTHE END\n\nThis was the end of Minnesota's 13th and final back-to-back this season. Miami completed its 12th of 14 back-to-backs; the others are coming March 25 and 26 (hosting New York and Brooklyn) and April 2 and 3 (visiting Chicago and Toronto).\n\nSPOELSTRA MILESTONE\n\nThe game was the 1,100th regular-season contest for Miami's Erik Spoelstra, making him just the fifth coach in NBA history to have that many with one franchise. The others: newly minted NBA wins leader Gregg Popovich of San Antonio (2,031 as of Saturday), Jerry Sloan (1,809), Red Auerbach (1,192) and John MacLeod (1,122).\n\nUP NEXT\n\nTimberwolves: At San Antonio on Monday night.\n\nHeat: Host Detroit on Tuesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "LateCollapse"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.209925",
+  "pipeline_version": "v1"
+}

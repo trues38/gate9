@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700687",
+  "espn_id": "400975433",
+  "date": "Jan 22, 2018",
+  "matchup": "SAC @ CHA",
+  "headline": "Walker, Lamb lead Hornets past Kings 112-107",
+  "cleaned_body": "CHARLOTTE, N.C. --  Kemba Walker thinks the Charlotte Hornets can still be a playoff team, and the All-Star point guard would like to be around to see that happen.\n\nHowever, Walker has resigned himself to the fact there is little he can do about reports the Hornets have put him on the block before the Feb. 8 NBA trade deadline.\n\n\"I'm over it,\" Walker said. \"I'm not even thinking about it anymore. I just want to win.\"\n\nWalker helped his team do just that on Monday night, scoring a game-high 26 points as the Hornets bounced back from a tough loss to beat the Sacramento Kings 112-107.\n\nHornets owner Michael Jordan told the Charlotte Observer on Monday night that \"It's not like we are shopping him. We would not just give him up. I love Kemba Walker. I would not trade him for anything but an All-Star player.\"\n\nJeremy Lamb had 18 points, and Dwight Howard added 14 points, 16 rebounds and six blocks for the Hornets, who have won six of their last nine to improve to 19-26. Marvin Williams and Nic Batum each had 14 points.\n\nWalker made five 3s, but struggled shooting the ball over finishing 6 of 20 from the field.\n\nThat all didn't matter to coach Steve Clifford, who was happy his team could get a win.\n\n\"They won at Golden State. They won at Philly. They beat Denver,\" Clifford said of the 13-33 Kings. \"It's the NBA so you have to understand this league.\"\n\nThe Hornets were coming off an emotionally crushing 106-105 loss to the Miami Heat on Saturday night in which they surrendered a five-point lead in the final 34 seconds and lost on a last-second free throw following a disputed call.\n\nHowever, they came out with a purpose against the Kings, closing the first half with an 11-2 run to build a 12-point lead at the break. They extended the lead to 20 in the second half before allowing the lead to dwindle to three with 1:25 remaining after a 3-pointer by Bogdan Bogdanovic.\n\nBut there would be no collapse on this night.\n\nHoward hit two clutch free throws and Willie Cauley-Stein was called for goaltending on a put back by Howard. Walker added two more free throws after two Kings misses to push the Charlotte lead to nine with 23 seconds left.\n\nSkai Labissiere had 23 points and Buddy Hield added 18 for the Kings, who have lost eight straight games and 11 of their last 12. The Kings trailed by 20 in the third quarter, but battled back late behind Hield's shooting. He had 10 points in the fourth quarter.\n\n\"We've all got to come collectively as a group and want to win,\" Hield said. \"It's tough when you're not winning. You've got to learn how to win and it's a learning process right now how to finish games when you're down 10, 12, with five minutes to go and try to find a way to execute.\"\n\nTIP INS\n\nKings: The starting backcourt consisted of Vince Carter and De'Aaron Fox. Fox was 11 months old when Carter played in his first NBA game. ... Rookie Justin Jackson, who played at North Carolina, got a nice hand from Tar Heels fans when he checked into the game late in the first quarter.\n\nHornets: Michael Kidd-Gilchrist did not play because of an abscess in his first arm, which meant Treveon Graham got the start this season. Kidd-Gilchrist is expected back in the starting lineup on Wednesday, Clifford said... Howard picked up his ninth technical of the season.\n\nWHEN TWO TREES COLLIDE: There was a crazy play in the third quarter when Cauley-Stein went up for a monster dunk in the lane but was rejected by Howard. However, the impact of the collision sent Howard to the floor, allowing Cauley-Stein to corral the loose ball and come back with a two-handed, hang-on-the-rim-for-emphasis dunk.\n\nGOOD FROM DEEP: The Hornets made 16 of 40 shots from 3-point range, but got plenty of open looks from deep that didn't go down.\n\n\"Just moving the basketball,\" Walker said. \"Whenever you have an open shot just being aggressive and making them. We're all creating for each other to get the best shots possible and whenever we did we just knocked them in tonight.\"\n\nUP NEXT:\n\nKings: Visit the Magic on Tuesday.\n\nHornets: Host the Pelicans on Wednesday.",
+  "tags_rule": [
+    "PhysicalGame",
+    "LateCollapse",
+    "ThreePointExplosion"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.392384",
+  "pipeline_version": "v1"
+}

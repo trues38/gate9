@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700539",
+  "espn_id": "400975285",
+  "date": "Dec 31, 2017",
+  "matchup": "BKN @ BOS",
+  "headline": "Irving scores 28 for Celtics in 108-105 win over Nets",
+  "cleaned_body": "BOSTON --  The Boston Celtics squandered several opportunities to put away the pesky Brooklyn Nets before Kyrie Irving ended the comebacks.\n\nIrving scored 28 points, hitting a pair of free throws with 7.7 seconds left after his teammates struggled from the line, and the Celtics held off the Nets 108-105 on Sunday.\n\n\"You've got to give credit to just how talented that team is. They play extremely hard for all 48 minutes,\" said Irving, who also had eight rebounds. \"We had to take the challenge on every single possession.\"\n\nAl Horford had 10 points, 10 rebounds and three blocks, Marcus Morris added 15 points and Terry Rozier scored 14 as Boston closed 2017 by winning three straight and four of five.\n\nRondae Hollis-Jefferson had 22 points and 12 rebounds and Caris LeVert scored 16 for the Nets, who could not overcome 10 turnovers in the second half.\n\n\"They're a team that's not going to give up,\" Rozier said. \"They've got a lot of shooters, which opens up a lot for them. They use it to their advantage. That's a tough team.\"\n\nThe Celtics won their seventh straight against the Nets, although Boston didn't have the game in hand until Irving made a pair of free throws with 7.7 seconds remaining. Boston went the final 4:27 without a field goal and struggled from the foul line, going 16 for 25 in the game, and missed several opportunities to put Brooklyn away.\n\n\"We stayed poised to make a comeback,\" Hollis-Jefferson said. \"That's basketball. Sometimes it goes your way, sometimes it doesn't. But for us now we're definitely competing. It starts with the starting unit, we've got to come out that way. And I feel like the effort's there.\"\n\nHollis-Jefferson pulled the Nets within 103-95 on a dunk, and then converted a three-point play with 2:05 left to cut the margin to 103-98. Quincy Acy hit a 3-pointer with 18 seconds left after the Nets grabbed two offensive rebounds, and Brooklyn was within 105-103.\n\nMarcus Smart made 1 of 2 free throws with 15.2 seconds left, and then Irving -- who went 4-for-4 from the foul line -- added two more to seal it.\n\nAcy scored 14 for the Nets, DeMarre Carroll and Allen Crabbe scored 12 points apiece and Spencer Dinwiddie had 10 points and nine assists.\n\n\"Sometimes you'll have a slip-up like we did at the beginning of the first quarter, but it's the overall outcome that you kind of want to base it on and we kind of stayed with it,\" Hollis-Jefferson said. \"Give them credit. Boston's a really good team.\"\n\nTIP-INS\n\nNets: Brooklyn outscored the Celtics 31-23 in the second quarter and had one turnover in the first half. ... Brooklyn won consecutive games only once in December. ... The Nets outscored the Celtics in the paint 50-34.\n\nCeltics: Irving scored at least 20 points for the 11th straight game. ... Boston took a 38-28 lead on Terry Rozier's 3-pointer just before the buzzer at the end of the first period. ... Boston shot 69.6 percent (16 for 23) in the first quarter. ... The Celtics outrebounded the Nets 22-14 in the first half.\n\nFAST START\n\nAt 30-10, the Celtics reached the 30-win mark before January for the third time in franchise history. Only the 1964-65 team, which won its 30th on Dec. 28, and the 1959-60 club (Dec. 30) reached 30 wins earlier.\n\nHELLO CLEVELAND\n\nThe Celtics open 2018 at home Wednesday against the Cleveland Cavaliers, their partners in the offseason trade that sent Irving to Boston. The Cavs beat the Celtics in the 2017 Eastern Conference finals and in the season opener in Cleveland.\n\n\"They've had everybody's number in the East for a couple of years now and we're among that list,\" Boston coach Brad Stevens said.\n\nUP NEXT\n\nNets: Are back at home Monday night hosting Orlando after a five-game trip.\n\nCeltics: Host the Cavaliers on Wednesday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "EarlyRun",
+    "LateCollapse",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.816175",
+  "pipeline_version": "v1"
+}

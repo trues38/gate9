@@ -1,0 +1,23 @@
+{
+  "game_id": "0021401179",
+  "espn_id": "400579471",
+  "date": "Apr 10, 2015",
+  "matchup": "DET vs. IND",
+  "headline": "Stuckey helps Pacers beat Pistons 107-103",
+  "cleaned_body": "AUBURN HILLS, Mich. --  The Detroit Pistons know all about Rodney Stuckey's streaky shooting. This time, he picked up his play at a pivotal moment for the Indiana Pacers.\n\nStuckey scored 24 points, including three straight jumpers down the stretch, and the Pacers kept up their playoff push with a 107-103 victory over the Pistons on Friday night.\n\nStuckey was selected by Detroit in the first round of the 2007 draft and played for the Pistons for seven seasons before he signed with Indiana in free agency in July.\n\n\"He's an up-and-down guy -- he always has been,\" Pistons coach Stan Van Gundy said. \"He hasn't done much of anything against us in our first three games this year, but today, he killed us.\"\n\nIndiana (36-43) has won four in a row and is one game behind Brooklyn and Boston for the last two Eastern Conference playoff spots. All three teams won on Friday.\n\n\"We know that the Nets and Celtics have our fate in our hands, so all we can do is keep winning games,\" Stuckey said.\n\nC.J. Miles also scored 24 points for the Pacers, who trailed by six points with seven minutes to play. Roy Hibbert had 10 points and 11 rebounds.\n\n\"This is the story of our season,\" Miles said. \"We keep finding ways to win games.\"\n\nReggie Jackson led Detroit with 21 points. Greg Monroe had 17 points and 12 rebounds, and Andre Drummond finished with 11 points, 15 boards and three blocked shots.\n\n\"We're getting better and we came out with the right effort tonight,\" Jackson said. \"I wish we could have played spoiler.\"\n\nThe game was tied at 79 after three quarters, and even with the Pistons eliminated from postseason contention, they beat the Pacers to several loose balls early in the fourth, forcing Frank Vogel to call for a timeout.\n\nMiles hit a pair of 3s to get Indiana back into the game, and Luis Scola tied it at 93 with 4:11 to play. At the same time, Jackson and Monroe both picked up their fifth fouls.\n\n\"Those both helped us, especially when we could go at Reggie Jackson and ultimately foul him out,\" Vogel said. \"Putting Drummond on the line helped, too.\"\n\nThe Pacers were so eager to put Drummond -- the worst free-throw shooter in NBA history -- on the line that they started intentionally fouling him with 3:50 to play, even though the Pistons weren't in the penalty.\n\nTwo fouls later, Drummond missed two free throws, and Stuckey hit his three straight shots to put Indiana up 101-96 with 1:55 left. Tolliver answered with a 3, but Jackson fouled out seconds later.\n\nJackson and Kentavious Caldwell-Pope each went 1 for 3 from the free-throw line in the final three minutes. For the game, the Pistons went 12 for 23 from the line, compared to 20 for 22 for the Pacers.\n\n\"Free throws were the game tonight,\" Van Gundy said. \"These are NBA players, and you have to be able to make free throws. That's ridiculous.\"\n\nThe first half turned into a scoring duel between Detroit's current point guard and a former holder of the job. Jackson had 15 points to Stuckey's 12, but Stuckey got more help, and a late Paul George 3-pointer gave the Pacers a 51-47 lead at the half.\n\nIndiana threatened to pull away early in the third, going up by seven early in the period, but the Pistons rallied after a timeout, scoring the next eight points.\n\nGeorge hit another 3-pointer in the last minute, and Ian Mahinmi's tip-in at the buzzer made it 79-79 going into the fourth.\n\nTIP-INS\n\nPacers: Chris Copeland was inactive for the second straight game after being stabbed in New York early Wednesday. ... The Pacers, who lead in the NBA in bench scoring, got 48 points from their reserves on Friday, led by Stuckey.\n\nPistons: Jackson had to change jerseys late in the third quarter after getting blood on his original shirt. ... The Pistons took 23 3-pointers and 23 free throws, and only made one more free throw (12) than 3-pointer.\n\nUP NEXT\n\nPacers: Host the Thunder on Sunday.\n\nPistons: Host the Hornets on Sunday in their final home game of the season.",
+  "tags_rule": [
+    "FoulTrouble",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.267500",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0022101156",
+  "espn_id": "401360975",
+  "date": "Apr 01, 2022",
+  "matchup": "MIL vs. LAC",
+  "headline": "Clippers rip Bucks 153-119 as both teams rest top players",
+  "cleaned_body": "MILWAUKEE -- — On a night when both the Milwaukee Bucks and Los Angeles Clippers rested their top guys, Robert Covington made the most of an opportunity for additional playing time.\n\nSo did his Clippers teammates.\n\nCovington scored a career-high 43 points and made a franchise-record 11 3-pointers to help the hot-shooting Clippers trounce the Bucks 153-119 on Friday night.\n\n\"The basket just kept getting bigger and bigger,\" said Covington, who went 11 of 18 from 3-point range. “And my rhythm just stayed the same.”\n\nThe Clippers' 153 points were the most they've ever scored in a regular-season game. The Clippers won a first-round playoff game 154-111 over the Dallas Mavericks in 2020.\n\nAmir Coffey also had a career high with 32 points for the Clippers, matching a career best with seven assists to go along with six rebounds.\n\nThe Clippers shot 60.9% from the floor and 23 of 43 from 3-point range.\n\n“They obviously executed at a high level,” Bucks coach Mike Budenholzer said. “We didn’t.”\n\nBoth teams had played Thursday night games that reached overtime, with the Bucks winning 120-119 at Brooklyn and the Clippers falling 135-130 at Chicago.  The only starter from those two games who played at all Friday was Clippers center Ivica Zubac.\n\nAmong the players sitting out Friday’s game were Milwaukee’s Giannis Antetokounmpo, Khris Middleton and Jrue Holiday, and the Clippers’ Paul George, Reggie Jackson and Marcus Morris.\n\n“Rather than having our guys who make plays for us normally on a regular basis, we had to do it by committee,” Clippers coach Tyronn Lue said. “Those guys did a great job for us.”\n\nThis marked the first time the Clippers had reached the 150-point mark since a  150-125 triumph over the Washington Wizards on Dec. 1, 2019.\n\nCovington hadn’t had more than 21 points or five 3-point baskets in a game all season before Friday. He had 33 points and went 9 of 13 from beyond the arc in the second half alone, scoring 17 in the third quarter and 16 in the fourth quarter.\n\n“They were trying to throw different coverages at him, different players at him, different matchups,” Coffey said. “But he just kept hitting.\"\n\nLuke Kennard had 23 points, Terance Mann 18 and Isaiah Hartenstein 14 for the Clippers. Jordan Nwora scored 28, Portis had 25 and Jevon Carter 18 for the Bucks.\n\n“My teammates, they were trying to get me 50,” Covington said. “But the other team was like, ‘Naw, we can’t let you do that.' I came close. Two 3s I missed toward the end, they looked really good.”\n\nWith so many notable players missing, neither team played much defense early on as both the Bucks and Clippers were shooting over 60% from the floor midway through the second quarter.\n\nThe Bucks couldn't keep up that pace, though they still shot 53.2%. But the Clippers never cooled off at all.\n\nHONORING ANTETOKOUNMPO\n\nThe loudest ovation came during a first-quarter timeout when a  video on the Fiserv Forum scoreboard  showed Antetokounmpo’s career highlights and noted that he had become the Bucks’ all-time leading scorer. The crowd chanted “MVP! MVP!” for Antetokounmpo, whose 14,216 career points enabled him to overtake Kareem Abdul-Jabbar for the franchise record.\n\nTIP-INS\n\nClippers: This was the Clippers’ final regular-season road trip. They’re at home for their final four games. … Covington’s previous career high of 31 points came against the Clippers, as a member of the Philadelphia 76ers on Nov. 13, 2017.\n\nBucks: Antetokounmpo was out for the third time in the last seven games due to a sore right knee. Middleton was unavailable for the third time in six games because of a sore left wrist. Bucks coach Mike Budenholzer said Holiday sprained his left ankle Thursday. … Carter made his first start since joining the Bucks last month. He made one start for Brooklyn earlier this season. ... The Bucks are now 20-2 when they shoot at least 50%,\n\nUP NEXT\n\nClippers: Host the New Orleans Pelicans on Sunday. The Hornets have won their last five matchups with the Clippers, including all three meetings this season.\n\nBucks: Host the Dallas Mavericks on Sunday. The Bucks won 102-95 at Dallas in their only previous meeting this season, though neither Antetokounmpo nor Mavericks guard Luka Doncic played in that game.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.613877",
+  "pipeline_version": "v1"
+}

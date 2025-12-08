@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700602",
+  "espn_id": "400975348",
+  "date": "Jan 09, 2018",
+  "matchup": "LAL vs. SAC",
+  "headline": "Double-doubles by Randle, Ball push Lakers past Kings 99-86",
+  "cleaned_body": "LOS ANGELES --  The return of Lonzo Ball has the Los Angeles Lakers running again, and that emphasis on tempo is turning into wins.\n\nJulius Randle had 22 points and 14 rebounds, Ball added 11 rebounds and 11 assists, and the Lakers defeated the Sacramento Kings 99-86 on Tuesday night.\n\nBrook Lopez scored 18 points and Kentavious Caldwell-Pope had 16 for the Lakers, who have won two straight following a nine-game losing streak.\n\n\"That's kind of our best basketball at this point right now, getting out in transition,\" said Brandon Ingram, who had 15 points and five rebounds.\n\nWith Ball leading the charge, the Lakers were at their most effective when pushing the ball up the court, and they picked up where they left off after tying a franchise record with 42 fast-break points against Atlanta on Sunday. They had a 35-8 edge on the break this time, and Ball's 11 assists were his most since the rookie sustained a shoulder injury that sidelined him for six games. He finished with five points.\n\n\"He creates our pace for us,\" Lakers coach Luke Walton said. \"He makes winning plays for us. He gets other people easy shots, so he impacted the game on both ends of the floor and was a big part of why we won tonight.\"\n\nWalton was not sated by the win, however. He was unhappy with the Lakers' 26 turnovers and a lackadaisical attitude after going on a 19-0 run in the first quarter. Fueled by eight points from Ingram and seven from Randle, who had 13 points and five rebounds in the first half, Los Angeles took an 18-point lead, its largest of the night.\n\nBut the second unit let Sacramento right back into the game, and the Lakers were only up 31-27 at the end of the quarter.\n\n\"We're trying to play a certain way and have a certain standard,\" Walton said. \"We've been struggling. We will take a win when we can get it, but it just doesn't feel the same way as when you play the game the right way throughout.\"\n\nBogdan Bogdanovic scored 19 points off the bench for the Kings, who have lost five of six. De'Aaron Fox had 15 points and Buddy Hield scored 13.\n\nKings coach Dave Joerger thought fatigue did his team in following a 107-100 loss to San Antonio on Monday. Sacramento shot a season-worst 34.5 percent from the field (30 of 87).\n\n\"It's just that time of year where you have to keep grinding away,\" Joerger said. \"We made too many mental mistakes, made some really bad turnovers that are just head-scratchers. The guys are getting better, and we'll just keep plugging away.\"\n\nLONG-RANGE LOPEZ\n\nLos Angeles opened an 84-74 lead going into the fourth quarter, closing the third on a 22-10 run. Sacramento started the second half with a 14-3 surge to take an eight-point lead before Lopez hit three 3-pointers. Lopez then missed from long range on what he admitted was a heat-check shot, but Ball was under the basket for a putback.\n\nLopez finished 5 of 8 from 3-point range.\n\n\"They made the last run and just kind of sustained it,\" Fox said.\n\nREARRANGING FOR RANDLE\n\nRandle spent most of the season using his superior athleticism to get the better of backup centers and power forwards as a scorer. Walton wants him to be just as willing to pass when driving down the lane now that Randle is becoming a more regular presence in the starting lineup.\n\nThe growing pains were evident, with six assists and six turnovers against the length of Zach Randolph and Willie Cauley-Stein.\n\n\"Tonight he had moments where he was great at it and there were moments where he over-penetrated and we got in trouble,\" Walton said.\n\nTIP-INS\n\nKings: G George Hill missed his third straight game to be with his wife, who is pregnant.\n\nLakers: Ball had his ninth career double-double. ... Randle had his eighth double-double of the season.\n\nUP NEXT\n\nKings: Host the Los Angeles Clippers on Thursday night.\n\nLakers: Host the San Antonio Spurs on Thursday night.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.422794",
+  "pipeline_version": "v1"
+}

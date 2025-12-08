@@ -1,0 +1,22 @@
+{
+  "game_id": "401810212",
+  "referee_context": {
+    "crew_chief": "Scott Foster",
+    "regime": {
+      "style": "Control Enforcer",
+      "home_win_pct": 61,
+      "foul_rate": "High",
+      "variance_impact": "Suppressor",
+      "pace_impact": "Slow"
+    }
+  },
+  "market_context": {
+    "provider": "Draft Kings",
+    "details": "NY -3.5",
+    "overUnder": 232.5
+  },
+  "injury_context": {
+    "home": [],
+    "away": []
+  }
+}

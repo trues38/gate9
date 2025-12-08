@@ -1,0 +1,27 @@
+{
+  "game_id": "0021700266",
+  "espn_id": "400975017",
+  "date": "Nov 22, 2017",
+  "matchup": "LAL @ SAC",
+  "headline": "Kings keep rolling at home, beat Lakers 113-102",
+  "cleaned_body": "SACRAMENTO, Calif. --  Squaring off against fellow rookie Lonzo Ball for the first time in the NBA didn't mean nearly as much to the Kings' De'Aaron Fox as beating the Lakers.\n\nEven though it's his first year in Sacramento, Fox is well aware of the long-standing rivalry between the two Pacific Division foes.\n\nZach Randolph had 22 points, seven rebounds and seven assists, Willie Cauley-Stein added 26 points and the Kings beat the Los Angeles Lakers 113-102 on Wednesday night.\n\nFox scored 13 points in his first game against Ball since both entered the NBA as top-five picks in June.\n\n\"It was more sweet for the city just beating the Lakers,\" Fox said. \"I know about the rivalry. We came out knowing that this is a game we had to get.\"\n\nBuddy Hield added 10 points for Sacramento, including a pair of 3-pointers during a 15-5 run to open the fourth quarter. Bogdan Bogdanovic scored 14 and Frank Mason added 11.\n\nThe Kings trailed briefly in the first quarter but took the lead on Randolph's up-and-under basket past Brook Lopez and slowly pulled away after that. Sacramento led by as many as 20 and dominated Los Angeles on the boards.\n\nThat continued a strange pattern for the Kings, who are 1-9 on the road but 4-4 at home. Those four wins have come against Oklahoma City, Philadelphia, Portland and Los Angeles.\n\n\"That's one of the more complete games we've played, from start to finish,\" Sacramento coach Dave Joerger said. \"We withstood their runs, we got some loose balls and we kept them off the glass pretty effectively.\"\n\nKentavious Caldwell-Pope scored 20 points, Kyle Kuzma had 17 and Ball had 11 points, 11 assists and seven rebounds for the Lakers. Los Angeles was playing the second half of a back-to-back after rallying from 19 down to beat the Chicago Bulls on Tuesday.\n\n\"When Sacramento started hitting some of their (shots) and made the little run they went on at the end of the first, it kind of felt like we fell apart and stopped trusting what we were doing,\" Lakers coach Luke Walton said. \"We were kind of scrambling to stay within striking distance.\"\n\nThe game was billed as a matchup between 19-year-old rookies Ball and Fox, the second and fifth overall picks who were playing against each other for the first time as pros after squaring off twice last season in college.\n\nBoth had their moments, though Ball's one-handed alley-oop dunk in the second quarter clearly stood out. He also made a 3-pointer late in the fourth that brought the Lakers within 106-92.\n\nBall finished 4 of 8 while Fox went 5 of 11.\n\n\"It was a lot of fun playing against him. It's always fun,\" Ball said. \"The crowd loves it and all the fans and stuff, so it's good for basketball. He played great tonight.\"\n\nRandolph got the Kings off to a fast start with 11 points in the opening 7 1/2 minutes, while Bogdanovic and Mason added six points apiece as part of a 16-2 run to close out the first quarter that put Sacramento up 31-19.\n\nTIP-INS\n\nLakers: Los Angeles was outrebounded 44-32. . Caldwell-Pope made 4 of 6 3-pointers. As a team the Lakers made 15 of 29 beyond the arc.\n\nKings: Fox missed five of his first seven shots, including two airballs. . Hield returned from an ankle injury, while Vince Carter also played after missing seven games with a kidney stone.\n\nPULLING AWAY IN THE FOURTH\n\nLos Angeles made a final push and trimmed the lead to single digits going into the fourth before the Kings pulled away behind Cauley-Stein's big fourth quarter. Sacramento's 7-footer scored 13 points over the final 10  1/2 minutes, when he went 5 of 5 from the floor. \"I think that gives us the best chance of winning or being in games, is if I'm playing super aggressive, putting a lot of pressure on the rim,\" Cauley-Stein said. \"It's a lot of fun to watch and it's a lot more fun to play that way.\"\n\nMISSED DUNK\n\nOn a night when it seemed like everyone made a dunk, Kuzma missed his. The Lakers rookie looked to be headed for an easy breakaway dunk in the third quarter but the ball hit the back of the rim and ricocheted near midcourt.\n\nUP NEXT\n\nLakers: Play the Los Angeles Clippers on Nov. 27.\n\nKings: Host the Clippers on Saturday night. The Clippers have won nine straight in Sacramento, their last loss coming March 19, 2013.",
+  "tags_rule": [
+    "MomentumShift",
+    "ReturnFromInjury",
+    "ThreePointExplosion",
+    "CoachComment",
+    "EarlyRun",
+    "Rivalry",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.593055",
+  "pipeline_version": "v1"
+}

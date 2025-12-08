@@ -1,0 +1,21 @@
+{
+  "game_id": "0022100269",
+  "espn_id": "401360093",
+  "date": "Nov 24, 2021",
+  "matchup": "CHA @ ORL",
+  "headline": "Hornets beat Magic 106-99 for seventh win in eight games",
+  "cleaned_body": "ORLANDO, Fla. -- — Terry Rozier scored 27 points and Kelly Oubre Jr. came off the bench with 21 points and six rebounds Wednesday night to help the Charlotte Hornets overcome poor shooting in a 106-99 victory over the Orlando Magic.\n\nLaMelo Ball had 22 points for the Hornets, who won for the seventh time in eight games.\n\nThe Hornets shot only 42% and played from behind for most of the game until the bench sparked a 15-0 run near the conclusion of the third quarter.\n\n“The identity of a winning team is to find different ways to win every night,” said Charlotte coach James Borrego. “It was a different script tonight, and different guys stepped up for us.”\n\nOubre and Cody Martin were the key players in the decisive run.\n\nMo Bamba had 18 points and 12 rebounds for Orlando. Rookie Jalen Suggs had 17 points and six assists in the Magic's fourth straight loss. Wendell Carter Jr. added 14 points and 11 rebounds.\n\nRozier, coming of a 32-point game at Washington on Monday night in which he shot 8 of 11 from 3-point range, hit only 3 of 11 from behind the arc in this one. The Hornets, who came into the game as the No. 2 3-point shooting team in the NBA, made only 12 of 41 (29%).\n\nThe Hornets fell behind while missing 12 of their first 13 shots, but rallied behind Ball, Rozier and Oubre to lead 52-49 at halftime.\n\nOrlando had regained a seven-point lead before Oubre and Martin sparked the run of 15 straight points that put the Hornets back in charge for keeps. Martin blocked Bamba's 3-point attempt and set up Oubre for a dunk, then completed Charlotte's spurt with a driving dunk for an 82-74 lead.\n\n“We came in with a lot of energy. We wanted to get stops,” Oubre said of the Hornets bench, which had 22 rebounds and six blocks. “Defense is bread and butter to me. I came into the league being a defensive player, and when I turn defense into offense, I think everything opens up for me.”\n\nThe Magic, who shot 41% overall, went scoreless for more than four minutes before Franz Wagner beat the third-quarter buzzer with a 3-pointer.\n\nMartin contributed five rebounds, six assists, two steals and two blocked in 28 minutes.\n\n“Every time he's out there he impacts winning,” Borrego said. “He's a major part of what we're trying to do here.”\n\nMagic coach Jamahl Mosley took some consolation in the floor play of Suggs.\n\nBut Suggs didn't like the look of the Magic's defense in the second half of his 18th NBA game.\n\n“Guys are just coming in here against us and being too comfortable,” he said. “I think they were able to run free, come down the lane with no resistance and things like that. I think we showed great things tonight, but we also have things to work on.”\n\nTIP-INS\n\nHornets: F P.J. Washington played six scoreless minutes after missing 10 games with a hyperextended left elbow. .... The Hornets are 57-55 all-time against Orlando.\n\nMagic: G Cole Anthony, Orlando's leading scorer, missed his third game with an ankle injury and is not likely to play Friday night. ... The Magic (4-15) have won once at home this season, and twice at New York's Madison Square Garden. . . . GG Gary Harris got his third start after missing a game with a sprained right hand . ... F Terrence Ross was a late scratch with back spasms.\n\nLEARNING OPPORTUNITY\n\nBall had the game's most visible blunder, blowing an easy score by turning a layup into a missed dunk in the second quarter, then promptly picking up his third foul and taking a seat on the bench. “Obviously that play, we'll talk about it,” Borrego said. “He knows it, he owns it and we'll move forward. ... Just another growth opportunity for him.”\n\nUP NEXT\n\nHornets: Play at home against Minnesota on Friday night.\n\nMagic: Play at home against Chicago on Friday night.",
+  "tags_rule": [
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.092295",
+  "pipeline_version": "v1"
+}

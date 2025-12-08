@@ -1,0 +1,22 @@
+{
+  "game_id": "0022101026",
+  "espn_id": "401360845",
+  "date": "Mar 14, 2022",
+  "matchup": "CHI @ SAC",
+  "headline": "Fox scores 34, Kings beat scuffling Bulls 112-103",
+  "cleaned_body": "SACRAMENTO, Calif. -- — De’Aaron Fox had 34 points, six assists and six rebounds as the Sacramento Kings beat the stumbling Chicago Bulls 112-103 on Monday night.\n\nDomantas Sabonis added 22 points and seven rebounds after missing two games, and Sacramento ended a four-game skid with its third victory in 10 tries. Davion Mitchell scored 16 and Donte DiVincenzo had 15.\n\n“Down the stretch we competed extremely hard and found a way to win the game against a real quality team,” Kings interim coach Alvin Gentry said. “De’Aron is playing so well right now and he’s doing an extremely good job of controlling the game. Night in and night out what he is doing for us is amazing. He’s playing as well as anybody in the league if you go back over the last month or so.”\n\nZach LaVine had 27 points and six assists for Chicago. Nikola Vucevic added 23 points and 10 rebounds, and DeMar DeRozan scored 21. The Bulls, who entered the night fourth in the East, have lost six of eight.\n\n“That two-man game with Sabonis and Fox, we did not do a good enough job handling that,” Bulls coach Billy Donovan said. “It wasn’t like they were doing a lot of movement. They were just throwing it to them and letting those two guys play.”\n\nWith 14 games remaining, Chicago’s postseason hopes are uncertain. There are three games separating the Bulls from the seventh-place Raptors in the Eastern Conference.\n\n“We need to have those conversations and get on point going into this last stretch because it’s not going to get any easier,” LaVine said. “We have to play the right way and have a certain identity. Obviously we didn’t do that tonight. We have to learn from this. If not, then that’s on us.”\n\nChicago trailed by 20 at halftime but DeRozan scored seven points in the first four minutes of the fourth quarter to cut Sacramento’s lead to 90-89.\n\nAfter Coby White missed a 3-pointer that would have given the Bulls the lead, Fox scored on a driving layup, Trey Lyles made one of two free throws and DiVincenzo added a 3.\n\nThe Bulls got within 108-103 but Fox and DiVincenzo each sank two free throws over the final 37 seconds.\n\nFox shot 13 of 25 while registering his third consecutive game and 12th of the season with 30 or more points.\n\n“He’s scoring the ball crazy. Tough ones, easy ones,” Sabonis said. “It’s awesome to have someone on your team like that, that if you need a bucket he can go get it and take the pressure off everyone.”\n\nThe Bulls haven’t won in Sacramento since Dec. 2, 2019.\n\nTURNING POINT\n\nSabonis scored eight points as part of a 20-9 run by the Kings over the final five minutes of the second quarter. The Bulls missed five of eight shots and committed three turnovers during that stretch.\n\n“The last five minutes kind of hurt us,\" Donovan said. \"That’s one of those games where OK, we’re not shooting it well, let’s just get to the half. Hopefully we can learn from that.”\n\nBULLS FANS IN TOWN\n\nA very large contingent of Bulls fans were in attendance, nearly turning Golden 1 Center into a Western version of the United Center. The Chicago fans cheered loudly throughout the game, twice serenading DeRozan with chants of “MVP! MVP!”\n\nTIP-INS\n\nBulls: LaVine’s 3-pointer in the first quarter was the 1,000th of his career and 700th with Chicago.\n\nKings: Sabonis missed one game because of an NBA suspension and another to be with his wife for the birth of their first child. … Justin Holiday (non-COVID-19 illness), Jeremy Lamb (personal reasons) and Alex Len (back soreness) did not play. ... Sacramento forward Richaun Holmes was fined $25,000 by the NBA for “forcefully throwing the game ball” into the stands Saturday at the end of the third quarter in a loss at Utah. Holmes was given a technical foul and ejected.\n\nUP NEXT\n\nBulls: Stay on the road to face the Jazz on Wednesday. Chicago beat Utah at home earlier this season but has lost three straight in Salt Lake City.\n\nKings: Host the Bucks on Wednesday. Milwaukee hasn’t lost in Sacramento since 2016.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.799959",
+  "pipeline_version": "v1"
+}

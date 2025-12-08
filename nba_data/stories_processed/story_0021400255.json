@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400255",
+  "espn_id": "400578547",
+  "date": "Dec 02, 2014",
+  "matchup": "DET vs. LAL",
+  "headline": "Kobe Bryant, Lakers send 'messed up' Pistons to 9th loss in row",
+  "cleaned_body": "AUBURN HILLS, Mich. -- A game after posting the 20th triple-double of his career, Kobe Bryant looked flustered. Passes weren't connecting, shots weren't falling and his Lakers were locked in a back-and-forth struggle with the lowly Detroit Pistons.\nBut vintage Bryant showed up, albeit briefly, in the third quarter to hoist Los Angeles out of its rut for a 106-96 victory Tuesday night.\nBryant scored all 12 of his points in a row. The Pistons held the NBA's leading scorer without a point in the first half, but still lost their ninth in a row.\n\n\"Offensively, we just continue to be awful,\" Detroit coach Stan Van Gundy said. \"We're really messed up right now as a team.\"\n\"We have a lot of dilemmas, a lot of guys feeling pressure, but we're really not right mentally right now,\" he said. \"That's got to change before anything else does.\"\nBryant had been averaging almost 27 points per game. His burst helped the Lakers take an 81-65 lead heading into the final period.\n\"I was tired,\" Bryant said. \"The first half, I missed a couple of easy ones. The rhythm of the game really wasn't there.\n\"(In the second half) I made a couple shots and stepped on the gas. It was a critical juncture where we could stretch the game out, and we were able to do that.\"\nLos Angeles had six players score in double figures, including each of its starters. Jordan Hill scored 22 points, and reserve Nick Young had 19.\nJosh Smith led Detroit with 18 points, and Andre Drummond added eight points and 13 rebounds. The Pistons have lost by an average of nearly 10 points per game during their skid.\nCarlos Boozer hit the first three baskets of the game for the Lakers while Bryant struggled. Bryant missed all five of his shots in the first half, and also had five turnovers and two fouls.\nThe Lakers led 46-45 at the break, and the Pistons hurt themselves early in the third quarter when Smith and coach Stan Van Gundy were called for technical fouls.\nBryant then took over, scoring the next dozen points for the Lakers and drawing huge cheers from the many Los Angeles fans in attendance. By the time he was done, the Lakers led 70-54.\nTIP-INS\nLakers: Improved to 4-0 against Eastern Conference teams this season. ... Bryant finished with fewer than 20 points in a game for just the third time this season. ... The Lakers have won consecutive games (including a 129-122 overtime victory over Toronto on Nov. 30) for the second time this season.\nPistons: Have lost five in a row to the Lakers and 10 of the last 11.\nUP NEXT\nLakers play at Washington on Wednesday.\nPistons play at Boston on Wednesday.\nPISTONS MISFIRING\nDetroit is on its longest losing streak since a 10-game skid two seasons ago.\n\"We have to lift in the energy and morale,\" Caron Butler said. \"When adversity strikes on the court, you can't get so hard on yourself and have this `woe me' attitude.\n\"It's hard to do a lot of things when you're losing. It's hard to sleep. Hard to enjoy the city and do a lot of things.\"\nThe Associated Press contributed to this report.",
+  "tags_rule": [
+    "Streak",
+    "TripleDouble",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.658063",
+  "pipeline_version": "v1"
+}

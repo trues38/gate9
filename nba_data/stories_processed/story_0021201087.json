@@ -1,0 +1,21 @@
+{
+  "game_id": "0021201087",
+  "espn_id": "400278807",
+  "date": "Mar 30, 2013",
+  "matchup": "CHA @ PHI",
+  "headline": "Jrue Holiday heats up in fourth quarter as 76ers defeat Bobcats",
+  "cleaned_body": "PHILADELPHIA --  Jrue Holiday kept shooting until they fell in.\n\nHoliday scored nine straight points down the stretch, Evan Turner finished with 21 and the Philadelphia 76ers beat the Charlotte Bobcats 100-92 on Saturday night.\n\nAfter going 1 for 9 in the first three quarters and starting 2 for 13, Holiday got 11 of his 14 points in the fourth to help the Sixers win for the seventh time in 11 games.\n\n\"When it comes down to it in the crucial moments, I think my team has a lot of faith in me,\" Holiday said. \"They encouraged me to make plays to close out the game.\"\n\nSpencer Hawes had 19 points and Thaddeus Young and Damien Wilkins each scored 15 for Philadelphia.\n\nMichael Kidd-Gilchrist had 21 for Charlotte, which has the worst record in the NBA. Gerald Henderson, who had 35 and 34 in his previous two games, finished with 19.\n\nThe Sixers had lost 31 straight games when their opponent shot at least 50 percent. The Bobcats were 38 for 76 from the floor.\n\n\"When you come out of games like this, you emphasize what you did well,\" Bobcats coach Mike Dunlap said. \"We played well on both sides. Give Philadelphia credit.\"\n\nFormer Sixers star Allen Iverson came out to a rousing ovation before the opening tip on a night fans received his bobblehead doll. Wearing a Phillies zip-up jacket, cap and black sunglasses, Iverson high-fived fans in the front row. The former NBA MVP sat in a suite and waved to the crowd after a video tribute highlighting his career was shown in the second quarter.\n\nThe Sixers are a long way from Iverson's glory days. They entered the season with high expectations after the acquisition of Andrew Bynum, but he didn't play one game because of knee injuries and the Sixers are five losses away from playoff elimination.\n\nRoyal Ivey hit a 3-pointer to give the Sixers an 82-80 lead near the midpoint of the fourth quarter and they never trailed again. Holiday sliced through the lane and threw down a left-handed jam over Bismack Biyombo and Josh McRoberts to extend the lead to 91-84.\n\n\"That gave us juice,\" Sixers coach Doug Collins said of the dunk.\n\nKemba Walker answered with consecutive baskets to get the Bobcats within 91-88. Holiday then nailed a jumper and added a layup to make it 95-90.\n\n\"He closed the game out,\" Turner said. \"He's our All-Star. He did what he's supposed to. He did as he should.\"\n\nDown 11 early in the second quarter, the Sixers reeled off 11 straight points. Ivey's 3-pointer tied it at 33. Hawes hit a 3 a few minutes later for a 46-42 lead and Philadelphia was up three at halftime.\n\nCharlotte took a 13-point lead in the first quarter following an 11-2 run. Kidd-Gilchrist had seven of those points, including a dunk to finish it off.\n\nThe Pargo brothers -- Charlotte's Jannero and Philadelphia's Jeremy -- didn't get to go 1-on-1. Jeremy didn't enter the game. Jannero had 11 points.\n\nGame notes In part one of the day/night doubleheader at the Wells Fargo Center, the Flyers beat the Boston Bruins 3-1 in an NHL game. ... The Sixers begin a four-game road trip at Charlotte on Wednesday. ... Flyers forward Wayne Simmonds and Phillies outfielders Ben Revere, Domonic Brown and John Mayberry Jr. also were in the crowd. ... Bobcats C Byron Mullens missed his second straight game because of a sore right ankle.",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.241721",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100703",
+  "espn_id": "401360522",
+  "date": "Jan 23, 2022",
+  "matchup": "CHA vs. ATL",
+  "headline": "Young scores 30, Hawks hammer cold-shooting Hornets 113-91",
+  "cleaned_body": "CHARLOTTE, N.C. -- — Trae Young scored 30 points and tied a season-high with eight 3-pointers, and the streaky Atlanta Hawks defeated the cold-shooting Charlotte Hornets 113-91 on Sunday night for their fourth straight win.\n\nDe’Andre Hunter chipped in with 20 points and survived a hard fall late in the game for the Hawks, who led by 27 in the fourth quarter.\n\nMiles Bridges and LaMelo Ball each finished with 19 points for the Hornets, who missed their first 19 3-point attempts and shot an abysmal 11.1% (4 of 36) from beyond the arc. Ball and Terry Rozier were a combined 0 for 14 from long distance as Charlotte had its three-game win streak snapped.\n\nThe Hawks are looking to climb back in the playoff race after a rough stretch of games.\n\n“We are definitely headed in the right direction,” Young said. “Right now it's more about consistency and keeping it going. We're not satisfied. We know what to do and what we are capable of doing.”\n\nThis game was a big step forward, with the Hawks building a 55-44 lead at halftime after holding the Hornets to 0-for-16 shooting from deep in the first half.\n\nThe Hornets would miss three more 3s to start the second half, and frustrations began to boil over midway through the third quarter when Ball had the ball stolen in the front court and was charged with a flagrant foul for swiping at a Hawks player.\n\nAfter the flagrant was assessed and the players returned to the court, Ball complained to official about the call and was given a technical foul.\n\nThe Hawks used the momentum change to stretch their lead to 22.\n\nP.J. Washington finally ended Charlotte's long-range drought when he knocked down a 3 with 5:38 left in the third quarter and quickly followed with a second. But Charlotte couldn't build on the momentum and the Hawks extended their lead to 27 in the fourth quarter behind Young, who finished 8 of 15 from beyond the arc.\n\n“We couldn’t make shots,\" Hornets coach James Borrego. \"We move on, but we need to make shots.”\n\nThe Hornets came into the game having won seven of their last eight games, and are fourth in the NBA in 3-point field-goal percentage.\n\n“For the most part, I thought we did a good job of keeping the ball in front and closing out hard with urgency to the 3-point shooters,” Hawks coach Nate McMillan said.\n\nHUNTER INJURY\n\nThere was a scary moment in the closing minutes of the fourth quarter when Hunter attacked from the baseline and was fouled in the air by Kelly Oubre Jr. and landed hard on the floor. The play was reviewed and Oubre was assessed a flagrant 2 foul and ejected from the game.\n\nHunter appeared to be injured at first, remaining on the court for more than a minute, but eventually got to his feet and stayed in the game.\n\nAfter the game, McMillan said the side of Hunter's body was sore but he gave no indication of whether he might miss any time. The Hawks don't play again until Wednesday.\n\n“He had ice on his shoulder and kind of that whole side,\" McMillan said. \"It’s too early to say if there is any concern. He was able to move around a little bit in the locker room and he was wrapped in ice.”\n\nTIP INS\n\nHawks: Bogdan Bogdanovic sat out with knee soreness. ... The Hawks outrebounded the Hornets 54-45.\n\nHornets: Gordon Hayward was downgraded to out before the game with what the team called “right foot discomfort.” ... Charlotte had 16 turnovers leading to 17 Atlanta points. ... Oubre was 1 of 9 on 3-pointers.\n\nUP NEXT\n\nHawks: Host Kings on Wednesday night.\n\nHornets: At Raptors on Tuesday night.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.239017",
+  "pipeline_version": "v1"
+}

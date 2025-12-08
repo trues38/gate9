@@ -1,0 +1,25 @@
+{
+  "game_id": "0021401020",
+  "espn_id": "400579312",
+  "date": "Mar 20, 2015",
+  "matchup": "POR @ ORL",
+  "headline": "Magic's Elfrid Payton 1st rookie since '97 with 2 straight triple-doubles",
+  "cleaned_body": "ORLANDO, Fla. -- In what has been an otherwise forgettable year in Orlando, rookie Elfrid Payton is doing his best to give Magic fans some hope for the future.\nPayton had 22 points, 10 rebounds and 10 assists, and the Magic snapped a six-game losing streak with a 111-104 victory over the Portland Trail Blazers on Friday night.\nThe triple-double was the second straight for Payton. He became the first Magic player to post consecutive triple-doubles and the first NBA rookie to do it since Antoine Walker, with the Boston Celtics in 1997.\n\"I was trying to set the tone early (and) had a couple open looks,\" said Payton, who had only one turnover. \"The ball kind of fell off the rim, and I was able to get the putback. Just got it going early.\"\nVictor Oladipo and Nikola Vucevic each added 22 points.\nOrlando led by as many as 13 before the Blazers fought back to take an 86-83 lead early in the fourth quarter. But the Magic responded with a 20-8 spurt to help close out the win.\n\"I do see a different spirit (in Payton), an aggressiveness that is new in the last four or five games,\" Magic interim coach James Borrego said. \"There's something different in his eye right now, and he makes us a very dangerous team when he's in that mode.\"\nLaMarcus Aldridge led Portland with 31 points and 10 rebounds. Damian Lillard added 18 for the Blazers, who have lost three straight, with matchups against Western Conference front-runners Memphis and Golden State up next.\nIt was the second consecutive 30-point game for Aldridge, who had 34 in the Blazers' loss to Miami on Wednesday.\nIt's adding to a head-scratching trend for a team that has lost all three games during its current skid by single digits and continues to slip in the late-season push for playoff season.\nBlazers coach Terry Stotts shrugged off the idea that the season is at all slipping away.\n\"No. We lost three in a row. We played a very good game against Miami (108-104 loss on Wednesday). Slipping away, I think that's a little extreme,\" he said.\nPortland played the second half without Chris Kaman, who sat with a right shoulder strain. The Blazers got by without him as they fought their way back into the game.\nThe Magic scored the first basket of the third quarter before a 14-4 run by Portland -- including 10 straight by Aldridge -- pushed the Blazers in front for the first time.\nThe Magic didn't go away, though, and took a 103-94 lead on a jumper by Channing Frye to effectively end the Blazers' final rally in the fourth.\nThe Magic led the entire first half, building as much as a 13-point advantage. Payton was the workhorse, scoring 14 points on 7-for-7 shooting, to go along with six assists and four steals.\nBut Orlando's lead was whittled down to just two by halftime after Lillard scored 14 points of his own -- all in the second quarter.\nThe Blazers were also steady at the free throw line, connecting on 15 of their 16 attempts in the half.\nPayton said his biggest takeaway from his night was the final result.\n\"That just means I'm playing an all-around game,\" he said. \"Obviously I need help to do that so that means my teammates are playing well, too, so that's very important to me also.\"\nTIP-INS\nTrail Blazers: Were outscored in the paint by the Magic 54-42 and outrebounded 50-44.\nMagic: Payton became just the seventh rookie in NBA history with triple-doubles in consecutive games. ...Dewayne Dedmon (sprained left ankle), Evan Fournier (sore right hip), Willie Green (lower back spasms), Tobias Harris (sprained left ankle) and Devyn Marble (left eye) all sat out.\nMILESTONE WATCH\nBy grabbing his 10th rebound with two seconds remaining in the third quarter, Aldridge surpassed Clyde Drexler to become the franchise's all-time leading rebounder with 5,340. Drexler's mark was 5,339.\nUP NEXT\nTrail Blazers: At Memphis on Saturday.\nMagic: Host Denver on Sunday.",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.924886",
+  "pipeline_version": "v1"
+}

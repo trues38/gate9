@@ -1,0 +1,19 @@
+{
+  "game_id": "0021201159",
+  "espn_id": "400278879",
+  "date": "Apr 09, 2013",
+  "matchup": "MEM vs. CHA",
+  "headline": "Grizzlies rout Bobcats for 13th straight win at home",
+  "cleaned_body": "MEMPHIS, Tenn. --  Mike Conley could have taken a break. However, the Memphis Grizzlies' star point guard knew he would have missed the best part of his team's 13th straight home win.\n\nConley scored 20 points -- his fifth straight game of 20 or more -- to lead the Grizzlies, but it was the play of the team's reserves that carried Memphis to a 94-75 victory over the Charlotte Bobcats on Tuesday night.\n\nConley and reserves Quincy Pondexter, Austin Daye, Jon Leuer and Ed Davis opened the fourth quarter on a 19-6 run to build an 82-63 lead. At one point early in the quarter, the Grizzlies scored 15 straight to stretch a three-point advantage to 18 points.\n\n\"The bench played well tonight,\" Conley said. \"It really got us out of a funk. Without them it could have been ugly.\"\n\nLeuer scored a season-high 11 to pace the reserves and Daye had 10 points and seven rebounds.\n\nConley asked to remain in the game in the fourth when coach Lionel Hollins considering giving him time to rest.\n\n\"With the group we had in the game, I asked to give me a few more minutes,\" Conley said. \"Then the lead went from six to 20.\"\n\nHollins said the reserves' contributions were the difference, even if the combination wasn't planned.\n\n\"I kept looking for people who had energy,\" Hollins said. \"We weren't playing with pizzazz we needed. I went with a whole different group. I kept Mike out (on the court) and rolled the dice a little bit. I thought Mike could lead that group.\"\n\nLeuer had seven points during the Grizzlies' 15-0 run, including a three-point play on a twisting reverse layup on a no-look pass from Daye.\n\n\"We were able to start the fourth quarter off with a run,\" Leuer said. \"From there on, we had control of the game. We were able to give our starters some rest.\"\n\nStarters Zach Randolph, who finished with 11 points and 13 rebounds, and Tony Allen were able to play fewer than 30 minutes. Randolph played 26 and Allen 24 for a Grizzlies team seeking the third seed in the Western Conference.\n\nMemphis tied a single-season franchise record with its 31st home win. The Grizzlies, who lead the NBA in scoring defense (89.7 points per game), held Charlotte to 37.7 percent shooting.\n\nKemba Walker finished with 19 to lead the Bobcats, who lost their 13th straight road game.\n\n\"They're a good team,\" Walker said. \"They know how to play basketball, especially the bigs.\"\n\nCharlotte made an attempt at snapping its road streak to start the third quarter. The Bobcats went on a 13-4 to tie the game at 53-all. Walker scored five points during the run and Michael Kidd-Gilchrist has four before the Grizzlies recovered behind Conley.\n\nConley scored seven straight points, mostly on drives to the basket, and Pondexter added a 3-pointer in the closing seconds of the quarter to give the Grizzles a 63-57 lead.\n\nGame notes Darrell Arthur (back) and Jarryd Bayless (knee) did not dress for the Grizzlies for the second straight game. . . . The Grizzlies improved to 20-7 since the All-Star break and improved to a franchise-record 28 games above .500. . . . Charlotte's Gerald Henderson, who entered the game averaging 23.1 points in his previous seven, was held to 13 points on 6-of-16 shooting.",
+  "tags_rule": [],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.649615",
+  "pipeline_version": "v1"
+}

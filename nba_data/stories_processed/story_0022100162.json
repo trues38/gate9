@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100162",
+  "espn_id": "401359986",
+  "date": "Nov 10, 2021",
+  "matchup": "DET @ HOU",
+  "headline": "Grant has season-high 35 points, Pistons top Rockets 112-104",
+  "cleaned_body": "HOUSTON -- — Jerami Grant scored a season-high 35 points to help the Detroit Pistons beat the Houston Rockets 112-104 on Wednesday night in a matchup of two of the worst teams in the NBA.\n\nDetroit improved to 2-8, and Houston dropped to 1-10.\n\nGrant shot 12 of 23 from the field, including 4 of 9 from 3-point range. It was a stark contrast to his last game when he went 0 for 9 from the field, missing four 3s, in a 96-90 loss to Brooklyn on Friday night.\n\n“He got us going,” Pistons coach Dwane Casey said. “His ability to attack the paint, get to the rim, then set up his outside shooting was big for us. Not only did he do that, but he also got some rebounds and kept us going in that way. It was a big night for Jerami. Huge night.”\n\nThe meeting was the first between the top two picks in the July draft. Cade Cunningham, Detroit’s choice as the No. 1 pick, had 20 points on 8-of-18 shooting. Houston’s Jalen Green, the No. 2 pick, had 23 points on 8-of-20 shooting.\n\nGreen had a thunderous dunk midway through the third quarter and appeared to shout something at Cunningham. He received a technical foul.\n\n“I don’t remember exactly what I said,” Green said. “It was just the intensity of the game. I was getting fired up.”\n\nCunningham downplayed the impact of Green’s words on-court.\n\n“Nothing that I heard tonight held any weight to me — it was just all for cameras, I felt like,” Cunningham said. “So, I wasn’t really tripping. I was just trying to play the game.”\n\nCunningham hit a 3 with less than five minutes remaining in the game to stop a 10-0 Houston run and put Detroit up 103-96. He took a charge from a driving Green on the next play.\n\n“We came back, and I just kept telling them to believe and to be together,” Rockets coach Stephen Silas said. “We came back, and we fought, but it wasn’t enough. We need to learn how to close the deal, and we didn’t do that tonight.”\n\nChristian Wood added 20 points and nine rebounds for Houston, and Kevin Porter Jr. had 18 points, five assists and five rebounds.\n\nDetroit jumped to an 11-2 lead out of the gate and led 23-21 at the end of the first quarter. Houston led 50-49 at halftime.\n\nKelly Olynyk, who spent the last two months of last season in Houston after being traded away from Miami, had 13 points, six rebounds and six assists. Olynyk limped off the court late in the game, and Casey said he would be evaluated.\n\nTIP-INS\n\nPistons: PG Killian Hayes returned to the starting lineup after missing one game with a left thumb sprain and had four points in 31 minutes. … C Isaiah Stewart received a technical foul early in the fourth quarter after shouting after he was called for a foul.\n\nRockets: SF Danuel House Jr. returned after missing six games with a right foot sprain. House Jr. played 19 minutes and had eight points. … Rookie C Alperen Sengun missed the game with illness. … SG Eric Gordon returned after a one-game absence with right groin tightness, scoring 11 in 29 minutes.\n\nLOB IT UP\n\nKevin Porter Jr. expressed frustration after a turnover late in the second quarter where he was trying to hit a cutting Daniel Theis with a bounce pass, and it went out of bounds. Theis pointed up, indicating he wanted Porter Jr. to throw the pass in the air. A few possessions later, Porter Jr. found Theis for a perfect alley-oop and two-handed finish.\n\nUNDER PRESSURE\n\n“He’s got that gene where he can perform down the stretch under pressure.” — Casey on Cunningham.\n\nUP NEXT\n\nPistons: At Cleveland on Friday night.\n\nRockets: Host Portland on Friday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.013814",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0021200452",
+  "espn_id": "400278172",
+  "date": "Dec 31, 2012",
+  "matchup": "MEM @ IND",
+  "headline": "Pacers drop Grizzlies behind Paul George's 21",
+  "cleaned_body": "INDIANAPOLIS --  The Indiana Pacers are now finding ways to win on a regular basis with or without veteran players.\n\n\"I'm proud of them and the effort to be a really good basketball team,\" Pacers coach Frank Vogel said.\n\nPaul George scored 21 points to lead the Pacers to an 88-83 win over the Memphis Grizzlies on Monday.\n\nD.J. Augustin had 17 points and David West added 13 points and nine rebounds for the Pacers, who have won five of six. George also had six rebounds and five assists.\n\nZach Randolph had 21 points and 15 rebounds and Marc Gasol scored 13 for the Grizzlies, who have lost three of four.\n\n\"We played, I thought, really well in the first three quarters,\" Randolph said. \"But we have to learn how to close out a game.\"\n\nIndiana played without starting point guard George Hill, who injured his right thigh against the Phoenix Suns last week.\n\nComing from behind or winning the close games didn't happen early in the season when they fell in a hole early with a 3-6 record.\n\nStill without star forward Danny Granger and with the injured Hill on the bench and even without center Roy Hibbert putting up the expected numbers, Indiana remains atop the Central Division and now a game up on the Chicago Bulls.\n\nAugustin started at point guard for Hill, a decision that came right before tip off.\n\n\"We knew with George out, it would be a challenge,\" George said. \"But D.J. stepped up and made the game easy. Everybody had to step up and everybody did.\"\n\nAugustin hit shots when they were needed most, too, including four free throws down the stretch that kept Indiana ahead.\n\n\"It felt good out there tonight,\" he said. \"I wanted to come in and do my best to help the team win. I felt I got in a good rhythm tonight.\"\n\nHe hit two to put the Pacers up 84-81 with 29 seconds left and two more to make it 86-83 after Mike Conley scored a layup to get back within two.\n\nLance Stephenson scored two more free throws to put the game out of reach.\n\nThe Grizzlies led 67-60 heading into the fourth quarter.\n\nBen Hansbrough hit two 3-pointers and the Grizzlies' Darrell Arthur scored a basket, but the Pacers trailed by just three, 69-66.\n\n\"I just thought we got a lot more active defensively,\" West said. \"We were much more precise in terms of our communication and what we wanted to do defensively. And guys stepped up and made shots.\"\n\nGeorge had a key steal and dunk, and West's free throws gave the Pacers the lead for good. The Grizzlies turned the ball over and West made two more foul shots to make it 74-71 with 5:37 left.\n\n\"We had it in our clutches and our first four of six posessions in the fourth quarter were turnovers,\" Grizzlies coach Lionel Hollins said. \"We quit pushing the ball once we got the lead. It wasn't pretty.\"\n\nThe Grizzlies' ended a five-game winning streak over Indiana and wrap-up a two-game road trip at Boston on Wednesday.\n\nGame notes Stephenson was listed as day to day with a left orbital contusion, but started. ... Grizzlies F Quincy Pondexter didn't travel with the team because of a left MCL sprain. ... Hibbert's first offensive rebound of the night was his 800th career. ... Indiana Fever forward Katie Douglas attended the game and was recognized for the Fever's recent WNBA championship.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.889958",
+  "pipeline_version": "v1"
+}

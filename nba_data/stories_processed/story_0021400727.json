@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400727",
+  "espn_id": "400579019",
+  "date": "Feb 03, 2015",
+  "matchup": "DET vs. MIA",
+  "headline": "D.J. Augustin, Pistons turn back Heat despite Chris Bosh's 34",
+  "cleaned_body": "AUBURN HILLS, Mich. -- D.J. Augustin is flourishing in an expanded role for the Detroit Pistons.\nAugustin had 25 points and 13 assists and the Pistons closed the first quarter on a 25-1 run, going on to beat the Miami Heat 108-91 on Tuesday night. Augustin has averaged 21.8 points and 9.2 assists in five games as Detroit's starting point guard since Brandon Jennings went down with a ruptured Achilles tendon.\n\"We're all great players in this league, but it is easier to get going when you know you are going to get a lot of minutes. You can get into the rhythm of the game instead of having to play in bursts,\" Augustin said. \"This was a team win. Everyone was running the floor, and everyone was playing defense and making shots.\"\nChris Bosh scored 34 points, including 21 in the third quarter, but nobody else provided much help offensively for Miami, which was still without injured star Dwyane Wade. It was the first time in Bosh's five seasons with the Heat that they lost a regular-season game with him scoring at least 30 points. They had been 17-0.\nAndre Drummond had 14 points and 14 rebounds for the Pistons, and Kentavious Caldwell-Pope scored 18. Greg Monroe had 12 points and nine rebounds.\nDetroit is now 2 1/2 games behind Miami and Charlotte, which occupy the last two playoff spots in the Eastern Conference.\nThe Pistons struggled in the immediate aftermath of Jennings' injury, but they've steadied themselves with victories in the last two games over Houston and Miami. Detroit outscored the Heat 22-4 on fast breaks, and Miami never completely recovered from its terrible finish to the first quarter.\nThe Heat shot 5 of 22 from the floor in the first and trailed 33-12 when it was over. The fast-break tally was 14-0 in Detroit's favor in that period.\n\"I thought our energy was really good, especially in the last seven minutes of the first quarter,\" Pistons coach Stan Van Gundy said. \"It was 11-11, and to go from there to 33-12 was probably the best stretch we've played all year.\"\nMiami cut the deficit to eight in the second, but the Pistons closed with an 8-2 run and led 53-39 at halftime.\nBosh scored 21 of Miami's first 25 points of the third, but the lead remained in double digits the whole quarter, and it was 85-67 after three.\n\"Know what that shows you? One of our guys can have a great game, and if we don't defend, we have no chance to win,\" Miami coach Erik Spoelstra said.\nChris Andersen scored 12 points for the Heat, and Hassan Whiteside added 11 points and 10 rebounds.\nON THE MEND\nJennings was back at the Palace for this game, and he spoke with reporters at halftime. He had a boot on his left foot.\n\"I have to have this boot on for the next six weeks, eight weeks,\" he said.\nJennings is already getting tired of his newfound free time.\n\"I'm bored. I've been going Twitter crazy,\" he said. \"My followers have been coming up though.\"\nNO CONTEST\nDetroit's starting backcourt of Augustin and Caldwell-Pope outscored Miami's 43-1. Mario Chalmers scored that one point for Miami. Shabazz Napier didn't attempt a shot.\nThat was a far cry from what Augustin produced.\n\"We do have to do a better job on the pick-and-roll defense. Augustin was in the paint all night,\" Bosh said. \"It was going to be tough enough to stop him. He's been playing very well over the last week, two weeks.\"\nTIP-INS\nHeat: Bosh did score 30 in a playoff loss on May 15, 2011, when the Heat were beaten at Chicago. ... Luol Deng scored 10 points Tuesday in his return after missing three games with a left calf strain. Wade remained out with a right hamstring strain.\nPistons: Drummond had eight points and nine rebounds in the first quarter alone. ... Augustin set his season high in assists for a second straight game. He had 28 points and 12 assists in a win over Houston on Saturday night.\nUP NEXT\nHeat: At Minnesota on Wednesday night.\nPistons: At Indiana on Wednesday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.462844",
+  "pipeline_version": "v1"
+}

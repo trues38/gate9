@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700638",
+  "espn_id": "400975384",
+  "date": "Jan 15, 2018",
+  "matchup": "CHA @ DET",
+  "headline": "Hornets control second half in 118-107 win over Pistons",
+  "cleaned_body": "DETROIT --  Stephen Silas wrapped up his stint as Charlotte's acting head coach with a win.\n\nKemba Walker scored 17 of his 20 points in the second half, and the Hornets pulled away in the fourth quarter of a 118-107 victory over the Detroit Pistons on Monday. Silas, Charlotte's associate head coach, has been filling in for Steve Clifford, who has been out for more than a month for health reasons. Clifford will take over again Wednesday against Washington, and Silas was grateful to his players for their effort while he was in charge.\n\n\"I just told them how much I appreciated them and how they made it easy for me to coach them,\" Silas said. \"They had a decision to make. They could have either treated me as a substitute coach or treated me as someone who could really help them, and they did the latter.\"\n\nDwight Howard had 21 points and 17 rebounds for the Hornets, who trailed 56-50 at halftime before dominating the final two quarters. A 10-0 run in the fourth put Charlotte ahead 106-88, and although Detroit answered with nine quick points in 43 seconds, the Hornets were never in much danger of losing down the stretch.\n\n\"If we aren't going to guard, we aren't going to win,\" Pistons coach Stan Van Gundy said. \"That's the whole story.\"\n\nAndre Drummond of the Pistons had only three points and 10 rebounds, and his day was summed up late in the fourth when he went up for a powerful, one-handed dunk -- only to have Howard easily swat the ball away .\n\n\"It was huge matchup -- literally. Two of the biggest dudes in the league,\" Charlotte's Marvin Williams said. \"Drummond can be a load down there, but Dwight was definitely ready for the challenge.\"\n\nTobias Harris scored 20 points for Detroit despite foul trouble. The Pistons shot 15 of 29 from 3-point range.\n\nWilliams had 21 points for Charlotte and shot 7 of 8 from the field. Detroit's Reggie Bullock had 20 points.\n\nMILESTONE\n\nWalker needed 14 points to reach 9,000 for his career. He easily surpassed that mark and also had nine assists with only one turnover.\n\nAT THE LINE\n\nThe Hornets came in with a plus-324 margin in free-throw attempts on the season, the top mark in the NBA. They added to that Monday, going 22 of 33 while Detroit was only 8 of 11.\n\nPOOR DEFENSE\n\nCharlotte scored only 32 points in the second half of a loss to Oklahoma City on Saturday. The Hornets had 68 in the last two quarters Monday.\n\n\"We got crushed in the paint and we got crushed on the boards,\" Van Gundy said. \"We were up six at the half, and I thought the first three defensive possessions of the second half said everything. We didn't defend, and they got rolling.\"\n\nDetroit was outscored 60-44 in the paint, 40-16 in the second half.\n\n\"It's all about focus,\" Harris said. \"We have to work on stopping what other teams do well. For Charlotte, it is the pick and roll, and we let them do what they wanted all game.\"\n\nTIP-INS\n\nHornets: F/C Frank Kaminsky limped off in the fourth quarter after a collision with Harris when the Detroit player drove to the basket.\n\nPistons: Detroit is still without starting PG Reggie Jackson, who is out with a right ankle sprain. F Stanley Johnson (strained right hip flexor) did not play either. ... The Pistons have signed G Kay Felder and G Reggie Hearn to two-way contracts and requested waivers on G Luis Montero. ... Harris played only 25:10.\n\nUP NEXT\n\nHornets: Host Washington on Wednesday night.\n\nPistons: Visit Toronto on Wednesday night.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball\n\n---\n\nFollow Noah Trister at www.Twitter.com/noahtrister",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "FoulTrouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.100994",
+  "pipeline_version": "v1"
+}

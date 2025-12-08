@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700600",
+  "espn_id": "400975346",
+  "date": "Jan 09, 2018",
+  "matchup": "OKC vs. POR",
+  "headline": "McCollum, Trail Blazers beat Thunder 117-106",
+  "cleaned_body": "OKLAHOMA CITY -- While Damian Lillard tries to get past a lingering injury, the Portland Trail Blazers are relying on each other to fashion a nice run of positive results.\nCJ McCollum had 27 points and seven assists, and the Trail Blazers beat the Oklahoma City Thunder 117-106 on Tuesday night in the opener of a four-game trip.\nShabazz Napier added 21 points and Jusuf Nurkic had 20 points and eight rebounds for Portland, which moved past Oklahoma City into second in the Northwest Division standings with its seventh win in its last nine games against the Thunder.\n\nPortland has won four of five overall despite playing most of that stretch without Lillard, who sat out for the seventh time in the last nine games with a left calf strain.\n\"There's not as much pressure,\" McCollum said. \"Obviously, you're down a guy like Damien, who's able to do everything . and can take over a quarter and bail us out at times. When we come on a road trip like this, the guys are like, `Oh, Damien's hurt. We're not supposed to win.' I think everybody plays a little bit looser, understanding that we're playing against upper-tier Western Conference competition.\n\"Executing and playing the right way has been big for us and being comfortable with making aggressive mistakes, then moving on.\"\nRussell Westbrook had 22 points, 12 assists and nine rebounds for Oklahoma City, which is slumping a bit after playing well for most of December. The Thunder have dropped four of six, with three of those losses coming at home and another at Phoenix on Sunday.\nOklahoma City shot 44 percent from the field while Portland made 53.1 percent of its shots. Paul George scored 22 points for the Thunder, and Carmelo Anthony had 19.\n\"I think it's a lack of energy,\" Anthony said. \"We played in spurts tonight. I think the last two games the energy has just been down. With that, we were one step behind on a lot of plays. We didn't put a full game together these past two games. As a result, we lost these two. ... It happens.\"\nThe Thunder closed to 83-76 with 1:39 remaining in the third quarter on a basket by Anthony, but Portland answered with a 13-1 run and led 96-77 after a 3-pointer by Al-Farouq Aminu with 10:25 left.\n\"That was a very good win, because of how good Oklahoma City is,\" Portland coach Terry Stotts said. \"I didn't think we played particularly well in the first half and we managed to have a lead and the third quarter was really good on both ends ... and the second unit was able to keep us going at the beginning of the fourth quarter.\"\nTIP-INS\nTrail Blazers: Stotts said he didn't have an update on Lillard's injury, \"other than he's out.\" Napier made his sixth start of the season in Lillard's place. ... The Blazers are 12-8 on the road this season. ... Portland has scored more than 110 points in five straight games for its longest such stretch this season.\nThunder: Standout defender Andre Roberson missed his fifth straight game with left patellar tendinitis. Coach Billy Donovan said Roberson practiced a bit on Monday and Tuesday but would also miss Wednesday's game at Minnesota. Terrance Ferguson started in Roberson's place for the fourth straight game and went scoreless. ... Official Justin Van Duyne called George for a technical foul early in the second quarter for colorfully protesting a no-call after George drew contact on a layup attempt that missed. George responded by scoring 15 points in the final 9:37 of the half. ... George hit 5 of 9 3-point attempts and set a Thunder record with at least three 3-pointers in eight straight games.\nNEXT UP\nTrail Blazers: Visit Houston on Wednesday.\nThunder: Finish a back-to-back with a trip to Northwest Division-leading Minnesota on Wednesday.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.206479",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,22 @@
+{
+  "game_id": "0021301106",
+  "espn_id": "400489979",
+  "date": "Mar 31, 2014",
+  "matchup": "CHI vs. BOS",
+  "headline": "Mike Dunleavy, Bulls pull away from Celtics in 4th quarter",
+  "cleaned_body": "CHICAGO --  Having been burned by D.J. Augustin the previous night, the Boston Celtics clamped down on the Bulls' guard in the second game of their home-and-home series.\n\nBoston succeeded in limiting Augustin to four points on 1-of-9 shooting, but that didn't affect the final outcome.\n\nMike Dunleavy had 22 points on 7-for-12 shooting and Augustin handed out 11 assists to help five Bulls score in double figures for a 94-80 win over the Celtics on Monday night.\n\n\"From the beginning of the game I knew they were going to do that, adjust to me,\" Augustin said. \"I had to do some other things and find my teammates and they did a great job getting open.\"\n\nJoakim Noah added 19 points, 11 rebounds and five assists, Jimmy Butler scored 18 points, Carlos Boozer 16 and Taj Gibson had 14 points and 11 rebounds for Chicago, which pulled away with a 13-0 run at the start of the fourth quarter.\n\nThe Bulls (42-32) moved into a tie with the Toronto Raptors -- who lost at Miami -- for third place in the Eastern Conference.\n\n\"I think it's very important,\" Dunleavy said of the third seed. \"We want to get as high as we can. Not only with home-court advantage and avoiding the first seed in the second round, if we're fortunate enough to advance. We just want to get as high as we can.\"\n\nChicago swept the home-and-home series with the Celtics after winning 107-102 in Boston on Sunday.\n\nThe Celtics have lost 10 straight on the road to drop to 8-28 away from home. Their last road win was Feb. 10 at Milwaukee.\n\nBrandon Bass and Jerryd Bayless scored 18 points apiece for the Celtics.\n\nRajon Rondo didn't play Monday after getting 17 points and 11 assists Sunday. He is still working his way back to full strength following reconstructive knee surgery and doesn't play in back-to-back games.\n\n\"It wasn't just the fourth (quarter),\" Boston coach Brad Stevens said. \"The first five minutes of the third and the fourth we went into a drought. We looked heavy-legged the whole second half.\n\n\"That's no excuse because they played last night, too.\"\n\nThe game was tight entering the fourth, but the Bulls went on a quick 9-0 run for an 80-70 lead with 9 1/2 minutes to play before Stevens called time out. The stoppage didn't curb the Bulls' momentum.\n\nGibson scored on vicious dunk off a nice feed from Butler to make it 82-70 and Noah capped the run of 13 straight with a post move for an 84-70 lead. Noah had six points during the spurt, including an 18-foot jumper before Boston's timeout.\n\n\"They're a good team,\" Bayless said. \"We don't have a lot of room for error. We made a couple of bad plays in a row and they're too good and they got on the break and hit their shots. We have to pull it together for longer stretches of time.\"\n\nAlthough Augustin didn't score in the fourth, he played a big role by dishing out six assists as Boston overplayed him.\n\n\"That's the advantage we have with the finishing group,\" Bulls coach Tom Thibodeau said. \"The job of those guys is to read what the defense is doing.\"\n\nThe Bulls are 10 games over .500 for the first time this season.\n\n\"I think we're playing pretty good basketball, but I think we can play better,\" Noah said. \"I think the mindset is good. Everybody is working, everybody is in the weight room, everybody is trying to find ways to get better.\"\n\nGame notes Home-and-home series on consecutive games used to be a regular occurrence in the NBA, but are rare these days. \"It's the same plays, so there's a tendency for the players to know what's coming,\" Thibodeau said. \"I think it's good preparation for what's coming down the road.\" ... Since he wasn't playing because of the back-to-back, Rondo spent part of the game working on the TV broadcast back to Boston. ... Celtics G Avery Bradley left the game in the first half because of a sore Achilles. . Noah had 13 assists in Sunday's game, the most ever by a visiting center in Boston. The previous high was 11 by Wilt Chamberlain in 1968.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.120476",
+  "pipeline_version": "v1"
+}

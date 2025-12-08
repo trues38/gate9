@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701058",
+  "espn_id": "400975804",
+  "date": "Mar 20, 2018",
+  "matchup": "TOR @ ORL",
+  "headline": "Raptors use strong defense in 4th to beat Magic 93-86",
+  "cleaned_body": "ORLANDO, Fla. --  Toronto's reserves proved again they can be a factor in deciding a game, delivering a stellar fourth-quarter defensive effort.\n\nKyle Lowry scored 25 points to lead the Raptors to a 93-86 victory over the Orlando Magic on Tuesday night, their 12th win in the last 13 games. But it was the defensive effort by subs Deion Wright, Pascal Siakam, Lorenzo Brown and Lucas Nogueira that was the difference in an offensively challenged game for both teams.\n\n\"We want it a lot more than any other bench,\" Brown said. \"We work hard every single day and we hype each other up. It's a brotherhood and it's exciting to be a part of it.\"\n\nThat foursome was on the floor for all but 20 seconds of the final period, when Toronto limited Orlando to 3-of-19 shooting (15.8 percent), forced four turnovers and blocked three shots to rally the Raptors from an eight-point deficit.\n\n\"These games are about evaluating who can do what and see who you can trust in the situations,\" Toronto coach Dwane Casey said of his bench's performance. \"Mentally, you have to be sharp in these games and we weren't for three quarters, but we found a way in the fourth. I thought (the reserves) were really, really good.\"\n\nShelvin Mack led Orlando with 17 points. Aaron Gordon, returning after missing five games with a concussion, added 16 points. Nikola Vucevic had 15 points and nine rebounds for the Magic, who have lost seven of their last eight.\n\nThe Magic missed their first 11 shots of the fourth quarter and didn't get a field goal until Vucevic hit a turnaround jumper in the lane with 4:34 left to play. He also got the next Magic field goal, but it came more than three minutes later and the game was decided by then.\n\n\"It's about decision-making and execution,\" Magic coach Frank Vogel said. \"If you're getting pressured, you've got to move the ball along. If you're getting to the rim and you don't have a clean look, you've got to kick it out. We've just got to make better decisions.\"\n\nSerge Ibaka had 14 points for Toronto. Wright and Norman Powell had 10 apiece for the Raptors, who played without All-Star shooting guard DeMar DeRozan because of bruised thigh and it showed.\n\nToronto had to overcome long stretches of missed shots, turnovers and poor offensive execution of its own. The Raptors made only one field goal in the first five minutes of the final period, before Brown's off-balance jumper in the lane started a 12-0 run.\n\nLowry was the only starter to play in the fourth quarter and helped put some life in the offense while the defense recorded one stop after the next. Siakam drained a corner 3-pointer to give the Raptors an 84-78 lead with 4:52 to play.\n\nLowry added a pair of 3-pointers as the Raptors pushed the lead to 91-80 in the final minute and coasted to the finish line.\n\n\"Kyle is a smart player and found a way,\" Casey said. \"It wasn't pretty, but we got it done.\"\n\nTIP INS\n\nRaptors: Toronto's franchise record streak of 23 straight games scoring over 100 points ended. . The Raptors have won a franchise-record nine straight road games. . Lowry had seven 3-pointers, giving his 204 for the season. He's the only Raptor in franchise history to hit more than 200 3-pointers in a season.\n\nMagic: Tracy McGrady, who played four seasons in Orlando, was inducted into the Magic Hall of Fame before the game. . G Evan Fournier missed his sixth straight game with a sprained knee. . The Magic tied a franchise record for fewest free throw attempts (five) and makes (three) in team history.\n\nUP NEXT\n\nRaptors: Finish a road back-to-back at Cleveland tonight.\n\nMagic: Orlando hosts Philadelphia Thursday",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.607013",
+  "pipeline_version": "v1"
+}

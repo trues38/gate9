@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100459",
+  "espn_id": "401360283",
+  "date": "Dec 20, 2021",
+  "matchup": "CHI vs. HOU",
+  "headline": "DeRozan, Bulls beat Rockets 133-118; win 2nd straight",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan scored 26 points and the Chicago Bulls beat the Houston Rockets 133-118 on Monday night.\n\nDeRozan, who scored 38 points in Sunday’s win over the Lakers after missing three games due to the NBA’s COVID-19 protocols, received help from five teammates who scored in double figures.\n\nThe Bulls never trailed and led by 25 during the first half. They have won two consecutive games and six of their last eight.\n\nChristian Wood had 23 points and 11 rebounds, but the Rockets lost for the fifth time in seven games. Jae’Sean Tate added 16 points.\n\nBulls guard Alex Caruso sprained his left foot with 5:56 remaining in the first quarter, went to the locker room and didn’t return.\n\nAfter the game, Bulls coach Billy Donovan wasn’t sure about the severity of Caruso’s injury.\n\nDonovan was mindful of the minutes logged by several starters in Sunday’s win over the Lakers following a seven-day layoff caused by the NBA’s coronavirus protocols. He inserted Alfonzo McKinnie after Caruso departed, and McKinnie sank two consecutive 3-pointers.\n\nThe reserves accounted for 32 of the Bulls’ 73 first-half points and finished with 66, with McKinnie’s third 3-pointer giving the Bulls their biggest lead of the half at 61-36.\n\nCoby White, in his second game since returning from protocols, came off the bench to score 24 points. McKinnie finished with 16.\n\n“I give those guys a lot of credit,” Donovan said. “I thought they were terrific tonight. It’s good to see those guys’ hard work get rewarded.”\n\nThe contributions were extremely special to McKinnie, who grew up 10 minutes from the United Center.\n\n“I’m a West Side kid,” McKinnie said. “Our house was a Bulls house. This is a dream come true.\"\n\nBulls point guard Lonzo Ball had 19 points and eight assists.\n\n“They got veteran guys who were ready to play tonight,” Rockets coach Paul Silas Jr. said. “This was a lesson for our young group as far as the readiness that you need coming in regardless of the circumstance.”\n\nBulls center Nikola Vucevic, who entered Monday’s game shooting 32% from the field (24 for 75) in his last four games, scored 18 points on 8-of-18 shooting.\n\nJosh Christopher’s two free throws cut the Rockets’ deficit to 30-26, but the Bulls embarked on a 15-2 run, punctuated by a basket by Ball that prompted a Rockets timeout.\n\nThe Rockets lost for the fourth time in 13 games when scoring at least 110 points. They fell to 3-14 on the road.\n\n“We got to do a better job of knowing the importance of these games, not just kind of coming in and hoping and seeing,” Silas said. “We need to come in with intention and come in with a focus on being ready. If we don’t, what happened in the first half will happen to us.”\n\nTIP-INS\n\nRockets: G Jalen Green (left hamstring strain) could return within the next three games, Silas Jr. said. G Kevin Porter Jr. (left thigh bruise) likely won’t return until after the holidays.\n\nBulls: McKinnie was signed to a second 10-day contract before the game. ... G Derrick Jones Jr. (left hamstring strain) was ruled out and will be re-evaluated after Christmas with the expectation he wouldn’t be sidelined for an extended period, Donovan said.\n\nUP NEXT\n\nRockets: Visit Milwaukee on Wednesday.\n\nBulls: Visit Toronto on Wednesday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.696067",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700355",
+  "espn_id": "400975106",
+  "date": "Dec 06, 2017",
+  "matchup": "ORL vs. ATL",
+  "headline": "Fournier leads Magic, but injures ankle in OT win over Hawks",
+  "cleaned_body": "ORLANDO, Fla. --  The Orlando Magic weren't in the mood to celebrate their 110-106 overtime win against the Atlanta Hawks on Wednesday night.\n\nMagic shooting guard Evan Fournier, the team's second-leading scorer, crashed down on his right ankle on the first possession of overtime and had to leave the game. Orlando said X-rays were negative, but Fournier will be re-evaluated in the morning. He led the Magic with 27 points.\n\n\"I just saw Evan and he said it's hurting him,\" teammate Nikola Vucevic said. \"Hopefully, it won't keep him out too long. He's a big part of what we do. He needs to take care and make sure he comes back healthy.\"\n\nAaron Gordon had 24 points and 15 rebounds, and Vucevic contributed 22 points, 16 rebounds and four blocks as the Magic big men dominated. Orlando outscored Atlanta 62-42 in the paint.\n\nThe Magic got to overtime thanks to a 3-pointer by reserve guard D.J. Augustin with six seconds left in regulation. Augustin had a wide-open look at the top of 3-point arc after getting a nice assist from Vucevic.\n\n\"D.J. is a reliable 3-pointer shooter and you know if the ball finds him, he's going to knock it down,\" coach Frank Vogel said.\n\nDennis Schroder led Atlanta with 26 points and seven assists. Taurean Prince had 19 points and Tyler Cavanaugh 13 for the Hawks, who led 96-93 with 15 seconds left in regulation after Schroder and Kent Bazemore made four straight free throws.\n\nThe Hawks chose not to foul and prevent Augustin from even attempting a 3-point shot in the final seconds, but coach Mike Budenholzer didn't second guess the decision.\n\n\"It's something you debate in meetings, but we felt like we had a chance to get a stop and trust our defense,\" Budenholzer said. \"Give Augustin credit for hitting the shot.\"\n\n\"It was a good decision not to foul,\" Schroder said. \"If they miss, we win the game. We just have to play better defense and not let their big guys bully us around the basket.\"\n\nFournier's injury took some of the glimmer off the Magic's rally from a nine-point, fourth-quarter deficit. The Magic struggled to get any offensive rhythm for the first 3 1/2 quarters, finding themselves in an 86-77 hole with nine minutes to go.\n\nGordon started the rally with five straight points, and Fournier hit a driving layup that put Orlando up 93-92 with 1:59 to play. From there, both teams struggled to execute.\n\nBazemore hit a 3-pointer with 1:33 to play, but it was waved off after an instant replay review because of a shot-clock violation. Gordon then was charged with an offensive foul as he made a layup, but Schroder and Ersan Ilyasova both missed layups at the other end for Atlanta.\n\nSchroder ended the run of bad offense by hitting two free throws with 27.3 seconds left to give the Hawks a 94-93 lead and Bazemore hit two more with 14 seconds left to give Atlanta a 96-93 lead.\n\nThe Magic hit 6 of 10 shots in overtime, including five layups against a tired and ineffective defense.\n\nTIP-INS\n\nHAWKS: C Dewayne Dedmon missed his fourth straight game with a leg injury, and F John Collins missed his third straight with a shoulder strain. ... F Marco Belinelli hit his 900th career 3-pointer in the third period.\n\nMAGIC: Rookie F Johnathan Isaac missed his 13th straight game with a sprained ankle. ... Elfrid Payton, who shot 62.5 percent (30 of 48) in his previous five games, was just 3 of 11 against the Hawks. ... Gordon is 3 of 17 from 3-point range in his last three games.\n\nUP NEXT\n\nHawks: Play the Magic again Saturday at home.\n\nMagic: Host Denver Friday. The Nuggets defeated Orlando 125-107 on Nov. 11.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.105631",
+  "pipeline_version": "v1"
+}

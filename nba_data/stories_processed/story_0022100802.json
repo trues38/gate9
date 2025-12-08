@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100802",
+  "espn_id": "401360621",
+  "date": "Feb 06, 2022",
+  "matchup": "CHI vs. PHI",
+  "headline": "Joel Embiid scores 40 points, 76ers hold off DeRozan, Bulls",
+  "cleaned_body": "CHICAGO -- — Joel Embiid set the tone, dominating right from the start and never letting up. It was just what Philadelphia needed.\n\nEmbiid had 40 points and 10 rebounds and the 76ers overcame DeMar DeRozan's season-high, 45-point game for Chicago to beat the Bulls 119-108 on Sunday.\n\nThe 76ers won the matchup between two of the Eastern Conference’s top teams after letting a 17-point lead early in the fourth quarter shrink to four.\n\nThey hung on down the stretch to beat the Bulls for the 10th straight time. They also knocked Chicago a half-game behind first-place Miami and pulled within 1 1/2 games of the idle Heat. With the 76ers' victory, Miami clinched the best record in the East through Sunday, sending Erik Spoelstra and his Heat staff to the All-Star Game in Cleveland to coach Team Durant.\n\n“We've beaten a few of those top teams,” Embiid said. “Also, we dropped games that we shouldn't have, so it goes both ways. We're right there. And I've been saying it — for us to have a chance, we have to be perfect. I have to do what I've been doing, be that dominant and maybe even more.”\n\nEmbiid sure was dominant in this one, finishing with 40 or more points for the seventh time this season. The NBA's leading scorer, he hit 14 of 23 shots.\n\nTobias Harris added 23 points, and Tyrese Maxey had 16, helping the Sixers shake off losses against Washington and Dallas to win for the sixth time in eight games.\n\n“We had to win this game,\" Embiid said. “Like I said, I knew I was gonna be ready. I knew I was gonna bring more intensity to the game today. But we didn't win just because of me.\"\n\nDEROZAN DOMINATES\n\nDeRozan did all he could to carry the Bulls, with Zach LaVine (back spasms) and guard Coby White (strained right adductor) missing their second consecutive games. The All-Star finished seven points shy of his career high.\n\nNikola Vucevic scored 23. Javonte Green added 17 points. The Bulls fell to 0-3 against Philadelphia, though they stayed competitive against a good team despite having a long list of key players out with injuries. That includes Lonzo Ball and Alex Caruso.\n\n“We know we're gonna get everybody back in due time,” DeRozan said. “Until then, we're just trying to figure it out. We're just trying to continue to get better, figure out our mistakes on the go.”\n\nHANGING ON\n\nThe Sixers looked as if they were ready to put this one away, leading 98-81 early in the fourth quarter after a 13-0 run that started in the third. The Bulls answered with 13 straight, pulling within four on DeRozan's 19-footer, and it remained tight until the closing minutes.\n\nChicago's Ayo Dosunmu made a 3 to make it 112-106 with just over three minutes remaining. Seth Curry answered with a floater and Harris drove for a layup to bump Philadelphia's lead to 10 with two minutes remaining.\n\nTIP-INS\n\n76ers: Embiid’s season high is 50 points in a win over Orlando on Jan. 19. In this game, he made 10 of 11 free throws and blocked two shots. Was also shaken up in the closing minutes when he, Dosunmu and Chicago's Matt Thomas collided. ... G Matisse Thybulle (sore right shoulder) missed the game. ... G Furkan Korkmaz scored nine after missing the previous three games because of a sore left knee. ... The Sixers were 12 for 24 on 3-pointers, with Maxey hitting 3 of 4.\n\nBulls: DeRozan, who played 41 minutes, was 18 of 30 from the field and 9 of 11 at the foul line. ... Coach Billy Donovan said he's not sure if LaVine will play Monday, when the Bulls host Phoenix. ... Donovan also said there's “a very strong possibility” F Patrick Williams returns during the regular season. The second-year pro had surgery after tearing ligaments in his left wrist against the New York Knicks on Oct. 28 and was expected to miss four to six months. “I feel pretty good about the way he's progressing,” Donovan said.\n\nUP NEXT\n\n76ers: Host Phoenix on Tuesday night.\n\nBulls: Host Phoenix on Monday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.160774",
+  "pipeline_version": "v1"
+}

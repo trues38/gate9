@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700531",
+  "espn_id": "400975277",
+  "date": "Dec 30, 2017",
+  "matchup": "MIA @ ORL",
+  "headline": "Johnson, Dragic lead Heat comeback in win over Magic",
+  "cleaned_body": "ORLANDO, Fla. --  Tyler Johnson and Goran Dragic took over in the second half Saturday night, leading the Miami Heat back from an 18-point deficit in a 117-111 victory over the Orlando Magic.\n\nJohnson scored 22 points in the third quarter and Dragic had 14 in the fourth to help Miami avoid a second straight embarrassing defeat.\n\nAaron Gordon scored 39 points for the Magic, who took a commanding lead with 24 fast-break points in a 66-point first half.\n\n\"They were running us out of the gym,\" said Johnson, who finished with a season-high 31 points. \"We couldn't seem to stop anything in transition. It was hard to get into an offensive rhythm because we were using all our energy trying to run back on defense.\"\n\nOrlando got only two points off the break in the second half.\n\n\"In the second half we completely changed the game,\" said Dragic, who finished with 25 points and eight assists. \"We defended them in the halfcourt, and I think that was the ball game.\"\n\nThe Magic (12-25) lost for the 10th time in 11 games despite shooting 54 percent.\n\n\"This hurts,\" Magic coach Frank Vogel said. \"Our guys played their hearts out, played with great effort. I felt like they deserved to win, but you've got to get stops down the stretch and we weren't able to do that.\"\n\nJust one night after a 24-point loss to Brooklyn, the Heat (19-17) shot 63 percent in the second half in winning for the eighth time in 12 games.\n\n\"Basically halftime was about them. I stepped back and let them talk and figure it out,\" Heat coach Eric Spoelstra said. \"It was a much different disposition in the second half. I was speechless after that game last night. I feel like that a little bit right now.\"\n\nOrlando led 68-50 early in the second half when Johnson led Miami back into the game. He made 10 of 11 shots including a couple of 3-pointers. His only miss of the quarter was a long buzzer shot that left the Heat down 92-86.\n\n\"Tyler was tremendous, player of the game for us,\" Spoelstra said. \"Really inspiring. Other guys wanted to step up for him.\"\n\nSLOW START FOR JOHNSON\n\nJohnson's big night started with a nearly invisible first half in which he missed three of four shots. \"Really the ball just started going in,\" he said. \"I felt like in the first half I wasn't very assertive, kind of like what I was doing early in the season when I wasn't putting my fingerprints on the game.\"\n\nTIP-INS\n\nHeat: Johnson's 22-point third quarter was a season high for Miami and only three points short of his personal season high for a game before Saturday night.\n\nMagic: Rookie F Jonathan Isaac will be placed in an injury rehabilitation and conditioning program and will be out indefinitely. Isaac has played only 36 minutes in three games since spraining his right ankle Nov. 11.\n\nUP NEXT\n\nHeat: Host Detroit on Wednesday night.\n\nMagic: At Brooklyn on Monday night.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.992056",
+  "pipeline_version": "v1"
+}

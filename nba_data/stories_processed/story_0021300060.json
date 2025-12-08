@@ -1,0 +1,24 @@
+{
+  "game_id": "0021300060",
+  "espn_id": "400488933",
+  "date": "Nov 06, 2013",
+  "matchup": "CHA vs. TOR",
+  "headline": "Henderson leads Bobcats over Raptors 92-90",
+  "cleaned_body": "CHARLOTTE, N.C. --  Gerald Henderson didn't tinker with his shot after making just 31 percent from the field in his first four games this season.\n\n\"I started out the first three games horribly shooting-wise, but looking at my shots with Coach, I shot all good shots -- shots that I regularly shoot -- they just weren't falling,\" Henderson said.\n\nThat all changed Wednesday night.\n\nHenderson broke out of his mini-slump with a season-high 23 points, and the surprising Charlotte Bobcats defeated the Toronto Raptors 92-90.\n\nHenderson had made only 15 of 49 shots in the first four games since signing an $18 million, three-year contract in the offseason. But he hit six of his first seven against Toronto and finished 10 of 17 from the field.\n\nBobcats coach Steve Clifford never lost faith in Henderson.\n\n\"Everything he does on the floor makes sense to me, on both ends of the floor,\" Clifford said. \"He's a prideful guy and he wants to win. He's not going to blow a set. Everything he's supposed to do, he does.\"\n\nMichael Kidd-Gilchrist scored 14 points to help the Bobcats win on back-to-back nights. They beat the Knicks in New York on Tuesday.\n\nSecond-year guard Jeffery Taylor continued to give the Bobcats (3-2) quality minutes off the bench, scoring 13 points. Josh McRoberts added 13 points and five assists.\n\nRudy Gay led the Raptors with 20 points. Jonas Valanciunas had 12 points and 10 rebounds.\n\nThe Raptors had a chance to steal this one.\n\nThey were trailing 92-90 when DeMar DeRozan drove the lane, but his shot was rejected by Bismack Biyombo and the Bobcats grabbed the loose ball with 27 seconds remaining.\n\n\"I should have tried to be more aggressive,\" DeRozan said. \"At least tried to make the ref make the call. I'll take that. I'm kind of upset at myself for that decision, that I tried to kind of shy away from the contact.\"\n\nToronto didn't foul the Bobcats on their final possession, and when Henderson's long 3-pointer hit off the rim there wasn't enough time for Toronto to corral the loose ball and call timeout.\n\n\"Yeah, I was surprised\" they didn't call timeout, Henderson said.\n\nThe Bobcats have won five straight home games dating to last season.\n\nCharlotte shot 75 percent from the field in the first quarter to build a 32-18 lead. Henderson led the way, knocking down six jumpers in the opening 10 minutes, most of those around the top of the key.\n\nThe Raptors appeared to be playing off Henderson, daring him to shoot. The former Duke star responded again and again, going 7 of 10 from the floor in the first half.\n\n\"Our approach in the first quarter was very unlike us,\" Raptors coach Dwane Casey said. \"We did not play the way we did the last three quarters. This is a great learning lesson for us. Never leave winning the game to the last couple of possessions.\"\n\nCharlotte cooled off considerably in the second quarter and the Raptors fought back to tie it 53-all at halftime behind nine points from Tyler Hansbrough and a pair of 3-pointers from DeRozan.\n\nWith Kidd-Gilchrist on the bench with five fouls, Taylor and McRoberts picked up the slack in the third. After blowing a 16-point first-half lead, Charlotte got a boost from McRoberts, who turned the momentum of the game with a solid stretch that included a dunk, a 3-pointer and two no-look passes for easy baskets.\n\nThe Raptors struggled at times with turnovers, committing 13 that led to 18 Bobcats points.\n\nKemba Walker, who came in averaging more than 18 points per game, had a quiet night.\n\nHe played after an MRI on his shoulder Wednesday revealed no damage from a collision Tuesday night with Metta World Peace. Walker finished 2 of 13 from the field for five points but said after the game his shoulder felt fine.\n\n\"Anytime you can win a back-to-back in this league, that's never easy,\" Clifford said. \"This is a good win.\"\n\nGame notes The Bobcats played again without center Al Jefferson, their top free-agent pickup. He is nursing an ankle injury. ... Henderson has scored in double digits in 28 of his last 29 games for the Bobcats. ... Gay has reached double digits in all five games this season. ... It was Charlotte's sixth straight win at home against the Raptors.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.844395",
+  "pipeline_version": "v1"
+}

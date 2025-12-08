@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400664",
+  "espn_id": "400578956",
+  "date": "Jan 25, 2015",
+  "matchup": "DET @ TOR",
+  "headline": "DeRozan scores 25 to lead Raptors past Pistons 114-110",
+  "cleaned_body": "TORONTO --  With star guard Brandon Jennings lost to a season-ending injury, Detroit Pistons coach Stan Van Gundy hoped his team would respond by playing at \"a higher level.\"\n\nThey didn't manage it against the Toronto Raptors.\n\nJonas Valanciunas had 20 points and 11 rebounds, DeMar DeRozan scored 25 points and the Raptors held on down the stretch to beat the short-handed Pistons 114-110 on Sunday night.\n\n\"Our defense is terrible,\" Van Gundy fumed. \"It really is. It's terrible.\"\n\nAmir Johnson scored 17, Greivis Vasquez had 13 and Lou Williams 12 as the Raptors won for the third time in four games and snapped a two-game losing streak at home.\n\n\"We played well offensively,\" an irritated Van Gundy said. \"We just played no defense. We couldn't stop them at all. If you can't win scoring 110 then you don't deserve to.\"\n\nThe Pistons, who lost for the third time in four games, learned earlier Sunday that Jennings will miss the rest of the season after he ruptured his left Achilles tendon in the third quarter of Saturday night's 101-86 loss at Milwaukee.\n\nStarting in place of Jennings, Detroit point guard D.J. Augustin scored a career-high 35 points. Greg Monroe had 21 points and 16 rebounds for the Pistons, who suffered their third straight road defeat.\n\nKentavious Caldwell-Pope added 16 and Andre Drummond had 14 for Detroit, whose opponents have scored 100 or more in three straight games.\n\n\"We've just got to do a better job of communicating, stopping the ball and just loading the paint and making guys take contested shots,\" Augustin said. \"That's what we haven't been doing.\"\n\nAugustin's layup with 3:07 left brought Detroit to within four at 101-97, but Johnson followed by tipping in Kyle Lowry's missed shot. Toronto had a chance to stretch its lead after Lowry rebounded a missed 3 by Jodie Meeks, but Johnson couldn't convert a layup from Lowry's long pass, leading to a fast-break dunk by Caldwell-Pope to make it 103-99 at 2:10.\n\nAfter Toronto called timeout, DeRozan pushed the lead back to six with a pair of free throws. Meeks missed another 3 and DeRozan followed with a turnaround jumper on the baseline, putting the Raptors up 107-99 at 1:23.\n\nCaldwell-Pope kept Detroit alive with a 3 and, after Toronto lost possession on an offensive foul by Johnson, Augustin cut it to 107-104 with a pair of free throws.\n\nCaldwell-Pope converted a four-point play with 15 seconds left as Detroit shaved the deficit to two, at 112-110, but Terrence Ross answered with two free throws. Caldwell-Pope got two more attempts from 3-point range in the final seconds, but missed them both.\n\n\"It's discouraging to be that close and to not be able to get any stops,\" Van Gundy said. \"It's just discouraging.\"\n\nDeRozan went 8 for 10 at the free-throw line after shooting just three total free throws in his previous three games, none in Friday's win at Philadelphia.\n\n\"I almost forgot how I used to get to the line,\" DeRozan said. \"It felt good. I just wanted to get out there and be aggressive.\"\n\nTIP-INS\n\nPistons: Jennings had 34 points and 10 assists in a 114-111 win in Toronto on Jan. 12. ... Jennings spent Sunday night in Milwaukee before returning to Detroit Sunday. ... The Pistons said there is no timetable for Jennings' return, but the guard tweeted a message Sunday afternoon saying \"6/9 months.\" ... With Jennings out, Van Gundy spoke to general manager Jeff Bower on the telephone Sunday morning and said he'll look to add a third point guard to the roster \"fairly soon.\" Van Gundy and Bower plan to meet Monday for further talks.\n\nRaptors: Playing at home for the first time since being voted an All-Star starter, Lowry thanked fans in a pregame address at center court. ... Valanciunas leads Toronto with 14 double-doubles this season. ... The Raptors allowed more than 100 points for the first time in five games. ... Johnson started despite a sore left shoulder.\n\nFANTASTIC FAKE\n\nLowry's first points came at 3:36 of the first when he dribbled slowly toward the bench as if ready to call a timeout, then suddenly turned on the gas and sped past Augustin for an uncontested layup.\n\nLESS THAN IMPRESSED\n\nMeeks shot 2 for 13, going 1 for 8 from beyond the arc. Afterward, a reporter asked Van Gundy why Meeks was struggling from 3-point range. \"He's struggling from 3 and 2,\" Van Gundy replied.\n\nUP NEXT\n\nPistons: host Cavaliers on Tuesday night.\n\nRaptors: visit Pacers on Tuesday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "ThreePointExplosion",
+    "Streak",
+    "CareerHigh",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.855207",
+  "pipeline_version": "v1"
+}

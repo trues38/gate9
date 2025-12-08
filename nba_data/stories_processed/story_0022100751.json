@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100751",
+  "espn_id": "401360570",
+  "date": "Jan 30, 2022",
+  "matchup": "ATL vs. LAL",
+  "headline": "Young's 36 points help streaking Hawks drop Lakers, 129-121",
+  "cleaned_body": "ATLANTA -- — Trae Young believes a defensive revival has the Atlanta Hawks back on track. That defense finally showed up in the final quarter against the Los Angeles Lakers.\n\nYoung had  36 points and 12 assists, and the Hawks earned their seventh straight win by rallying to beat the Lakers 129-121 on Sunday.\n\nThe Hawks outscored Los Angeles 38-20 in the final period, when Young scored 13 points.\n\n“If our mindset is right we get stops on the defensive end ... I think we have a good chance of winning any night,” Young said.\n\nOnyeka Okongwu  scored 12 of his 16 points in the final period, when he helped hold Anthony Davis to five of his 27 points.\n\nMalik Monk led Los Angeles with 33 points in the Lakers’ third consecutive loss, all without LeBron James.\n\nJames was not with the team due to continued swelling in his left knee. He returned to Los Angeles for treatment.\n\nThe Hawks (24-25) matched their longest win streak of the season by charging back after trailing 101-91 entering the fourth quarter. The Lakers scored a season-high 71 points in the first half while making 71.4% of their shots from the field, but they couldn't continue the hot shooting in the final period.\n\nDavis helped power the Lakers' strong start with 18 first-half points in his return after missing one game with a sore right wrist.\n\nMonk's eighth 3-pointer tied it at 121. De'Andre Hunter made one of two free throws for Atlanta before Young rattled in a 3-pointer for a four-point lead.\n\nYoung stretched the lead by making two free throws with 25 seconds remaining.\n\nEntering Sunday's games, the Hawks were 10th in the Eastern Conference. Atlanta, which lost to Milwaukee in last season's Eastern Conference final, was 12th before the winning streak.\n\nThe Lakers (24-27), who were ninth in the Western Conference, fell a season-low three games below .500.\n\n“We’re not in the position we want to be right now but that’s OK,” said Russell Westbrook, who had 20 points and 12 assists. “We know what we need to do as a team. Just find a way to get over the hump and close games out.”\n\nMonk was on target in his return after missing one game with soreness in his left groin. Monk went 4 for 5 from 3-point range in the first half and 8 for 14 from deep for the game. His last-second 3 capped a 10-2 run to close the half, sending the Lakers into the break with a 71-62 lead.\n\nMonk set a season high by scoring 29 points in the Lakers' 134-118 home win over the Hawks on Jan. 7. Monk again feasted on Atlanta's defense to set a new high mark for the season.\n\nTIP-INS\n\nLakers: The 71 first-half points set a season high for either half. The Lakers made 30 of 42 shots from the field (71.4%) in the half. They finished at 54% (48 of 87) after making only 7 of 22 shots in the final period.\n\nHawks: John Collins had 20 points and 11 rebounds, and Clint Capela scored 15 points. ... Atlanta also won seven consecutive games from Nov. 14-26.\n\nOKONGWU THE CLOSER\n\nOkongwu continues to emerge as a key backup on Atlanta’s front line. He played the full 12 minutes in the final period, almost doubling his first-half time on the court. Capela, the starting center, did not play the final period.\n\n“He was doing a good job of keeping his body between (Davis) and the basket,” Hawks coach Nate McMillan said. “I decided to just stay with him and finish the game.”\n\nOkongwu had four dunks in the final period.\n\nNO LEBRON\n\nLakers coach Frank Vogel said before the game that an MRI on James’ knee revealed “general swelling.”\n\n“As the long as the swelling is there he’s going to be out,” Vogel said.\n\nLOSING ROAD TRIP\n\nThe Lakers capped a 2-4 road trip with losses to Philadelphia, Charlotte and Atlanta.\n\n“We were close but just have fallen short in the last couple,” Vogel said. “We played well the last two games. We fell short in the end. We’ve just got to get home and put this trip behind us ... and get ready for the next game, whether LeBron is in or out.”\n\nUP NEXT\n\nLakers: Host Portland on Wednesday night.\n\nHawks: Host Toronto on Monday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.234488",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401000",
+  "espn_id": "400579292",
+  "date": "Mar 17, 2015",
+  "matchup": "DET vs. MEM",
+  "headline": "Jackson has 23 points, 20 assists, leads Pistons to win",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Stan Van Gundy doesn't know why Reggie Jackson broke out of his slump in such a big way Tuesday night.\n\nNor does he care.\n\nJackson had 23 points and a career-high 20 assists as the Detroit Pistons ended a 10-game skid with a 105-95 comeback victory over the Memphis Grizzlies.\n\n\"I have no idea what was different tonight,\" the coach said. \"All I know is that he was finding open guys when we needed that and he was getting to the rim when we needed that. It was a phenomenal game.\"\n\nThe Pistons trailed by 15 points at halftime, but Jackson dominated Beno Udrih, who was starting at point guard in place of injured Mike Conley (ankle). Jackson had 11 points and 13 assists in the second half to pick up Detroit's second 20-point, 20-assist game of the season.\n\n\"We just attacked the basket in the second half, and we played a lot harder on defense,\" he said. \"Once we started getting some stops and started holding them to one shot, we were able to get out and run. That's what changed the game.\"\n\nJeff Green led Memphis with 21 points, and Marc Gasol had 17 points and 11 rebounds before fouling out. Andre Drummond finished with 16 points and 16 rebounds for Detroit.\n\nGasol and Zach Randolph combined for 24 points and 11 rebounds in the first half as the Grizzlies built a 54-39 lead.  In the second half, though, they finished with just six points and five rebounds.\n\n\"This is on all of us,\" said Randolph. \"They hit shots, we stopped playing defense and Reggie got going. This is disappointing, especially when we know what we are trying to do. We've got to do something to get tougher.\"\n\nJackson, who had 12 points and seven assists in the half, was the only reason the Pistons weren't being blown out by the intermission.\n\nDetroit starting making jumpers in the second half, and a pair of Caldwell-Pope 3-pointers tied the game at 73 in the final minute of the third. Jackson had nine assists in the quarter, giving him a career-high 16 with 12 minutes to play, but Vince Carter's 3-pointer gave Memphis a 76-75 lead heading into the fourth.\n\n\"They got into a rhythm and they kept going,\" Green said. \"From there, their confidence just kept going. They did a great job of going out there, having fun and playing loose.\"\n\nJackson came out early in the fourth, but rookie Spencer Dinwiddie, who struggled in the first half, held his own. He scored five points and grabbed a pair of rebounds in a six-minute stretch. The Pistons took an 88-87 lead on Jodie Meeks' four-point play midway through the fourth.\n\nJackson returned with a three-point play followed by a driving layup, putting Detroit ahead 95-90 with 3:45 left. He finished off the 20/20 game with a lob pass to Drummond with seven seconds to play.\n\nTIP INS\n\nGrizzlies: Zach Randolph got a big hand from the Palace crowd during pregame introductions, as he has since entering the NBA. Randolph starred at Michigan State, teaming up with Jason Richardson to lead the Spartans to the Final Four in 2001.\n\nPistons: Drummond (concussion) and Tayshaun Prince (hip) both recovered from injuries sustained in Saturday's loss at Utah in order to play against Memphis, and Pistons coach Stan Van Gundy said that he does not expect Greg Monroe (knee) to miss much time with his injury. Monroe strained his right knee in Monday's practice, and is questionable for Wednesday's game in Philadelphia.\n\nUP NEXT\n\nGrizzlies: visit the Mavericks on Friday.\n\nPistons: visit the Sixers on Wednesday.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.018923",
+  "pipeline_version": "v1"
+}

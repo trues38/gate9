@@ -1,0 +1,21 @@
+{
+  "game_id": "0021700308",
+  "espn_id": "400975059",
+  "date": "Nov 29, 2017",
+  "matchup": "HOU vs. IND",
+  "headline": "James Harden has 29, Rockets down Pacers 118-97",
+  "cleaned_body": "HOUSTON --  James Harden had 29 points, 10 assists and eight rebounds and the Houston Rockets rolled past the Indiana Pacers 118-97 on Wednesday night for their sixth straight victory.\n\nThaddeus Young cut the lead to 10 with a hook shot with about eight minutes left. The Rockets put it away with a 16-4 run that made it 110-88 with about four minutes left.\n\nTrevor Ariza made a 3-pointer in that stretch and Ryan Anderson added two finished with 19 points.\n\nThe Pacers missed numerous shots, were called for defensive three seconds and committed an offensive foul to allow the Rockets to pad the lead.\n\nThe Rockets improved to 12-1 this month, with the only loss coming on Nov. 14 against Toronto.\n\nYoung finished with 23 points for the Pacers. They have won seven of their last 10 games.\n\nHouston led by 18 after three, but Indiana scored the first seven points of the fourth to get within 89-78.\n\nAfter a timeout, Chris Paul hit a 3-pointer right before the shot clock expired to give the Rockets their first points of the quarter before he found Ryan Anderson for a rare dunk to make it 94-80 with about nine minutes left.\n\nThe Pacers tied it early in the third quarter before Houston used a 13-4 run to take a 67-58 lead with about seven minutes left in the quarter. Anderson and Trevor Ariza made consecutive 3-pointers to power that run and Ariza added a second 3 later in that span.\n\nIndiana got back on track after that, and used a 6-2 spurt, highlighted by a 3-pointer from Bojan Bogdanovic, to get to 69-64.\n\nBut Houston scored the next eight points, with the last seven from Harden, to push the advantage to 77-66 with about 2 1/2 minutes left in the third.\n\nVictor Oladipo ended an almost 2 1/2 minute scoring drought with a 3-pointer after that. It was then that the Rockets got hot from long-range with P.J. Tucker and Harden making two 3s each to allow Houston to outscore the Pacers 12-2 for the rest of the quarter to make it 89-71 entering the fourth.\n\nThe Rockets led 54-49 at halftime.\n\nTIP-INS\n\nPacers: Oladipo played despite dealing with a bruised right knee. He finished with 19 points. ... Bogdanovic added 15 points. ... Myles Turner had 15 points, 10 rebounds and four blocked shots.\n\nRockets: Nene returned after missing one game with a strained right shoulder. He had one point and four rebounds in 10 minutes. ... The Rockets improved to 4-0 this season when all five starters score at least 10 points. ... Clint Capela had 22 points and 13 rebounds.\n\nUP NEXT\n\nPacers: At Toronto on Friday.\n\nRockets: At Los Angeles Lakers on Sunday.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.264306",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701115",
+  "espn_id": "400975861",
+  "date": "Mar 27, 2018",
+  "matchup": "MIL @ LAC",
+  "headline": "Clippers rally to beat Bucks 105-98, improve playoff hopes",
+  "cleaned_body": "LOS ANGELES --  The Clippers came out attacking, moving the ball and hitting 3-pointers to start the game. Then they got stagnant.\n\nIt nearly cost them.\n\nThey blew a 16-point, first-half lead and rallied from five down on a slew of 3s in the fourth to beat the Milwaukee Bucks 105-98 on Tuesday night and boost their playoff hopes.\n\nTobias Harris scored 19 points, DeAndre Jordan had 12 points and 16 rebounds, and Lou Williams added 16 points off the bench.\n\nThe Clippers hit six 3-pointers in the fourth, when they launched a 13-0 run to go back in front 96-88.\n\nThey made 3-pointers on four straight possessions -- by four different players -- for a 105-96 lead.\n\n\"Those really hurt,\" Bucks coach Joe Prunty said.\n\nLos Angeles trails Minnesota by 1  1/2 games for the eighth and final Western Conference berth with eight games to play.\n\n\"We're focused right now as much as I've ever seen,\" said Austin Rivers, who scored 10 of his 13 points in the fourth. \"We look at each game like it's the last game. We don't have too much room for error.\"\n\nMilos Teodosic got their 3-point run going in the first quarter, when he made four of the Clippers' seven 3-pointers. He left the game just before halftime after tweaking his left foot, which has been bothered by plantar fasciitis this season.\n\n\"I know he was kicking (expletive),\" Jordan said.\n\nGiannis Antetokounmpo scored 26 points and Khris Middleton added 22 for the Bucks, who opened a four-game Western Conference swing by having their two-game winning streak snapped.\n\nThe Clippers came out strongly to start the second quarter, extending their lead to 16 on a dunk by Williams.\n\nBut Middleton and the Bucks chipped away, outscoring the Clippers 26-15 in the third and getting stops on defense. Antetokounmpo had 10 points to help send Milwaukee into the fourth leading 82-78.\n\n\"We just played defense,\" he said. \"When we are able to do that we're really good.\"\n\nThe Bucks ended the third on a 9-0 run, including back-to-back baskets by Tyler Zeller that gave them their first lead since the initial basket of the game.\n\nTIP-IN\n\nBucks: Backup C Thon Maker sat out with a right groin strain. ... Green Bay quarterback Aaron Rodgers attended.\n\nClippers: They have won five of seven against the Bucks, including 127-120 last week. ... F Danilo Gallinari (right hand contusion, non-displaced fracture) could return Friday at Portland or Sunday against Indiana. He's missed 17 games with the latest in a string of injuries this season.\n\nTHE GREEK FREAK\n\nAntetokounmpo was the subject of a segment on \"60 Minutes\" on Sunday. Interviewer Steve Kroft traveled to Greece to visit the gym where Antetokounmpo and his brother honed their basketball skills and explained how his parents emigrated from Nigeria.\n\n\"I loved it. It talked about me, talked about my family,\" Antetokounmpo said. \"It talked about where I came from and the most important thing, it talked about how someone's got to work to succeed in life.\"\n\nHE SAID IT\n\n\"When you have a nickname and Freak is at the end of it, you're probably pretty good.\" -- Doc Rivers on Antetokounmpo.\n\nUP NEXT\n\nBucks: Visit Golden State on Thursday. They lost to the Warriors 108-94 at home on Jan. 12.\n\nClippers: Visit Phoenix on Wednesday in the second game of a back-to-back, their last one of the season. They are 3-7 on the road in the second game.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.020180",
+  "pipeline_version": "v1"
+}

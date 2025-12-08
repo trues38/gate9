@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700901",
+  "espn_id": "400975647",
+  "date": "Feb 26, 2018",
+  "matchup": "TOR vs. DET",
+  "headline": "DeRozan and Lowry each score 20, Raptors rout Pistons 123-94",
+  "cleaned_body": "TORONTO --  A big start to the second half helped the Toronto Raptors hand the slumping Detroit Pistons another loss.\n\nDeMar DeRozan and Kyle Lowry each scored 20 points, Serge Ibaka had 19 and the Raptors routed the Pistons 123-94 on Monday night for their seventh win in eight games.\n\nPascal Siakam added 11 points as the Raptors improved to 25-5 at home, the best record in the NBA.\n\nThe Eastern Conference leaders bounced back from Friday's overtime loss against Milwaukee, using spurts at the start of the second and third quarters to hand the Pistons their third straight defeat and sixth in seven games.\n\nAfter Detroit scored 12 of the final 18 points of the first half to trail 59-53 at the break, Raptors coach Dwane Casey encouraged his team to come out strong at the start of the third, knowing the Pistons would be tired after losing at Charlotte on Sunday night.\n\n\"We knew that they had played last night so we wanted to make sure we used our speed and kept the pace,\" Casey said.\n\nThe plan worked perfectly as Ibaka scored seven points in a 19-4 run that turned the tide in Toronto's favor.\n\n\"We battled hard to get back in the game in the second quarter and then the first six minutes of the third quarter we were bad and it was over from there,\" Pistons coach Stan Van Gundy said.\n\nAndre Drummond had 18 points and 18 rebounds but Detroit lost its fourth consecutive meeting with Toronto. Ish Smith scored 16 points, Reggie Bullock had 14, and Blake Griffin and Dwight Buycks added 12 apiece for the Pistons, who fell three games behind idle Miami for the final playoff spot in the East.\n\n\"We have to get it rolling,\" Bullock said. \"It's a frustrating time for us. We have to try to get it rolling before it's pretty much over.\"\n\nJames Ennis scored 10 points for the Pistons, who never led after the first quarter.\n\nAll six of Lowry's field goals were 3-pointers. He finished 6 for 8 from long range and missed two attempts from inside the arc. Toronto made 17 3-pointers and became the third straight opponent to hit at least 16 against the Pistons.\n\n\"We are just not doing a good job of closing out to people at all,\" Van Gundy said.\n\nDeRozan scored 11 points in the first and Toronto led 30-26 after one.\n\nAfter Buycks scored the opening basket of the second, Toronto responded with a 10-0 run, taking a 40-28 lead with 9:30 left in the half. Bullock scored eight points in the second as the Pistons closed the half with a 12-6 run, cutting it to 59-53 at the break.\n\nIbaka had nine in the third and Lowry added eight as Toronto took a 93-75 lead into the fourth.\n\nTIP-INS\n\nPistons: Van Gundy said G Reggie Jackson (sprained right ankle) is expected to resume practicing before a six-game Western Conference road trip that begins March 13. ... Drummond had nine rebounds in the first quarter. ... Detroit is 9-19 on the road.\n\nRaptors: DeRozan went 10 for 11 at the free throw line. He was the only Toronto player to miss a free throw, as the Raptors finished 22 for 23. ... Ibaka had nine rebounds.\n\nHELPING HAND\n\nToronto had 31 assists, the fourth time in six games they've had 30 or more. The Raptors are 36-10 when they record at least 20 assists.\n\nPOELTL'S POSTER PARTY\n\nToronto C Jakob Poeltl had the dunk of the game, a one-handed slam over Drummond in the fourth.\n\nUP NEXT\n\nPistons: Host Milwaukee on Wednesday. Detroit has lost two of three meetings with the Bucks this season.\n\nRaptors: Begin a two-game road trip at Orlando on Wednesday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.866444",
+  "pipeline_version": "v1"
+}

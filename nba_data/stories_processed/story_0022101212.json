@@ -1,0 +1,25 @@
+{
+  "game_id": "0022101212",
+  "espn_id": "401361031",
+  "date": "Apr 09, 2022",
+  "matchup": "LAC vs. SAC",
+  "headline": "George leads Clippers past Kings for 4th straight victory",
+  "cleaned_body": "LOS ANGELES -- — Paul George put the Western Conference on notice that he is ready for the play-in tournament, and hopefully beyond.\n\nGeorge scored 23 points, tied a career high with 12 assists and added eight rebounds as the Los Angeles Clippers won their fourth straight game, beating the Sacramento Kings 117-98 on Saturday night.\n\nThe Clippers are 5-1 since George returned to the lineup. He is averaging 22.6 points, 5.6 rebounds and 6.8 assists after missing 43 games due to an elbow injury.\n\n“The elbow’s fine. It feels pretty good,\" George said. \"Overall, I'm trying to take each possession for what it is and trying to make the best play possible.\n\n“Honestly, I love settling for the role of being the playmaker instead of a scorer. With this team my ability to score is opening up passing and playmaking. It's easier when I can find guys to make baskets.”\n\nGeorge played 34 minutes, his most since coming back. He will not play in Sunday's regular-season finale against Oklahoma City.\n\nThe Clippers will face Minnesota on Tuesday in the play-in tournament. A victory would send Los Angeles to the postseason for the fourth straight year and a first-round matchup against the second-seeded Memphis Grizzlies.\n\nA loss to the Timberwolves would have the Clippers meeting New Orleans or San Antonio on Friday with one more chance to make the playoffs. The winner of that game would then get the top-seeded Phoenix Suns.\n\n“We know them well, they know us well, it’ll be a tough game going into Minnesota,\" George said. \"We have a job to do. I'm looking forward to leading and being in that environment.”\n\nNorman Powell added 20 points off the bench and Ivica Zubac had 15 points and 12 rebounds for the Clippers, who led throughout.\n\nZubac had his 24th double-double of the season and the 60th of his six-year career, but this is the first time he did it by halftime, with 13 points and 12 rebounds.\n\n“Defensively we did a lot of good things, and we were able to try some things with the second unit that should help us going forward,” coach Tyronn Lue said. “We had been trying to get Paul up to 35-36 minutes so we can push his minutes for the play-in tournament.\"\n\nDavion Mitchell led Sacramento with 22 points, and Trey Lyles had 15.\n\nGeorge had 14 points during the first quarter when the Clippers scored the first nine points. Their largest lead in the first half was 20 points before the Kings went on a late run to get within 59-45 at halftime.\n\nSacramento then scored the first seven points of the second half to cut the margin in half. But the Clippers began to steadily pull away again. They went on a 19-5 run over the last five minutes of the third quarter to lead 92-71 going into the final 12 minutes. Powell had 10 points during the spurt.\n\n“I didn’t think we started the game off the way we should, and then from there it was just an uphill battle for the rest of the night,” Kings coach Alvin Gentry said. “They've got Paul George and almost their whole team back. They're a good team and they are fighting for their lives.”\n\nTIP-INS\n\nKings: Damian Jones had 12 points and tied a career high in a regular-season game with four steals. ... Neemias Queta had 10 points off the bench. ... Josh Jackson reached 250 career steals.\n\nClippers: Los Angeles was 21 of 43 on 3-pointers. It is the third time in the last four games the Clippers have made at least 20 from beyond the arc. ... Marcus Morris scored 11 points despite going 4 of 13 from the floor. ... Luke Kennard and Isaiah Hartenstein added 10 points apiece.\n\nUP NEXT\n\nKings: At Phoenix on Sunday night.\n\nClippers: Host Oklahoma City on Sunday night.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.203405",
+  "pipeline_version": "v1"
+}

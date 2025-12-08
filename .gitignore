@@ -59,8 +59,12 @@ env/
 # 데이터 파일 무시 (크롤링한거 수천개)
 data/
 *.csv
-*.json
+# *.json # Disabled to allow package.json. Use specific ignores or data/ folder.
 *.log
+!package.json
+!package-lock.json
+!tsconfig.json
+!next.config.ts
 
 # AI 에디터 설정 무시
 .cursor/

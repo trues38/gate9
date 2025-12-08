@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701096",
+  "espn_id": "400975842",
+  "date": "Mar 25, 2018",
+  "matchup": "MIA @ IND",
+  "headline": "Oladipo helps Pacers top Heat in OT to clinch playoff spot",
+  "cleaned_body": "INDIANAPOLIS --  The Indiana Pacers aren't ready to celebrate just yet after clinching a playoff berth.\n\nVictor Oladipo had 23 points and five assists, Thaddeus Young added 22 points, nine rebounds and five steals to help the Pacers beat the Miami Heat 113-107 in overtime Sunday, earning their seventh postseason berth in the last eight seasons.\n\n\"Our (job) is still not done,\" Young said. \"We're in the playoffs, but now we want seeding. We want to get as high of a seed as possible and we're just going to continue to play and try to win as many games as possible. But the monkey is off our back now that we're actually in.\"\n\nBojan Bogdanovic added 18 points and eight rebounds for the Pacers.\n\nA trip to the playoffs seemed farfetched eight months ago when four-time All-Star Paul George went to Oklahoma City in what appeared to a be a lopsided trade between the Pacers and Thunder. General manager Kevin Pritchard's offseason moves have paid off.\n\nOladipo, who was part of the trade, has been a big part of Indiana's success.\n\n\"We found a guy that can close,\" Pacers coach Nate McMillan said. \"Vic has shown he can close. We are not here if we didn't have that.\"\n\nOladipo made a 3-pointer in overtime as Indiana pulled away. Darren Collison, who finished with 12 points, made the go ahead 3-pointer to put the Pacers ahead 101-100 with 2:49 remaining in the extra period, and Indiana scored 11 straight points to build a lead. The Pacers took a 109-102 lead with Collison's 3-pointer with 55 seconds left to play.\n\nTyler Johnson made five 3-pointers and finished with 19 points, James Johnson had 15 points and nine rebounds, and Bam Adebayo added 14 points for the Heat, who split the four-game season series.\n\nMiami coach Erik Spoelstra missed the first game of his career, leaving Indianapolis on Saturday after learning his wife Nikki was entering labor. Their first child, a son, was born on Sunday. Assistant coach Dan Craig filled in and Spoelstra is expected to return for Miami's home game against Cleveland on Tuesday.\n\nThe Heat came back from an eight-point deficit in the second half. James Johnson forced overtime with a free throw with 8.3 seconds left in regulation. He missed the free throw that would have won it for Miami.\n\n\"He had a terrific game and that last play for him was exactly what we wanted,\" Craig said. \"He got to the basket, got fouled and got two free throw (attempts).\"\n\nIndiana trailed by 14 in the first half and went on a 9-1 run late in the second quarter to take a 50-46 lead on Oladipo's jumper with 2:22 remaining in the half.\n\nThe Heat then scored seven straight, including a dunk and two free throws by Adebayo. And James Johnson's free throw gave with under a second left gave Miami a 53-52 halftime lead.\n\nTIP-INS\n\nHeat: Miami has lost two straight road games and 11 of its last 12 away from American Airlines Arena. . Tyler Johnson had 12 points in the first quarter alone. ... Adebayo also had five rebounds.\n\nPacers: Indiana shot 66.7 percent in overtime and 48.9 percent overall. ... F Domantas Sabonis was out for a sixth straight game with a left sprained ankle.\n\nTURNOVER TOWN\n\nMiami had 10 turnovers and Indiana had four in the first half, and both teams finished with 17 apiece. It almost cost the Pacers. They had a stretch late in the fourth quarter with four turnovers in five possessions and the Heat took the lead when Goran Dragic scored to make it 95-93 with 2:18 left in regulation. But Miami then committed turnovers on back-to-back possessions.\n\nUP NEXT\n\nHeat: Host Cleveland on Tuesday.\n\nPacers: At Golden State on Tuesday for the first of a four-game west coast trip.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.380208",
+  "pipeline_version": "v1"
+}

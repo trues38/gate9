@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700027",
+  "espn_id": "400974778",
+  "date": "Oct 21, 2017",
+  "matchup": "TOR vs. PHI",
+  "headline": "DeRozan scores 30 as Raptors rout 76ers 128-94",
+  "cleaned_body": "TORONTO --  DeMar DeRozan fought off flu-like symptoms to give the Toronto Raptors their biggest-ever win over the Philadelphia 76ers.\n\nDeRozan scored 30 points, Serge Ibaka had 21 and the Raptors won their 10th straight home game over Philadelphia, routing the 76ers 128-94 on Saturday night.\n\nKyle Lowry scored 17 points, Jakob Poeltl had a career-high 14 and the Raptors won for the 16th time in 17 meetings with the 76ers.\n\nThe 34-point margin of victory was Toronto's biggest over Philadelphia, eclipsing a 32-point win on Nov. 9, 2014.\n\nDeRozan felt ill throughout the day and was sent home after the game without speaking to reporters. He made eight of 12 field goal attempts and shot 14 for 16 from the free throw line.\n\n\"We gave him a little more time to isolate tonight,\" Lowry said. \"You give him the opportunity to take his time and be patient he can pretty much get what he wants.\"\n\nDeRozan scored 15 in the first, going 4 for 4 from the field and hitting 7 of 8 free throws, to give the Raptors a 36-19 lead after one. Toronto made 14 of 16 free throw attempts in the first, taking advantage of 11 Philadelphia fouls.\n\n\"He was getting to the paint, vaulting up, getting to his sweet spot, which creates offense within itself,\" coach Dwane Casey said.\n\nIbaka had five 3-pointers and Lowry had four as Toronto shot 13 for 44 from long range.\n\nThe Raptors finished 31 for 37 at the line.\n\n\"Our inability to not get tricked, to not bite on multiple up-fakes, is a discipline we have to improve on,\" Philadelphia coach Brett Brown said. \"We need to stay ground-bound. We were poor tonight doing that.\"\n\nBen Simmons had 18 points and 10 rebounds and Jerryd Bayless scored 16 for the winless 76ers, who were playing the second game of a back-to-back. Philadelphia lost at home to Boston on Friday night.\n\nJustin Anderson had 12 points and Jahlil Okafor had 10 in his season debut.\n\nAfter starting Friday, 76ers center Joel Embiid (left knee) was not available against Toronto. The oft-injured Embiid has not been cleared to play the second game of back-to-backs.\n\n\"It's tough without Joel,\" Simmons said. \"We've got to learn to learn to play without him.\"\n\nEmbiid did not travel to Toronto, but is expected to rejoin the team for Monday's game at Detroit.\n\nToronto's Jonas Valanciunas sprained his left ankle when he was fouled by Philadelphia's Dario Saric with two minutes left in the second. Valanciunas stayed in to shoot his free throws but was replaced about a minute later and headed to the locker room. He did not return.\n\nCasey said Valanciunas would undergo an MRI exam.\n\nLeading 62-49 at halftime, Toronto started the second half with a 10-2 spurt, including eight points from Ibaka.\n\n\"They jumped us, especially at the start of the third,\" Brown said.\n\nTIP-INS\n\n76ers: Philadelphia committed a season-worst 20 turnovers. ... The Sixers have lost five straight road games dating to last season.\n\nRaptors: DeRozan scored more points in the first quarter (15) than he did in the entirety of Thursday's win over Chicago (11). ... Toronto made more free throws in the first (14) than field goals (10).\n\nBIG BEN\n\nAccording to Elias, Simmons is the first NBA player since Oscar Robertson with 10 or more points, 10 or more rebounds and five or more assists in each of his first three games.\n\nUP NEXT\n\n76ers: Philadelphia visits Detroit on Monday night. The Sixers split with the Pistons in two trips to Detroit last season.\n\nRaptors: Toronto kicks off a season-long six game road trip at San Antonio on Monday. The Raptors have lost eight consecutive road games against the Spurs.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.770469",
+  "pipeline_version": "v1"
+}

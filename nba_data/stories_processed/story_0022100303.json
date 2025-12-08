@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100303",
+  "espn_id": "401360127",
+  "date": "Nov 28, 2021",
+  "matchup": "MEM vs. SAC",
+  "headline": "Brooks, Bane lead Grizzlies past poor-shooting Kings",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Dillon Brooks scored 21 points, Desmond Bane added 18 and the Memphis Grizzlies took advantage of Sacramento’s poor shooting to beat the Kings 128-101 on Sunday night.\n\nJaren Jackson Jr. added 17 points and nine rebounds, and Brandon Clarke had 15 points to help Memphis snap a two-game losing streak.\n\nBuddy Hield led the Kings with 14 points, but was 5 of 17 from the field, including missing eight of his nine 3-pointers. Terence Davis had 13 points, and De’Aaron Fox added 12, but was 4 of 12 from the field, all part of the Kings shooting 34% for the game — including 9 of 42 from outside the arc.\n\n“We shot the ball atrociously,” Kings interim coach Alvin Gentry said.\n\nMemphis was playing its first game without scoring leader Ja Morant, who sprained his left knee Friday night in a loss to the Atlanta Hawks. That put the Memphis scoring onus on others to pick up the slack. It was Bane and Brooks early with an assist from the Grizzlies bench, which connected on 16 of its 21 shots in the first half.\n\n“I think this was a perfect game to go back on and see what we did and what was beneficial,” said reserve guard De’Anthony Melton, who had 14 points for Memphis. “It’s always a blessing that we had to move the ball and we are all sharing and everybody’s getting involved.”\n\nFor the first half, Sacramento managed only 35% shooting and connected on only five of 34 3-pointers. The 76-52 halftime lead was the most points by Memphis in a half this season.\n\n“Early in the game, the first half, the duress a lot of those 3s were under was really good,” Memphis coach Taylor Jenkins said. “The urgency to defend the 3-point line was really good.”\n\nMemphis kept up the pressure offensively in the second half. Jackson scored 11 points before the midway point of the third as the Grizzlies shooting remained above 57% at that point.\n\nThrough three quarters, the Kings managed only 32% shooting, were only 6 of 33 from outside the arc and trailed 106-74.\n\nGentry did make a direct correlation to a poor shooting night affecting the defense but said the Grizzlies accuracy was a byproduct of the Kings’ off-the-mark shooting.\n\n“When you’re not making shots, and teams are running out off of misses, it takes you longer to set your defense, and it takes you longer to get matched up in transition,” Gentry said.\n\nTIP-INS\n\nKings: Sacramento played without forwards Harrison Barnes, Maurice Harkless and Richaun Holmes, all who sat out with various ailments. … Sacramento is 2-2 under Gentry since he took over when Luke Walton was fired last week.\n\nGrizzlies: Tyus Jones started his first game of the season in place of Morant. Morant was on the bench for the game. … The previous high for a half was 74 points against the Rockets on Nov. 15. … Steven Adams had 12 rebounds.\n\nMORANT UPDATE\n\nThe Grizzlies were relieved when tests on Morant showed only a sprain to the left knee. And while he was on crutches for practice Saturday, indications are the damage was not significant, and his return is measured in weeks, not months. Jenkins said there is no set timeline. “He’ll be out for a few weeks, and each week, we’ll have a better idea as (things) unfold,” Jenkins said. “We expect a full recovery, and this is nothing long-term that we’re worried about.”\n\nFAN EJECTION\n\nA Memphis fan along the sidelines was ejected from his seat in the second half at the urging of Gentry. It was unclear what the man said. “I think you pay for a ticket, you’ve got a right to boo guys. You’ve got a right to cheer for your team,” Gentry said. “But inappropriate things should never be what anyone should say or have an opportunity to say in an NBA game without being removed.” Asked about the context of the comments, the Sacramento coach would not be specific. “It’s not anything I’m going to tolerate people saying to my player, I know that, not without intervening and asking that (the fan) be removed.”\n\nUP NEXT:\n\nKings: Host Los Angeles Lakers on Tuesday night.\n\nGrizzlies: At Toronto on Tuesday night.\n\n------",
+  "tags_rule": [
+    "Streak",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.383471",
+  "pipeline_version": "v1"
+}

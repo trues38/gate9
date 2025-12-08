@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100636",
+  "espn_id": "401360455",
+  "date": "Jan 14, 2022",
+  "matchup": "MIA vs. ATL",
+  "headline": "Heat rally late, scramble to get past Hawks, 124-118",
+  "cleaned_body": "MIAMI -- — The stars were out in Miami. Drake was sitting courtside. Golfer Brooks Koepka had prime seats.\n\nThey came to see a show.\n\nThe Heat made them wait until the end, but they didn't disappoint.\n\nTyler Herro scored 11 of his 24 points in the fourth quarter, Jimmy Butler returned from a three-game absence with a sprained ankle to add 23 and the Heat rallied to beat the Atlanta Hawks 124-118 on Friday night — moving within a game of Chicago for first place in the Eastern Conference.\n\n“I love the spirit of our group,\" said Heat coach Erik Spoelstra, after his team moved a season-high 12 games over .500 and won its fourth straight overall.\n\nOmer Yurtseven finished with 17 points and 11 rebounds for Miami. P.J. Tucker scored 17 points, and Max Strus added 16 — all in the first quarter — for the Heat. But it was defense that won it; Miami forced Atlanta into more fourth-quarter turnovers (7) than field goals (6).\n\n“When the game’s on the line, we’ve got guys that step up,” Butler said.\n\nTrae Young had 24 points for Atlanta, which rallied from 17 down early and led by 10 in the second half before letting it get away. De'Andre Hunter scored 20 points, Danilo Gallinari added 18, John Collins 16 and Kevin Huerter 15.\n\nAtlanta didn't have a field goal in the final 3:13, shooting just 30% in that final quarter.\n\n“We just made some mistakes going down the stretch,\" Hawks coach Nate McMillan said. “We didn't execute offensively, had a couple bad fouls, gave up a couple loose balls — those 50-50 balls, we've got get those — and just didn't execute. We just didn't execute in that fourth quarter and it cost us tonight.\"\n\nHerro made a pair of free throws with 46 seconds left to put Miami ahead to stay.\n\nMiami led 30-13 early, then gave up 57 points in the final 16 minutes of the half. Atlanta scored 40 in the second quarter alone, becoming the first team to score that many in a quarter against the Heat this season.\n\n“We played a good enough game to win this game,” McMillan said. “Now we have to build off of this.”\n\nBut the seeds for Miami's comeback were planted in the final seconds of the third quarter. Atlanta was poised to take a 10-point lead into the final quarter after Gallinari made a 3-pointer to make it 99-89 with 13.7 seconds in the third.\n\nThe Heat had other ideas.\n\nHerro made a 3-pointer with 8.5 seconds left, Dewayne Dedmon made a pair of free throws after getting fouled while jostling for a rebound with 1.9 ticks remaining — and in a span of 6.6 seconds Miami had cut a double-digit deficit in half.\n\nAnd it took until the final seconds, but the Heat finished it off.\n\n“We've just got to take all the wins we can, ugly or not,\" Strus said.\n\nTIP-INS\n\nHawks: Atlanta plays host to New York on Saturday, the first game between the teams since this week’s trade that sent Cam Reddish to the Knicks. The Knicks say Reddish (ankle) won’t play Saturday. ... The Hawks became the first team in the last 53 Heat home games to score 70 points on Miami by halftime. Atlanta’s lead was 70-64 at the break.\n\nHeat: Miami played 25 of its first 41 games on the road, and Friday began a stretch where the Heat will play eight out of nine at home. ... Yurtseven had gauze stuffed in his left nostril to stop bleeding after taking a hit early in the first quarter and Strus got a laceration under his right eye after taking an elbow from Collins in the third quarter.\n\nADEBAYO CLOSE\n\nSaturday will be the 22nd consecutive game that Miami center Bam Adebayo misses while recovering from thumb surgery. It might be the last. Heat coach Erik Spoelstra said Friday that Adebayo has been doing “three-a-day workouts just because he has so much extra energy.” But Spoelstra wouldn’t commit to a return Monday against Toronto, only conceding that “he’ll be back soon enough.”\n\nPRETTY GOOD\n\nThe Heat (15 for 16) and the Hawks (17 for 17) combined to shoot 32 for 33 from the foul line in the first half. That was the best combined shooting from the stripe in a first half, with that many makes, since Indiana and Detroit also went 32 for 33 in the first 24 minutes of a game on Dec. 13, 2006.\n\nUP NEXT\n\nHawks: Host New York on Saturday night.\n\nHeat: Host Philadelphia on Saturday night..\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "ReturnFromInjury",
+    "CoachComment",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.861635",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700567",
+  "espn_id": "400975313",
+  "date": "Jan 04, 2018",
+  "matchup": "OKC @ LAC",
+  "headline": "Westbrook triple-double leads Thunder past Clippers 127-117",
+  "cleaned_body": "LOS ANGELES --  This was the plan from the beginning. It just took a little longer to come together than Oklahoma City had hoped.\n\nThe Thunder added All-Stars Paul George and Carmelo Anthony to MVP Russell Westbrook and waited for the wins to roll up.\n\nAnd then they started 8-12.\n\nThey've hit their stride now, though, as evidenced by a 127-117 victory Thursday night that ended the Los Angeles Clippers' four-game winning streak.\n\nOklahoma City's \"Big Three\" was on full display: Westbrook had his 13th triple-double of the season with 29 points, 12 rebounds and 11 assists in his latest homecoming. George scored 31 points and Anthony added 22.\n\nThey almost dared the Clippers to outscore them.\n\n\"Absolutely, when we're on, all three of us hot like that, it's going to result in a lot of wins,\" George said.\n\nThe Thunder have won eight of their last 10 games.\n\n\"We found our rhythm,\" Anthony said. \"We still have some ways to go as a team, but we've figured out how we want to play and who we are.\"\n\nDespite a rash of injuries, the Clippers had also been playing well. They led by three going into the fourth quarter but then were immediately outscored 12-0, mostly by the Oklahoma City bench.\n\nDeAndre Jordan led the Clippers with a season-high 26 points and 17 rebounds. Lou Williams had 26 points and Blake Griffin scored 24, but it wasn't enough to keep up with the Thunder.\n\n\"You can't take all three of those guys away,\" Jordan said. \"We just tried to do the best we could making it tough for those guys to score.\"\n\nTIP-INS\n\nThunder: After scoring 24 points in his first career start Wednesday, rookie G Terrance Ferguson was back in the lineup. Oklahoma City coach Billy Donovan said he had little concern Ferguson would suddenly grow cocky. \"It's not really who he is,\" Donovan said. \"But I think this is a great opportunity from the standpoint of being able to put behind you (Wednesday) and focus on what's in front of you today.\" Ferguson had 11 points against the Clippers. ... G Alex Abrines missed his second consecutive game with a sore groin. Said Donovan: \"We don't feel like it's anything too severe.\"\n\nClippers: G Austin Rivers, originally diagnosed with a strained Achilles and expected back quickly, got a second opinion and now has been diagnosed with a bruised heel. The team called it posterior right ankle impingement. \"It's not the best news, obviously,\" said coach Doc Rivers, Austin's father. \"He'll be evaluated in two weeks, which doesn't sound great right now. I think we'll find out a lot more in a couple weeks.\" Austin Rivers had started every game he played since the third game of the season.\n\nGEORGE AT HOME\n\nThe star forward has not been shy about his desire to play in his hometown of Los Angeles, particularly for the Lakers. He can become a free agent at the end of the season.\n\n\"I can have love for somewhere,\" George said. \"I'm from here. That's a no-brainer. I'm going to be honest. It has nothing with me wanting to be in Oklahoma or not be in Oklahoma. I'm from here and love being here.\"\n\nANOTHER INJURY\n\nThe Clippers were already playing without guards Patrick Beverley (knee surgery) and Austin Rivers (bruised heel), along with injured forward Danilo Gallinari. Now, for the second time this season, Los Angeles has lost starting point guard Milos Teodosic.\n\nTeodosic did not return for the second half after aggravating his plantar fasciitis, which previously caused him to miss 22 consecutive games. \"He's day to day,\" Doc Rivers said. \"They will evaluate him tomorrow and we'll see, but it doesn't look great, to be honest.\"\n\nUP NEXT\n\nThunder: Complete their three-game road trip Sunday in Phoenix.\n\nClippers: Host the Golden State Warriors on Saturday.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "TripleDouble",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.746875",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "0022100473",
+  "espn_id": "401360297",
+  "date": "Dec 22, 2021",
+  "matchup": "MIL vs. HOU",
+  "headline": "Bucks snap 2-game skid with 126-106 victory over Rockets",
+  "cleaned_body": "MILWAUKEE -- — After learning while in quarantine that his grandmother died, Wesley Matthews returned from health and safety protocols and delivered a performance to honor her.\n\nMatthews scored a season-high 16 points and the Milwaukee Bucks beat the Houston Rockets 126-106 on Wednesday night to snap a two-game skid.\n\n“It meant the world to me because my grandma meant the world to me,” Matthews said. “What brought her the most joy was watching me play. There was no doubt. I knew what I had to do.”\n\nJrue Holiday led the Bucks with 24 points. Khris Middleton added 23 after missing three games with a hyperextended left knee. But it was Matthews’ performance that had the Bucks searching for superlatives.\n\n“He’s one of the ultimate warriors I’ve ever been around,” Bucks coach Mike Budenholzer said. “I have so much respect for him. So glad he’s here. That’s one of the more impressive things I’ve seen in a long time, for a lot of reasons.”\n\nMatthews hadn’t scored more than three points in any of the other four games he had played since signing with the Bucks on Dec. 3, but the 35-year-old guard was in peak form Wednesday.\n\nHe shot 6 of 7 overall and 4 of 5 from 3-point range as he returned to action after a five-game absence.\n\n“I didn’t know what to expect, what kind of emotion,” Matthews said. “The main thing is she just wanted me to hustle and work. That’s what I was going to do. Whether I made the shot or didn’t make the shot, I was going to leave everything out there because I know what brought her joy. I’m hoping we did that tonight with a win.”\n\nThe Bucks were missing two-time MVP Giannis Antetokounmpo for a fourth straight game as he remains in the NBA's health and safety protocols along with teammates Bobby Portis and Donte DiVincenzo.\n\nHouston wasn’t missing anyone for reasons related to COVID-19, but Jalen Green hasn’t played since Nov. 24 due to a strained left hamstring and Kevin Porter Jr. has been out nearly three weeks with a bruised left thigh.\n\nChristian Wood led the Rockets with 20 points and 11 rebounds. Houston also got 12 points each from Eric Gordon and KJ Martin plus 10 apiece from Garrison Mathews and Alperen Sengun.\n\nMilwaukee's DeMarcus Cousins had 18 points and eight rebounds. Jordan Nwora added 18 points and nine rebounds for the Bucks.\n\nThe Bucks scored 16 straight points in the second quarter to seize control. Holiday scored seven points during the stretch, and Cousins added five with a three-point play and a dunk.\n\nNwora provided the most memorable play of that spurt by sinking a 3-pointer after making a nifty step-back move that sent Houston’s Armoni Brooks sprawling to the floor.\n\nHouston took more than half its shots from 3-point range but made just 28.9% of its attempts from beyond the arc.\n\n“Their defense is proven,” Rockets coach Stephen Silas said. “That’s what they do. They take away the paint.”\n\nTIP-INS\n\nRockets: Wood had another big game while continuing to deal with left knee tendinitis, which caused him to miss two games last week. Wood has scored at least 20 points in five of the last six games he has played.\n\nBucks: Grayson Allen didn't play. Budenholzer said Allen was dealing with an illness unrelated to COVID-19. ... The Bucks are playing on back-to-back days for the third time in the last two weeks. ... Nwora has scored in double figures for a career-high four straight games. … The Bucks completed a regular-season sweep of the Rockets. The Bucks won 123-114 at Houston on Dec. 10 to snap the Rockets’ seven-game winning streak.\n\nUP NEXT\n\nRockets: At Indiana on Thursday night.\n\nBucks: At Dallas on Thursday night.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.942485",
+  "pipeline_version": "v1"
+}

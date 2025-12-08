@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300828",
+  "espn_id": "400489701",
+  "date": "Feb 22, 2014",
+  "matchup": "DET vs. DAL",
+  "headline": "Dirk Nowitzki, Vince Carter pace Mavericks against Pistons",
+  "cleaned_body": "AUBURN HILLS, Mich. -- Samuel Dalembert had more offensive rebounds than Andre Drummond, Greg Monroe and Josh Smith combined.\nThat was probably the most telling stat from Saturday's game, which Dalembert's Dallas Mavericks won 113-102 over a Detroit team hurt throughout the night by Drummond's foul trouble. Dirk Nowitzki scored 24 points and Vince Carter added 18 for Dallas.\n\"If you're able to get them in foul trouble early, they kind of slow things down a little bit and become less aggressive,\" Dalembert said. \"We knew what we were getting into, and we were ready for the fight.\"\nDallas had surprising success on the boards against Detroit's imposing front line. The Mavericks finished with 16 offensive rebounds. The Pistons, who came in as the NBA's top team in that department, had only nine.\n\nDrummond finished with only eight points and three rebounds in just under 20 minutes of action.\n\"When you get in foul trouble, it changes your aggression, but it also keeps you from ever getting in the flow of the game,\" Detroit interim coach John Loyer said. \"Andre is a guy who is normally always into the flow, but he wasn't able to do that tonight, whether because of the fouls or something else. I know he'll be in the gym tomorrow making sure it doesn't happen again.\"\nSmith kept the Pistons in the game for a while and finished with 32 points, his most since signing with Detroit last offseason.\nMonta Ellis had 12 points and 13 assists for the Mavericks.\nDallas leads ninth-place Memphis by two games in the Western Conference playoff race. The Pistons, meanwhile, fell 3 1/2 games behind Atlanta for the final playoff spot in the East.\nDallas led by 13 in the third quarter, and after the Pistons closed within four in the fourth, Nowitzki connected from beyond the arc to give the Mavericks a 96-89 lead. Dallas was able to keep Detroit at arm's length after that.\n\"We did a pretty good job of not letting them get too much momentum,\" Dallas coach Rick Carlisle said. \"When you let them get momentum and get in transition they convert quick, they can hit 3s, they throw lobs, and then it turns into a circus.\"\nThe Pistons did have 24 fast-break points, but they went 2 of 11 from 3-point range. Detroit's Brandon Jennings had only two points and three assists on 1-of-7 shooting, and for a second straight night, the Pistons went mostly with Will Bynum at point guard with the game on the line. Bynum had 17 points and eight assists.\n\"We played a tough team tonight, and they beat us,\" Bynum said. \"We had the energy in spurts tonight, but we've got to have that for 48 minutes and we aren't doing that.\"\nEllis scored 10 points in the fourth quarter, and the Mavericks benefited from Drummond's absence throughout the game.\nGreg Monroe had 17 points and 17 rebounds for the Pistons, but he had little help on the boards. Smith, for all his scoring, finished with only three rebounds, and he didn't score a point in the final period.\nDallas had six players in double figures. Dalembert had 12 points and 11 rebounds -- six at the offensive end. Jose Calderon added 11 points and Shawn Marion scored 10.\nThe Mavericks had 31 assists, one night after reaching a season-high 39 in a win at Philadelphia. Ellis had 11 assists in the first half against the Pistons, and Dallas led 64-54 at halftime.\nSmith -- who had 24 points on 11-of-13 shooting in the half -- kept Detroit from a bigger deficit. The Pistons were only down 39-36 when Drummond picked up his third foul with 9:03 left in the second quarter. The Mavericks slowly extended the margin after that.\nGame notes\nDallas improved to 17-8 against the East this season. ... Carter appeared to be hit in the midsection in the first quarter and grimaced as he came up the court. Then he took a pass and immediately spotted up for a 3-pointer that gave Dallas a 29-25 lead.",
+  "tags_rule": [
+    "CoachComment",
+    "ThreePointExplosion",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.180687",
+  "pipeline_version": "v1"
+}

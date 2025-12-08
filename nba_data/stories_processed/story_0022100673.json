@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100673",
+  "espn_id": "401360492",
+  "date": "Jan 19, 2022",
+  "matchup": "CHI vs. CLE",
+  "headline": "DeRozan, Vucevic lead way as Bulls hold off Cavs 117-104",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan understood the Chicago Bulls needed a win in a big way. A huge run to end the game made it happen.\n\nDeRozan scored 30 points, Nikola Vucevic added 24 points and 12 rebounds, and the struggling Bulls finished with a 14-2 charge to hold off the surging Cleveland Cavaliers 117-104 on Wednesday night.\n\nThe Bulls steadied themselves after losing a season-high four straight and falling into a first-place tie with Miami in the Eastern Conference. It was a welcome reprieve from a rough stretch.\n\nThey got pounded twice at home, losing by 26 to Brooklyn and by 42 to Golden State in their worst defeat of the year, then lost by two at Boston on a late rally by the Celtics. The red-hot Grizzlies beat them 119-106 in Memphis on Monday afternoon.\n\n“Getting our butt whooped, giving up a tough one in Boston, we knew coming back on our home floor we had to make up for it,” DeRozan said.\n\nChicago answered in a big way when Cleveland pulled within 103-102 on a 3-pointer by former Bulls player Lauri Markkanen and free throw by Isaac Okoro.\n\nAyo Dosunmu nailed a 3-pointer with just over 4 minutes remaining to start the decisive rally. Vucevic hit two 3s and a layup during that stretch, helping Chicago stop Cleveland’s season-high, five-game win streak.\n\n“It's an example of what it takes to win in this league,” Cavaliers coach J.B. Bickerstaff said. “They're a really good team, and they have really good players. To go on the road against a team that had lost four games in a row, they were gonna come out with that sense of purpose. Now, it's our opportunity to understand it and see if we can figure out our way through it. We'll keep getting tested, but I trust in our guys that every time we've been tested, we've responded.”\n\nDosunmu scored 18, hitting three of Chicago’s 10 3s. Coby White added 16 points and four steals.\n\nAlex Caruso scored nine points over 22:55 in his first appearance in a month. And the Bulls turned 15 turnovers by the Cavaliers into 24 points on the way to a win they sorely needed.\n\n“We lost four in a row, and even though I didn't play, I feel those,” said Caruso, who missed 13 games in a row because of a sprained left foot and then COVID-19. “My attitude was find a way to win no matter what.”\n\nMARKKANEN LEADS CAVS\n\nMarkkanen led Cleveland with 28 points. The 7-footer from Finland made five 3s in his first game in Chicago and second against the Bulls since a sign-and-trade deal in August.\n\nDarius Garland had 20 points and 12 assists. Evan Mobley added 18 points.\n\nDeRozan had 16 in the second quarter. Chicago ended the half on a 10-0 run to go up 58-49, and the Bulls withstood several pushes the rest of the way.\n\nTIP-INS\n\nCavaliers: G Rajon Rondo (sore right hamstring) worked out with the G League's Cleveland Charge on Wednesday, and the feedback was positive, Bickerstaff said. The four-time All-Star missed his fifth consecutive game.\n\nBulls: Zach LaVine (sore left knee) and Lonzo Ball (bruised left knee) missed their third game in a row and will not travel to Milwaukee, Orlando and Oklahoma City, coach Billy Donovan said. LaVine has been shooting free throws and doing strength training, though not running or jumping. Ball changed treatment regimens, and his timeline to return depends on how he responds. ... The Bulls signed F Malcolm Hill to a two-way contract. The Illinois native agreed to a 10-day contract with Chicago last week. ... The Bulls held a moment of silence for longtime Chicago sports radio reporter and talk show host Les Grobstein, who long ago recorded Lee Elia's famous profane postgame rant about Cubs fans. Grobstein, who was 69, died Sunday at his home.\n\nUP NEXT\n\nCavaliers: Host Oklahoma City on Saturday.\n\nBulls: Visit Milwaukee on Friday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.405533",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700028",
+  "espn_id": "400974779",
+  "date": "Oct 21, 2017",
+  "matchup": "ORL @ CLE",
+  "headline": "Streak over: Magic end 17-game skid to Cavs, 114-93",
+  "cleaned_body": "CLEVELAND --  The Orlando Magic certainly know how to end a long losing streak.\n\nNikola Vucevic scored 23 points and the Magic snapped a 17-game skid against the Cleveland Cavaliers, routing the defending Eastern Conference champions 114-93 on Saturday night.\n\nOrlando's players knew their first win over Cleveland since Nov. 23, 2012, was more than your typical early regular-season victory.\n\n\"This game had lots of positives, one of the most positives we've had in a long time,\" Vucevic said. \"I'm really happy for this team because we haven't had success against them for a while.\"\n\nThe Magic never trailed and built a 21-point lead late in the first quarter. Orlando led 36-18 after the first, hitting 14 of 24 from the field -- eight of them 3-pointers. Orlando made 17 of 35 3-pointers in all, and took their biggest lead, 106-69, midway through the fourth when both teams cleared their benches.\n\nLeBron James scored 14 points in the first quarter and finished with 22 as the Cavaliers lost for the first time in three games.\n\n\"They came out and gave us one from the beginning of the game and they kept it going,\" James said. \"We were a couple steps behind and they made us pay.\"\n\nCavaliers coach Tyronn Lue called timeout less than five minutes into the game when Orlando took a 15-4 lead. The Magic continued to build the margin, which reached 42-20 early in the second quarter on Bismack Biyombo's tip-in.\n\nThey outplayed us,\" Lue said. \"They kicked our butt.\"\n\nCleveland trailed 56-45 at halftime and cut the lead to 65-58 midway through the third when James blocked D.J. Augustin's drive and Dwyane Wade hit a 3-pointer. The Magic answered with a 12-0 run, including a banked-in 30-footer from Augustin and two baskets by Vucevic.\n\n\"Last year, we probably would've crumbled when they got the lead down,\" Augustin said. \"We've got a lot of goals in mind this season, but we're staying humble.\"\n\nVucevic, a night after scoring a career-high 41 points in a loss to Brooklyn, was 11 of 16 from the field.\n\nJonathon Simmons scored 19 points while Evan Fournier added 13 for Orlando. Iman Shumpert scored 21 points, including 15 in the fourth quarter, and Kevin Love had 18 for Cleveland.\n\nDerrick Rose missed the game for Cleveland with a sprained left ankle after being fouled by Milwaukee's Greg Monroe on Friday.\n\n\"They were far from their best and we understand that,\" Orlando coach Frank Vogel said. \"We need to keep that in perspective.\"\n\nTHE REAL REASON\n\nVogel called timeout after the Cavaliers cut the lead to seven in the third quarter. He joked his speech in the huddle keyed Orlando's surge that put the game away.\n\n\"I just inspired them during that stretch,\" he said. \"It was all me, really.\"\n\nEXPANDING HIS GAME\n\nThe 7-foot Vucevic hit 6 of 8 3s on Friday and added another against Cleveland.\n\n\"A guy makes six threes, you have to respect that,\" Lue said. \"If you put a smaller guy on him he can go to the block. If you put bigger guys on him he's able to pop and get off shots.\"\n\nTIP-INS\n\nMagic: F Aaron Gordon (sore left ankle) did some work on the court before the game, but sat out for the second night in a row. ... G Elfrid Payton (strained left hamstring) did not play after being injured Friday at Brooklyn. An MRI revealed a mild to moderate strain. No timetable was given for his return.\n\nCavaliers: Rose's injury moved Jose Calderon, the only other true point guard on the roster, into the starting lineup. The veteran was pulled five minutes into the game after missing two shots and didn't start the third quarter when Shumpert ran the offense. Calderon returned in the fourth quarter.\n\nUP NEXT\n\nMagic: Host Brooklyn on Tuesday.\n\nCavaliers: Host Chicago on Tuesday.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.681286",
+  "pipeline_version": "v1"
+}

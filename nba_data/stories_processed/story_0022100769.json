@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100769",
+  "espn_id": "401360588",
+  "date": "Feb 01, 2022",
+  "matchup": "CHI vs. ORL",
+  "headline": "Bulls hold off Magic's 4th quarter rally for 126-115 win",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan scored 29 points, Zach LaVine added 24 and the Chicago Bulls beat the Orlando Magic 126-115 on Tuesday night.\n\nDeRozan scored 20 points in the first half, before the Bulls survived a frantic rally by the Magic midway through the fourth quarter.\n\nWendell Carter Jr. scored 24 points for the Magic, including 11 in the first quarter.\n\nThe Bulls, who were up 113-103 with 7:38 left in the game, failed to score a field goal in the next four minutes. The Magic tied the game, but LaVine’s baseline shot with 3:35 left snapped the Bulls’ drought and enabled them to regain a 117-115 lead.\n\nAyo Dosunmu made two shots to highlight an 11-0 run to finish the game.\n\n“One thing that I love about him is I think there’s a bigger purpose and a bigger mission for him, where it’s not necessarily a play or a shot that he’s playing for,” Bulls coach Billy Donovan said. “He’s playing for the team. He’s playing to make guys around him better.”\n\nThe Bulls have won four of their last five. The Magic have dropped four of their last six.\n\nDeRozan has scored 70 points in his last two games against the Magic.\n\nThe Bulls led by nine on three occasions in the third quarter, highlighted by a fadeaway shot by DeRozan with 0.7 seconds left for a 103-94 lead.\n\nBaskets by Coby White and DeRozan gave the Bulls their first double-figure lead to open the fourth quarter.\n\nOrlando shot 60.9% in the first quarter and made 28-of-50 field-goal attempts in the first half.\n\nBut the Magic didn’t shoot their first free throw until 3:17 remaining in the second quarter, when Cole Anthony sank a shot to complete a three-point play.\n\nThe Bulls went on an 7-2 run in the final 1:09 to take a 70-63 halftime lead. Anthony was assessed a technical foul after hanging on the rim too long following his dunk of a missed shot.\n\nDeRozan added two baskets, including a three-point play with 36.6 left, and Carter. Jr. was called for a technical after throwing the ball against the stanchion.\n\n“DeRozan is having an MVP-type year,” Magic coach Jamahl Mosley said. “Our ability to guard was challenged.”\n\nThe Bulls avenged a 114-95 loss to the Magic on Jan. 23 and won the season series 3-1.\n\nTIP-INS\n\nMagic: Anthony and rookies Franz Wagner and Jalen Suggs were selected to the Rising Stars game Feb. 18 at Cleveland, featuring the top first and second-year players. Mosley believes the honor also will serve as a learning experience during All-Star weekend. “You’re listening to other vets talk about their experiences,” Mosley said. “And so it’s great for those guys to feel a part of that and get that understanding in the league as they grow.”\n\nBulls: Javonte Green was cleared to play for up to 30 minutes, coach Billy Donovan said. Green is coping with a sore ankle. ... Dosunmu was selected to the Rising Stars game. “He’ll learn something from it,” Donovan said, “And I think that will always be something that he’ll always do. It’s just kind of who he is as a person.” ... Should the Bulls hold the best record in the Eastern Conference through Sunday, Donovan would coach the East in the All-Star Game Feb. 20.\n\n“It would be a great honor to be able to do something like that,” Donovan said. “I think it speaks to the players on the team. It’s probably something we’d all share it because you got to finish in first place in the East.”\n\nUP NEXT\n\nMagic: At Indiana on Thursday night.\n\nBulls: At Toronto on Friday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "ReturnFromInjury",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "ReturnBoost",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.643697",
+  "pipeline_version": "v1"
+}

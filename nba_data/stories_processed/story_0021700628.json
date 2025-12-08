@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700628",
+  "espn_id": "400975374",
+  "date": "Jan 13, 2018",
+  "matchup": "SAC @ LAC",
+  "headline": "Clippers get to .500 with 126-105 win over lowly Kings",
+  "cleaned_body": "LOS ANGELES --  Being .500 is hardly a team's goal, although with the kind of injury-wracked season the Clippers are having, it's somewhat of an accomplishment.\n\nLou Williams scored 26 points in the Clippers' 126-105 win over the Sacramento Kings on Saturday, giving Los Angeles a 21-21 mark at the season's midpoint.\n\n\"With all the guys that are out, we're just trying to hold the fort,\" coach Doc Rivers said.\n\nWillie Reed added 14 points and 13 rebounds making his first start of the season in place of DeAndre Jordan, who has a sprained left ankle. Blake Griffin had 11 points and nine assists as one of eight Clippers in double figures.\n\n\"Everyone can step up, it doesn't matter who it is,\" Reed said. \"I just try to be ready when the opportunity presents itself.\"\n\nTheir second game in three days against the last-place Kings was just what the doctor ordered for the Clippers.\n\nBesides Jordan, they were without Austin Rivers and Danilo Gallinari. Patrick Beverley had season-ending knee surgery while C.J. Wilson is out indefinitely.\n\nAfter the Kings scored the game's first four points, it was all Clippers. They shot 55 percent in building a 21-point lead in the first half, and were up 64-45 at the break.\n\nWillie Cauley-Stein had 23 points and 13 rebounds for the Kings in their fourth straight loss. De'Aaron Fox added 17 points and 10 assists.\n\n\"Sometimes when a team comes out and shoots the ball like the way they were doing, it's kind of difficult to bring that energy,\" Fox said, \"especially when we think we're playing good defense and then Lou hits the off-balance shot, but that's what he does.\"\n\nThe Kings picked up their scoring in the third, losing the quarter 28-23, but they still trailed 91-68 going into the fourth.\n\nReed and Griffin rested in the fourth, when the Clippers were outscored 37-35.\n\nLos Angeles shot 56 percent from the floor for the game and outscored the Kings 60-50 in the paint.\n\nTIP-INS\n\nKings: They've lost five in a row to the Clippers and eight of the last nine. ... The Kings lost 121-115 when the teams played Thursday.\n\nClippers: Doc Rivers said he didn't think Jordan will be out long, but added, \"I can't guarantee it.\" ... Williams has scored 20 or more points off the bench in nine straight games, moving ahead of New Orleans' Jrue Holiday for the longest such streak among active players. ... Jordan's next game will tie him with Randy Smith for most played in franchise history at 715. ... Jordan is already the first player in franchise history to be with the team for 10 seasons.\n\nSCUFFLING KINGS\n\nThe Kings fell to 13-29 and 6-16 on the road, and lost all four of their games against the Clippers this season.\n\n\"Like, enough is enough,\" Cauley-Stein said. \"Coach (Dave Joerger) is at that point where he's not going to play you if you're not doing the right thing, and that's how it should be. Kind of like a college team. If you're not doing the job right, next man up and you'll get your turn when it comes back around.\"\n\nRARE MISS\n\nJordan sat out because of injury for the first time in his 10-year career. It was his first missed game of the season and just his second over the last two years.\n\nUP NEXT\n\nKings: At Oklahoma City on Monday.\n\nClippers: Host the Rockets on Monday in Chris Paul's return to Staples Center after being traded in June.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.891819",
+  "pipeline_version": "v1"
+}

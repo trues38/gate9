@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100968",
+  "espn_id": "401360787",
+  "date": "Mar 07, 2022",
+  "matchup": "DET vs. ATL",
+  "headline": "Cade Cunningham scores 28, Pistons beat Hawks 113-110 in OT",
+  "cleaned_body": "DETROIT -- — Cade Cunningham had 28 points and 10 assists, lifting the Detroit Pistons to a 113-110 overtime win over the Atlanta Hawks on Monday night.\n\n“He’s the Rookie of the Year,\" Pistons coach Dwane Casey. “It’s not even close.\"\n\nJerami Grant scored 23 and reserve Marvin Bagley had 19 points for the Pistons, who have won a season-high three straight and six of their last eight games.\n\n“I wish it was back in November, but it takes time for guys to grow,\" Casey said. “I’m really optimistic about ... the way they’re growing.\"\n\nAtlanta's Bogdan Bogdanovic had 22 points before fouling out with 1.6 seconds left, drawing a whistle while defending Cunningham on an inbounds pass.\n\n“I feel bad that I did it, but I didn’t have any intention of fouling the guy,\" Bogdanovic said.\n\nThe Hawks, likely competing for the last spot in the Eastern Conference playoffs, had chances to win late in regulation and to extend the game to another overtime against a team playing only for pride.\n\nBut Trae Young and John Hunter each missed a 3-pointer in the final seconds of the game, and Hunter split free throws with 1.6 seconds left in regulation. Young also missed a jump shot with 6 seconds left in the fourth quarter to hurt his team's chances of winning a third straight game.\n\n“You have to have the same mindset every game, even against teams that are rebuilding,” said Young, who had 14 points on 5-of-20 shooting and 12 assists.\n\nAtlanta led 30-29 after the first quarter, when Young accounted for most of its offense  with eight points and four assists. Reserve Danilo Gallinari made three straight 3-pointers to put the Hawks ahead by nine early in the second quarter.\n\nYoung had both knees wrapped with heating pads while he seat on the bench for the first few minutes of the second half. After starting 3 of 3 and scoring eight points in the first 3:11, the dynamic guard missed his next 10 shots. He ended his drought with a game-tying shot in the lane with 4:50 to go in the fourth.\n\n“We had it going early, but we weren't able to sustain it,\" Young said.\n\nINJURY REPORT\n\nPistons center Isaiah Stewart left the game midway through the second quarter after grabbing his right knee in pain, and didn’t return.\n\nTIP-INS\n\nHawks: Bogdanovic started in place of injured guard Kevin Hueter, who missed the game with a sore left shoulder. Bogdanovic connected on a 3-pointer for the 26th game in a row, one short of the best streak of his five-year NBA career. ... Reserve C Onyeka Okongwu returned after missing two games in concussion protocol. ... Collins played in his second straight game after missing six in a row with a strained right foot. ... Hunter had 15 points after matching his season high with 26 points in his previous game.\n\nPistons: Cunningham played in his 50th game on Friday and ended it with 815 points, 289 rebounds and 255 assists. Magic Johnson and Luka Doncic are the two other players who were 20 or younger in NBA history to have that many points, rebounds and assists in their first 50 games. In Cunningham's 51st game, he impressed Young. “He’s a very solid player,\" Young said. “He had a great game. He was controlling the game for them.\" ... G Hamidou Diallo did not play due to a non-COVID illness. Diallo's absence gave rookie and former Michigan standout Isaiah Livers a chance to play 25 minutes; he scored nine points, including a go-ahead 3-pointer with 5:27 left in the fourth quarter.\n\nUP NEXT\n\nHawks: Play at Milwaukee on Wednesday night.\n\nPistons: Host Chicago on Wednesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.104004",
+  "pipeline_version": "v1"
+}

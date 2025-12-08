@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100102",
+  "espn_id": "401359926",
+  "date": "Nov 01, 2021",
+  "matchup": "LAC vs. OKC",
+  "headline": "George scores 32, Clippers rally late in 4th to beat Thunder",
+  "cleaned_body": "LOS ANGELES -- — With his team in a shooting slump to start the season and 3 of 21 from 3-point range during the first half Monday night, Los Angeles Clippers coach Ty Lue kept his message simple at halftime.\n\n“There was nowhere to go but up,” he said.\n\nEven though the Clippers faced a nine-point deficit late in the fourth quarter, they found their shooting touch just in time and were able to rally for a 99-94 victory over the Oklahoma City Thunder.\n\n“I thought early on, we had great looks. ... Our bench guys started laughing, ‘We’re getting wide-open shots and we can’t make them,'\" Lue said. “I felt like we were in a good place.”\n\nLos Angeles came in 26th in the NBA in field goal shooting and was converting only 31.7% of its 3-pointers after making a record 41.1% last season. It appeared to be more of the same against the Thunder, especially after Josh Giddey’s jumper with 2:44 remaining put Oklahoma City in front 91-82.\n\nBut the Clippers (2-4) finally found their rhythm in the last three minutes as they went on a 17-3 run to take the lead. They were 12 of 21 on 3s in the second half, including 6 for 9 in the fourth quarter.\n\nPaul George scored 32 points, including 15 in the final period. George, who also had nine rebounds and seven assists, scored eight points during the decisive spurt, including a 10-footer with 1:08 left to give Los Angeles a 93-92 lead, its first since early in the first quarter.\n\n“Our team was playing good defense. We were holding them. We were getting stops, so we couldn't finish with empty possessions,” said George, who has scored at least 29 points in four of the Clippers' six games. “We had to stay confident that shots were going to fall.\"\n\nReggie Jackson added 15 points, while Luke Kennard and Nicolas Batum scored 14 apiece.\n\n“There was almost a dark cloud over us. We tried to keep it lighthearted,” Jackson said about the shooting woes. “As long as Coach kept having confidence in us.”\n\nShai Gilgeous-Alexander had 28 points, including 15 in the third quarter for Oklahoma City (1-6), which led by 16 in the second. Darius Bazley and Giddey scored 15 apiece.\n\nThe Clippers cut the Thunder's lead to two a couple of times in the fourth quarter, but Oklahoma City was able to go on runs to get some breathing room. However, the Thunder weren't able to fend off one last Los Angeles rally.\n\n“We didn't make the plays we needed to make. Overall we gave ourselves a chance to win, but they went and got the game and we didn't,” Thunder coach Mark Daigneault said. “We showed great poise throughout the game until that last stretch. We would have liked to close it but at the end of the day it is progress that we are putting ourselves in these situations on the road against a good team.”\n\nUNDER 100\n\nOklahoma City snapped a 43-game streak dating to last season of allowing 100 or more points.\n\nREBOUNDING IMPROVEMENT\n\nLos Angeles was outrebounded by at least 20 in losses to Cleveland and Portland, but broke even against the Thunder as both teams had 51 boards.\n\nRARE AIR\n\nDerrick Favors’ 3-pointer during the first quarter gave the Thunder a 9-5 lead and was his first make from beyond the arc since the 2019-20 season. The 11-year veteran has hit only 37 3-pointers in his career.\n\nTIP-INS\n\nThunder: G Lu Dort missed the game due to a shoulder injury sustained Saturday at Golden State. ... F Gabriel Deck was also out of the lineup due to a bruised left heel. ... Aleksej Pokusevski had nine points and an assist in the second quarter.\n\nClippers: Los Angeles set a season high for rebounds, including 12 from Isaiah Hartenstein. It was the third-year center's eighth career game with 12 or more boards. ... Jackson went over 8,000 career points.\n\nUP NEXT\n\nThunder: Remain in Los Angeles to face the Lakers on Thursday.\n\nClippers: Visit Minnesota on Wednesday for the first of back-to-back games against the Timberwolves.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.667796",
+  "pipeline_version": "v1"
+}

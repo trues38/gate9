@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100682",
+  "espn_id": "401360501",
+  "date": "Jan 20, 2022",
+  "matchup": "PHX @ DAL",
+  "headline": "Suns rally late to beat Mavs 109-101, sweep 5-game road trip",
+  "cleaned_body": "DALLAS -- — Devin Booker scored 28 points, Chris Paul had 20 points and 11 assists with no turnovers, and the Phoenix Suns rallied late to beat the Dallas Mavericks 109-101 on Thursday night.\n\nIn a matchup of two of the NBA’s hottest teams, Phoenix (35-9) finished a sweep of its season-high, five-game road trip and won its ninth straight against the Mavericks by outscoring Dallas 35-19 in the fourth quarter. Paul scored 10 points in the fourth.\n\n“Chris knows when to go,” Dallas coach Jason Kidd said. “He showed that again in the fourth quarter.”\n\nLuka Doncic scored 28 points, Jalen Brunson added 19 and Kristaps Porzingis had 18 points and 11 rebounds for the Mavericks (26-20), who had won four straight games and 10 of their last 11.\n\n“That’s a team that’s been running through the league here of late,” Suns coach Monty Williams. “To beat them on their home floor like that is huge.”\n\nAfter Mikal Bridges’ floater gave Phoenix a 101-99 lead with 2:56 left, Bismack Biyombo – playing only his seventh game this season after joining the Suns this month – followed his free throw with a dunk to give Phoenix a 104-99 lead. Paul’s 3-pointer with 19 seconds to go was the clincher, putting the Suns ahead 107-99.\n\nDoncic had 24 points through three quarters – giving him 20 or more points in nine straight games – but went to the bench in the period’s closing seconds after hurting his neck on a hard fall. He played eight minutes in the fourth, hitting 2 of 3 shots from the floor with none behind the arc.\n\n“My neck’s not an excuse,” said Doncic, who had eight turnovers and said he might have lost some steam in the fourth quarter. “But man, they’re the best record in the league. We were right there.”\n\nThe Suns won despite shooting a season-worst 22.2% on 3-pointers (8 for 36), including missing 17 straight in the first half. But they forced a Mavericks team that was second in the NBA averaging 12.4 turnovers into 19 and outscored Dallas 31-7 on points off turnovers.\n\nPaul has an NBA-best 49 career games with double-digit assists and no turnovers.\n\n“He pushes everybody,” Booker said of the 11-time All-Star. “He’s very vocal.”\n\nBY POPULAR DEMAND\n\nWith the Suns leading 104-99 in the final minute, Booker was called for a blocking foul as Dorian Finney-Smith drove the baseline. Every Phoenix player on floor motioned to the bench that the call should be challenged.\n\n“It’s hard to trust the players because no player in the history of the league has ever committed a foul,” Williams said.\n\nBut he did trust them – along with his gut and from what he heard from down the bench – and the play was reversed into an offensive foul.\n\nTHE PORZINGIS HAT TRICK?\n\nDuring Dallas’ 14-0 run to take a 42-38 lead late in the second quarter, the 7-foot-3 Latvian had a block on JaVale McGee, scored on an alley-oop from Maxi Kleber and then popped a 25-foot 3-pointer.\n\nTIP-INS\n\nSuns: They’re one win short of the franchise’s best record through 44 games. Being 26 games over .500 is the most since finishing last season’s shortened schedule 51-21. … Played their second straight game without starting center Deandre Ayton, their second-leading scorer and top rebounder (right ankle sprain).\n\nMavericks: Had won six consecutive home games, including wins over Golden State and Chicago. … Finished a home back-to-back after beating Toronto by four points on Wednesday night. … Played their second straight game without reserve guard Sterling Brown (sore left foot).\n\nUP NEXT\n\nSuns: Host Indiana on Saturday for their first home game since Jan. 8.\n\nMavericks: Home on Sunday against Southwest Division leader Memphis to finish a five-game homestand.\n\n------",
+  "tags_rule": [
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.487145",
+  "pipeline_version": "v1"
+}

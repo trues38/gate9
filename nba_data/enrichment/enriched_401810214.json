@@ -1,0 +1,28 @@
+{
+  "game_id": "401810214",
+  "home_id": 30,
+  "away_id": 7,
+  "referee_context": {
+    "crew_chief": "Tony Brothers",
+    "regime": {
+      "style": "Volatile Interventionist",
+      "home_win_pct": 55,
+      "foul_rate": "High",
+      "variance_impact": "Chaos Generator",
+      "pace_impact": "Mixed"
+    }
+  },
+  "market_context": {
+    "provider": "Draft Kings",
+    "details": "DEN -10.5",
+    "overUnder": 234.5
+  },
+  "injury_context": {
+    "home": [],
+    "away": []
+  },
+  "rosters": {
+    "home": [],
+    "away": []
+  }
+}

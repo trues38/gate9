@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700516",
+  "espn_id": "400975262",
+  "date": "Dec 28, 2017",
+  "matchup": "ORL vs. DET",
+  "headline": "Magic beat Pistons 102-89 to snap nine-game losing streak",
+  "cleaned_body": "ORLANDO, Fla. --  The Orlando Magic got their first win in more than three weeks thanks to major contributions from some unlikely sources.\n\nPoint guard Elfrid Payton and reserve centers Bismack Biyombo and Marreese Speights teamed up to spark the Magic to a 102-89 victory over Detroit that ended a nine-game losing streak.\n\nPayton had 19 points, eight assists and eight rebounds, while Biyombo and Speights combined for 28 points and 18 rebounds as subs for injured starting center Nikola Vucevic.\n\nEvan Fournier scored 17 points and Aaron Gordon had 14 for Orlando, but it was the Magic's backup centers who made the difference in the game.\n\n\"The last couple of games it's been about other guys trying to pick up the scoring load,\" Magic coach Frank Vogel said. \"Biz and Mo were both great tonight. We had our best passing game in a few weeks and it resulted in better shooting.\n\n\"And that stretch toward the end of the third quarter and into the fourth where the ball was really moving, the guys were not looking to force things and we got the payoff.\"\n\nSpeights helped the Magic seize control of the game at the end of the third period and start of the fourth. He scored Orlando's last nine points in the third quarter, nailed a 3-pointer to start the fourth quarter, then handed out an assist D.J. Augustin for another 3-pointer as the Magic turned a five-point deficit into an 86-73 lead.\n\n\"When you're in this league, you have to find something you're really good at and that's something I think I'm good at,\" Speights said after scoring 16 points and grabbing five rebounds. \"Now that (Vucevic) is out, I know I'm going to get the opportunity to play every night. So when you know you'll get to play, your routine can be good and you'll have confidence.\"\n\nThe Pistons, who rallied successfully from double-digit deficits early in the game, never got closer than eight points in the final nine minutes of the game.\n\nTobias Harris scored 21 points for Detroit, which had won five of six. Andre Drummond had 17 points and 18 rebounds, and Ish Smith contributed 13 points, seven rebounds and five assists.\n\nBut Detroit was slow at both ends of the court in the fourth quarter. The Pistons didn't cover the 3-point line at all and Orlando punished them with five 3-pointers in the final period.\n\nAt the offensive end, Detroit hit just five of 20 shots (25 percent) and got outscored 25-16. Detroit's reserves were just 3 for 22 from the field for the game.\n\n\"We don't need everybody to have great nights, but we can't have that many guys have that bad a night and think we're going to get wins,\" Detroit coach Stan Van Gundy said. \"I didn't think many of the guys brought very good energy.\"\n\nTIP-INS\n\nPistons: PG Reggie Jackson, who had a season-high 13 assists in the win over Indiana on Tuesday, suffered a Grade 3 ankle sprain in the third quarter of that game and will miss six to eight weeks. Smith has replaced him in the lineup. ... The Pistons have lost four of their last five games against Orlando.\n\nMagic: Gordon returned to the lineup after missing the last five games and seven of the last eight. ... Mario Hezonja hit 8 of 12 3-pointers the last time Orlando played Detroit. He is 4 of 17 from behind the line in the five games since. ... The Magic were 17 of 17 from the free throw line, a franchise record for most free throws in a game without a miss.\n\nUP NEXT\n\nPistons: Host San Antonio on Saturday night.\n\nMagic: Host Miami on Saturday in a rematch of Tuesday's 107-89 Heat victory.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "Streak",
+    "CoachComment",
+    "Rivalry"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.300317",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100596",
+  "espn_id": "401360415",
+  "date": "Jan 08, 2022",
+  "matchup": "PHX vs. MIA",
+  "headline": "Heat ride hot shooting to 123-100 win over the Suns",
+  "cleaned_body": "PHOENIX -- — Tyler Herro had his best scoring game of the season. Duncan Robinson did, too.\n\nIt all added up to a blowout win for the Miami Heat, who tied a franchise record with 22 3-pointers in a 123-100 victory over the NBA-leading Phoenix Suns on Saturday night.\n\nHerro poured in 33 points while Robinson added 27. Both players came off the bench for the short-handed Heat, who had 11 players on the inactive list, including star guard Jimmy Butler.\n\n“I just really continue to commend our group for staying in the moment, focusing on solutions and figuring out a way to improve and play good enough to win,” Heat coach Erik Spoelstra said. “One at a time.”\n\nThe Heat made 50% of their 44 attempts from 3-point range. Robinson had a particularly good night, making eight 3s on 16 attempts, including a pair in the fourth quarter that turned back a short-lived Suns rally.\n\n“We’ve got a lot of guys who can really shoot, which obviously helps,” Robinson said. “Sometimes shooting is contagious as well. Certainly ball movement is contagious.\n\n\"Ball's finding energy. Ball's finding the open guy.\"\n\nHerro had a stellar all-around game, making 12 of 20 shots, including three 3-pointers. He added five rebounds and three assists. The 21-year-old is averaging more than 20 points this season despite starting just 10 games.\n\n“He just got into a great rhythm,” Spoelstra said.\n\nThe thin roster didn’t stop Miami from a strong start. The Heat shot 52% in the first quarter and took a 33-29 lead.\n\nThey were even better in the second quarter and pushed ahead 71-50 by the break. Robinson scored 18 points off the bench, all on six 3-pointers. Herro added 17 points. Miami was 15 of 30 from 3-point range in the first half and the bench scored 40 points.\n\nMiami cooled off a little in the second half but the game never got particularly close. The Suns had their three-game winning streak snapped in a rare home blowout loss.\n\nIt was a tough night in all phases for the Suns, who came into the game with the NBA's best record but didn't play like it. They struggled to produce consistently on offense and let the Heat's shooters get way too many wide-open looks on defense.\n\nDevin Booker led the Suns with 26 points while Mikal Bridges added 20. The Suns shot just 38% from the field and were outrebounded 49-35. Booker said he was more upset that the Heat didn't face much resistance from the Suns' defense.\n\n“I think they came out way too comfortable,” Booker said. “That is not a team you want to give some confidence in and let them see a couple of easy ones go in. It was too loose. They got to do whatever they wanted.”\n\nTIP-INS\n\nHeat: Butler missed his second straight game with a right ankle sprain. ... Omer Yurtseven finished with seven points, 16 rebounds and eight assists. ... It's the third time in a month that the Heat have tied their franchise record of 22 3-pointers. ... Despite COVID-19 and injury issues, the Heat are 3-2 on their current road trip. ... Robinson usually starts but Spoelstra has brought him off the bench the past two games since he came off the COVID-19 list. ... The Heat had 11 players available, which matched the 11 players on the inactive list.\n\nSuns: C Deandre Ayton, F Jae Crowder and C JaVale McGee all returned after spending time on the reserve/COVID-19 list. G Landry Shamet remains in the protocol. ... Booker scored 13 points in the first quarter, including a jumper that rattled in at the buzzer. ... G Cam Payne got a technical foul after a hard foul on Herro in the third quarter.\n\nUP NEXT\n\nHeat: Wrap up a seven-game road trip at the Hawks on Wednesday.\n\nSuns: Begin a five-game road trip against the Raptors on Tuesday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.336114",
+  "pipeline_version": "v1"
+}

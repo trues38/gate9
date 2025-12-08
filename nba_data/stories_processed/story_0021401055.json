@@ -1,0 +1,25 @@
+{
+  "game_id": "0021401055",
+  "espn_id": "400579347",
+  "date": "Mar 24, 2015",
+  "matchup": "MIL vs. MIA",
+  "headline": "Khris Middleton's buzzer-beater for Bucks halts Heat",
+  "cleaned_body": "MILWAUKEE -- Khris Middleton drilled the game-winner, but Jerryd Bayless may have jump-started the struggling Milwaukee Bucks.\nBayless, listed at 6-foot-3, tied up and then won a jump ball against 6-9 Michael Beasley with 10.8 seconds left to set up Middleton's 3-pointer at the buzzer as the Bucks snapped a six-game losing streak with an 89-88 comeback victory over Miami on Tuesday night.\n\"A lot of times with the refs, you've just got to try and time them,\" Bayless said of the jump ball. \"I tried to time it and I was able to get it. I got lucky.\"\nBayless missed on a drive down the lane, but Zaza Pachulia tapped the ball back out to Middleton, who buried the winner. He finished with 13.\n\n\"I knew it was ticking down, so I knew I just had to catch and shoot,\" said Middleton, who missed badly on a straight-on 3-point attempt with 12 seconds left. \"I can't think about anything else, but just catch it and let it go.\"\nIt was a crucial victory for the Bucks, who closed the game with an 18-3 run to improve to 35-36 to remain in sixth place in the Eastern Conference. The Heat, who scored just nine points in the fourth quarter, fell to 32-38. The Bucks also swept the four-game season series with the Heat to ensure the tie-breaker between the teams.\n\"Just the character of those guys fighting to the end,\" said Bucks coach Jason Kidd. \"They played 48 minutes and fought until the clock said 0:00. The guys in that locker room get a lot of credit for staying together, playing the game out and they found a way to get the last shot and get it to go in.\"\nMilwaukee erased an 85-71 deficit with 14 consecutive points, tying it at 85 on layup by Pachulia with 1:20 left.\nDwyane Wade put the Heat on top 87-85 on the next possession, coming up with the loose ball from a scrum in the lane and curling it in from the right side. He then hit the first of two free throws to make it 88-85 with 17 seconds left. He finished with 21.\nErsan Ilyasova made the first of two free throws to pull Milwaukee within 88-86 with 12.8 seconds left. On the battle for the rebound, Bayless tied up Beasley and won the crucial jump ball.\n\"It was good to get a score. But I'm never relieved until the games over,\" Wade said. \"When I went to the line and missed the second one, they needed a three (to win). Everything went right for them. The bounces went right to where they could get them. Every bounce went their way.\"\nIlyasova had 19 points and Giannis Antetokounmpo added 16 for the Bucks, who won for just the fourth time in 18 games since trading starting point guard Brandon Knight.\nMiami led 79-65 entering the fourth quarter and went in front 85-71 on a steal and layup by Wade with 6:33 remaining.\nThe Heat pulled away from a 53-all tie with a 19-6 run midway through the third quarter, taking a 72-59 lead on a 3-pointer by Henry Walker with 3:22 left in the period.\nMiami outscored the Bucks 28-16 in the third as Milwaukee made just 7 of 26 shots in the period. Henry Walker made all three of his third-quarter 3-point attempts, his highest scoring quarter of the season.\n\"Sometimes momentum turns in a game like that,\" said Heat coach Erik Spoelstra. \"Things start to avalanche from there. You need to show great collective toughness and stability to play through that and we weren't able to do that tonight.\"\nTIP-INS\nHeat: Forward Hassan Whiteside left the game with 5:41 remaining in the second quarter and received 10 stitches for a cut between his middle and ring fingers on his right hand. Guard Tyler Johnson did not play due to illness.\nBucks: O.J. Mayo, who had missed the previous four games with a sore right hamstring, played about 6 minutes, scoring no points.\nUP NEXT\nHeat: At Boston on Wednesday night\nBucks: Host Indiana on Thursday night",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.765484",
+  "pipeline_version": "v1"
+}

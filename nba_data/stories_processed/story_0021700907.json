@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700907",
+  "espn_id": "400975653",
+  "date": "Feb 27, 2018",
+  "matchup": "CHA vs. CHI",
+  "headline": "Hornets win fifth straight, top Bulls 118-103",
+  "cleaned_body": "CHARLOTTE, N.C. --  Dwight Howard returned from a first quarter injury to lead Charlotte over the Bulls.\n\nThe Hornets center was hurt after playing 10 minutes in the opening quarter of a 118-103 win over Chicago on Tuesday night.\n\nHe first said it felt as if a rib \"popped out a little bit.\"\n\n\"That happens a lot, it just comes out,\" Howard said. \"Really nothing I can do about it.\n\nHoward wanted to make it clear that it wasn't a back issue. Charlotte's coach Steve Clifford said it was \"back spasms\" and the team called it a back strain.\n\n\"There's nothing wrong with my back,\" he said. \"Just want to make sure I put that out there. I wasn't really concerned with it being my back. I haven't had a problem with that in the last two years; I knew it wasn't my back. I've taken some hard falls and some hard hits, and that's what happens.\"\n\nHe returned to start the second half, however, and his 16 third-quarter points and all-around dominant play. He finished with 24 in the game.\n\nKemba Walker led the Hornets with 31 points to help the Hornets win a season-best fifth straight game.\n\nZach LaVine led seven Bulls players in double-digits with 21 points as Chicago (20-41) dropped its fifth consecutive game.\n\nThe Hornets suddenly hot shooting helped them continue their push to make the playoffs as they sank 53.7 percent of their field-goal attempts, and 42.9 percent from 3-point range.\n\nWalker hit 11-of-19 attempts -- including 6-of-10 of 3-pointers -- while Howard missed only two shots in 12 attempts. Nicolas Batum also added 10 points, 12 assists and seven rebounds.\n\nThe teams were tied 51-51 at halftime, and the young Bulls were encouraged.\n\n\"We're playing some pretty good stretches, we're just not sustaining it right now,\" Chicago coach Fred Hoiberg said.\n\nIt was difficult to sustain against a Charlotte team inspired by the return of Howard. The 6-11 center walked straight to the locker room after exiting the game in the first quarter.\n\nHe did not re-emerge until just before the second half tipped off.\n\nTIP-INS\n\nBulls: Justin Holiday and Robin Lopez were healthy scratches Tuesday. ... Cristiano Felicio equaled his season-high of 12 points by halftime. He did not score in the second half. ... Chicago already has exceeded the team's previous record for most 3-pointers in a single season (651, set in 2015-16). The Bulls had 657 3-pointers entering Tuesday's game.\n\nHornets: Howard earned his 13th technical foul of the season in the third quarter. . Nicolas Batum's 12 assists were a season-high. ... With his first rebound against the Bulls, Howard moved into sole possession of 17th all-time in the NBA in rebounds. . Kemba Walker tied JR Reed for 10th-most career rebounds in franchise history with two rebounds against the Bulls.\n\nCOACHING CONNECTION\n\nWhen Clifford missed 21 games earlier this season for health issues that included persistent headaches related to a lack of sleep, one of the coaches who reached out immediately was Hoiberg.\n\nThe two had developed a bond earlier over shared heart problems both experienced: Clifford had two stents inserted into his heart in 2013; Hoiberg had valve replacement surgery in 2015 after open-heart surgery to repair an aortic aneurysm ended his playing career in 2005.\n\n\"It's a small fraternity, this coaching group, and we're all very competitive and you want to go out there and beat the other guy, but more importantly, you understand what's at stake with all this,\" Hoiberg said. \"The high-pressure situation that all of us are in ...\n\n\"It's great to see him back on the sidelines. I think Steve Clifford's one of the best coaches, and one of the best Xs and Os guys in this league.\"\n\nSaid Clifford: \"He's just a good man. Good guy to talk to.\"\n\nUP NEXT\n\nBulls: Host Dallas on Friday.\n\nHornets: Play at Boston on Wednesday to start a three-game road trip.",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.124214",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100337",
+  "espn_id": "401360161",
+  "date": "Dec 03, 2021",
+  "matchup": "ORL @ HOU",
+  "headline": "Gordon's late shot lifts Rockets over Magic 118-116",
+  "cleaned_body": "HOUSTON -- — Eric Gordon scored 24 points and his short jumper with 1.6 seconds left lifted the Houston Rockets to their fifth consecutive win, 118-116 over the Orlando Magic on Friday night.\n\nHouston had dropped 15 straight before its winning streak.\n\n“It’s all about growth,\" Gordon said. “Whenever you see a streak like this, you see and know what it takes to win. So you can never forget moments like this. And you can’t never forget the moments beforehand when we lost all those games because during that time, it wasn’t fun and it’s fun now and we’ve got to keep it going.\"\n\nCole Anthony scored 26 points for the Magic, who have lost eight of nine.\n\nHouston had a 13-point lead with about four minutes left after a big stretch by Garrison Mathews. But Anthony then scored scored eight points in a 13-0 spurt by the Magic that tied the game at 114-114 with 47 seconds to go.\n\nOrlando had three blocks and forced three turnovers in the run.\n\nThe Rockets ended a scoring drought of 3 1/2 minutes with a floating jumper by Gordon to regain the lead with 31.4 seconds remaining. But a dunk by Mo Bamba tied it again.\n\nGordon then dribbled into the lane and knocked down the decisive jumper.\n\n“You’ve got to make a play in a situation like that,\" Gordon said.\n\nThe Magic had a chance to win at the buzzer, but Anthony’s 3-point attempt clanged off the rim.\n\nHouston coach Stephen Silas is impressed with his team's improvement after a difficult start.\n\n“They’re definitely getting more confident but they’re also getting more comfortable,\" he said.\n\nOrlando coach Jamahl Mosley said Anthony's fearless approach lifts the team.\n\n“I think it is a reflection of his work ethic,\" Mosley said. “It’s a reflection of his confidence. And there’s also the confidence that his teammates have in him to be willing to take those shots.\"\n\nChristian Wood had 20 points for the Rockets and Matthews scored 10 of his 16 points in the fourth quarter.\n\nHouston was up by one at the end of third and the Rockets had a five-point lead after a three-point play by Alperen Sengun with about seven minutes to go.\n\nThe Magic got a 3 from Anthony after that, but Mathews scored the next seven points to extend Houston’s advantage to 109-100. Mathews got things going when he was fouled on a 3-pointer and crashed to the ground as the ball went through the net. He made the free throw and hit another 3 after a miss by the Magic.\n\nAnthony made a free throw before Mathews hit another 3 to push it to 112-101. Wood added a basket before the Magic rediscovered their offense.\n\nThe Magic led by as many as eight points in the third quarter, but Chuma Okeke's layup at the end of the period drew Houston within 84-83.\n\nTIP-INS\n\nMagic: Terrence Ross scored 18 points off the bench. ... Franz Wagner had 17 points, five rebounds and five assists. ... Bamba had 15 points. ... Gary Harris had 11 points and five rebounds.\n\nRockets: Rookie Jalen Green missed his fourth straight games with a strained left hamstring. Silas said Green was getting better but would remain out at least one more week. ... Kevin Porter Jr. scored eight points in the first half but didn’t play after halftime because of a bruised left thigh.\n\nHE SAID IT\n\nSilas on the success of Mathews after poor shooting earlier in the game: “He was so upset that he was missing all those shots early. He told me he was going to make one (3-pointer) and he made three. He’s just relentless and not afraid.\"\n\nUP NEXT\n\nMagic: Visit Golden State on Monday night as they continue a five-game trip.\n\nRockets: Host New Orleans on Sunday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.396076",
+  "pipeline_version": "v1"
+}

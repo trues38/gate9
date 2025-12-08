@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700005",
+  "espn_id": "400974702",
+  "date": "Oct 18, 2017",
+  "matchup": "MIA @ ORL",
+  "headline": "Fournier, Magic hold off Heat 116-109 in opener",
+  "cleaned_body": "ORLANDO, Fla. --  The Orlando Magic were about to squander a 17-point fourth-quarter lead, giving their season opener a familiar feel.\n\nThen Evan Fournier helped get 2017-18 off on a different foot.\n\nFournier made three clutch shots to slow the hard-charging Miami Heat, and the Magic held on for a 116-109 win on Wednesday night -- its first season-opening victory since 2012.\n\nLast year, Orlando often lost confidence and poise in late, tight situations. But when Miami pulled within two points with 2:39 remaining, Fournier went to work, scoring seven of his team-high 23 points in the final 2:27.\n\n\"Obviously I was still confident, but I think two or three years ago that's a game we would have lost,\" Fournier said. \"It shows growth from us players.\"\n\nPrior to Fournier's surge, the Magic were reeling. Orlando went more than three minutes without a point after Jonathon Simmons' two free throws with 5:39 remaining.\n\nIn between, Miami staged an 11-0 run and moved within 105-103 on Goran Dragic's two free throws with 2:39 left.\n\nThen Fournier hit his 3, cutting off Miami's rally.\n\n\"That's good but I wish we would have killed the game when we were up 17,\" Fournier said. \"It's hard to tell right now what happened, maybe we were too confident. But when you are up 17, you have to kill the game.\"\n\nSecond-year Magic coach Frank Vogel was pleased Fournier stepped up. James Johnson, Dion Waiters and Dragic had been pushing Miami hard while Orlando missed shots during the 11-0 stretch.\n\n\"The best way to stop a run is to score the ball,\" Vogel said. \"Evan kept us in the game and sealed the game for us by continuing to play good offensive basketball. You need a guy like that to carry the load. He was terrific tonight.\"\n\nOrlando center Nikola Vucevic had 19 points, 13 rebounds and two blocks. Miami was led by Hassan Whiteside, who dominated the paint in the second half. Whiteside finished with 26 points and 22 rebounds.\n\nHeat coach Erik Spoelstra was disappointed his team couldn't find a way to complete the comeback.\n\n\"If we want to get where we want to get with this group, we're going to really have to commit to those tough things, those physical things,\" Spoelstra said. \"All of those these things we're capable of, and we've shown flashes of it.\"\n\nTIP-INS\n\nHeat: All five of Miami's starters scored in double figures. Kelly Olynyk had 10 points in his first game with the Heat and Waiters had 15. ... Whiteside had 10 rebounds in the first half.\n\nMagic: Rookie Jonathan Isaac, the No. 6 overall pick in June's NBA Draft, converted his first NBA attempt on a put-back late in the first quarter. ... Gordon took a hard hit from Whiteside on a baseline drive late in the second quarter. Gordon remained on the floor momentarily before getting up. The play was reviewed and ruled a common foul.\n\nROOKIE MISTAKE\n\nIsaac said he was so nervous Wednesday that he forgot to put his jersey on under his warmups prior to the game. He said it was about five minutes into the game before he finally got his jersey. He didn't go in until 3:10 remained in the first quarter.\n\nUP NEXT\n\nHeat: Host Indiana on Saturday night.\n\nMagic: Play at Brooklyn on Friday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.538493",
+  "pipeline_version": "v1"
+}

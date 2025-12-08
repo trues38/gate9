@@ -1,0 +1,24 @@
+{
+  "game_id": "0022101021",
+  "espn_id": "401360840",
+  "date": "Mar 14, 2022",
+  "matchup": "ATL vs. POR",
+  "headline": "Trae Young has 46 points, Hawks top Trail Blazers 122-113",
+  "cleaned_body": "ATLANTA -- — The Portland Trail Blazers were on a roll before making a crucial mistake against Atlanta's Trae Young.\n\n“We let Trae get hot and they gained momentum,” Trendon Watford said.\n\nYoung scored 21 of his 46 points in the third period and the Hawks recovered from a 15-point second-half deficit to beat the Blazers 122-113 on Monday night.\n\nYoung, who scored 47 points a night earlier in a win over Indiana, added 12 assists against the Blazers. He became the first player in the NBA this season to score at least 40 points on back-to-back nights, according to Elias Sports.\n\n“He does it every night,” teammate De'Andre Hunter said. “We’re used to seeing it, but it’s amazing still.”\n\nYoung set a career high with 56 points in Atlanta’s 136-131 loss at Portland on Jan. 3.\n\nAfter Portland claimed its big lead at 73-58, Young scored eight straight points and 17 of Atlanta’s first 19 in the third period.\n\nThe Hawks (34-34), who entered the game ninth in the Eastern Conference, have won three straight to reach .500 for the first time since Dec. 15, when they were 14-14.\n\nHunter scored 20 points for Atlanta, including a 3-pointer that put the Hawks ahead 116-111.\n\nJosh Hart led Portland with 31 points. The Blazers began the night 11th in the Western Conference, one spot out of the play-in tournament.\n\nPortland led 67-58 at halftime as Atlanta made only 19 of 59 shots (32.3%) from the field, its worst-shooting first half this season.\n\nThe Blazers made 56.5% (26 of 46) of their shots in the half. Portland scored the first six points of the second half, stretching its lead to 15 points before Young took control.\n\nThe Hawks led 104-93 early in the fourth before Portland went on a 10-0 run, capped by Brandon Williams’ 3-pointer. Kevin Huerter responded with a 3 for Atlanta.\n\nWatford had 22 points and Williams added 20 for Portland.\n\n“We fought like crazy and I was proud of that,” Blazers coach Chauncey Billups said. “We gave ourselves a chance to win the game. Our guys fought and I loved it.”\n\nTIP-INS\n\nTrail Blazers: PG Kris Dunn, who signed a 10-day contract before the game, had two points in 20 minutes. It was Dunn’s first game since he played four games with Atlanta last season. He started in a combined 119 games in three seasons with Chicago. Dunn adds backcourt depth as Anfernee Simons (patellar tendinopathy in his left knee) is expected to miss up to two weeks.\n\nHawks: F Danilo Gallinari (right Achilles tendon soreness) was held out, leaving the Hawks thin at forward. Gallinari had been the fill-in starter for John Collins (right finger sprain, right foot strain), who missed his second straight game. Coach Nate McMillan said Gallinari has played through the injury “most of the season. ... Sometimes it flares up.” ... Clint Capela had eight points and 16 rebounds.\n\nHART STAYS HOT\n\nHart continued to emerge as a scoring threat after scoring a career-high 44 points when the Blazers snapped a six-game losing streak by beating Washington on Saturday night.\n\n“Having to be that scoring option is a new role for Josh,” Billups said. “We’re asking him to do things he’s not really used to.”\n\nHart looked comfortable while scoring 25 points in the first half against the Hawks. He finished 4 of 7 from 3-point range.\n\n40-40 FOR TRAE\n\nYoung's second straight 40-point outing was the 24th of his career.\n\n“He’s a guy who is going to establish the tempo for us,” McMillan said. “He’s done a good job of that in these last few games, playing faster and looking to attack and really be aggressive.”\n\nTHIRD-PERIOD TURNAROUND\n\nThe Hawks outscored the Trail Blazers 31-17 in the third.\n\n“I thought we got our legs a little bit and established our defense in that third quarter,” McMillan said.\n\nUP NEXT\n\nTrail Blazers: Continue a five-game trip at the New York Knicks on Wednesday night.\n\nHawks: At Charlotte on Wednesday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.537739",
+  "pipeline_version": "v1"
+}

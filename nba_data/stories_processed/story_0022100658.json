@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100658",
+  "espn_id": "401360477",
+  "date": "Jan 17, 2022",
+  "matchup": "CHI @ MEM",
+  "headline": "Bane, Morant score 25 apiece to lead Grizzlies past Bulls",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Desmond Bane and Ja Morant scored 25 points each, and the Memphis Grizzlies dominated the short-handed Chicago Bulls 119-106 on Monday afternoon for their 12th win in 13 games.\n\nBrandon Clarke added 15 points and seven rebounds, missing only one of his eight shots.\n\n“I thought our guys came out ready,” Memphis interim coach Darko Rajakovic said. “… I thought we did a really good job defensively. To be honest with you, I thought we were supposed to score even more. We missed a couple of chippies, a couple of open looks that we usually make.”\n\nDeMar DeRozan led the Bulls with 24 points and five assists, Ayo Dosunmu had 15 points and 10 rebounds, while Coby White finished with 16 points, six rebounds and five assists for Chicago, which lost its fourth straight.\n\nIt was the Grizzlies’ main event of their 20th annual Martin Luther King Jr. Day Celebration. King was assassinated on April 4, 1968, at the Lorraine Motel in Memphis, only a short distance from the Grizzlies’ home floor at FedExForum.\n\nMemphis built a double-digit lead in the second quarter, outscoring the Bulls 38-25 for a 58-45 lead at half, then stretched the advantage to 23 in the third — and didn’t stop there.\n\n“I thought we kind of got bogged down,” Bulls coach Billy Donovan said of the second quarter. “We had some possessions there that weren’t great, and then I think the other thing too was the turnovers really hurt us.”\n\nChicago also was stymied early by a dozen turnovers, allowing Memphis to benefit from its transition game. The Bulls would end up with 18 turnovers, leading to 21 Grizzlies points.\n\nThe Bulls entered the day as the top team in the Eastern Conference, but were without key rotation players like Zach LaVine, Lonzo Ball and Alex Caruso. However, Chicago kept its top spot because Brooklyn lost to Cleveland on Monday.\n\n“I feel like this is a chance for us to grow,” White said of filling in for Ball and LaVine in the Bulls' starting backcourt. “Now, we’re getting the opportunity, and I feel like we’re just taking it day-by-day and trying to just grow and develop and get better for the team.”\n\nFor Memphis, it was a step in the right direction after its 11-game winning streak ended Friday in a loss to the Dallas Mavericks – the first Grizzlies loss since Dec. 23.\n\nMonday's win was also a momentum-builder for a four-game road trip that begins Wednesday in Milwaukee.\n\n“It was big time for us, especially coming off the loss,” Morant said. “We had to turn the page and get back in the column we want to be in, which is the winning column and start a new streak.”\n\nTRIPLE J SCARE\n\nGrizzlies forward Jaren Jackson Jr. left the floor limping in the second quarter after apparently being hit in the calf, which led to some pain. “My leg was like dead-leg for a second,” Jackson said after the game. “It was weird ... you can’t like feel your leg, like you stub your toe for a second. You don’t really feel like doing anything for a second. So, I just had to come out for a minute.\n\n“I knew I was coming back in. I knew how I walked off looked all weird.”\n\nTIP-INS\n\nBulls: Chicago has played Memphis five times in the Martin Luther King Jr. Celebration Day Game. The teams split the previous four games. … LaVine missed his second game with left knee pain from an injury suffered against Golden State on Jan. 14. … Ball missed his second game, also with left knee soreness. Donovan said before the game that Ball flew back to Chicago to have the knee looked at by a doctor. … Chicago announced Monday it had waived two-way guard Devon Dotson. ... Dosunmu, a rookie, turned 22 Monday.\n\nGrizzlies: As part of the day’s celebration, the Grizzlies honored former NBA players Muggsy Bogues, Elvin Hayes and Allan Houston for their dedication to human and civil rights and the social justice movement. … Memphis missed all seven of 3-pointers in the first quarter. ...Steven Adams had 10 rebounds\n\nUP NEXT:\n\nBulls: Host Cleveland on Wednesday, Chicago’s only home game over a six-game stretch.\n\nGrizzlies: Open a four-game road trip Wednesday at Milwaukee.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.280884",
+  "pipeline_version": "v1"
+}

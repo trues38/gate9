@@ -1,0 +1,22 @@
+{
+  "game_id": "0021400544",
+  "espn_id": "400578836",
+  "date": "Jan 09, 2015",
+  "matchup": "MIL vs. MIN",
+  "headline": "Bucks snap 4-game home skid, hand Timberwolves 14th straight loss",
+  "cleaned_body": "MILWAUKEE -- O.J. Mayo was a young ball boy for the University of Cincinnati when Kenyon Martin starred for the Bearcats. On Friday night, they were teammates for the first time.\nPlaying in his first game for the Milwaukee Bucks after having been out of the league since February, Martin jumped high for an alley-oop pass from Mayo late in the fourth quarter and threw down an emphatic slam dunk, capping the Bucks' 98-84 win over the Minnesota Timberwolves.\n\"He was always one of my favorite players. Him being on our team means a lot to me,\" Mayo said.\nMartin, who was signed to a 10-day contract earlier in the day, finished with six points and two rebounds in nearly eight minutes of play.\n\"It was fun to be back out there with the guys and being back in the routine of NBA basketball,\" Martin said. \"I'm just trying to get back into the swing of things.\"\nBucks coach Jason Kidd praised Martin's effort.\n\"For us to get him in a defensive scheme, rebound, play offensively, knock down those elbow shots and also show that at the young age of 37 he can still play above the rim, it's all good stuff,\" Kidd said.\nBrandon Knight scored 14 points, Mayo and John Henson each had 12, and the Bucks handed the Timberwolves their 14th straight loss. Khris Middleton and Giannis Antetokounmpo added 10 points each and Kendall Marshall had a season-high nine assists to help the Bucks snap a four-game home skid.\nAndrew Wiggins had 20 points and seven rebounds for Minnesota. He has scored 20 or more points in six consecutive games.\n\"It's a good thing for me, keeping my confidence up high. But I'd trade (those) for a win any day,\" Wiggins said.\nMarshall's 3-pointer gave Milwaukee a 20-point lead early in the fourth quarter. The Timberwolves pulled within 10 later in the period but got no closer.\nThe Bucks took control of the game with a strong-shooting second quarter. Back-to-back 3s by Mayo early in the quarter put Milwaukee up for good at 27-24. Knight and Middleton closed out the quarter with consecutive 3s, giving the Bucks their largest lead of the first half at 53-38.\nThe Bucks shot 14-for-17 (82 percent) in the second quarter.\nThe Bucks won handily despite committing 23 turnovers.\n\"We've got to take care of the ball better,\" Kidd said.\nTIP-INS\nTimberwolves: Mo Williams didn't play due to a sprained ankle he sustained in Wednesday's game against Phoenix. Coach Flip Saunders said Williams could return to the lineup on Saturday. ... Miroslav Raduljica, who played for the Bucks last season, saw his first action since signing a 10-day contract on Thursday. \"He's got pretty quick feet for a guy his size,\" Saunders said. \"Big guys are hard to find.\"\nBucks: Ersan Ilyasova missed his ninth consecutive game as he continues to recover from a concussion. Kidd said he expects Ilyasova to accompany the team to London for its Jan. 15 game against the Knicks. \"He's getting close. He will go to London and we hope he will have the opportunity to play over there.\" ... Larry Sanders remained out due to personal reasons.\nLONDON CALLING\nKidd expects the game in London to be a positive experience for the Bucks. \"I think it's a great opportunity for our franchise to be in a global game. We have international players that will have a chance to see them play in London. But it's not a vacation, it's a business trip. This is a good test for us.\"\nUP NEXT\nMinnesota: Hosts San Antonio on Saturday.\nMilwaukee: At Chicago on Saturday",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.119679",
+  "pipeline_version": "v1"
+}

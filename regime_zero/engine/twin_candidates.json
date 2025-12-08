@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-02-27",
+    "score": 0.99,
+    "name": "Ukraine Shock Risk-Off",
+    "reasoning": "Geopolitical escalation from Russia's Ukraine invasion triggers flight-to-safety flows into dollar and gold, elevating Z-scores above 1.6. Oil surges on Black Sea supply disruption fears, amplifying energy inflation mechanics. VIX spikes to Z=2.08 as positioning unwinds in a fragmented risk landscape. Equities hold neutral Z=0.15 due to pre-event resilience and algorithmic dip-buying, decoupling temporarily from commodities. Rising rates (Z=2.37) reflect hawkish repricing of persistent inflation exacerbated by the energy shock."
+  },
+  {
+    "date": "2019-09-02",
+    "score": 0.9784281335130665,
+    "name": "ZIRP Haven Divergence",
+    "reasoning": "Ultra-low rates reflect aggressive central bank easing to counter global trade frictions, mechanically suppressing yields and funneling capital into alternatives like gold. Gold's extreme elevation captures haven flows from US-China tariffs and Japan-Korea export spat headlines, structurally decoupling from equities. Equities hold firm at Z 1.0 as low rates provide valuation support, offsetting uncertainty without tipping into broad risk-off. Moderate VIX signals contained anxiety from regional geopolitical noise, preventing volatility spiral. Soft oil underscores demand fragility from trade slowdowns, amplifying haven appeal amid yield-starved carry trades."
+  },
+  {
+    "date": "2025-11-23",
+    "score": 0.9720774556207922,
+    "name": "Sino-Tech Redoubt",
+    "reasoning": "Geopolitical headlines around Taiwan, Japan missiles, and Trump tariffs amplify haven flows into gold, decoupling it from resilient equities propped by China's semiconductor expo and investment pledges. Low oil reflects structural demand weakness from energy transition and potential recession, exacerbating deflationary pressures in a low-rates environment that enables policy-fueled tech spending. Elevated VIX captures market fragility, where narrow China tech gains (Huawei, MediaTek, storage chips) mask broader equity risks from trade disruptions. Beijing's shift to 'productive services' and sci-tech self-reliance structurally counters encirclement, creating a bifurcated regime: global risk-off versus domestic innovation sprint. Weak dollar facilitates China's export competitiveness despite tariff threats, but liquidity opacity heightens contagion risks."
+  },
+  {
+    "date": "2024-07-24",
+    "score": 0.9690469029873348,
+    "name": "Geopolitical Gold Spike",
+    "reasoning": "Geopolitical headlines dominated by North Korean provocations and China-Russia-Ukraine diplomacy create a fear premium, driving parallel VIX and gold spikes as hedges against tail risks. Equities' elevated Z-score persists due to structural US tech/AI momentum outweighing transient noise, decoupling from volatility. Low oil structurally suppresses energy costs, enabling consumer spending and soft-landing narratives despite tensions. Neutral dollar and rates indicate no broad capital flight, with flows favoring growth assets over pure havens. This regime captures markets pricing geo-risks as containable, prioritizing nominal growth over deflationary spirals."
+  },
+  {
+    "date": "2025-06-27",
+    "score": 0.9673395065859473,
+    "name": "Golden Dragon Complacency",
+    "reasoning": "Weak dollar (Z=-1.96) mechanically boosts multinational equities and gold by eroding USD reserve appeal, amplified by China's aggressive diplomacy with Africa/Latin partners signaling de-dollarization momentum. High gold (Z=1.47) acts as a structural hedge against US Quad rhetoric opposing Chinese dominance, decoupling safe-haven flows from equity euphoria. Low VIX (Z=-0.49) reflects causal complacency where markets price diplomatic headlines as noise rather than near-term catalysts. Suppressed oil (Z=-0.84) structurally aids equities by capping inflation pass-through, allowing neutral rates (Z=0.11) to sustain borrowing without tightening pressure. Absent liquidity data hides potential M2 fragility, but current mechanics favor risk-on rotation into gold/equities over dollar/oil."
+  },
+  {
+    "date": "2022-02-04",
+    "score": 0.9664256982083925,
+    "name": "Pre-War Oil Hawk",
+    "reasoning": "Sky-high oil Z-score (2.69) reflects building geopolitical supply disruptions from Russia-Ukraine tensions, mechanically pressuring inflation and growth. Elevated rates (Z-Score 2.58) indicate Fed's causal pivot to aggressive hikes, squeezing liquidity to anchor inflation expectations. Moderately strong dollar (Z-Score 1.2) emerges as a reflexive safe haven amid uncertainty, amplifying import costs for non-US economies. Rising VIX (Z-Score 1.06) captures narrative fear of energy-led stagflation, decoupling risk assets from fundamentals. Neutral gold and resilient equities (Z-Scores 0.29 and 0.66) reveal a bifurcated market, where headline equity indices hold on dip-buying hopes despite underlying commodity stress."
+  },
+  {
+    "date": "2023-09-06",
+    "score": 0.9648403827243338,
+    "name": "Tight-Rate Tech Complacency",
+    "reasoning": "Persistent high rates reflect central bank resolve against sticky inflation, yet equities defy gravity through concentrated tech/earnings leadership, decoupling from broad monetary drag. Low VIX captures structural complacency from liquidity aftershocks and narrative dominance of China tech rebound. Elevated oil embeds supply fragility and demand optimism, reinforcing reflation mechanics without derailing risk assets. Neutral dollar enables global carry trades, amplifying cross-asset resilience. Chinese policy signals\u2014semiconductor explosions and private economy boosts\u2014provide causal spark for export-led growth narratives, offsetting Western tightening."
+  },
+  {
+    "date": "2025-01-17",
+    "score": 0.9616262144467882,
+    "name": "Dollar-Decoupling Surge",
+    "reasoning": "Strong dollar (Z 2.4) enforces US-centric reflation by squeezing dollar-denominated debtors in China/EM, amplifying trade decoupling evident in Korean SSD shifts to US and ASML export curbs. Elevated gold (Z 1.49) and equities (Z 1.5) coexist due to bifurcated risk appetite: tech/AI leadership props US stocks while geo-tensions sustain haven demand. Low VIX (Z 0.06) reflects market pricing out escalation risks, betting on controlled US-China friction boosting domestic semis. Sticky rates (Z 1.4) signal Fed pivot delay per gold commentary, embedding reflation mechanics over disinflation. Oil moderation (Z 0.38) underscores demand resilience amid supply chain rewiring, stabilizing energy in a USD-fortress narrative."
+  },
+  {
+    "date": "2025-02-21",
+    "score": 0.9611743594043729,
+    "name": "Golden Dragon Diplomacy",
+    "reasoning": "Diplomatic headlines flood from China-US channels, fostering a narrative of thawing tensions that props equities despite unresolved economic imbalances. Gold's outlier Z-score captures structural hedging against fentanyl/trade policy wildcards, amplified by China's internal tech pivots like Huawei-BYD EV alliances. Strong dollar exploits US fiscal dominance in negotiations, squeezing China's export model and capping commodity breadth. Weak oil reveals causal oversupply or faltering Asian demand growth, enabling reflation without energy spark. Moderate VIX reflects causal market discipline: pricing detente upside while gold insures tail risks."
+  },
+  {
+    "date": "2019-08-04",
+    "score": 0.9520150287229217,
+    "name": "Golden Haven Squeeze",
+    "reasoning": "Aggressive Fed rate cuts post-July 2019 pivot suppress yields to extreme lows, funneling capital into non-yielding gold as the premier deflation hedge. Surging gold reflects causal flight-to-safety amid US-China trade tensions and Hong Kong protests, amplifying geopolitical risk premia. Strong dollar emerges from relative US economic resilience and liquidity repatriation, squeezing EM assets. Resilient equities persist via dip-buying and tech optimism hinted in AI-heavy headlines, masking underlying fragility. Weak oil underscores structural demand destruction from global trade friction, reinforcing stagflationary undertones."
+  }
+]

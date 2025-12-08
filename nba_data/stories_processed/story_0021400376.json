@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400376",
+  "espn_id": "400578668",
+  "date": "Dec 17, 2014",
+  "matchup": "MIL @ POR",
+  "headline": "LaMarcus Aldridge, Damian Lillard carry Blazers by Bucks",
+  "cleaned_body": "PORTLAND, Ore. -- LaMarcus Aldridge had 23 points and 15 rebounds, and the Portland Trail Blazers pulled away in the fourth quarter to beat the Milwaukee Bucks 104-97 Wednesday night with both teams reeling from injuries to key players.\nDamian Lillard added 29 points and seven assists for the Blazers, who have won three straight and eight of 10 despite losing starting center Robin Lopez to a broken hand on Monday.\nThomas Robinson, who started in Lopez's absence, sparked the Blazers with 15 points and 16 rebounds, both season highs.\nBrandon Knight had 24 points for the Bucks, who were without Jabari Parker. The heralded rookie will miss the rest of the season after tearing the anterior cruciate ligament in his left knee during the third quarter of Milwaukee's victory Monday over Phoenix.\nParker, the second overall pick in this year's NBA draft, will require surgery. The one-and-done star out of Duke averaged 12.3 points and 5.5 rebounds per game for the Bucks this season.\n\"It's big,\" Milwaukee coach Jason Kidd said about the absence of Parker. \"You talk about a guy who is a big part of our team. ... Great kid, on and off the court.\"\nJared Dudley got the start in Parker's place.\nThe Bucks took another blow late in the first half when forward Giannis Antetokounmpo sprained his left ankle.\nAntetokounmpo grimaced in pain under the basket while his teammates surrounded him, but after several tense moments he walked unassisted off the floor and straight to the locker room.\nThe second-year guard from Greece was averaging 12.2 points and 5.9 rebounds going into the game.\nKhris Middleton started the second half in Antetokounmpo's place and finished with 17 points.\nLopez broke his right hand in the third quarter of Portland's 108-95 victory over the Spurs on Monday night. Averaging 9.6 points and 7.2 rebounds this season, Lopez had not missed a game for the Blazers since coming to the team in the summer of 2013.\nKnight had 10 points in the first quarter as the Bucks took a 25-18 lead. Antetokounmpo made a pair of free throws that gave Milwaukee a 39-29 lead -- its biggest of the game -- but the Blazers rallied to tie it at 41 after Robinson's late basket. Portland pulled in front on a pair of free throws from Aldridge to lead 43-41 at the break.\nWesley Matthews hit a 9-foot jumper to give the Blazers a 55-51 lead midway through the third quarter, but the Bucks kept up the pressure and led 70-68 going into the final period.\nAfter Robinson's reverse layup tied the game at 77, Nicolas Batum hit a 3-pointer and Joel Freeland added a short jumper to put the Blazers ahead 82-79 with 7:11 left. Portland extended the lead to as many as 13 points down the stretch.\nTIP-INS\nBucks: There was an outpouring of support from around the NBA for Parker. Dwyane Wade posted on Twitter: \"Heard the sad news about my youngin Jabari Parker ... prayers up for you my brother..stay strong and come back stronger.\"\nTrail Blazers: Portland activated guard CJ McCollum for the game. McCollum missed 14 games because of a broken index finger on his right hand. ... It was Robinson's fifth career double-double.\nUP NEXT\nThe Trail Blazers visit the Spurs on Friday.\nThe Bucks visit the Kings on Thursday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.619716",
+  "pipeline_version": "v1"
+}

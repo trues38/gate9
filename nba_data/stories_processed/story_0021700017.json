@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700017",
+  "espn_id": "400974770",
+  "date": "Oct 20, 2017",
+  "matchup": "ATL @ CHA",
+  "headline": "Howard's big game powers Hornets past Hawks 109-91",
+  "cleaned_body": "CHARLOTTE, N.C. -- Dwight Howard couldn't suppress a wide smile when asked if he gained any personal satisfaction from his performance Friday night against his former Atlanta teammates.\n\"Uh, yeah,\" Howard said with a laugh. \"I just wanted to go out there and dominate -- and that has to be my mentality every night.\"\nKemba Walker scored 26 points, Howard was a major force inside with 20 points and 15 rebounds in his first home game with Charlotte, and the Hornets rallied to beat the Hawks 109-91.\nThe Hornets trailed by as many as 20 in the first half, but used a 24-0 run in the third quarter to blow the game open.\n\"It was something special tonight and I'm glad we stepped up in the second half and got a good win,\" Howard said.\nHoward, who played last season for his hometown Hawks before being traded away one year after signing a three-year, $71 million contract, was unstoppable on the block. The 6-foot-11 eight-time All-Star used his strength to get great position down low and had his pick of shots close to the basket.\nThe Hawks had nobody who could guard him consistently.\nHoward punctuated the win by grabbing an offensive rebound with an outstretched hand and then elevating for a powerful two-handed dunk that brought the crowd to its feet with 4 minutes left. Howard left to a rousing ovation with 2:10 remaining in the game.\nWalker, who excelled in the pick and roll with Howard all night, said he loved the way the big man played.\n\"He was extremely dominant tonight and it's a really good feeling to have him,\" Walker said. \"I'm glad he's playing well and hopefully we can continue to have him dominate games like that because we're gonna need it all year.\"\nCharlotte turned the ball over 15 times in a sloppy first half and trailed 56-49 at the break.\nBut the game changed with 6:32 left in the third quarter. Down 9, the Hornets held the Hawks scoreless for nearly 6 minutes while rattling off 24 straight points. They never trailed again.\nSome of the damage was self-inflicted by the Hawks, who missed easy shots, including an alley-oop dunk attempt by Dewayne Dedmon.\n\"We probably missed some open shots,\" Hawks coach Mike Budenholzer said. \"On some plays our execution was good, and probably on others we need to improve.\"\nTIP-INS:\nHawks: Dennis Schroder had 25 points to lead Atlanta. ... Dedmon knocked down his first two 3-point field goal attempts early in the first quarter, the first 3's of the center's career.\nHornets: Charlotte was without three starters from last year's team: Nicolas Batum (elbow), Michael Kidd-Gilchrist (personal reasons) and Cody Zeller (knee bruise). Free agent pickup Michael Carter-Williams (knee) also sat out. ... Howard recorded his 668th career double-double, the most among active players. ... Bacon had 11 rebounds for Charlotte. ... Frank Kaminsky had 21 points.\nAND THE KISS: Howard was so happy with the performance that instead of arguing his fifth foul late in the game, he walked over and kissed official Eric Lewis on top of the head.\n\"In the old days I probably would have got a technical foul,\" Howard said with a laugh. \"That was an act of gratitude for not fouling me out tonight. So I gave him a little kiss on the head.\"\nAsked about Lewis' reaction, Howard said Lewis told him, \"I'm gonna get you.\"\nBEMBRY'S INJURY: Hawks guard/forward DeAndre' Bembry has a fracture in his right wrist. He will meet with team physicians from Emory Orthopaedics & Spine Center on Monday. His status will then be updated, according to the team.\nNOTHING FREE: The Hawks didn't attempt a free throw in the second half, and some of that was because of Howard's defense in the paint.\n\"They were just five guys that collapsed and took away the paint and they make you shoot a lot of shots,\" Budenholzer said. \"I thought we had a lot of open 3-pointers and a lot of open looks. You have to make those against a team that is really going to crowd the paint.\"\nUP NEXT:\nHawks: Visit Brooklyn on Sunday.\nHornets: Visit Milwaukee on Monday night.\n---\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "LateCollapse",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.447076",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700652",
+  "espn_id": "400975398",
+  "date": "Jan 16, 2018",
+  "matchup": "POR vs. PHX",
+  "headline": "Lillard scores 31, Blazers beat Suns 118-111",
+  "cleaned_body": "PORTLAND, Ore. --  Damian Lillard says he's finally feeling close to normal.\n\nLillard, who dealt with a hamstring injury late in December before straining his right calf earlier this month, scored 31 points in a 118-111 victory over the Phoenix Suns on Tuesday night.\n\n\"When I came back I knew that it would take some time to just to be able to move comfortably. The last few games, each game has gotten better,\" said Lillard, who missed five games with the hamstring and two with the calf. \"Tonight I just felt good. I felt almost normal at times.\"\n\nCJ McCollum had 27 points, including six 3-pointers, and the Blazers snapped a three-game losing streak.\n\nDevin Booker had 43 for the Suns, who have lost three straight and five of their last six.\n\nThe Trail Blazers led by as many as 27 points in third quarter but Booker rallied the Suns in the final period with 21 points. His 3-pointer got the Suns within 103-93 with just over seven minutes left and Portland coach Terry Stotts put his starters back in.\n\nBooker hit another 3-pointer to narrow Portland's lead to 107-99. McCollum answered with a basket, and Portland got a stop before Al-Farouq Aminu's 3 from the corner with 3:30 left.\n\nAnother 3-pointer by Aminu put Portland up 117-105 with 1:12 left and essentially put the game out of reach.\n\nBooker finished with five 3-pointers, four of them in the fourth quarter alone.\n\n\"I never count us out. I don't care if we're down 20 with a minute to go. You've got to keep playing through the whistle and I think we showed that tonight,\" Booker said. \"You're never out of a game. This is the NBA. You never know what can happen.\"\n\nIt was Portland's first game back home after a four-game road trip. The Blazers dropped consecutive games to Houston, New Orleans and Minnesota.\n\nThe Suns were without Marquese Chriss for the third straight game because of a right hip strain. Dragan Bender started in his place.\n\nPhoenix was also without T.J. Warren because of low back soreness. Both Chriss and Warren were considered day-to-day.\n\nPortland's Shabazz Napier, who has helped give the Blazers a spark off the bench, was available after nursing a lower back strain. He had his back wrapped with an ice pack while the team warmed up for the second half. Napier finished with 11.\n\nLillard hit a 3-pointer with the first shot of the game, and the Blazers opened 8 for 8 from the field. Lillard finished the opening quarter with 12 points, second only to Booker with 13.\n\nPat Connaughton's 3-pointer put the Blazers up 45-36, and McCollum hit a 3-pointer to stretch the lead to 66-51 going into the half.  Lillard and Booker each finished the half with 20 points.\n\nPortland pulled away in the second half, going up 80-56 after McCollum's steal and layup. The Suns opened the half just 1-of-13 from the field.\n\nThe game got a bit testy early in the fourth quarter, when Maurice Harkless and Booker exchanged words. Both were given technical fouls.\n\nTroy Daniels finished with 18 points off the bench for Phoenix.\n\nFor the Suns, the rally came too late.\n\n\"I finally found a combination at the end there where we had shooters on the floor and we moved the basketball to give us a little bit of a chance,\" said Suns interim coach Jay Triano.\n\nThe teams met in the season opener in Phoenix, with the Blazers winning 124-76 for the worst loss in Suns' history. Portland won the second meeting 114-107 in Portland on Oct. 28.\n\nTIP-INS\n\nSuns: It was the first of a four-game road trip for the Suns. ... Going into the game, Phoenix was 4-4 on the road in the Western Conference.\n\nTrail Blazers: McCollum's career high for 3-pointers is seven. ... Portland has traditionally enjoyed a strong home-court advantage, but this season was 10-10 going into Tuesday's game. The victory gave the Blazers a four-game winning streak at the Moda Center.\n\nTHREE-GUARD LINEUP\n\nStotts has been experimenting more and more (when warranted) with a three-guard lineup, with Lillard, McCollum and Napier.\n\n\"When they made their run in the first quarter, we went to it in the first quarter and it was good. We had a lead in the third quarter, so I was trying to kind of preserve `Bazz's minutes, otherwise I probably would have gone to it in the third quarter as well,\" Stotts said.\n\nUP NEXT\n\nSuns: Visit the Denver Nuggets on Friday.\n\nTrail Blazers: Host the Indiana Pacers on Thursday.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.077174",
+  "pipeline_version": "v1"
+}

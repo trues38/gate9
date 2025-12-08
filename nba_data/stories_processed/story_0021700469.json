@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700469",
+  "espn_id": "400975220",
+  "date": "Dec 21, 2017",
+  "matchup": "MEM @ PHX",
+  "headline": "Troy Daniels hits late 3, Suns hold off Grizzlies 97-95",
+  "cleaned_body": "PHOENIX --  Troy Daniels knew his shot was going in the moment it left his hands, and he knew exactly where he was on the court -- right in front of his former team's bench.\n\nTroy Daniels hit a 3-pointer with 17.6 seconds to play to give Phoenix the lead, and the Suns held off the Grizzlies 97-95 on Thursday night for their third victory in four games.\n\n\"We work each and every day for moments like this and I just happened to hit the shot,\" Daniels said. \"It feels great, I'll tell you that. I rather for it to be on them (the Grizzlies) then anyone else.\"\n\nT.J. Warren led the Suns with 27 points, and Daniels -- acquired from the Grizzlies in September -- added 14 off the bench. Phoenix won at home for the first time since Nov. 19 against Chicago.\n\nTyreke Evans led Memphis with 23 points, and Marc Gasol added 13 points, 11 rebounds, five assists and three blocked shots. The Grizzlies have lost eight of nine games and nine straight on the road.\n\n\"It's a matter of who makes the most plays and who makes the least mistakes,\" Memphis coach J.B. Bickerstaff said, \"and tonight they made one more play then we did.\"\n\nThe teams traded baskets and leads for much of the fourth quarter, and there were three ties. Neither team scored from the 3:45 mark of the fourth quarter until Daniels' key 3.\n\nMemphis had two chances to tie or take the lead, but Evans' 26-footer at the buzzer missed.\n\nI thought I could have got to the basket but I kind of stepped back and shot the 3,\" Evans said. \"It shouldn't have came down to that. We had the early lead in the game.\"\n\nGreg Monroe rebounded a miss and saved the ball to Daniels for his shot. Monroe had 12 rebounds.\n\n\"I just wanted to make sure I stayed in bounds,\" Monroe said. \"If I could just get it to him, I knew he had an open shot.\"\n\nThe Grizzlies used a 15-2 run to grab a 21-9 lead in the first quarter. But Phoenix outscored Memphis 17-4 over the final four minutes of the quarter to take a 26-25 lead going into the second.\n\nEvans scored 11 of his points in the opening 12 minutes.\n\n\"It was a struggle all night, really,\" Suns coach Jay Triano said. \"From the opening tip, five of their first baskets where straight-on drives to the basket.\"\n\nThe Suns took a 53-44 lead on Warren's 3-pointer with 2:40 left in the second. Then Warren scored and was fouled, making it 56-46.\n\nWarren had 17 of his points at halftime, and the Suns led 60-51 at halftime.\n\nThe Grizzlies erased a 12-point third quarter deficit and took a 76-75 lead on Evans' layup, then Kobi Simmons got a steal and layup for a three-point Grizzlies lead with 2:25 left in the third.\n\nMemphis took an 81-79 lead into the fourth quarter.\n\nCHALK TALK\n\nMidway through the third quarter, Suns guard Isaiah Canaan accidentally dusted a fan sitting courtside with the rosin that players put on their hands before checking into the game. It led to a brief exchange in which Canaan apologized and the two smiled.\n\nTIP-INS\n\nGrizzlies: Bickerstaff was asked about speculation that the team is losing games on purpose. \"Everyone is entitled to their own opinion,\" he said. \"We are going to stay positive with our group, stay competitive and let it fall where it may.\"... Gasol is the Grizzlies' leader in points, rebounds, assists and blocked shots this season and is one of two NBA players to lead his team in all four categories, along with Giannis Antetokounmpo of Milwaukee. ... F Chandler Parsons returned after resting the past two games, and F-C Brandan Wright saw his first action since Dec. 1, returning from a groin injury.\n\nSuns: Injured star Devin Booker, out since Dec. 6 with a groin injury, could return to practice as soon as this weekend. He took some shots in pregame warmups on Thursday. ... Phoenix hosts Memphis the day after Christmas, at the same time as the Cactus Bowl a couple of blocks away at nearby Chase Field. ... The Suns ended a four-game Grizzlies' win streak in the series.\n\nUP NEXT\n\nGrizzlies: Host the Los Angeles Clippers on Saturday night.\n\nSuns: Host Minnesota on Saturday night.",
+  "tags_rule": [
+    "EarlyRun",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.103911",
+  "pipeline_version": "v1"
+}

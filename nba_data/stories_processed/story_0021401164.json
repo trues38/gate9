@@ -1,0 +1,22 @@
+{
+  "game_id": "0021401164",
+  "espn_id": "400579456",
+  "date": "Apr 08, 2015",
+  "matchup": "DET vs. BOS",
+  "headline": "Celtics eliminate Pistons from race, 113-103",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Isaiah Thomas had a season-high 34 points as the Boston Celtics picked up a key victory and eliminated Detroit from playoff contention, beating the Pistons 113-103 Wednesday night.\n\nThomas needed only 17 shots to put up his huge numbers, going 10 for 17 from the floor. He hit four of his eight 3-pointers, and went 10 for 11 from the line.\n\nThe victory moved Boston into a tie for seventh with Brooklyn in the Eastern Conference after the Nets lost to Atlanta.\n\nDetroit's Stan Van Gundy, who had already been guaranteed the first losing season of his coaching career, will also miss the postseason for the first time.\n\nJae Crowder added 17 for Boston, while Reggie Jackson had 21 points and 15 assists. Greg Monroe had 19 points and 10 rebounds for the Pistons, and Andre Drummond added 22 points and 14 rebounds.\n\nMonroe returned after missing 11 games with a knee sprain, and looked good with two early baskets, including a dunk.\n\nThat was the only good news early for Detroit, though, as the Celtics scored the last 18 points of the quarter to take a 30-16 lead. Thomas, who has a famous name at the Palace -- even though the first-name spelling is different from the one in the rafters -- had nine points in the quarter, including a 3-pointer at the buzzer.\n\nThe Pistons rallied in the second period, hitting seven of their first eight shots, but Boston still had a 55-47 lead at the intermission. Monroe led Detroit with 12 points and five rebounds, while Thomas had 11 points for Boston and Brandon Bass added 11.\n\nHaving Monroe back also seemed to solve Detroit's recent defensive-rebounding problems. Still, Boston had a 14-6 edge in points off turnovers and an 18-4 advantage in free throws.\n\nVan Gundy benched Drummond early in the third quarter after he allowed an easy dunk by Kelly Olynyk. The move seemed to spark the Pistons, who got within a point, but three-point plays by Thomas and Crowder helped Boston pull back away.\n\nThis time, the Celtics finished the quarter with a 19-4 run, including 13 from Thomas, to take a 91-74 lead into the fourth.\n\nThomas made sure the Pistons never made a serious run down the stretch.\n\nTIP INS\n\nCeltics: Jonas Jerebko got a loud ovation when checking into the game late in the first period. Jerebko was drafted by Detroit in 2009, and was the team's longest-serving player when he was sent to Boston in a trading-deadline deal for Tayshaun Prince.\n\nPistons: Jackson averaged 20.9 points and 10.8 assists while Monroe was out, taking advantage of less traffic in the paint to put up a 20/20 game and two triple-doubles. That could easily be the situation next season, with Monroe expected to leave as an unrestricted free agent, but they worked well together on Wednesday.\n\nUP NEXT\n\nCeltics: At the Cavaliers on Friday.\n\nPistons: Host the Pacers on Friday.",
+  "tags_rule": [
+    "TripleDouble",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.357081",
+  "pipeline_version": "v1"
+}

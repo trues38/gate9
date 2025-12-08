@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100905",
+  "espn_id": "401360724",
+  "date": "Feb 26, 2022",
+  "matchup": "DET vs. BOS",
+  "headline": "Brown, Tatum lead Celtics to revenge win over Pistons",
+  "cleaned_body": "DETROIT -- — This time, the surging Boston Celtics topped the Detroit Pistons.\n\nJaylen Brown and Jayson Tatum led the way.\n\nBrown scored 27 points and Tatum had 26 points and 11 rebounds, leading Boston to a 113-104 victory over Detroit on Saturday.\n\nThe Celtics won for the 11th time in 12 games. The lone blemish in their recent surge was a 112-111 home loss to Detroit on Feb. 16.\n\n“Those guys always give us their best shot,” Brown said. “We know we have to give them credit, but we felt like we could play better than that, and we did that in the third and fourth quarters tonight.”\n\nOn Saturday, Boston was able to take advantage of Cade Cunningham's foul trouble.\n\n“That's a young man right out of college, and we're already having to blitz him to get the ball out of his hands,” Celtics coach Ime Udoka said. “He has already learned so much at this level that you want to make someone else beat you.”\n\nCunningham led Detroit with 25 points in 27 minutes, but no one else approached 20 points.\n\n“Cade's a young guy, and he will learn that we need him on the floor,” Pistons coach Dwane Casey said. “We need his offense and we need his playmaking. We don't need him sitting on the bench with the coaches.”\n\nPayton Pritchard led Boston's second unit with 19 points and Grant Williams added 13.\n\n“I really feel good about finding a role where I'm helping this team win,” Pritchard said. “It has been a frustrating season at times, but things are going well now.”\n\nThe Pistons lost guard Hamadou Diallo with 6:29 left in the second quarter after he was ejected for pushing official Suyash Mehta when they nearly collided in transition. Diallo was averaging 15.0 points and 7.3 rebounds in his last eight games.\n\n“The official said they thought Hami was upset about the previous play and gave him a bump,” Casey said. “I'm not a mind reader, but I thought he was just playing at 100 miles an hour and they got tangled up.”\n\nWith Diallo gone, Casey had to stay with Cunningham after he picked up his fourth foul early in the third.\n\nCunningham, who played only nine minutes in the first half, had eight points in 11 third-quarter minutes without picking up his fifth foul. That was enough to put Detroit up 82-78 going into the fourth, but the Celtics quickly regained the lead with Cunningham on the bench.\n\n“We knew we hadn't played our best game for the first three quarters, and we knew this team can play well enough to beat us,” Udoka said. “We had 12 minutes to suck it up and win the game, and I thought we played one of our best defensive quarters of the season.”\n\nAfter Cunningham's fifth foul, Brown hit two 3-pointers to put Boston up 100-90 and force Casey into a timeout with 5:10 to play.\n\n“When he got the fifth, he was really rolling, and we wanted to gamble and leave him out there,” Casey said. “But there were eight minutes left, and we didn't want to lose him that early. They just opened it up before we could get him back out there.”\n\nThe Pistons couldn't put together enough stops down the stretch to get back into the game.\n\n“We knew we could win the game, but I thought I hurt us by having to come out of the game so many times,\" Cunningham said.\n\nTIP-INS\n\nCeltics: Williams talked Udoka into reviewing a third-quarter foul and it was overturned by a replay review. ... Boston outscored Detroit 35-22 in the fourth quarter.\n\nPistons: The game started at noon so the Little Caesars Arena crew would have time to convert the arena for a Detroit Red Wings game against the Toronto Maple Leafs at 7:30 p.m. ... Marvin Bagley III left the game in the fourth quarter with an unknown injury.\n\nUP NEXT\n\nCeltics: Visit the Indiana Pacers on Sunday.\n\nPistons: Visit the Charlotte Hornets on Sunday.\n\n------",
+  "tags_rule": [
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.502929",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,21 @@
+{
+  "game_id": "0021700131",
+  "espn_id": "400974882",
+  "date": "Nov 04, 2017",
+  "matchup": "MEM @ LAC",
+  "headline": "Grizzlies' backups, 3-point shooting, too much for Clippers",
+  "cleaned_body": "LOS ANGELES --  Memphis used a balanced offense and strong play from its reserves to beat the Los Angeles Clippers.\n\nThe Grizzlies had seven players score in double figures, including all four reserves to top the Clippers 113-104 on Saturday. Mike Conley returned to the lineup after sitting out the last game with a sore Achilles go lead Memphis with 22 points.\n\n\"Any time you can get multiple guys in double figures, it means the ball's moving, everybody's in rhythm, people are being unselfish,\" said Grizzlies coach David Fizdale.\n\nThe Memphis backups outscored the Los Angeles reserves 55-22.\n\n\"They're a team that every single guy is in attack mode,\" said Clippers coach Doc Rivers. \"That's what makes them good. They also share the ball well and space the floor. Every single guy you have to be ready to guard. Just watching it was frustrating.\"\n\nBlake Griffin scored 30 points to lead the Clippers, who too often found their offense motionless and Griffin forced to go one-on-one.\n\n\"I don't think we should rely on anyone too much,\" Rivers said. \"We should just move the ball and play. The ball will find the better players always.\n\n\"We have to get away from just looking for one guy.\"\n\nThe Clippers' only lead was early in the first quarter. The Grizzlies started hitting 3-pointers -- they connected on 11 of their first 19 attempts -- and pulled away.\n\nAlthough the Clippers would twice rally to tie Memphis, they could never regain the lead.\n\nThe Clippers were 4 of 26 from 3-point range, while the Grizzlies went 13 of 31.\n\n\"I'll take threes anytime we can get them,\" Fizdale said. \"I've seen enough games where we've been on the dismal end of the 3-point shooting.\"\n\nTyreke Evans led the Memphis reserves with 20 points, while the Grizzlies also got 13 from Brandan Wright, 12 from Mario Chalmers and 10 from Chandler Parsons.\n\nStarting center Marc Gasol added 21 points.\n\nThe Clippers struggled to mount much offense beyond Griffin. Patrick Beverley scored 10 points in the fourth quarter to finish with 23. No other Clipper scored more than Lou Williams' 13.\n\nTHE CONLEY DIFFERENCE\n\nThe Memphis shooting point guard hit four of his nine 3-point attempts, playing 33 minutes and showing no ill effects from his Achilles.\n\n\"You could just a difference in places we could get on the floor,\" Fizdale said. \"Any time he's playing well, we're in the game.\"\n\nBAD THEME\n\nRivers said there was a consistent thread to the Clippers' three losses this season.\n\n\"If I had one frustration, offensively in the three games we've lost, we kind of get stuck,\" he said. \"The ball stays on one side of the floor. It's not moving. If you don't see our guards at the basket a lot, it probably means we're not moving the ball. That was disappointing.\"\n\nSaid Clippers center DeAndre Jordan: \"(The offense) got stagnant, we got stuck on one side of the floor again. Then we become easier to guard. So for our team everybody needs to be involved. We have a lot of guys standing around right now.\"\n\nTIP-INS\n\nGrizzlies: After playing six of their first eight games at home, Saturday marked the first of five consecutive road games. . Entering Saturday the Memphis reserves had outscored opposing bench players 344-198.\n\nClippers: Recalled rookie guard Jawun Evans from its development team. The 6-foot Evans, out of Oklahoma State, had played two games with Los Angeles before being sent to its nearby Ontario affiliate.\n\nUP NEXT\n\nGrizzlies: Return to Staples Center on Sunday to play the Los Angeles Lakers.\n\nClippers: Have back-to-back 12:30 p.m. games, returning to Staples Center Sunday to meet the Miami Heat.\n\n---\n\nMore AP NBA: www.apnews.com/tags/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.715979",
+  "pipeline_version": "v1"
+}

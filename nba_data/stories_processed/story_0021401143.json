@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401143",
+  "espn_id": "400579435",
+  "date": "Apr 04, 2015",
+  "matchup": "MIL vs. ORL",
+  "headline": "Harris, Vucevic lead Magic past Bucks, 97-90",
+  "cleaned_body": "MILWAUKEE --  After watching his team claw its way to a fourth-quarter lead, a fired-up Orlando Magic coach James Borrego got hit with the first technical foul of his career.\n\n\"I was just inspired by the way they were playing. How hard, the intensity. It got me fired up out there,\" Borrego said. \"I'm just proud to be part of a group like this that's fighting and staying together. I just wanted to be right in the mix with them.\"\n\nTobias Harris had 23 points and 10 rebounds, Nikola Vucevic scored 20 points, and the Magic beat the Milwaukee Bucks 97-90 Saturday night.\n\nBorrego's passion got his players' attention as Orlando got its second road win in two nights after losing 12 straight away from home.\n\n\"That's a good guy. He's all we got right now and we're fighting for him,\" Aaron Gordon said.\n\nHarris credits Borrego for showing a lot of fire for the team since taking over as  coach after Jacque Vaughn was fired in February.\n\n\"He wants us to win as much as we want to win,\" Harris said. \"He got a tech and that fired us up and we just kept bringing it down the stretch of the fourth quarter.\"\n\nVictor Oladipo added 15 points and Harris made a career-best five 3-pointers on nine attempts.\n\n\"I thought we left Tobias open a lot,\" the Bucks' Jared Dudley said.\n\nHarris' repeated open looks irked Milwaukee coach Jason Kidd.\n\n\"When you leave guys wide open in the corner in this league, they can knock them down,\" Kidd said.\n\nErsan Ilyasova scored 18 points and Khris Middleton added 15 for Milwaukee. Point guard Michael Carter-Williams had 10 rebounds and nine assists.\n\nMilwaukee led 73-72 heading to the fourth. The lead changed hands on five consecutive possession midway through the quarter, before the Magic grabbed a 94-90 lead with less than 2 minutes left on back-to-back 3-pointers by Harris and Oladipo. A falling-down jumper by Oladipo extended the lead to six, and he added a free throw for the final margin.\n\n\"In the fourth quarter, I felt we were more physical and we kept them off the glass. We were locked in defensively,\" Harris said.\n\nThe Bucks jumped out to an early 12 point lead and led 31-22 after the first quarter. Ilyasova had 11 points in the opening period. Milwaukee made all four of its 3-pointers in the quarter.\n\nHarris scored 11 second-quarter points to spark an Orlando rally, although Milwaukee held a 53-51 advantage at the half.\n\nThe Bucks extended the lead by an additional point before the second-half tip when Khris Middleton made a technical foul shot. Orlando's Elfrid Payton was whistled for the technical as the teams left the court at halftime.\n\nTwo of Milwaukee's top offensive threats struggled in the first half. Giannis Antetokounmpo missed his first six shots from the field. Carter-Williams missed all eight of his first-half shots.\n\n---\n\nTIP-INS\n\nMagic: Borrego said the foot injury suffered by Gordon, which required surgery and forced him to miss 32 games earlier this season, interrupted the rookie's development. \"He had to take a step back and observe from the sideline. But through that adversity you grow and learn,\" Borrego said. \"He's a little bit more patient right now.\"\n\nBucks: Antetokounmpo suffered a nasal contusion less than three minutes into the game but returned late in the first quarter. ... Dudley, who has been battling back issues, played 21 minutes after logging 23 minutes at Boston on Friday night.\n\nALL HANDS ON DECK:\n\nKidd has no intention of shortening the Bucks' rotation as the team heads toward a likely playoff berth. \"Everybody has played this season and everybody will continue to play,\" he said.\n\nUP NEXT\n\nMagic: Host Chicago on Wednesday.\n\nBucks: Host Cleveland on Wednesday.",
+  "tags_rule": [
+    "EarlyRun",
+    "InjuryReport",
+    "PhysicalGame",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.073758",
+  "pipeline_version": "v1"
+}

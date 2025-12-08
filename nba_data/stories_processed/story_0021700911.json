@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700911",
+  "espn_id": "400975657",
+  "date": "Feb 27, 2018",
+  "matchup": "SAC @ POR",
+  "headline": "Lillard has 26 points and Blazers beat Kings 116-99",
+  "cleaned_body": "PORTLAND, Ore. --  Damian Lillard did not hesitate when asked about how well the Portland Trail Blazers have been playing recently.\n\n\"It's the best place I think we've been in years,\" he said.\n\nLillard had 26 points and 12 assists, and the Blazers won their fourth straight with a 116-99 victory over the Sacramento Kings on Tuesday night.\n\nJusuf Nurkic added 17 points and nine rebounds for Portland, which sits in fifth place in the Western Conference -- a game back of San Antonio -- after winning five of its last six games. The current four-game winning streak matched the team's longest of the season.\n\n\"We can't be satisfied with where we are and what we've been doing,\" Lillard said. \"It's got to be on to the next thing, and keep trying to take it to the next level.\"\n\nZach Randolph had 20 points for the Kings, who lost their fifth straight overall. Sacramento has dropped 10 straight games at Portland's Moda Center.\n\nWith just 18 wins, Sacramento is in second-to-last place in the West, above only the Phoenix Suns. The Kings have lost four straight and six of their last seven.\n\n\"We gave ourselves a chance multiple times tonight but when you have a team that's played with each other for a while, when things get chaotic and you need to settle down they know where to get the ball and they do a great job of that,\" Kings veteran Vince Carter said.\n\nThe Kings were playing the second of a back-to-back, after losing to Minnesota 118-100 on Monday night. Randolph sat out that game but returned against the Blazers. Randolph played six seasons in Portland.\n\nLillard had scored 197 points in the past five games, the most points for a Blazer over a five-game stretch in franchise history.\n\nHe had 15 points and five assists in the opening quarter against the Kings, including three 3-pointers, to give Portland a 36-26 lead. He was up to 19 points by the half, when the Blazers led 66-53. None of the Kings players were in double figures.\n\nThe Blazers led by as many as 17 points in the first half, but the Kings closed the gap in the third quarter, closing within 88-80 to start the fourth.\n\nBut CJ McCollum' jumper from out front extended the lead for Portland to 105-88 with 6:40 left. The Blazers led by as many as 19 points down the stretch.\n\nShabazz Napier had 20 points off the bench for Portland.\n\n\"I thought we had good energy, our ball movement was good, defensively we were physical, we got our hands on some balls. But I think most important we were just connected,\" Lillard said. \"For the start of the game we were all on the same page once again -- just knew what we needed to get done. And we got it done.\"\n\nWhen he reached 17 points, Lillard clinched the highest-scoring average for any month in Portland history. He passed Geoff Petrie who averaged 30.4 points in March, 1971. Lillard averaged 31.4 points for the month.\n\nLillard had 40 points in the Portland's 106-104 victory over the Suns on Saturday.\n\nTIP INS:\n\nKings: It was the fourth meeting between the two teams. Sacramento's lone win came in the first. ... Willie Cauley-Stein had 17 points and 10 rebounds.\n\nTrail Blazers: Lillard has made a 3-pointer in 43 straight games. ... Blazers coach Terry Stotts is the reigning Western Conference Coach of the Month. ... Portland had a season-high 20 fast-break points.\n\nPRAISE: \"Coach Stotts is a mastermind with how he runs his offense. He gets his guys to buy into their role. Once they get rolling they're a tough team to stop so you kinda have to pick your poison for what you're going to stop because they're going to score,\" Carter said.\n\nUP NEXT:\n\nThe Kings host the Brooklyn Nets on Thursday.\n\nThe Trail Blazers host the Timberwolves on Thursday.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.319309",
+  "pipeline_version": "v1"
+}

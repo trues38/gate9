@@ -1,0 +1,26 @@
+{
+  "game_id": "0021700510",
+  "espn_id": "400975256",
+  "date": "Dec 27, 2017",
+  "matchup": "MIN vs. DEN",
+  "headline": "Butler's 39 points lift Wolves past Nuggets, 128-125 in OT",
+  "cleaned_body": "MINNEAPOLIS --  Jimmy Butler played the type of game Tom Thibodeau was thinking about when he brought the veteran guard to Minnesota in the offseason.\n\nButler scored 12 of Minnesota's 14 points in overtime and finished with a season-high 39 to lift the Timberwolves to a 128-125 victory over the Denver Nuggets on Wednesday night.\n\nThibodeau, Minnesota's coach and president of basketball operations, gave up a first-round draft pick and two players -- both former first-round picks -- to acquire the Olympian and three-time All-Star from Chicago, where Thibodeau coached him from 2011-15.\n\n\"He's got an unbelievable will to win, and that's what makes him so special,\" Thibodeau said. \"When his best is needed, he's always at his best. Always been that way, and that's not going to change.\"\n\nButler scored Minnesota's first 11 points in overtime. Then with the game tied 125-all and 50 seconds to go, he drove to the basket again before kicking it out to Jamal Crawford, who drained the go-ahead 18-foot jump shot.\n\n\"I really was going to shoot the ball, I won't lie to you,\" Butler said. \"But if Jamal screams `Jimmy! Jimmy! Jimmy!' three times, that means pass it to him, he's open. He did what he's done for us all year: make some shots.\"\n\nAfter the Nuggets missed on the other end, Butler skied for the defensive rebound, brought the ball down the court and drew a foul. He hit one of two free throws, and Denver's Trey Lyles missed a desperation 3-point attempt at the buzzer to help Minnesota hang on after blowing a 19-point lead.\n\n\"That's an All-Star. He showed his worth right there,\" said Lyles, who finished with 23 points and 10 rebounds. \"He done it to us in the earlier game, too, and when a guy gets going like that it's tough to stop him, and kudos to him. We kind of threw everything we had at him, and he was able to take it and still finish.\"\n\nWill Barton scored 28 points and Nikola Jokic had 22 for the Nuggets, whose three-game winning streak ended.\n\nAndrew Wiggins made five 3-pointers and scored 21 points for Minnesota, which won its fifth straight. Taj Gibson added 20 points, and Karl-Anthony Towns had 14 points and 13 rebounds.\n\nThe Wolves played the overtime period without Towns, who fouled out late in the fourth quarter, and point guard Jeff Teague, who limped off the court in the final 20 seconds with what appeared to be a left leg injury. Gibson fouled out on Denver's first possession in overtime, leaving the Wolves without three starters for the game's most crucial stretch. But as long as one of them was Butler, they were in fine shape.\n\n\"I hope everyone's recognizing how special he is,\" Thibodeau said. \"He's changed everything for us. Big play after big play. Guards everyone. Hustle plays. Tough rebounds. In traffic. Passes, shots, free throws. Everything.\"\n\nMinnesota led by as many as 19 points and was ahead 109-100 after Wiggins' four-point player with just under three minutes to play in regulation. But Denver stormed back and Barton hit a pair of free throws to send the game to overtime tied at 114.\n\n\"Down 19 points, second half, second night of a back-to-back, we could've very easily have folded and just rolled over,\" Nuggets coach Michael Malone said. \"I loved the fact that our guys never did that. We competed.\"\n\nTIP-INS\n\nNuggets: Lyles has scored in double digits in Denver's last seven games. ... The Nuggets are 2-4 on the back end of back-to-backs this year. After beating Utah on Tuesday, they are 5-1 on the front end. ... Denver had held its previous three opponents below 86 points, its longest such streak since 2012.\n\nTimberwolves: F Nemanja Bjelica played his second straight game after missing the previous 15 with a sprained foot. He finished with one point and three rebounds in 10 minutes. ... Minnesota's 71-point first half was its highest-scoring half this season. ... Minnesota improved to 19-6 against the Western Conference and 7-1 against the Northwest Division.\n\nGOING DEEP\n\nThe Timberwolves came into the game 29th in the NBA in 3-pointers made per game at 8.1, but they already had nine (on 18 attempts) by halftime and finished the night 12 for 29 from beyond the arc. They made their first five 3-pointers on consecutive shots by Towns, Teague, Wiggins (twice) and Butler to build an early lead.\n\nThat included a 4-for-4 start by Wiggins, a 30 percent 3-point shooter on the season who had made just 13 of 50 3-pointers in December going into Wednesday's game. His five on the night were the most for any Timberwolf this season.\n\nUP NEXT\n\nNuggets: Host Philadelphia on Saturday.\n\nTimberwolves: At Milwaukee on Thursday.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "Streak",
+    "ThreePointExplosion",
+    "FoulTrouble",
+    "CoachComment",
+    "EarlyRun",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.493589",
+  "pipeline_version": "v1"
+}

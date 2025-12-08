@@ -1,0 +1,25 @@
+{
+  "game_id": "0021200254",
+  "espn_id": "400277974",
+  "date": "Dec 04, 2012",
+  "matchup": "CHI vs. IND",
+  "headline": "Pacers prevent Bulls from winning 3 straight for first time this season",
+  "cleaned_body": "CHICAGO --  Paul George scored 34 points and grabbed nine rebounds to lead the Indiana Pacers to an 80-76 win over the Chicago Bulls on Tuesday night.\n\nRoy Hibbert added 10 points and 11 rebounds for Indiana, which closed a four-game trip with three victories.\n\nThe Bulls, who failed to win three straight for the first time this season, were able to keep David West, Indiana's leading scorer, in check -- but George picked up the slack.\n\nGeorge scored 10 points in the first quarter, highlighted by a thunderous dunk as George Hill's 3-point attempt bounced up off the back of the rim. It was George's best performance since scoring a career-high 37 points Nov. 21 against New Orleans. George went scoreless Saturday against Golden State, missing all seven of his shots.\n\nNate Robinson fired up the crowd with a trio of baskets on successive possessions midway through the fourth quarter. His 3-pointer brought the Bulls within 65-64, then a pair of driving layups gave Chicago its first lead since early in the third, but the Bulls could not pull it out.\n\nRobinson scored 19 of the 25 points the Bulls got from their reserves. Carlos Boozer notched his seventh double-double in nine games with 14 points and 10 rebounds for Chicago.\n\nBoozer beat West on consecutive possessions to start the game, but the Pacers responded with a 10-0 run that ended when Kirk Hinrich hit a 3-pointer.\n\nWest reached double-digits for a ninth straight game, but his 10 points were a far cry from the 23.0 he had averaged over his last six games, including eclipsing the 30-point mark twice.\n\nWest has a history of struggling against Chicago, averaging just over 11 points his last five games against the Bulls.\n\nIndiana shot 31.6 percent from the floor in the first half, including 1 of 5 from behind the 3-point arc. The Pacers continued to struggle from long range, hitting just 2 of 10 attempts, but tightened up inside, shooting over 40 percent in the second half.\n\nChicago shot 38.4 percent from the floor for the game.\n\nBoth teams struggling from the field was little surprise, as Indiana (90.9 points allowed per game) and Chicago (94.4) came into the contest boasting two of the top-five defenses in the NBA.\n\nChicago forced seven first-half turnovers en route to a two-point advantage at the break. Hinrich stripped Hibbert and fed Marco Belinelli for a breakaway layup to break a 35-35 tie just before the half.\n\nHibbert had little offensive impact in the first half, scoring just two points, but used his size to take over in the third quarter when Indiana outscored Chicago 25-18.\n\nBelinelli scored a modest six points with an assist and a turnover in his first start for Chicago, playing in place of the injured Richard Hamilton. Hamilton is out indefinitely after suffering a torn plantar fascia in his left foot during Saturday's 93-88 win over Philadelphia.\n\nHamilton's injury left the Bulls even thinner at the guard position, with former MVP Derrick Rose still sidelined because of surgery in May to repair a torn ACL in his left knee.\n\nThe Pacers are in the middle of a nine-game stretch in which Chicago is its only Eastern Conference opponent.\n\nGame notes Rose was seen shooting around at the United Center earlier Tuesday, but Bulls head coach Tom Thibodeau remained stalwart in his preseason resolution to avoid talking about Rose's rehab at length. \"Derrick's focused on his rehab, we're focused on our improvement and our opponent. So he's doing fine,\" Thibodeau said. ... Pacers head coach Frank Vogel acknowledged F/C Tyler Hansbrough's struggle to adjust to decreased minutes. Hansbrough came in averaging just 6.5 points per game and went scoreless on Saturday against Golden State, missing all five field goal attempts. \"He's got to figure it out,\" Vogel said.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "HotShooting"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.270838",
+  "pipeline_version": "v1"
+}

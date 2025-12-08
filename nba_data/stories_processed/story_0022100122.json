@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100122",
+  "espn_id": "401359946",
+  "date": "Nov 04, 2021",
+  "matchup": "PHX vs. HOU",
+  "headline": "Booker scores 27, Suns pull away to beat Rockets 123-111",
+  "cleaned_body": "PHOENIX -- — JaVale McGee has played just seven games for the Phoenix Suns and has already become a fan favorite in the desert. At 7-feet tall with long arms, long legs and a tendency to throw his body all over the court, the veteran's stints in the game are never boring.\n\nThey're also usually pretty effective.\n\nMcGee had emphatic blocks on back-to-back possessions to energize the Suns late in the third quarter, which helped the team rally for a 123-111 victory over the Houston Rockets on Thursday night.\n\n“Defensively, he's a big dude,” Suns coach Monty Williams said. “He's long and athletic and his ability to distract shots, even if he doesn't block it, really helps us.”\n\nDevin Booker led the Suns with 27 points while Landry Shamet added 19 off the bench. Phoenix has won three straight games and pushed above .500 for the first time this season with a 4-3 record.\n\nHouston has dropped five straight overall and lost five in a row to the Suns. The Rockets are 1-7.\n\nShamet and McGee led a strong effort from the Suns' bench, which combined for 52 points. Chris Paul had 13 assists two nights after he had 18 in a win against the Pelicans, which moved him to No. 3 all-time on the NBA's career list.\n\nBooker added nine rebounds and five assists.\n\nThe Suns bumbled through a large chunk of the game before gaining some momentum late in the third quarter. McGee sparked the rally with his blocks on back-to-back possessions and nearly had a third but it was wiped out for goaltending. The defensive outburst helped Phoenix turn a narrow deficit into a 93-86 advantage heading into the fourth quarter.\n\nThe Suns led by as many as 15 points in the fourth.\n\nHouston's Kevin Porter Jr. scored a season-high 20 points, while Christian Wood added 18. Rockets coach Stephen Silas said there were several reasons for his team's third-quarter breakdown.\n\n“There was the momentum, the fans, there’s our youth,” Silas said. “Their know-how and they came at us like a hurricane and it was hard for us to regroup after that.”\n\nHouston used a big second quarter to jump out to a 61-56 halftime lead. Wood led the Rockets with 12 points while Porter added 10. Mikal Bridges had 12 for the Suns before the break.\n\nSARVER FALLOUT\n\nThe game was somewhat of an afterthought for the Suns, who spent most of the day digesting the fallout from an ESPN report that owner Robert Sarver has a history of racist, misogynistic and hostile incidents during his 17-year tenure in charge of the franchise.\n\nWilliams — who is Black — said he hadn’t talked with Sarver since ESPN’s story was published and that if he had heard the owner say any of the things that were alleged in the story “I wouldn’t be in this seat.”\n\n“My reaction is it’s a lot to process,” Williams said. “There’s so many things there and for me it’s still not clear, as far as the facts are concerned. As someone who is the caretaker of the program, I find all of these things that are being said serious in nature. These allegations are sensitive — that’s an understatement.”\n\nWilliams was pleased the Suns were able to focus despite the turmoil and pull out a win.\n\n“You're not going to have a long career in the NBA if you can't handle distractions,\" Williams said. “I was proud of the way we approached this morning and the way we played tonight.”\n\nTIP-INS\n\nRockets: F Daniel Theis (right big toe soreness) didn't play.\n\nSuns: Deandre Ayton was back in the lineup after missing one game with a right leg contusion. He finished with 16 points and 11 rebounds in 26 minutes before fouling out ... G Cameron Payne (hamstring) missed his fifth straight game. ... F Jae Crowder got a technical foul in the third quarter for arguing with a referee.\n\nUP NEXT\n\nRockets: Travel to face the Nuggets on Saturday.\n\nSuns: Host the Hawks on Saturday.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.502399",
+  "pipeline_version": "v1"
+}

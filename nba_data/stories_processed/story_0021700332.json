@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700332",
+  "espn_id": "400975083",
+  "date": "Dec 02, 2017",
+  "matchup": "LAL @ DEN",
+  "headline": "Murray, Barton lead Nuggets over Lakers, 115-100.",
+  "cleaned_body": "DENVER --  The Denver Nuggets' offense came alive just as their defense clamped down on the Los Angeles Lakers.\n\nJamal Murray had 28 points, Will Barton scored 13 of his 16 points in the final 7:44, and the Nuggets scored the game's final 15 points to beat the Lakers 115-100 on Saturday night.\n\nThe Nuggets held the Lakers to two points over the final 5:41 to extend their home winning streak to seven games.\n\n\"If we're going to win it's always going to come down to defense,\" Gary Harris said. \"We were able to get stops when we needed them.\"\n\nDenver was without its starting frontcourt of Nikola Jokic, Paul Millsap and Wilson Chandler. Millsap is out several months after surgery on his left wrist, Jokic was in a walking boot after suffering a sprained left ankle Thursday, but Chandler (back) could return Monday.\n\nThe Nuggets missed the trio, which combines for nearly 40 points and 21.2 rebounds per game. The Lakers outrebounded Denver 52-39, including an 18-7 advantage in the second quarter when Los Angeles took a 59-55 halftime lead.\n\n\"We practice with a lot of lineups. We know the offense, we know each other, our chemistry is growing,\" Murray said. \"We know what everybody can do.\"\n\nBrandon Ingram led the Lakers with 20 points and Brook Lopez had 15 points. Lonzo Ball had nine points, nine rebounds and five assists but couldn't duplicate the triple-double he had against the Nuggets at home on Nov. 19.\n\nThe Lakers took a 98-94 lead on Kyle Kuzma's 3-pointer but managed one field goal the rest of the way and had four turnovers. Barton and Murray led Denver's rally by combining for 20 of the 37 points in the fourth quarter.\n\n\"I thought a lot of what happened to us tonight was self-inflicted,\" Lakers coach Luke Walton said. \"The exciting thing about that is if it's self-inflicted we can be the ones that change it.\"\n\nBarton gave the Nuggets the lead for good with two free throws, Murray hit a 3-pointer to go up five and Denver closed it out.\n\n\"We just kept turning the ball over,\" Kuzma said. \"We made a few costly turnovers and they converted.\"\n\nTIP-INS\n\nLakers: Kuzma was named the NBA Western Conference Rookie of the Month for November and games played in October. Kuzma ranked second among West rookies in rebounding (6.1) and third in 3-point field goal percentage (37.9). Kuzma returned to the lineup after missing Thursday's game with back spasms. ... The Lakers committed 21 turnovers.\n\nNuggets: Assigned F Torrey Craig to Sioux Falls of the G League. ... Chandler has missed three straight games with his lower back injury. ... Trey Lyles scored a season-high 18 points.\n\nFAT CITY\n\nDenver retired Lafayette \"Fat\" Lever's No. 12 in a halftime ceremony. Lever, who played for the Nuggets from 1984-90, recorded 43 triple-doubles in his career.\n\nLever is the sixth player to have his number retired by the Nuggets.\n\n\"I started thinking about (getting my number retired) when I was with the (Sacramento) Kings,\" Lever said. \"I saw a lot of ceremonies that happened there. I thought `what if,' and what if came tonight.\"\n\nSHOW STOPPER\n\nHarris finished with 13 points, but his biggest bucket brought the crowd to its feet. With 8:41 left in the third Harris drove into the lane and started to go up for a layup. Ball cut off his path and Harris did a 360 and finished with a finger roll.\n\n\"Once I spun I was like, `Nah, this has to stay in my right hand the whole time. I'm not switching it up,\" Harris said.\n\nThe crowd cheered and his teammates were impressed.\n\n\"I was speechless. I didn't know what to do. It was a crazy play,\" Murray said.\n\nMurray then shouted across the locker room to Harris, \"I was open by the way.\" Harris quietly responded, \"My bad.\"\n\nUP NEXT\n\nLakers: Host the Western Conference-leading Houston Rockets on Sunday night.\n\nNuggets: Begin a six-game trip in Dallas on Monday night.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.913874",
+  "pipeline_version": "v1"
+}

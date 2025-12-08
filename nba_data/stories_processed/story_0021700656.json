@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700656",
+  "espn_id": "400975402",
+  "date": "Jan 17, 2018",
+  "matchup": "TOR vs. DET",
+  "headline": "Valanciunas has double-double Raptors beat Pistons 96-91",
+  "cleaned_body": "TORONTO --  The Toronto Raptors have done a good job of avoiding lengthy losing streaks this season.\n\nThe struggling Detroit Pistons, meanwhile, are paying the price for making a habit of slow starts.\n\nJonas Valanciunas had 17 points and 16 rebounds, C.J. Miles scored 21 points and the Raptors beat the Pistons 96-91 Wednesday night.\n\nKyle Lowry scored 18 points and DeMar DeRozan had 17 to help the Raptors avoid their first three game losing streak of the season. Toronto lost at home to Golden State last Saturday before losing at Philadelphia on Monday.\n\n\"We don't even want to lose two games in a row,\" DeRozan said. \"Tonight was one of those games where it could have made it three. We had to buckle down and understand we had to get back to protecting home court.\"\n\nThe Raptors improved to 16-3 at home, the second-best record in the league behind San Antonio (19-2). Toronto has not lost back-to-back games at Air Canada Centre since last Jan. 22 and 24, when they lost to Phoenix and the Spurs.\n\nAndre Drummond had 25 points and 17 rebounds but the Pistons fell behind by 13 in the first quarter and lost for the seventh time in eight road games.\n\nAvery Bradley scored 19 points, Tobias Harris had 12 and Langston Galloway 11 for the Pistons, who have lost seven of 10 overall.\n\n\"In the last three quarters we fought hard but the first quarter counts, and there's just not very many times when we play a good defensive first quarter,\" Pistons coach Stan Van Gundy said. \"It's disappointing, you're working out of that hole.\"\n\nThe Raptors led by as many as 15 in the first half but trailed 79-75 early in the fourth quarter before rallying. Toronto took the lead for good on a layup by Miles at 6:43, the first basket in a 10-2 spurt that gave the Raptors a 90-83 lead with 4:47 left.\n\nVan Gundy was frustrated by a pair of defensive miscues that gave Lowry and Miles 3-point opportunities during the pivotal stretch.\n\n\"When it was winning time, we didn't do our job,\" Van Gundy said.\n\nBradley started for Detroit after missing Tuesday's practice because of a sore right groin, the same injury that kept him out of the final seven games in December. Following the game, Bradley said he is set to visit a specialist in Philadelphia on Thursday.\n\nDeRozan scored 10 points in the first and Miles had seven as Toronto led 31-18 after one.\n\nDetroit shot 6 for 20 in the first quarter and then made 14 of 25 attempts in the second and took advantage of nine Raptors turnovers to pull to 54-51 at halftime.\n\nDrummond scored 11 of Detroit's 22 points in the third quarter. The score was tied 73-73 heading to the fourth.\n\n\"We made it complicated on ourselves but we've got to give Detroit credit,\" Raptors coach Dwane Casey said. They were really getting into us, getting after us and doing something a little different defensively that threw our rhythm off a bit with their traps.\"\n\nTIP-INS\n\nPistons: F Stanley Johnson (strained right hip flexor) missed his third straight game. ... Guard Luke Kennard was available but did not play. Kennard missed Tuesday's practice because of a left thumb injury suffered in Monday's loss to Charlotte.\n\nRaptors: G Fred VanVleet (right knee) was not available. ... Toronto has lost consecutive games four times this season. ... The Raptors had 21 turnovers, one shy of their season-worst.\n\nHELPING HAND\n\nThe Raptors are 25-6 when recording 20 or more assists.\n\nCHAIRMAN OF THE BOARDS\n\nDrummond, who entered as the league's leading rebounder, has grabbed 10 or more boards in five straight games.\n\nNO CHARITY\n\nDetroit shot a season-worst 7 for 15 from the free-throw line, missing all three attempts in the fourth.\n\nUP NEXT\n\nPistons: Host Washington on Sunday. The Pistons have lost both meetings with the Wizards this season, and nine of the past 12 overall.\n\nRaptors: Host San Antonio on Friday. Toronto has lost four straight against the Spurs.\n\n---\n\nMore NBA basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.063748",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "0021300868",
+  "espn_id": "400489741",
+  "date": "Feb 28, 2014",
+  "matchup": "OKC vs. MEM",
+  "headline": "Kevin Durant scores 30 of his 37 in second half as Thunder win",
+  "cleaned_body": "OKLAHOMA CITY -- Kevin Durant often says he'll do whatever his team needs.\nIn the second half against Memphis, his mission was simply to score as often as possible. He had 30 of his 37 points after halftime to help the Oklahoma City Thunder beat the Grizzlies 113-107 on Friday night.\nDurant made 10 of 15 shots and all eight of his free throws after halftime to help the Thunder hold off a furious rally.\n\"I just told myself to be aggressive, to score,\" said Durant, the NBA's scoring leader. \"That's all I said to myself at half. I was frustrated with the shots I was taking. I felt that I wasn't disciplined. I worked my fundamentals. I just wanted to be aggressive to score. I think that's what my team needed.\"\nRussell Westbrook had 21 points and six assists in 28 minutes, Serge Ibaka had 16 points and nine rebounds and Reggie Jackson added 14 points for the Thunder, who snapped a three-game losing streak.\nOklahoma City had dropped every game since Westbrook returned from his latest knee surgery -- and nearly lost again because Mike Miller scored all 19 of his points in the fourth quarter to rally Memphis. Westbrook wasn't worried about the fact that the Thunder almost squandered the 16-point lead they had heading into the fourth.\n\"We won, that's what I'm going to take from it,\" Westbrook said. \"We lost three in a row. We just won.\"\nMarc Gasol had 17 points and Zach Randolph added 13 points and 10 rebounds for the Grizzlies, who had won five of six. Memphis ran into a team that was tired of losing.\n\"They're extremely talented, but they were very focused, locked in,\" Memphis coach Dave Joerger said. \"They played at a very, very high level, I thought tonight, as well as I've seen them play against us in a long, long time.\"\nThunder guard Thabo Sefolosha left in the first half with a left calf strain and did not return.\nThe Grizzlies made 26 of 40 shots in the second half, but couldn't stop Oklahoma City in the final minutes when the game got close.\nThe Thunder offense broke out of a lull in the second quarter when Westbrook returned from a rest. He scored 10 points in the final 5:36 to help Oklahoma City take a 57-42 lead at the break despite getting just seven points from Durant on 2-for-9 shooting.\nRandolph was held to 2-for-10 shooting in the first half, and the Grizzlies shot just 38 percent.\nDurant got it going in the opening minutes of the third quarter with a 3-pointer and a dunk to help Oklahoma City take a 65-47 lead.\nWestbrook showed some of his old form when he froze Tayshaun Prince with a crossover dribble, then drained a mid-range jumper to give the Thunder a 70-55 edge.\nDurant scored 17 points on 6-for-10 shooting in the third quarter to help the Thunder take an 87-71 lead at the end of the period.\nMiller came off the bench and made three 3-pointers in the fourth to help the Grizzlies trim the deficit to 103-97 with 4:22 remaining.\n\"In the fourth quarter, our bench was unbelievable,\" Prince said. \"We (the starters) put them in a bad situation and they almost got us out of it.\"\nMemphis cut the margin to three before Durant made a baseline jumper on an assist from Westbrook with 1:24 to play, then a floater with 33 seconds remaining to seize control for good.\n\"We can't afford to dig ourselves a hole like we did,\" Grizzlies guard Mike Conley said. \"They're too good of a team, especially at home. They came out and they wanted to win this game from the very beginning.\"\nThe Thunder finally resembled the team that has earned the top record in the Western Conference. They won for the first time since Feb. 13 and for the first time at home since Feb. 9\n\"It feels great,\" Durant said. \"You never take it for granted. We learned a lesson after losing three in a row. It's tough to swallow, so it's good to get a W.\"\nNOTES: Thunder center Steven Adams played through flu-like symptoms. The 7-foot rookie from New Zealand started in place of Kendrick Perkins, who will miss about six weeks with a left groin strain. Thunder coach Scott Brooks said before the game that Adams might not play. ... Oklahoma City shot 50 percent in the first quarter to lead 29-22 at the end of the period. ... Memphis' Kosta Koufos committed four fouls in his first 5 minutes of play in the first half.",
+  "tags_rule": [
+    "MomentumShift",
+    "LateCollapse",
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.112966",
+  "pipeline_version": "v1"
+}

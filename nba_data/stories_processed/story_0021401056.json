@@ -1,0 +1,22 @@
+{
+  "game_id": "0021401056",
+  "espn_id": "400579348",
+  "date": "Mar 24, 2015",
+  "matchup": "OKC vs. LAL",
+  "headline": "Russell Westbrook, Enes Kanter spark Thunder's rout of Lakers",
+  "cleaned_body": "OKLAHOMA CITY -- It would have been understandable for the Oklahoma City Thunder to overlook the struggling Los Angeles Lakers Tuesday night with a road game looming against defending NBA champs San Antonio\nNBA scoring leader Russell Westbrook refused to let that happen, scoring 27 points and adding 11 assists as the Thunder beat the Lakers 127-117 for their fourth straight victory.\nWestbrook took over the game after the Lakers had closed to 70-61 three less than three minutes into the second half, getting a steal and dunk and draining a 3-pointer seconds later on his way to a 14-point third quarter.\n\"We did a good job of just staying in attack mode and finishing well in the paint,\" said Westbrook, who finished just shy of his league-leading 27.5 scoring average.\n\nEnes Kanter contributed 25 points and 16 rebounds, and for the second straight game, got off to a fast start, recording a double-double in the first quarter with 15 points and 10 rebounds as Oklahoma City raced out to a 37-27 lead.\nKanter has scored 52 points and grabbed 28 rebounds in his last two games. Many of his points have come after offensive rebounds, especially when defenses try to gang up on Westbrook when he drives to the basket.\n\"He did a good job of being aggressive,\" Westbrook said. \"Enes has good touch, especially around the paint and you are seeing that early.\"\nThe Thunder, the NBA's best rebounding team, crushed the Lakers 49-28 on the boards. Steven Adams joined Kanter in the double-double category with 16 points and 10 rebounds. Dion Waiters added 23 points and Anthony Morrow had 12 off the bench.\nDespite the recent success in the face of injuries to reigning league MVP Kevin Durant, as well as starters Serge Ibaka, Andre Roberson and key reserve Nick Collison, Westbrook downplayed the idea that the Thunder are getting comfortable playing without their superstar.\n\"You can never get used to playing without one of the best players in the world,\" Westbrook said of Durant. \"But our job is to come out and compete every night at a high level.\nFor the Lakers, it was their 10th loss in the last 12 games, as they saw their road record fall to 7-27. Jordan Clarkson tried to keep Los Angeles competitive, scoring 30 points, but his team was able to get no closer than the final 10-point deficit down the stretch.\n\"They just have a lot of weapons,\" said Clarkson \"I think we competed. We just didn't have it in the end.\"\nSEEING DOUBLE\nKanter became the first Thunder player ever to record a double-double in the first quarter. He now has six 20-point, 10-rebound games in an OKC uniform. Prior to his arrival, no Thunder player had ever recorded a single 20/10 game.\nLOCAL HERO\nNCAA football single-game rushing record holder Samaje Perine attended the game. Perine plays for nearby University of Oklahoma.\nTIP-INS\nLakers: This was the first of two games without coach Byron Scott, who attended the funeral of his mother, Dorothy, on Monday. Scott also will miss the next game at Minnesota.\nThunder: Swept the series from the Lakers for the first time since the franchise arrived in Oklahoma City. The Thunder has now won the season series four years in a row.\nNEXT UP\nLakers:- Visit the Timberwolves on Wednesday\nThunder: Visit San Antonio on Wednesday",
+  "tags_rule": [
+    "DoubleDouble",
+    "EarlyRun"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.297626",
+  "pipeline_version": "v1"
+}

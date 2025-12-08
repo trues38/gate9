@@ -1,0 +1,25 @@
+{
+  "game_id": "0021400136",
+  "espn_id": "400578428",
+  "date": "Nov 15, 2014",
+  "matchup": "MEM vs. DET",
+  "headline": "Gasol, Randolph lead Grizzlies past Pistons, 95-88",
+  "cleaned_body": "MEMPHIS, Tenn. --  The Memphis Grizzlies may not dominate games, though they still are playing well enough to hold the NBA's best record.\n\nThe latest example came Saturday night, as Memphis maintained just enough of a buffer down the stretch to beat the Detroit Pistons 95-88 and improve to 9-1.\n\nOnly two of Memphis' wins have been by double digits, and six games were decided by five points or less. That includes a 93-92 loss in Milwaukee, its only one of the season.\n\nBut this one was easier than Thursday's comeback against Sacramento, when Courtney Lee made a reverse layup at the horn to give Memphis a 111-110 victory over Sacramento.\n\n\"I'm sure people at home are happier,\" center Marc Gasol said of avoiding a last-second play. \"We're used to it. . It's a lot harder to watch than actually to play.\"\n\nGasol scored 23 points and Zach Randolph added 17 points and 22 rebounds, including a career-high 13 on the offensive glass. Mike Conley scored 18 points and Lee had 12 for the Grizzlies.\n\n\"He's a fullback,\" Memphis coach Dave Joerger said of Randolph, adding: \"He wears down multiple people at a time. (Opponents) get to that point, and you're just like: `I don't want any more of you.\"\n\nKyle Singler scored 21 points, going 5 of 7 from 3-point range to keep the Pistons close. Greg Monroe had 16 points and 11 rebounds for Detroit, while Brandon Jennings scored 14 points and Josh Smith finished with 11.\n\n\"Our guys are developing toughness,\" Detroit coach Stan Van Gundy said. \"We certainly have to get better. It's different things every night. It's a consistency issue.\"\n\nDetroit's starting backcourt struggled, as Jennings and Kentavious Caldwell-Pope were a combined 7 of 27, with Caldwell-Pope missing 10 of his 11 shots.\n\nDetroit still shot 42 percent, while Memphis made just 37 percent.\n\nMemphis pushed the lead back to 11 in the fourth quarter, matching its largest of the game. But the Grizzlies could never get comfortable in the final frame. Detroit cut the Memphis advantage to 89-84 with 1:43 left on Singler's fifth 3-pointer of the night. Memphis held five to seven-point leads down the stretch.\n\n\"We were right there to compete with them,\" Singler said. \"If we had just played a little better, executed better on the offensive end. Not much better, just a little bit better and converted some offense, we would have been right there.\"\n\n---\n\nTIP-INS\n\nPistons: Smith grabbed a first-quarter rebound, giving him 6,000 for his career. ... Jonas Jerebko's 3-pointer in the fourth quarter put him over 2,000 points for his career. .The Pistons have lost nine straight to Grizzlies. Detroit's last win was 96-74 in the 2009-10 season opener in Memphis.\n\nGrizzlies: Play-by-play announcer Pete Pranica called his 1,000th game Saturday night. . Randolph's rebounding night marked the 14th time he has recorded at least 20 rebounds. .The Grizzlies have won 19 straight regular-season home games.\n\nTURNING POINT\n\nDetroit took a 56-55 lead in the third quarter when Monroe scored on a follow dunk. Memphis answered with a 14-4 run in the closing stages of the period and never relinquished the lead.\n\nDRUMMOND'S TROUBLE\n\nPistons center Andre Drummond had six points and 10 rebounds in just over 20 minutes because he was hampered by foul trouble, leading Van Gundy to sit him. \"Looking back, it was probably a mistake,\" Van Gundy said. \"That's when they started to pound us (on the boards).\"\n\nUP NEXT\n\nPistons: Host Orlando on Monday.\n\nGrizzlies: Host Houston on Monday.",
+  "tags_rule": [
+    "MomentumShift",
+    "FoulTrouble",
+    "CoachComment",
+    "CareerHigh",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.330697",
+  "pipeline_version": "v1"
+}

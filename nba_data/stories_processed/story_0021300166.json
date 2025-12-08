@@ -1,0 +1,24 @@
+{
+  "game_id": "0021300166",
+  "espn_id": "400489039",
+  "date": "Nov 20, 2013",
+  "matchup": "DET @ ATL",
+  "headline": "Millsap leads Hawks past Smith and Pistons, 93-85",
+  "cleaned_body": "ATLANTA --  Josh Smith was glad to get past his homecoming.\n\nSmith's former Atlanta teammates were glad to hang on for an ugly win.\n\nPaul Millsap, signed in the offseason to replace Smith, had 19 points to steal the spotlight in Smith's return to Atlanta, leading the Hawks to a 93-85 win over the Detroit Pistons on Wednesday night.\n\nSmith, who signed with Detroit after nine seasons with the Hawks, had 11 points while shooting 5 of 15 from the field.\n\n\"I'm glad I got this one under my belt,\" Smith said. \"Now we can move on and just focus on playing basketball.\"\n\nThere was a mixed response for Smith in pregame introductions but only applause following a \"Thanks Josh Smith\" message on the video board during the first timeout.\n\n\"It was what I expected, kind of,\" Smith said. \"Some cheering, a little bit of boos, but it's all good.\"\n\nSmith called his return to his hometown \"kind of a surreal moment\" before the game.\n\nAl Horford, Smith's former teammate, said \"it was different\" to have Smith wearing the Pistons' blue uniform on the Hawks' home court.\n\n\"Josh was a teammate of mine for a long time and I know he felt it,\" Horford said. \"I felt it, too. There was a little nostalgia, I think you could say. But it was good. He's trying to move forward and so are we, but it was just good to see him.\"\n\nThe Hawks pulled away after leading 66-64 through three quarters. Jeff Teague scored 18 points and DeMarre Carroll had 11 points and a career-high 12 rebounds.\n\nPistons coach Maurice Cheeks was ejected with 2:36 remaining after complaining to an official during a timeout. Cheeks wouldn't reveal what he said that drew the two technical fouls and ejection.\n\n\"Nothing. Just got `em,\" Cheeks said. \"I don't need to get fined!\"\n\nBrandon Jennings led Detroit with 21 points. Rodney Stuckey had 18 before fouling out in the fourth quarter.\n\nEach team showed signs of playing the second of back-to-back nights.\n\n\"It's important during the season to find a way to win some ugly games and I think our group tonight found a way to do that, to find some energy when it probably wasn't easy for either group,\" Hawks coach Mike Budenholzer said.\n\nAdded Horford: \"It wasn't the prettiest game. We just made enough plays to win the game.\"\n\nMillsap started after missing the Hawks' loss at Miami on Tuesday night with a sore right elbow.  Millsap, who made eight of 14 shots, said he wasn't motivated by comparisons with Smith.\n\n\"I'm not Josh Smith,\" Millsap said. \"It didn't faze me at all. It wasn't about me. It's not about me.\"\n\nInstead, it was about Smith for many fans and perhaps for the forward who had three steals and blocked two shots.\n\n\"My teammates know how important the game is to me,\" Smith said before the game.\n\nAsked what he has missed about his Atlanta hometown, Smith said: \"My house. And my mother's home cooking.\"\n\nSmith missed a jump hook on the Pistons' first possession and then missed two 3-pointers before making a layup for his first field goal.\n\nSmith wasn't the only player to struggle with poor shooting early. Each team shot under 30 percent in the first quarter. The Pistons led 46-43 at halftime before Atlanta took a 66-64 advantage into the final period.\n\nMike Scott scored nine of his 11 points in the fourth quarter. Teague had eight points in the final period.\n\nGame notes Kyle Korver has made a 3-pointer in 85 consecutive games, four shy of matching the NBA record set by Dana Barros (1994-96). Korver left the game in the first period with a left eye laceration. The cut did not require stitches and he returned early in the second period to make his first of two 3s. ... The Pistons were without G Chauncey Billups (left knee tendinitis), G Will Bynum (sore left hamstring) and F Charlie Villanueva (back). ... The teams play again Friday night at Detroit.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.372608",
+  "pipeline_version": "v1"
+}

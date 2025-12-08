@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400052",
+  "espn_id": "400578344",
+  "date": "Nov 04, 2014",
+  "matchup": "OKC @ TOR",
+  "headline": "Raptors beat depleted Thunder 100-88",
+  "cleaned_body": "TORONTO --  Another game, another loss and, worst of all, another injury for the hard-luck Oklahoma City Thunder.\n\nDeMar DeRozan scored 16 points, Patrick Patterson had 14 and the Toronto Raptors beat the depleted Thunder 100-88 on Tuesday night.\n\n\"It feels like a nightmare and I'm ready to wake up,\" Oklahoma City guard Reggie Jackson said.\n\nThe Thunder (1-4) are off to their worst start since going 1-15 to begin the 2008-09 season.\n\nSerge Ibaka had 25 points and 11 rebounds for a short-handed Oklahoma City team playing the second game of a back-to-back. Jackson added 13 points and a career-high 14 assists.\n\nLou Williams scored nine of his 12 points in the fourth quarter and Tyler Hansbrough got eight of his 12 at the free-throw line as the Raptors improved to 3-1.\n\nThe Thunder began the game with eight active players and finished with six. Less than a minute into the second half, forward Perry Jones went down clutching his right knee after colliding with Toronto's Patrick Patterson. Jones, who banged his knee in Monday's loss at Brooklyn, had to be helped to the locker room and was unable to return.\n\n\"We'll see how he feels tomorrow and evaluate it again,\" coach Scott Brooks said.\n\nThunder guard Sebastian Telfair was ejected for a flagrant-2 foul with 1:57 left after he struck Hansbrough in the face.\n\nOne possession after Jones'  injury, Jackson went down hard and appeared to bang his right wrist and thigh, but was able to stay in the game.\n\n\"It was like `Man, what is going on here?\" Ibaka said of the rash of injuries.\n\nThe Thunder already were without guard Andre Roberson, who left Monday's game with a sprained left foot and was wearing a protective boot Tuesday.\n\nAlso sidelined for Oklahoma City is guard Russell Westbrook, out at least four weeks after undergoing surgery to repair a broken right hand on Saturday. Forwards Kevin Durant (right foot), Mitch McGary (left foot) and Grant Jerrett (left ankle), and guards Anthony Morrow (left knee) and Jeremy Lamb (lower back) have missed all five games this season.\n\n\"You've still got to play,\" Brooks said. \"It's a five-one-five game and we still have five.\"\n\nToronto, meanwhile, had its own injury woes. Forward Amir Johnson was sidelined by a sore left ankle and won't travel with the team for Wednesday's game at Boston.\n\nRaptors center Jonas Valanciunas left for an X-ray on his right hand at the start of the second quarter. No injury was detected, and Valanciunas returned midway through the period, wearing a wrap on his hand. Valanciunas left again in the final minute of the half after being accidentally hit in the face by Telfair. He did not return, but X-rays after the game were negative.\n\n\"He was all messed up,\" Raptors coach Dwane Casey said.\n\nGETTING TO THE LINE\n\nToronto came in leading the NBA with an average of 40 free-throw attempts per game. The Raptors went 28 for 33 at the line against the Thunder.\n\nSTIEMSMA'S SEASON STARTS\n\nRaptors C Greg Stiemsma played for the first time this season, picking up four points, three rebounds and five fouls in 12 minutes.\n\nTIP-INS\n\nRaptors: Valanciunas missed 18 games with a fractured right hand when he was a rookie in the 2012-2013 season. ... Patterson made his second straight start in place of Johnson. ... This was the first game in a stretch of eight of nine at home for Toronto.\n\nThunder: Ibaka came within two points of matching his career high, set twice. ... Oklahoma City scored 30 in the first for its highest total in any quarter since scoring 34 in the first against Portland last Wednesday. ... The Thunder dropped to 0-4 on the road.\n\nUP NEXT\n\nRaptors: Visit Boston on Wednesday night.\n\nThunder: Host Memphis on Friday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.792110",
+  "pipeline_version": "v1"
+}

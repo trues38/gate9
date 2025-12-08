@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300880",
+  "espn_id": "400489753",
+  "date": "Mar 01, 2014",
+  "matchup": "POR vs. DEN",
+  "headline": "LaMarcus Aldridge returns from injury as Blazers sweep Nuggets",
+  "cleaned_body": "PORTLAND, Ore. -- LaMarcus Aldridge returned to the Trail Blazers lineup, happy to know that things didn't go awry without him.\nPortland's All-Star forward had 16 points and the Blazers won their fifth straight game with a 102-96 victory over the Denver Nuggets on Saturday night.\nAldridge was averaging 23.9 points and 11.4 rebounds before a left groin injury caused him to miss five games.\n\"I'm not going to call guys out but I thought that they just played great,\" Aldridge said about the team in his absence. \"I thought everybody did more, whether it was rebounding or whatever. Everybody just played better.\"\nThe win moved the Blazers (41-18) a season-high 23-games over .500. After failing to make the playoffs last season, Portland sits in third place in the Western Conference.\nRobin Lopez led the Blazers in scoring for the first time this season with 18 points, while Nicolas Batum had a career-high 16 rebounds.\n\"That was a solid win for us,\" said Blazers coach Terry Stotts. \"We did a lot of good things. I felt like we were in control for the most part.\"\nKenneth Faried, Randy Foye and Evan Fournier scored 16 points apiece, but Denver (25-33) lost its fifth straight. Faried, who also had 10 rebounds, took a hard fall with less than two minutes left and appeared to injure his right knee, but finished out the game.\nPortland won all four meetings this season against Denver, its first sweep of the series since the 1999 season, when the Blazers won all three games against the Nuggets.\nDamian Lillard's driving layup gave Portland a 100-87 lead with 4:09 left in the game and the Nuggets never really challenged. Lillard finished with 17 points.\nThe Blazers had a bit of a rest after a 124-80 rout of Brooklyn on Wednesday night. The Nets played in Denver the next night, routing the Nuggets 112-89.\n\"The effort was there and it was something to build off of because everybody -- the whole city of Denver -- after that loss to Brooklyn had a sour taste in our mouth,\" Foye said. \"We just wanted to get back out there and try to give the fans something to cheer about.\"\nThe Nuggets have won just one of their last 11 games.\nAldridge was greeted with a roar from the crowd at the Moda Center when he was announced as a starter.\n\"It felt good,\" Aldridge said. \"My timing was a little off but it felt good to be back out there playing with the guys.\"\nSecond-year center Meyers Leonard also returned after a five-game absence because of a sprained right ankle. But the Blazers did not have forwards Thomas Robinson, who has a left knee injury, and Joel Freeland, with a right knee sprain.\nThe Nuggets were hurting, too. Top scorer Ty Lawson missed his ninth straight game with a left rib fracture.\nBut guard Aaron Brooks, acquired before the trade deadline from Houston, played despite a sore ankle, and Wilson Chandler returned after missing a game because of a right knee sprain.\nDenver closed within 52-47 late in the half after a pair of free throws from Faried, but Lopez's dunk and Lillard's layup helped push Portland's lead to 56-48 at the break. Lopez led all players with 12 points.\nLillard, Batum and Leonard had consecutive dunks to give the Blazers an early 22-12 lead. The Blazers stretched the lead to 73-60 in the third quarter on Batum's finger-roll layup.\nNuggets coach Brian Shaw said he liked the effort after the loss to Brooklyn, but pointed to missed free throws. Denver was 23 of 35 from the line.\n\"You lose the game by six points and you miss 12 free throws, that can be the difference in the game,\" Shaw said. \"I thought the team played a lot better and responded after the embarrassing game we had the other night at home against Brooklyn. So we got better tonight and I'm happy with our effort.\"\nGame notes\nBrooks played at the University of Oregon and got warm applause during pregame game introductions. .... Batum becomes the fourth Trail Blazer this season with 16 or more rebounds in a game, joining Aldridge, Lopez and Robinson. ... It was the first time this season that no player for the Blazers or their opponent had a player with at least 20 points.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.932454",
+  "pipeline_version": "v1"
+}

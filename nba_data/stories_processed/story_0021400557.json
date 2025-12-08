@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400557",
+  "espn_id": "400578849",
+  "date": "Jan 10, 2015",
+  "matchup": "POR vs. ORL",
+  "headline": "Trail Blazers hand Magic 6th straight loss, 103-92",
+  "cleaned_body": "PORTLAND, Ore. --  LaMarcus Aldridge scored 25 points and the Portland Trail Blazers handed the Orlando Magic their sixth consecutive loss, 103-92 on Saturday night.\n\nOrlando's Nikola Vucevic scored a career-high 34 points and grabbed 16 rebounds to lead the Magic (13-27).\n\nAldridge hit 10 of 22 shots to help the Blazers (29-8) tie Golden State for most wins in the NBA this season.\n\nWesley Matthews scored 18 points, including two free throws that gave the Blazers the lead for good at 87-85 with 3:56 remaining. Portland had five players in double figures.\n\nVictor Oladipo had 18 points and eight rebounds for Orlando.\n\nThe Magic out-rebounded Portland 49-43. The Blazers lead the NBA in rebounding at 46.7 per game.\n\nPortland threatened to make it a rout at the outset, rolling to a 24-9 lead late in the first quarter. The Magic couldn't make shots, hitting only 5 of 22 during the opening quarter.\n\nThe Blazers led by as many as 19 during the first half before Orlando caught fire midway through the second quarter. Vucevic, who had 15 points and 10 rebounds during the first half, scored three consecutive baskets to help the Magic finish the first half on a 12-2 run, cutting the halftime deficit to 46-41.\n\nPortland led 72-70 after three quarters, surviving a flurry from Orlando. Oladipo scored six points during an 11-0 run as the Magic grabbed a 52-48 lead three minutes into the third. The teams traded the lead 10 times during the remainder of the quarter, with Aldridge giving Portland the edge heading into the fourth on two free throws.\n\nThe Magic scored five consecutive points to tie the game at 85-85 on two free throws by Vucevic. Matthews and Lillard then hit two more each, followed by a reverse layup by Matthews for a 91-85 Portland lead. Matthews' 3-pointer with 1:10 remaining put the Blazers in front 96-89.\n\nTIP-INS\n\nMagic: F Tobias Harris (ankle) and G Evan Fournier (knee) both sat out against the Blazers. They both suffered injuries during Friday's game against the Los Angeles Lakers. ... G Devyn Marble made his first NBA career start. ... The Magic's six-game losing streak is a season high.\n\nTrail Blazers: G Allen Crabbe strained his left knee during Thursday's win over Miami, and will miss at least two games. ... Portland went 6-1 on its seven-game home stand, losing only the East Division-leading Atlanta. ... The Blazers won its NBA-best 19th home game.\n\nUP NEXT\n\nMagic: Visit Chicago on Monday\n\nTrail Blazers: Visit Los Angeles Lakers on Sunday",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.477805",
+  "pipeline_version": "v1"
+}

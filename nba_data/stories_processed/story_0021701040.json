@@ -1,0 +1,22 @@
+{
+  "game_id": "0021701040",
+  "espn_id": "400975786",
+  "date": "Mar 17, 2018",
+  "matchup": "MEM vs. DEN",
+  "headline": "Grizzlies snap 19-game losing streak with victory over Nuggets",
+  "cleaned_body": "MEMPHIS, Tenn. -- The Denver Nuggets did something no NBA team has done in almost seven weeks: They lost to the Memphis Grizzlies.\nDillon Brooks scored 24 points, Tyreke Evans added 20, and the Grizzlies snapped a 19-game losing streak with a 101-94 victory over the Nuggets on Saturday night.\n\"It was great. We're all excited,\" said Brooks, who hit all four of his 3-pointers in the third to keep Memphis ahead. \"I was confident in the shot, and they were falling. They were all in the same spot, so I just shot it the same way.\"\nThe Nuggets, who entered the night in ninth place in the Western Conference, failed to gain ground on the final playoff spot by losing to the team that entered the night with the league's worst record.\nThe defeat was a lousy first step as the Nuggets embark on a seven-game road trip. They don't return home until April 1 against the Milwaukee Bucks.\n\"It's a bad loss,\" Denver coach Michael Malone said, adding: \"It's a tough way to start this road trip.\"\nThe Nuggets, who played without leading scorer Gary Harris due to a right knee sprain suffered Thursday against Detroit, struggled through a miserable first half of shooting, connecting on 22 percent in the first quarter. Memphis stretched its lead to 21 early in the second quarter before Denver cut it to 53-48 at halftime.\nMalone expressed his disappointment with the starters and their lack of energy.\n\"Our starting group did an awful job of starting the game with any real sense of urgency, and we built ourselves a 21-point hole on the road,\" Malone said.\nWayne Selden scored 16 points for Memphis by hitting six of seven shots, including four of five from outside the arc.\nNikola Jokic led the Nuggets with 17 points and 12 rebounds, while Jamal Murray finished with 16 points on 5-of-18 shooting. Denver shot just 37 percent overall and 27 percent from 3-point range.\nMemphis never trailed, though the Nuggets tied the game twice near the eight-minute mark of the fourth. The Grizzlies scored the game's final five points to win for the first time since defeating the Phoenix Suns on Jan. 29.\n\"It validates how hard you need to work for 48 minutes regardless of what happens on the offensive end,\" Gasol said. \"I thought for the most part we were really engaged offensively.\"\nTIP-INS\nNuggets: The seven-game road trip is Denver's longest stretch away from home this season. ... Started 3-of-19 from the field. ... Are 11-22 on the road this season. ... Are the most recent Western Conference team to lose 20 consecutive games, dropping 23 in a row during 1997-98 campaign.\nGrizzlies: Held a halftime lead for the first time since the losing streak began. ... In the third, made six 3-pointers and only a trio of 2-point baskets. ... Avoided losing nine straight at FedEx Forum, which would have been a first.\nNOTHING LIKE THIS\nAsked if he had ever endured a 19-game losing streak, Brooks, a rookie from Oregon, replied: \"There's not enough games in college to go through a losing streak like that.\"\nMALONE'S MOOD\nMalone said the effort by the Nuggets starters was \"unacceptable.\"\n\"If we're coaching effort at this time of the year, we have a big, big problem,\" he said.\nHARRIS STATUS\nGary Harris, who averages 17.7 points a game, injured his right knee when he collided with a basket stanchion against the Pistons.\n\"He's still a little way away from playing because he's still not even walking normally right now,\" Malone said, later adding: \"I think Gary will be out, I think, three or four games.\"\nUP NEXT\nNuggets: Play the second game of the trip Monday against Miami.\nGrizzlies: Begin a three-game trip against the Eastern Conference on Monday in Brooklyn.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.963488",
+  "pipeline_version": "v1"
+}

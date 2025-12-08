@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300821",
+  "espn_id": "400489694",
+  "date": "Feb 21, 2014",
+  "matchup": "MEM vs. LAC",
+  "headline": "Zach Randolph scores 21 as Grizzlies hand Clips 2nd straight loss",
+  "cleaned_body": "MEMPHIS, Tenn. -- With Tony Allen back, the Memphis Grizzlies were able to turn up their defense pressure and hold off the Los Angeles Clippers down the stretch.\nZach Randolph had 21 points and 11 rebounds, Marc Gasol added 17 points and 10 rebounds, and the Grizzlies survived a late rally for a 102-96 victory over the Clippers on Friday night.\nAllen, the Grizzlies' defensive sparkplug, missed the previous 21 games with a sprained left wrist. His return sparked a defensive effort that held the Clippers to 33 percent shooting in the second half and gave Memphis a double-digit lead that was enough of a buffer for the Grizzlies to win their fourth straight. Allen scored nine points on 4-of-4 shooting with two steals and a block.\n\"With TA back in the lineup, it's great,\" Randolph said. \"He's a leader on this team, and he gets guys going with his energy. What else can I say? We're happy to have him back.\"\nAllen drew a standing ovation when he entered the game late in the first quarter and seemed even more animated than usual in seeing his first action since Jan. 3. He said his goal was \"to get in there and cause havoc.\"\n\"I kind of had butterflies in my stomach when they did that,\" Allen said of the ovation, \"but I got focused on the game.\"\nJames Johnson added 15 for Memphis, and Mike Miller finished with 13, hitting 5 of 8 from the field. Courtney Lee scored 10 for Memphis. Gasol had four blocks.\nBlake Griffin led the Clippers with 28 points and 13 rebounds, and Jamal Crawford had 23 points. Chris Paul added 18 points and 14 assists, but was 4 of 13 from the field as Los Angeles lost its second straight.\n\"It was just one of those games that we missed a lot of easy ones,\" Griffin said after Los Angeles shot 39 percent for the game.\nClippers coach Doc Rivers thought the game started slipping away in the second quarter. Rivers, who coached Allen in Boston, noted that he was a key.\n\"I thought Tony Allen, Mike Miller and James Johnson turned the game around for them with their energy,\" Rivers said.\nAnother key was the bench scoring. Memphis' reserves outscored their Clippers' counterparts 43-7.\n\"When we don't score, that's fine,\" Rivers said, \"but we've got to be able to get stops. Our second unit didn't kill this offense, they gave up 32 points defensively, and that that's what hurt us.\"\nThe Grizzlies opened the fourth quarter connecting on their first four shots for an 11-4 run to take the lead to double digits. Mike Conley's layup gave Memphis an 84-72 lead with 9:23 remaining.\nThe margin stayed between seven and 11 points, and Memphis still led by 10 approaching the 4-minute mark. But Los Angeles chipped away, and a pair of free throws from Paul brought the Clippers within 98-96 with 1:05 left.\nThat was as close as Los Angeles could get. Memphis scored the last four points while the Clippers were missing their final four shots.\nAs has become the norm when the two teams face each other, the play was physical and defense stout.\n\"Every game we play against them is going to be a battle, and we understand that,\" Conley said. \"Both teams get up for each other, and (Los Angeles) is the most competitive team, I think, as far as rivalries go.\"\nGame notes\nGriffin has scored at least 25 points in 10 straight games. ... The Clippers and Grizzlies have played 23 times since Jan. 26, 2012, including 13 games in the postseason. ... The loss snapped the Clippers' three-game regular-season winning streak in Memphis. ... The Grizzlies' promotion Friday night was a temporary \"GRIZZLIES\" neck tattoo as a nod to reserve F James Johnson, who has his son's name NAYMIN tattooed on his neck. ... The Grizzlies were 16-5 during Allen's absence.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.765658",
+  "pipeline_version": "v1"
+}

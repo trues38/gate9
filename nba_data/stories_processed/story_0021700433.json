@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700433",
+  "espn_id": "400975184",
+  "date": "Dec 16, 2017",
+  "matchup": "MIL @ HOU",
+  "headline": "Harden, Paul lead Rockets to 13th straight victory",
+  "cleaned_body": "HOUSTON --  Nursing a sore knee, James Harden said he came close to not playing Saturday night.\n\nWhen team doctors warned him that it would be painful, but he could play through it, he said, \"Let's go.\"\n\nHarden scored 31 points and Chris Paul had 25 and the Rockets beat the Milwaukee Bucks 115-111 for their 13th straight victory.\n\nThe winning streak is the Rockets' longest since a franchise-best 22 straight in 2007-08.\n\nHarden hit a step-back 3-pointer over Malcolm Brogdon and was fouled, giving Houston an 11-point lead with less than six minutes remaining. In the last two minutes, Paul hit back-to-back mid-range jumpers on consecutive possessions to put the game out of reach.\n\n\"Mentally, this was a big win for us,\" Paul said. \"We never let go of the rope. Every time they made a little push, we stayed right there down the stretch. James was out there, basically, on one leg. The mental toughness we showed as a team is what we take from this game.\"\n\nGiannis Antetokounmpo had 28 points, nine rebounds, five assists and four steals for Milwaukee. Khris Middleton had 23 points, and Brogdon added 20. Milwaukee has lost three in a row after winning six of seven.\n\n\"Harden made some tough shots and Chris Paul made some big shots down the stretch as well,\" Bucks coach Jason Kidd said. \"We gave ourselves a chance, but we just came up short.\"\n\nThe Rockets grinded through frustrations, 15 turnovers and a below-average shooting night. Paul had a technical foul, Harden had a delay of game warning, and the Rockets faced serious adversity for the first time in weeks. Entering Saturday, Houston had dominated teams in its streak, winning all but two games by double figures with an average margin of victory of 16.9 points.\n\n\"We just didn't have our best stuff tonight,\" Rockets coach Mike D'Antoni said. \"But we found a way. It was one of those typical grind games where you've just got to find a way somehow.\"\n\nPaul scored 23 of his 25 points in the second half, overcoming a rocky first half where he missed all five shots he attempted and turned the ball over five times.\n\n\"I had never coached him in a back-to-back, but I'm thinking he's kind of dead,\" D'Antoni said. \"Then, all of a sudden, he comes out in the third quarter and turns into Superman.\"\n\nPaul made 7 of 8 shots in the second half, including 3 of 4 from beyond the arc, also making all eight free throws in the game.\n\nHarden scored 20 points or more for the 29th straight game, matching Houston's franchise record set by Moses Malone.\n\nBoth Harden and Clint Capela (left heel contusion) were game-time decisions after suffering injuries on different collision plays in Friday night's win over San Antonio. Capela sat out the game, and P.J. Tucker started in his place, getting 10 points and 10 rebounds in 38 minutes.\n\nBehind Tucker, Nene scored a season-high 16 points, largely on thunderous one-handed dunks. The Rockets were outscored by the Bucks 44-40 in the paint and outrebounded 40-38.\n\nMilwaukee and Houston traded blows in the first half, with the Rockets leading by three at the end of the first quarter. They were tied at 55 at the half. The Rockets haven't trailed at the half since Nov. 25 in a 117-102 win over the Knicks.\n\nThe Rockets took an 84-79 lead into the fourth quarter.\n\nAt 24-4, the Rockets are tied for their best 28-game start in franchise history, matching the 1993-94 season when they won their first championship.\n\nTIP-INS\n\nBucks: Former Rockets PG Jason Terry missed his sixth straight game with a left calf strain but was on the Milwaukee bench for the game. ... Reserve rookie guard Sterling Brown frustrated Paul early with physical defense, picking up four quick fouls in just six minutes in the first half.\n\nRockets: With a steal in the second quarter, Paul passed Kobe Bryant for 14th on the NBA's steals list with 1,945 steals. Paul, who had seven steals Friday night and one Saturday night, is 12 shy of Derek Harper's 1,957 steals for 13th place.\n\nUP NEXT\n\nBucks: Host Cleveland on Tuesday night.\n\nRockets: Host Utah on Monday night.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "PhysicalGame",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.535494",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700659",
+  "espn_id": "400975405",
+  "date": "Jan 17, 2018",
+  "matchup": "MIL vs. MIA",
+  "headline": "Whiteside leads Heat to 106-101 win over Bucks",
+  "cleaned_body": "MILWAUKEE --  Something got into Hassan Whiteside on Wednesday night, and there wasn't much the Milwaukee Bucks could do about it.\n\nWhiteside had a season-high 27 points along with 13 rebounds and six blocks to lead the Miami Heat over the Bucks 106-101.\n\nWhiteside, averaging 13.8 points coming in, shot 10 for 12 and got his 600th career block in the third quarter. He also forced a crucial jump ball late in the fourth.\n\n\"He was a monster tonight,\" Miami coach Erik Spoelstra said. \"You could see it from his very first block. You could see it from his very first over-the-top rebound in traffic, and you could see it from his very first drive that he was playing with a different aggressiveness.\"\n\nGoran Dragic and Kelly Olynyk added 15 points apiece to help Miami rebound from a loss at Chicago on Monday that snapped the Heat's season-best seven-game winning streak.\n\nOlynyk scored 10 points in the final quarter to help his team avoid back-to-back losses for the first time since Dec. 3 (Golden State) and Dec. 6 (San Antonio).\n\nKhris Middleton had 25 points to lead Milwaukee, which lost to Miami for the second time in four days.\n\nGiannis Antetokounmpo added 22 points, 10 rebounds and six assists for the Bucks, who lost 97-79 at Miami on Sunday.\n\nMiami used a 7-0 run late to take control.\n\nWhiteside, whose previous season best was 26 points, slammed home an alley-oop dunk to begin the run, and it was capped by two free throws from James Johnson for a 100-93 lead with 2:34 remaining.\n\nTwo free throws by Middleton got Milwaukee to 102-98 with 43 seconds to go.\n\nBut then after a missed shot by Miami's Justise Winslow on the next possession, the loose ball was grabbed by both Antetokounmpo and Whiteside, which led to the jump ball.\n\n\"There really wasn't a plan,\" Whiteside said. \"I was surprised they called a jump ball. I felt like I had the ball.\"\n\nWhiteside did not need a plan.\n\nThe jump ball was at the Miami free-throw line and Antetokounmpo swatted it out of bounds under the Heat basket. That led to two free throws by Dragic for a 104-98 lead with 12 seconds left.\n\n\"He tried to win the tip but just hit it a little bit too hard,\" Milwaukee coach Jason Kidd said. \"And that pretty much is the game.\"\n\nMiddleton answered with a 3-pointer to trim the deficit to 104-101 with 10.6 seconds remaining before Wayne Ellington clinched it with two free throws with 9.5 seconds left.\n\nTIP-INS\n\nHeat: Starter Tyler Johnson did not play after he sprained his left ankle in the third quarter Monday. ... Miami has three more road games left on a five-game trip.\n\nBucks: The team already has lost three home games this month after suffering a total of three of them in November and December.\n\nNOT TODAY\n\nJohnson wanted to play so badly he stopped by Spoelstra's office before the game. \"He's a psycho,\" Spoelstra said. \"I told him, `not a chance.' He was doing treatment all afternoon. ... We all got a good laugh out of it. I think he was being serious, but no chance.\"\n\nQUIRKY SCHEDULE\n\nMilwaukee not only is facing Miami for the second time in four days, the Bucks played Washington on Monday for the second time in 10 days. Milwaukee also battled Toronto in a five-day span and Indiana in a six-day span in early January.\n\n\"This isn't something new,\" Kidd said. \"This is the way the schedules have been and it's just the way it falls.\"\n\nUP NEXT\n\nHeat: At Brooklyn on Friday night.\n\nBucks: At Philadelphia on Saturday for the teams' first meeting of the season.\n\n---\n\nMore AP basketball: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.921264",
+  "pipeline_version": "v1"
+}

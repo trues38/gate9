@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401101",
+  "espn_id": "400579393",
+  "date": "Mar 30, 2015",
+  "matchup": "CHA vs. BOS",
+  "headline": "Bradley scores 30, Celtics defeat Hornets 116-104",
+  "cleaned_body": "CHARLOTTE, N.C. --  Avery Bradley says despite a season of ups and downs, he never stopped believing the Boston Celtics were a playoff team.\n\nIf the Celtics continue to play the way they have in recent weeks, Bradley might be right.\n\nBradley had 30 points and eight rebounds, and the Celtics beat the Charlotte Hornets 116-104 on Monday night for an important Eastern Conference victory.\n\nBoston (33-41) moved back into eighth place in the East, a few percentage points ahead of Brooklyn in the battle for the final playoff spot.\n\nEvan Turner added 15 points, while Jae Crowder and Marcus Smart each had 14 as the Celtics won for the 10th time in the last 16 games.\n\nBut it was Bradley who carried his team on his shoulders, making 12 of 23 shots.\n\n\"Avery was terrific on both ends of the floor,\" said Celtics coach Brad Stevens.\n\nCharlotte's Kemba Walker led a furious fourth-quarter comeback that fell short, finishing with 28 points and 12 assists. Gerald Henderson added 17 points for the Hornets, who've dropped four of their last five games.\n\nThe Celtics built a 19-point, fourth-quarter lead that Hornets cut to six behind Walker. But the Celtics closed out the game with some clutch free throws to even the series with the Hornets at 2-2.\n\n\"We knew we needed this game,\" Turner said. \"Every game is important, so we came and toughed it out.\"\n\nCharlotte's loss clinched a second straight playoff berth for the Washington Wizards.\n\nThe Celtics led 56-44 at the half and pushed the lead to 22 behind Bradley's 15 third-quarter points.\n\nThe frustration of a disappointing season seemed to set in for the Hornets late in the third when Walker drove on a fast break and his layup was rejected. Upset there wasn't a foul called, Walker stopped in his tracks and didn't hustle back on defense. The Celtics made him pay on the other end as Bradley knocked down a 3-pointer to give Boston an 18-point lead.\n\nAnd early in the fourth quarter, Henderson was called for a flagrant foul when he shoved Gerald Wallace in the back.\n\n\"We just couldn't guard them,\" Hornets coach Steve Clifford said. \"Frankly, we just take too many plays off. ... You have to play the game like we played the fourth quarter. You have to be locked in.\"\n\nDown 19 in the fourth quarter, Charlotte mounted one last challenge when Walker ignited the crowd with a long-distance 3 from the left wing to cut Boston's lead to nine with 3:03 left in the game.\n\nWalker hit another 3-pointer and then grabbed his own rebound off a missed 3 and scored to cut the lead to 108-102 with 52 seconds remaining.\n\nAfter two free throws by Brandon Bass, Walker scored on a driving layup and the Hornets forced a turnover on the ensuing inbounds pass with 34 seconds left.\n\nBut Walker missed a 3 from the right wing with a chance to make it a one-possession game, and the Celtics put it away with free throws.\n\n\"I'm pretty disappointed, especially because we had to play catch-up throughout the whole game,\" Walker said. \"It was a huge game for us. It's definitely a little disappointing.\"\n\n---\n\nTIP-INS\n\nCeltics: Bradley has reached double figures in scoring in 12 of his last 13 games.\n\nHornets: Henderson has scored in double digits in 17 of his last 19 games. He was averaging nearly 15 points per game during that stretch.\n\nBIG GAME, NO LANCE\n\nThe Hornets signed Lance Stephenson to a three-year, $27 million contract in the offseason in part because of his playoff experience. But in the most important game of the season to date, Stephenson didn't even play.\n\n\"It's not in my hands. It's in Coach's hands,\" Stephenson said.\n\nWhen asked if he was upset by the decision, Stephenson said, \"I mean, of course. I feel like I could help our team. I feel I could have helped tonight.\"\n\nSaid Clifford: \"I explained to him that I'm not saying it's his fault at all but we have struggled to find a group that has played well off the bench in these last few games.\"\n\nUP NEXT\n\nCeltics: Host Indiana on Wednesday night.\n\nHornets: Host Detroit on Wednesday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "PhysicalGame",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.190095",
+  "pipeline_version": "v1"
+}

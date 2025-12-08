@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100146",
+  "espn_id": "401359970",
+  "date": "Nov 07, 2021",
+  "matchup": "CHA @ LAC",
+  "headline": "George, Jackson lead Clippers past Hornets, 120-106",
+  "cleaned_body": "LOS ANGELES -- — Paul George scored 20 points, Reggie Jackson added 19 and the Los Angeles Clippers beat the Charlotte Hornets 120-106 on Sunday night for their fourth straight victory.\n\nLuke Kennard had 18 points, and Terance Mann finished with 17 points and 10 rebounds. Down 13 in the first quarter and in a nine-point hole with less than seven minutes remaining, the Clippers had a 22-0 run to take a 115-102 lead.\n\n“It was our defense,” Clippers head coach Tyronn Lue said. “I think our defense really picked up, our physicality, our attention to detail was a lot better. I thought our focus in the first half, physically, was pretty bad.”\n\nLaMelo Ball, from nearby Chino Hills, had 21 points for the Hornets in their fourth straight loss. Ball played his first game in Los Angeles since a right wrist fracture against the Clippers last March forced him to miss 21 games.\n\nMiles Bridges also had 21 points for the Hornets, and Terry Rozier added 17.\n\n“They have a good chemistry,” Hornets head coach James Borrego said of his Ball-Bridges guard combination. “They know how to play together, look for each other, especially in transition at the rim. I think both guys grew up tonight; they took a step forward.”\n\nCharlotte got a 3-pointer from Rozier with 7:09 to play, then didn’t make another field goal until a layup by Bridges with 1:09 remaining.\n\nThe Clippers were coming off a victory at Minnesota on Friday when the rallied from a 20-point first-half deficit.\n\n“Ever since last year we have made a lot of good comebacks and we know it’s never over,” said the Clippers Ivica Zubac, who had 14 points and 11 rebounds. “At the same time, we have to be better starting games because going down 15, 20 is hard, it takes a lot of energy.”\n\nSERGING FORWARD\n\nClippers big man Serge Ibaka was active for the first time this season following back surgery in June and made his debut with 3:52 remaining in the first quarter. He did not score on three shots over eight minutes.\n\n“Now, I think the most important thing is for me to be patient,” said Ibaka, as he started his 13 season and second with the Clippers after he averaged 11.1 points and 6.7 rebounds in 41 games last season. “I’ll try to dig in with my teammates. It’s gonna come. It’s the first game in almost a year. But I’m healthy, I’m back and I’m in good shape.”\n\nTIP-INS\n\nHornets: F P.J. Washington missed his second consecutive game with a hyperextended left elbow. …C Mason Plumlee was in the starting lineup after he was a game-time decision with a left rib contusion but failed to reach double digits in rebounds or points for the sixth-consecutive game.\n\nClippers: George reached 14,500 career points and is one of seven active players with that many points, as well as 4,500 rebounds and 2,500 steals to join Carmelo Anthony Kevin Durant, James Harden, LeBron James, Chris Paul and Russell Westbrook.\n\nUP NEXT\n\nHornets: At Los Angeles Lakers on Monday night.\n\nClippers: Host Portland on Tuesday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.641243",
+  "pipeline_version": "v1"
+}

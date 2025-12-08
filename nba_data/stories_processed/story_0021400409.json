@@ -1,0 +1,25 @@
+{
+  "game_id": "0021400409",
+  "espn_id": "400578701",
+  "date": "Dec 22, 2014",
+  "matchup": "CHA vs. DEN",
+  "headline": "Hornets top Nuggets 110-82 for third straight win",
+  "cleaned_body": "CHARLOTTE, N.C. --  Kemba Walker is beginning to emerge as the multifaceted point guard the Charlotte Hornets hoped he would become.\n\nWalker is off to the best start of his four-year career, entering the week third in the NBA in assist-per-turnover ratio.\n\nHe did little to hurt those numbers on Monday night. Walker scored 18 points, handed out nine assists and committed just one turnover as the Hornets coasted to a 110-82 victory over the Denver Nuggets.\n\n\"Growing up, I have always been turnover-prone because I was always playing at one speed,\" Walker said. \"Now I'm trying to mix up my speeds and make the right passes.\"\n\nWalker has 161 assists on the season to 41 turnovers, nearly a 4 to 1 ratio which ranks behind only Chris Paul and J.J. Barea.\n\n\"I want to take care of the basketball,\" Walker said. \"It's really important and something I'm trying to be conscious of this year because when we don't turn it over it gives us a higher percentage of winning games.\"\n\nHornets coach Steve Clifford said Walker is developing into one of the league's better pick-and-roll point guards.\n\n\"He's in the paint in every pick-and-roll,\" Clifford said. \"And he can score, but he's (also) kicking the ball out to teammates.\"\n\nAl Jefferson shook off some early tightness in his lower body and scored 22 points for the Hornets, who extended their winning streak to a season-high three games. Rookie P.J. Hairston recorded his first career double-double with 10 points and 10 rebounds.\n\nJefferson and Walker combined to shoot 15 of 25 from the field and neither player saw action in the fourth quarter with the game well in hand.\n\nCharlotte improved to 3-0 since Gerald Henderson replaced the injured Lance Stephenson in the starting lineup. Stephenson, who has been the subject of trade rumors, is out at least one more game with a groin injury.\n\nWhile the Hornets appear to be playing their best basketball without Stephenson, Clifford said the challenge is to work the team's big-name free agent acquisition into the mix and become even better.\n\n\"I'm looking at it and saying as talented as he is, what we can we become playing like this with him playing well also?\" Clifford said. \"And also what things are good that he can add to the team and who should he be on the floor with? That's what we have to figure out.\"\n\nTy Lawson had 18 points for Denver, which had its two-game winning streak snapped.\n\nThis one was never close.\n\nThe Hornets took control early, building a 58-40 lead at halftime behind 57 percent shooting from the field. Jefferson and Walker led the way, combining to go 12 of 16 from the field for 32 points before the break.\n\nWith no scoring option to complement Lawson, the Nuggets never mounted a serious comeback attempt in the second half. The Hornets emptied the bench midway through the fourth quarter up by 30 points.\n\n\"I don't know what to say,\" Nuggets coach Brian Shaw said. \"You have eyes, you saw it. It was an ugly, nasty game. We just have to flush it down the toilet.\"\n\n---\n\nTIP-INS\n\nNuggets: Timofey Mozgov suffered a laceration to his left eye during the first quarter and received four stitches. He returned to the game but only played 15 minutes.\n\nHornets: Jeffery Taylor saw his first action of the season following a 24-game suspension. Taylor was rusty, misfiring twice from the field. He also clanked free throw attempts.\n\nJEFFERSON SCARE\n\nClifford took Jefferson out of the game as a precaution five minutes in after the 6-foot-10 didn't leave his feet on a baseline move and threw up an airball. Jefferson said he simply was tight.\n\nClifford said he wanted to be sure, adding, \"I'm into challenges, but I'm not into playing a month without him.\"\n\nUP NEXT\n\nNuggets: At Brooklyn on Tuesday night.\n\nHornets: At Milwaukee on Tuesday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.723702",
+  "pipeline_version": "v1"
+}

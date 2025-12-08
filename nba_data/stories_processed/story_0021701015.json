@@ -1,0 +1,24 @@
+{
+  "game_id": "0021701015",
+  "espn_id": "400975761",
+  "date": "Mar 13, 2018",
+  "matchup": "LAL vs. DEN",
+  "headline": "Thomas rallies Lakers past Nuggets 112-103",
+  "cleaned_body": "LOS ANGELES --  The Los Angeles Lakers dropped their previous two games against the Denver Nuggets.\n\nThis time, they closed with a flourish.\n\nIsaiah Thomas scored 12 of his 23 points in the fourth quarter, and the Lakers rallied to beat the Nuggets 112-103 on Tuesday night.\n\n\"It was a tough, physical game and we were the tougher team,\" Thomas said. \"We definitely took that from them.\"\n\nJulius Randle and Kyle Kuzma each had 26 points and 13 rebounds for Los Angeles, which trailed by as many as 13. Kuzma had only two points in the first half.\n\nKuzma sprained his right ankle in the final seconds of the third quarter and left the game to get it re-taped. But he returned in time to help the Lakers to their third win in four games, including a 127-113 victory over LeBron James and Cleveland on Sunday night.\n\n\"He showed a lot of toughness,\" Lakers coach Luke Walton said. \"He sprained the ankle and kept telling me, `Coach, I'm ready to go, I'm ready to go.' I put him back eventually and he helped us close out that game.\"\n\nWilson Chandler had 26 points and 10 rebounds for Denver, which beat Los Angeles 125-116 on Friday night. Jamal Murray finished with 18 points, six rebounds and four assists.\n\nChandler's layup with 2:21 left in the third gave Denver an 80-67 lead, but the Nuggets couldn't hold on.\n\n\"I thought we had some guys out there in that end of the third quarter that were not ready to play,\" Nuggets coach Mike Malone said. \"That hurt us to close that quarter in a big way.\"\n\nThomas' 3-pointer trimmed Denver's advantage to 84-83 with 9:45 to go. Thomas made two free throws with 8:24 remaining, sparking a key 9-0 run for Los Angeles.\n\nAfter Chandler's 3 got the Nuggets within three with 2:38 remaining, Randle responded with a layup off a pass from Lonzo Ball. Thomas scored again and Randle had a big dunk to extend the lead to 108-99 with 1:09 left.\n\nDROPPING THE BALL\n\nBall had nine rebounds and a game-high eight assists, but finished with just five points on 2-for-11 shooting. He was 1 for 7 from 3-point range.\n\nIt was Ball's second consecutive poor shooting performance. He shot 2 of 11 against the Cavaliers, and made only one of his six 3-point attempts.\n\nBAD BLOOD\n\nThe Staples Center crowd booed Murray when he was introduced at the start of the game and every time he touched the ball. The crowd engaged in an anti-Murray chant late in the night.\n\nThe Lakers had run-ins with Murray in the previous two games they played in Denver. Back in December, Murray dribbled around Ball as time expired. On Friday, Walton had words for Murray after he displayed what the coach called \"disrespectful\" behavior.\n\nMalone said before the game he told the team to not get caught up in any \"nonsense\" or \"shenanigans.\"\n\n\"If we're worried about what's gonna happen tonight, then we're not focusing on the task at hand,\" Malone said. \"We have a job to do. Regardless of what their motivation is tonight, we have a job to do. We can't let them deter us from that.\"\n\nTIP-INS\n\nNuggets: Tied the Lakers at 44 in points in the paint. ... Nikola Jokic added 15 points, nine rebound and five assists.\n\nLakers: Brook Lopez and Randle scored the first 19 points for the Lakers. Lopez finished with 17. ... Kuzma made five of Los Angeles' 15 3-pointers.\n\nUP NEXT\n\nNuggets: Host the Detroit Pistons on Friday.\n\nLakers: At the Golden State Warriors on Thursday in the second night of a back-to-back.",
+  "tags_rule": [
+    "InjuryReport",
+    "ClutchShot",
+    "CoachComment",
+    "Rivalry"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.120720",
+  "pipeline_version": "v1"
+}

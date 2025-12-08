@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100055",
+  "espn_id": "401359879",
+  "date": "Oct 27, 2021",
+  "matchup": "CHA @ ORL",
+  "headline": "Bridges, Hayward lead Hornets past Magic 120-111",
+  "cleaned_body": "ORLANDO, Fla. -- — Miles Bridges scored 31 points, Gordon Hayward added 24 and the Charlotte Hornets beat the Orlando Magic 120-111 on Wednesday night for their fourth win in five games.\n\nBridges, who scored 30 or more points for the third time in four games, hit a 3-pointer with 1:02 remaining to put the game away for the Hornets, whose only loss of the season came in overtime against Boston on Monday night.\n\n“His confidence to make plays is just oozing out of him. You can see the belief in himself right now,” Hornets coach James Borrego said of Bridges, who is averaging 26 points on 53% shooting. “He's a very confident kid, and you can just feel his will to lead us to win games.”\n\nCole Anthony led Orlando with 24 points and six assists. Wendell Carter Jr. added 20 points and 10 rebounds for the Magic, who committed eight turnovers in the fourth quarter after leading for most of the game.\n\nJalen McDaniels came off the bench to score 16 points, hitting a 3-pointer to put Charlotte ahead for keeps with 8:18 left. LaMelo Ball followed quickly with another 3-pointer, and Bridges returned to the court to help the Hornets stay ahead.\n\n“I thought (the fourth-quarter rally) showed a lot of maturity,” center Miles Plumlee said. “It was a good response to the Boston game.”\n\nThe Hornets held the Magic to 18 points, and one 3-pointer, in the final quarter.\n\n“I saw one good defensive quarter,” Borrego said. “The fourth quarter is what it's got to look like. For us to be an elite team, we've got to do it closer to 48 (minutes).”\n\nAfter Charlotte erased an early 12-point Orlando lead, Bridges and Hayward combined for 21 points in the second quarter to help the Hornets lead 64-61 at halftime.\n\nAnthony and Gary Harris rallied the Magic to an 85-77 lead in the third quarter, but Bridges responded with eight straight points for Charlotte.\n\nThe Hornets shot 52% for the game, made 14 of 30 3-pointers (47%) and had a 40-33 edge in rebounds, led by Plumlee's 10.\n\nTIP-INS\n\nHornets: The Hornets are averaging 121.2 points after five games, second-best in the NBA. ... G Terry Rozier (sprained left ankle) worked out Wednesday and is hopeful of playing Friday. ... F P.J. Washington missed a second game with a right knee sprain.\n\nMagic: The Magic are 55-56 all-time against Charlotte, having lost 19 of the last 26 meetings. ... Rookie Jalen Suggs, who had eight points and five assists, is shooting 29% (18 for 63) after five games. ... F Chuma Okeke (hip), G Michael Carter-Williams (ankle) and G E'Twaun Moore (knee) have yet to play in the regular season, though none of the injuries is considered long-term.\n\nDEEP GOALTENDING\n\nHayward’s first basket came on a 3-point attempt that drew a goaltending call early in the second quarter. The shot hung on the rim until it was touched by Orlando’s Carter. After a conference, officials Josh Tiven, Scott Wall and Danielle Scott ruled Carter had interfered with the shot attempt.\n\nUP NEXT\n\nHornets: At Miami on Friday night.\n\nMagic: At Toronto on Friday night.\n\n------",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.015101",
+  "pipeline_version": "v1"
+}

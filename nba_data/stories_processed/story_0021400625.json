@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400625",
+  "espn_id": "400578917",
+  "date": "Jan 21, 2015",
+  "matchup": "CHA vs. MIA",
+  "headline": "Hornets beat Heat 78-76 for 8th win in 9 games",
+  "cleaned_body": "CHARLOTTE, N.C. --  The Charlotte Hornets were held without a field goal for the last seven minutes. And they still earned another victory.\n\nThe surging Hornets are winning with defense these days.\n\nKemba Walker scored 15 points, Bismack Biyombo had 12 points and 12 rebounds, and Charlotte edged the Miami Heat 78-76 on Wednesday night.\n\nThe Hornets (18-25) have three in a row and eight of nine overall. The key has been the defensive side, with Charlotte holding its opponent to less than 100 points for 10 straight games.\n\n\"More than anything, we're just trying to protect the paint, which has been a key for us,\" said Biyombo, who had two of Charlotte's eight blocked shots and altered several others. \"Along the way, everybody's putting more into the defense.\"\n\nThe Hornets had a 56-41 rebounding edge against the Heat, who played without Hassan Whiteside and Luol Deng. They held Miami to 34.5 percent shooting.\n\n\"Our communication has been great,\" Walker said of the Hornets' defense. \"We're constantly talking and in the right spots. It's been picture perfect.\"\n\nChris Bosh and Dwyane Wade each had 17 points for the Heat (18-24).\n\nMiami had a chance to win the game on its final possession, but Bosh missed a 3-pointer from the top of the key. Mario Chalmers ran down the loose ball and fired up another 3 that missed from corner.\n\n\"I rushed it,\" Bosh said. \"I was not balanced. You have to find a way between not taking a quick shot and rushing it. I did not have my feet under me. I rushed the shot and it was a bad miss.\"\n\nWalker returned to the starting lineup after missing the previous two games with a left knee cyst. He was 4 for 17 from the field and had just one assist, but went 5 for 6 at the line in the final minute.\n\nWalker averaged 29.8 points in the six games before his knee began giving him problems.\n\n\"I felt a lot better than I expected,\" said Walker, who played 34 minutes. \"At first, I wasn't moving that well. But as the game went on, I got more and more comfortable.\"\n\nThe Heat trailed by 10 entering the fourth quarter, but took the lead with 3:37 left after Bosh and Chalmers hit back-to-back 3-pointers.\n\nMiami then struggled to score, and Walker made four free throws and Marvin Williams added one to get the lead back for Charlotte. Bosh's driving layup trimmed the Hornets' advantage to one with 15 seconds left.\n\nWalker made 1 of 2 free throws with 12 seconds remaining, leaving the door open for the Heat. But Miami was unable to score on its final possession and lost for the third time in four games.\n\nThe Heat held the Hornets to 3-of-13 shooting from the field in the final period.\n\n\"Our best defensive quarter was the fourth quarter but that was needed in the first half,\" Heat coach Erik Spoelstra said.\n\nSaid Wade: \"Down the stretch we got a lot of shots that we wanted and they just didn't go in.\"\n\nMichael Kidd-Gilchrist had eight points and 14 rebounds for Charlotte, and Cody Zeller had 12 rebounds.\n\nWith Whiteside (sprained ankles) and Deng (illness) out, the injury-plagued Heat started their 17th different lineup of the season and struggled on the glass all night.\n\n---\n\nTIP-INS\n\nHeat: Udonis Haslem took a charge from Lance Stephenson in the fourth quarter. He has taken a team-leading nine charges.\n\nHornets: Biyombo has four double-doubles in the last five games.\n\nJEFFERSON EASING BACK IN\n\nAl Jefferson had 12 points for the Hornets in his second game back from a groin injury. He has been a reserve since his return for the first time since he was with the Boston Celtics in 2006.\n\nUP NEXT\n\nHeat: Host Indiana on Friday night.\n\nHornets: Visit Cleveland on Friday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.951219",
+  "pipeline_version": "v1"
+}

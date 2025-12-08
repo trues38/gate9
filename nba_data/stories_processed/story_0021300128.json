@@ -1,0 +1,22 @@
+{
+  "game_id": "0021300128",
+  "espn_id": "400489001",
+  "date": "Nov 15, 2013",
+  "matchup": "POR @ BOS",
+  "headline": "Trail Blazers best Celtics for 5th straight win",
+  "cleaned_body": "BOSTON -- LaMarcus Aldridge was a No. 2 overall pick in the NBA draft and is a two-time All-Star who has averaged more than 21 points per game in each of the last four seasons.\nOne of the things he'd never done, though, is win a game in Boston.\n\nThe Portland forward scored 27 points and added 12 rebounds -- his fourth straight double-double -- and the Trail Blazers beat the Celtics 109-96 Friday night for their first victory in Boston since 2004. Nicolas Batum added 18 points for Portland, which won its fifth consecutive game.\n\"I was happy for L.A. and Nic,\" Blazers coach Terry Stotts said. \"You always want to check those arenas off your list.\"\nAldridge was 11 for 18 from the field as the Blazers began a four-game road trip. The first stop was Boston, where they had lost nine straight games -- a streak that included the New Big Three era of Kevin Garnett, Paul Pierce and Ray Allen, but also the period before that, when the Celtics dropped into the lottery.\n\"It's nice to win here, but I'm more big picture,\" Aldridge said. \"I want to keep winning on the road.\"\nMo Williams scored 18 with eight assists for Portland, Damian Lillard had 17 and Robin Lopez had 10 rebounds.\nJared Sullinger, who missed the last game with a bruised knee, had 26 points and eight rebounds off the bench for Boston, which has lost two in a row.\nBoston had won 13 of the previous 15 meetings against Portland since 2004. The last time the Blazers won in Boston was on March 31, 2004, when Darius Miles led Portland, Ricky Davis was the high scorer for the Celtics, the TD Garden was called the FleetCenter and Batum was a 15-year-old in France.\n\"It's been a long time, like 10 years,\" Batum said. \"It's good for our confidence. It's good to keep winning on the road.\"\nPortland led 94-80 early in the fourth quarter before Sullinger and Courtney Lee hit back-to-back 3-pointers to cut the deficit to eight points. Sullinger responded to Williams' basket with another 3-pointer to make it a seven-point game with 8:51 to play.\nThe Celtics had two possessions to make it closer, but came away without a point. Thomas Robinson rolled one in off the rim on a feed from Williams to make it 98-89, Dorell Wright hit a 3-pointer to make it a 12-point game and Williams hit a short fallaway jumper to make it 103-89.\n\"Every team has a margin for error and not many teams have a big one,\" Celtics coach Brad Stevens said. \"We can't take plays off; it's not going to work out well for us on either end of the floor. Those guys are going to make you pay if you relax. And they did.\"\nBoston has allowed 105 or more points in three of its last four games, winning two. But the Blazers outscored them 33-27 in the third quarter to turn a six-point halftime advantage into a double-digit lead.\n\"You can't outscore those guys. You're going to have to defend them,\" Stevens said. \"We didn't do that very well.\"\nThe Celtics opened an eight-point lead early in the second quarter, but soon gave up 12-4 and 10-2 runs to fall behind 57-51 at the half. Wesley Matthews had 13 points and Aldridge scored 10 with six rebounds in the first. Sullinger had 10 points off the bench for Boston at the break.\nGame notes\nThe Celtics lost four games, won four, and now have lost two in a row to continue their streaky ways. ... Sullinger, a 2012 first-round draft pick who missed most of last season with back surgery, missed just one game with a bone bruise on his knee. ... Lopez had a double-double in the previous three games, but had just three points and 10 rebounds on Friday.",
+  "tags_rule": [
+    "DoubleDouble",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.197745",
+  "pipeline_version": "v1"
+}

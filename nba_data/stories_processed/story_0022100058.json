@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100058",
+  "espn_id": "401359882",
+  "date": "Oct 27, 2021",
+  "matchup": "TOR vs. IND",
+  "headline": "VanVleet scores 26, Raptors beat Pacers for 1st home win",
+  "cleaned_body": "TORONTO -- — Fred VanVleet and the Raptors pushed around the Indiana Pacers to pick up a long-awaited home win.\n\nVanVleet had a season-high 26 points and a career-high 10 rebounds, OG Anunoby scored a season-high 25 points, and the Raptors won at home for the first time in 20 months, beating the Pacers 118-100 on Wednesday night.\n\n“I thought we were definitely very physical tonight,” VanVleet said. “OG set the tone in the paint offensively. I thought all five guys were on the same page defensively to start the game.”\n\nIndiana was the opponent the last time Toronto won at Scotiabank Arena, a 127-81 victory on Feb. 23, 2020. Since-departed Raptors stars Serge Ibaka (15 rebounds) and Kyle Lowry (11 assists) were among Toronto’s statistical leaders in that game, the most lopsided win in team history.\n\nThe Raptors lost their first three home games this season. In the three seasons prior to the COVID-19 pandemic, Toronto went 89-25 at home. Travel restrictions related to the pandemic forced the Raptors to play home games in Florida at the end of the 2019-20 season and throughout 2020-21. They went 16-20 at their temporary home in Tampa last season.\n\nOn Wednesday, first-year forward Scottie Barnes had 18 points and seven assists, and fellow rookie Dalano Banton came off the bench to score 10 points.\n\n“I think it’s good to build a foundation for a young team,” VanVleet said. “The team certainly looks different than a lot of the teams we’ve had since I’ve been here, but it’s good just to build that foundation.”\n\nVanVleet shot 6 for 7 from 3-point range and had six assists.\n\nBanton made 4 of 7 field-goal attempts, including 2 of 3 from beyond the arc, and added three assists.\n\n“When he’s out there moving, it’s hard to guard,” VanVleet said. “He was great for us tonight.”\n\nIndiana’s Malcolm Brogdon scored 18 points in 22 minutes but injured his left hamstring early in the third quarter and did not return. The Pacers also lost forward Isaiah Jackson to a left knee injury in the fourth. Jackson needed assistance to walk to the locker room after being injured.\n\n“I do not know the severity or the description of what exactly happened,” coach Rick Carlsisle said of Jackson’s injury. “Obviously, it didn’t look good.”\n\nChris Duarte scored 14 points, Jeremy Lamb had 12 and Myles Turner had 10 for the Pacers, who are 0-3 on the road.\n\nIndiana went 21-15 away from home last season, the best road record in the Eastern Conference.\n\nDomantas Sabonis had nine points and eight rebounds but had four of the Pacers’ 23 turnovers. The Raptors scored 31 points off Indiana miscues.\n\n“They’ve got quick, angular guys,” Carlisle said of the Raptors. “They were ripping at the ball all night and they knocked a lot of balls loose. Give them credit, they executed well.”\n\nToronto led 57-48 at halftime. VanVleet made all three of his 3-point attempts in the third quarter and Banton scored seven points as the Raptors took an 87-71 lead to the fourth.\n\nAnunoby had 16 points in the first quarter.\n\nTIP-INS\n\nPacers: Indiana has scored at least 100 points in all four games so far. ... G Caris LeVert (sore lower back) missed his fifth straight game. ... Indiana had won its previous two meetings with Toronto. ... T.J. McConnell had four turnovers.\n\nRaptors: Toronto’s 14 3-pointers were a season high. ... F Yuta Watanabe (left calf) is practicing with Toronto’s G League team this week and is expected to join the Raptors on their upcoming trip. ... VanVleet set career-highs in assists (17) and turnovers (8) in Monday’s home loss to Chicago.\n\nON THE LEVEL\n\nVanVleet, listed at 6 feet, said he doesn’t expect to compete with taller players for rebounds.\n\n“My rule is if it gets below head level, it’s mine,” he said. “Anything up there by the rim, somebody else has got to get that one.”\n\nTAKE CARE\n\nThe Raptors matched a season low with 12 turnovers. Toronto also had 12 in last Saturday’s loss to Dallas.\n\nUP NEXT\n\nPacers: Visit Brooklyn on Friday night.\n\nRaptors: Host Orlando on Friday night.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.987604",
+  "pipeline_version": "v1"
+}

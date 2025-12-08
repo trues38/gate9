@@ -1,0 +1,28 @@
+{
+  "game_id": "401810221",
+  "home_id": "3",
+  "away_id": "24",
+  "referee_context": {
+    "crew_chief": "Zach Zarba",
+    "regime": {
+      "style": "Let-them-play",
+      "home_win_pct": 49,
+      "foul_rate": "Low",
+      "variance_impact": "Amplifier",
+      "pace_impact": "Fast"
+    }
+  },
+  "market_context": {
+    "provider": "Draft Kings",
+    "details": "SA -9.5",
+    "overUnder": 236.5
+  },
+  "injury_context": {
+    "home": [],
+    "away": []
+  },
+  "rosters": {
+    "home": [],
+    "away": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100151",
+  "espn_id": "401359975",
+  "date": "Nov 08, 2021",
+  "matchup": "MIA @ DEN",
+  "headline": "Jokic, Morris fracas mars Nuggets' 113-96 win over Heat",
+  "cleaned_body": "DENVER -- — Nikola Jokic had 25 points, 15 rebounds and 10 assists before the NBA MVP was ejected for violently slamming his shoulder into Markieff Morris, and the Denver Nuggets beat the Miami Heat 113-96 on Monday night.\n\nThe Heat said Morris has an apparent neck injury. Jokic said he saw a replay of the altercation and recoiled when he saw how hard Morris’ head hit the floor.\n\n“I felt bad, really bad,” Jokic said.\n\nWill Barton scored 25 points and Jeff Green, who started in place of an injured Michael Porter Jr., added 13 points for the Nuggets. Denver held the opposition to under 100 points for the seventh time this season.\n\nJimmy Butler had 31 points to lead the Heat, and Duncan Robinson had 13.\n\nWith 2:39 remaining, Morris elbowed Jokic in the midsection at half court. Jokic retaliated with a hard shove from behind with his upper arm/shoulder that knocked Morris to the floor. Morris rolled in pain as teammates pushed Jokic away. Medical personnel brought a stretcher onto the floor but Morris was able to get up and walk off the floor on his own.\n\n“We wanted to make sure Kieff was and is OK. We’ll find out more,” Heat coach Erik Spoelstra said of the apparent neck injury. “He’s moving around right now in the locker room. But that was a very dangerous, dirty play.”\n\nMorris was assessed a flagrant foul and ejected, Jokic also was ejected and Butler received a technical foul.\n\nSpoelstra said Jokic’s actions were “absolutely uncalled for.” Jokic, on the other hand, said Morris’ hit went beyond a hard foul.\n\n“I felt I just needed to protect myself but on the other hand I’m not supposed to react that way, get thrown out of the game,” Jokic said.\n\nGreen called it “a play that shouldn’t happen.”\n\n“I think Markieff just went and tried to make a hard foul. I don’t think he had any intention of hurting Joker,\" he said. \"But sometimes when things like that happen, you don’t know the intention of the other person and you just react and that’s what Joker did.”\n\nUp by 15 at the half, the Nuggets scored 11 of the first 16 points in the third quarter, pushing their lead to 75-54 on a driving layup by Green off a feed from Jokic. Denver took a 91-70 lead into the fourth quarter.\n\nButler hit successive 3s around a basket by Jokic as Miami pulled to within 105-92 with jut over four minutes remaining before Barton connected on successive 3s to seal the win for Denver.\n\nThe Nuggets built a 64-49 lead at halftime, fueled by Jokic, Barton and Morris, all of whom were in double figures scoring by the intermission.\n\nRAINING 3S\n\nMiami’s Duncan Robinson hit a 3-pointer in the first quarter, his 58th consecutive game with at least one three. The streak stands out as a personal and franchise record, eclipsing his streak of 57 in a row in 2019-20.\n\nTIP-INS\n\nHeat: G-F Max Strus remains sidelined by a left knee sprain.\n\nNuggets: F Porter was ruled out because of low back pain. He left Saturday night’s game against Houston early due to back problems. Coach Michael Malone said that team doctors are evaluating Porter’s back injury and don’t have a definitive prognosis. “Obviously, this is a process where we’re being very cautious,” Malone said. “Talking to doctors, getting imaging, all that kind of stuff. As of right now, he’s out tonight and aside from that really can’t say too much at the moment.”\n\nUP NEXT\n\nHeat: Continue a five-game road trip Wednesday night at the Los Angeles Lakers.\n\nNuggets: Host Indiana on Wednesday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.913687",
+  "pipeline_version": "v1"
+}

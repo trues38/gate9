@@ -1,0 +1,26 @@
+{
+  "game_id": "0022100475",
+  "espn_id": "401360299",
+  "date": "Dec 22, 2021",
+  "matchup": "LAC @ SAC",
+  "headline": "Clippers hold off Kings 105-89, snap 3-game skid",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Eric Bledsoe scored 19 points, Paul George had 17 and the Los Angeles Clippers held off the Sacramento Kings 105-89 on Wednesday night.\n\nSerge Ibaka added a season-high 17 points, including three dunks and 12 points in the fourth quarter, to help the Clippers end a three-game losing streak.\n\nLos Angeles had lost three straight to Sacramento, including twice this season.\n\n“Tonight I just came with the mindset that I’m going to be out there for my teammates. We needed this win so bad,” said Ibaka, who has played sparingly this season while working his way back from back surgery in June. “I just tried to go out there and play hard and see what happened. When we play like that, it’s very hard to beat us.”\n\nTyrese Haliburton had his fourth consecutive double-double with 22 points and a career-high 13 assists for Sacramento. Chimezie Metu added 11 points and 10 rebounds.\n\n“They know how to manipulate defense, they were really sharp, and really ready go,” Kings assistant Doug Christie said. “Once they got us on our heels, it was attack.”\n\nGeorge was playing in his second game since missing nearly two weeks with an elbow injury before being cleared to return. The seven-time All-Star, who scored 25 points against the Spurs on Monday, struggled with his shot most of the game against the Kings and was hit with a technical foul in the third quarter. He made a clutch 3-pointer as part of the Clippers’ game-ending 10-3 run.\n\nIbaka was just as big in the fourth quarter. He scored seven consecutive points for the Clippers during one stretch, and then added his final dunk of the quarter to push Los Angeles ahead 103-88.\n\n“Serge was great, making two 3s, on the offensive glass, finishing at the rim,” Clippers coach Tyronn Lue said. “Serge’s presence was huge and big off the bench, and then definitely anchoring the defense on that second unit.”\n\nIbaka’s dunk put the Clippers ahead by 10 points early in the second quarter. Nicolas Batum later scored off an assist from George to make it 49-36, before Damian Jones scored for the Kings.\n\nSacramento shot 32.6% in the first half, committed 19 turnovers overall and never led.\n\n“They have a lot of guys that have great hands, but to tell you the truth it was just me doing a bunch of dumb stuff, throwing the ball to the other team,” Haliburton said.\n\nAfter the Clippers extended their lead to 19 points following back-to-back dunks by Terance Mann and Zubac and a Bledsoe layup, the Kings made their best push and got within 71-66 on Moe Harkless’ shot that banked off the glass.\n\nDEPLETED ROSTERS\n\nBoth teams were down several players who are in the NBA’s health and safety protocol. The Clippers were without Reggie Jackson and Marcus Morris Sr., while the Kings were missing De’Aaron Fox, Davion Mitchell, Marvin Bagley III, Terence Davis, Alex Len, Louis King and Neemias Queta, along with interim coach Alvin Gentry.\n\nTIP-INS\n\nClippers: Bledsoe picked up a technical in the third quarter. … Los Angeles scored only six points off 11 Sacramento turnovers in the first half.\n\nKings: Richaun Holmes had four points and seven rebounds in 17 minutes. Holmes had missed the previous seven games with a right eye injury and wore protective goggles. … Buddy Hield missed his first nine shots and was 1 for 12 in the first half. … Sacramento signed guard Ade Murkey to a 10-day contract. Murkey had been playing for the Kings’ G-League team in Stockton.\n\nUP NEXT\n\nClippers: Face the Nuggets in Los Angeles on Sunday. The visiting team has won each of the last three games between the two.\n\nKings: Host the Grizzlies on Sunday. Memphis has won its last five against Sacramento.\n\n------",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.591571",
+  "pipeline_version": "v1"
+}

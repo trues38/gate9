@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100472",
+  "espn_id": "401401140",
+  "date": "Jan 26, 2022",
+  "matchup": "TOR @ CHI",
+  "headline": "DeRozan powers Bulls to 111-105 win over Raptors",
+  "cleaned_body": "CHICAGO -- — DeMar DeRozan scored 29 points, Zach LaVine added 23 and the Chicago Bulls beat the Toronto Raptors 111-105 on Wednesday night.\n\nNikola Vucevic also scored 17 points and grabbed 15 rebounds, notching his fifth straight double-double and helping the Bulls win consecutive games for the first time since Jan. 7.\n\n“Hopefully the last two games can give us an opportunity to get better,” Bulls coach Billy Donovan said. “God willing, our team stays the way it is with no more guys being out with COVID or injuries. There’s a lot of things that we can learn from this and get better from. This is the opportunity for our team to really grow.”\n\nGary Trent Jr. led the Raptors with 32 points, while OG Anunoby added 23 points. Toronto has lost six of its last nine games.\n\nTrent scored 16 points in the third quarter, helping the Raptors trim their deficit to five. Anunoby hit a putback to bring Toronto within one in the fourth, eventually hammering home a dunk that gave the Raptors a 103-102 advantage with 3:11 remaining.\n\nA LaVine layup and free throws from DeRozan pushed the Bulls back on top. Trent was then ejected after being called for his second technical foul of the game. LaVine hit the technical free throw and Vucevic followed with a 3-pointer that sealed the victory for Chicago.\n\nDeRozan, who assisted on Vucevic’s game-sealing shot, had no doubt the Bulls big man would come through in the clutch.\n\n“I don’t care how many shots he missed,” DeRozan said of Vucevic. “I don’t care if he’s struggled the game before, the quarter before. Every time I see him load it up, I’ve got the utmost confidence that it’s going to go in.”\n\nDeRozan appeared to pick up two technical fouls in the final minutes of the third quarter. However, his first was deemed a non-unsportsmanlike technical foul for grabbing the net illegally while playing defense, which allowed him to stay in the game.\n\nChicago opened the game on a 14-2 run and didn’t miss a field goal attempt through the first six minutes. The Bulls finished the first quarter shooting 66.7% from the floor.\n\n“We certainly struggled early,” Toronto coach Nick Nurse said. “We made some adjustments, and the guys really executed them. You can’t fault our guys for the hustle and effort.”\n\nToronto erased a 14-point deficit in the second, completing a 19-5 run punctuated by a Malachi Flynn 3-pointer and a driving layup from Chris Boucher. The Bulls bounced back thanks to a combined 18 second-quarter points from LaVine and DeRozan. Chicago outscored the Raptors 26-9 through the final six minutes of the quarter and carried a 67-50 advantage into halftime.\n\nHITTING THE SMALL SCREEN\n\nNurse confirmed he’ll be making his acting debut next week in the CBC period crime drama “Murdoch Mysteries.” The episode will air on Monday, and Nurse will appear as a locker room attendant in a basketball scene.\n\n“It was a while back,” Nurse said of when his appearance was filmed. “These people call me up and I say ‘sure, let’s go check it out’ and just try to be coachable. It’s humbling, it’s fun and it’s an honor to be able to do some of that stuff.”\n\nNurse’s cameo was teased via the show’s Instagram account on Wednesday afternoon.\n\n“Hopefully you can catch it,” Nurse said. “You’ll have to let me know what your critique is of it.”\n\nTIP-INS:\n\nRaptors: Toronto was outscored 68-46 in the paint. ... G Fred VanVleet (knee) warmed up before the game but was a last-minute injury scratch. He has missed the last two games for Toronto.\n\nBulls: Donovan confirmed after the game that assistant coaches Mo Cheeks and John Bryant tested positive for COVID-19 and have entered league health and safety protocols. ... F Derrick Jones Jr. (fractured finger) will be reevaluated in a week, but is not currently expected to need surgery. Jones fractured his finger Tuesday while working out at the team’s training facility and is expected to miss six to eight weeks. ... G Lonzo Ball is scheduled to have surgery on his left knee Friday morning.\n\nUP NEXT:\n\nRaptors: At Miami on Saturday.\n\nBulls: At San Antonio on Friday.\n\n----",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.530642",
+  "pipeline_version": "v1"
+}

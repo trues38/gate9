@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300733",
+  "espn_id": "400489606",
+  "date": "Feb 05, 2014",
+  "matchup": "DET @ ORL",
+  "headline": "Oladipo spurs Magic to 112-98 win over Pistons",
+  "cleaned_body": "ORLANDO, Fla. --  Victor Oladipo knows if he just keeps shooting the shots will start to drop. Wednesday night's game against the Pistons was a case in point.\n\nThe Magic rookie guard and fellow reserve Kyle O'Quinn came off the bench to spark the Magic to a 112-98 victory over Detroit.\n\nAfter shooting 5 for 27 as a starter in the two preceding games, Oladipo scored eight of his 20 points in the fourth quarter Wednesday night in a game that led to heated exchange between Will Bynum and coach Maurice Cheeks.\n\n\"I was shooting the shots I could make,\" Oladipo said. \"Today I made them and the past two games I didn't make them. I'm just trying to keep shooting with confidence.\"\n\nThe 6-foot-10 O'Quinn blocked six shots and joined Oladipo and Glen Davis in sparking a second-quarter rally that gave the Magic a double-digit lead.\n\nAfter starting 31 games, Oladipo was bumped to the bench to accommodate Jameer Nelson's return from a knee injury. The third Magic player off the bench Wednesday night, Oladipo made 8 of 10 shots and all four of his free throws and turned back a Piston rally with a steal and dunk midway through the fourth quarter.\n\nDavis added 18 points and three other players scored in double figures for the Magic, who won for the fourth time in their last five home games.\n\nMaurice Harkless finished with 15 points and nine rebounds, leading the Magic to a 44-36 advantage on the glass over the NBA's top rebounding team.\n\nJosh Smith scored 25 points for the Pistons, who fell behind by 20 points in the third quarter after beating the Magic by 16 points just eight days ago.\n\nThe low point came for the Pistons when Bynum exchanged words with Cheeks during a second-quarter timeout. Cheeks pulled Bynum from the game and never put him back in.\n\n\"That was my choice, but it was in the heat of the game,\" Cheeks explained. \"The game was more important than me and Will was far as I'm concerned. The things we didn't do allowed us to get beat like that.\"\n\nOladipo, Davis and Arron Afflalo scored in double figures in the first half, when the Magic took a 14-point lead by shooting 51 percent.\n\nThe Magic led by only two points when Oladipo entered the game with 2:28 remaining in the first quarter. They made 13 of 23 shots in the second quarter and led by double figures after Davis' 8-foot jump hook with 2:53 left in the first half.\n\nO'Quinn hit a jumper from the free-throw line midway through the second quarter to start a 21-9 Orlando spurt that left the Magic with a 57-43 halftime lead.\n\nO'Quinn blocked two straight shots by Brandon Jennings as the Pistons were attempting to come back in the third quarter.\n\n\"I really didn't notice the score at that point, but we knew that somebody had to do something to get it rolling on our side again,\" O'Quinn said. \"We knew something had to happen and it was up to any of us to change the momentum and do something.\"\n\nJennings shot 5 for 23 for the game and scored 15 points for the Pistons, who had 15 turnovers and missed nine of 23 free throws.\n\nGame notes O'Quinn became the first Magic player since Dwight Howard to block six shots in a game. ... Kyle Singler started only his second game of the season for Detroit and made 3 of 4 3-point attempts. ... The Magic had 29 assists (11 by Nelson) on 44 field goals.",
+  "tags_rule": [
+    "MomentumShift",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.417050",
+  "pipeline_version": "v1"
+}

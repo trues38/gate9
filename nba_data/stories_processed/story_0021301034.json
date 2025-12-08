@@ -1,0 +1,22 @@
+{
+  "game_id": "0021301034",
+  "espn_id": "400489907",
+  "date": "Mar 22, 2014",
+  "matchup": "CHI vs. PHI",
+  "headline": "Bulls take care of business, hand Sixers 24th straight loss",
+  "cleaned_body": "CHICAGO -- Henry Sims can see the growth and he's not referring to the stack of losses.\nThe Philadelphia 76ers' skid continued and so did their march toward the wrong kind of record.\nThey have dropped 24 straight after losing 91-81 to the Chicago Bulls on Saturday. But Sims can at least see some positives.\n\n\"We're learning to play better with each other,\" he said. \"We're learning to make better decisions down the stretch. We're growing right now, and that's the main focus right now. The games we have left, we want to keep growing.\"\nThey wouldn't mind stopping the losing streak, either, but the Bulls weren't about to let that happen.\nJoakim Noah finished with 20 points, Jimmy Butler scored 17, and Chicago handed the 76ers yet another loss to put them within two of the NBA record.\nThe Sixers moved ahead of the Vancouver Grizzlies (1995-96), Denver Nuggets (1997-98) and Charlotte Bobcats (2011-12) for the second-longest, single-season losing streak.\nThe Cleveland Cavaliers dropped 26 during the 2010-11 season, and Philadelphia would have to pull off an upset to avoid tying that.\nThe next two games are at San Antonio and Houston. Drop them, and the Sixers could set the record at home against Detroit on March 29, particularly if they continue to shoot like this from the outside.\nThey missed their first 18 3-pointers and were threatening a league record before Byron Mullens made one early in the fourth. They wound up going 1 for 20. The mark for most 3-point attempts in a game without a conversion is 15.\n\"We were 1 for 20 -- what do you say?\" coach Brett Brown asked. \"It's going to be hard. I thought our defense was really quite good. It's always going to be hard if you can't make perimeter shots. This group has struggled doing that, and so, finding wins and finding ways to stay in games is always going to be a challenge.\"\nDespite that, they hung in until Taj Gibson buried a jumper and D.J. Augustin nailed a 3 with 2:30 remaining. That made it 91-79 and sealed the win for the Bulls, who moved into a tie for third in the Eastern Conference with Toronto.\nNoah and Butler each had eight rebounds, with Butler dishing out six assists. Gibson came on strong in the fourth quarter to finish with 16 points and 10 rebounds.\nAugustin added 16 points and six assists, and the Bulls came away with the win after losing at Indiana the previous night.\n\"It's tough,\" he said. \"(The 76ers) come out and they have nothing to lose. Basically, they just come out shooting whenever they feel and some of those shots go in. It's hard for anybody to play against a team that's losing, but they're still a good team at the same time.\"\nThaddeus Young scored 28 for Philadelphia despite missing seven 3-pointers. Sims added 18 points and 15 rebounds, but the Sixers remained winless since Jan. 29.\nIt didn't help that they were missing Tony Wroten, one of their few bright spots in this lost season. He sprained his right ankle in Friday's one-point loss at home to the New York Knicks and did not travel with the team.\n\"There's a win in this group,\" Brown said. \"We will continue to fight and continue to stay together. I'm just thrilled, I'm proud of their ability, their character, to stay together in what's clearly difficult times.\"\nGame notes\nBrown said Wroten will miss all three games on the trip. ... Brown had high praise for Noah before the game, saying he hopes Nerlens Noel develops like him. \"Every time I see Joakim, I hope I see what we're going to get in Nerlens,\" Brown said. \"He's one of the prime examples I point to as we try and groom a young player.\" Noel was taken with the sixth pick in the draft last spring despite a torn ACL in his left knee. He has not played this season. ... Houston (at Orlando, March 30, 1991), Golden State (against Indiana, Dec. 6, 1996) and Milwaukee (against Phoenix, Jan. 22, 2002) share the record for 3s attempted without a conversion in a game.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.542677",
+  "pipeline_version": "v1"
+}

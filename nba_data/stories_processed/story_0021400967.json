@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400967",
+  "espn_id": "400579259",
+  "date": "Mar 13, 2015",
+  "matchup": "CHA vs. CHI",
+  "headline": "Hornets battle back from 19 down to beat Bulls 101-91",
+  "cleaned_body": "CHARLOTTE, N.C. --  Gerald Henderson said there was no magic formula for the Charlotte Hornets' second-half turnaround Friday night.\n\n\"We just tried harder,\" Henderson said with a shrug of the shoulders.\n\nHenderson scored 20 points, Mo Williams added 18 and the Hornets dominated the Chicago Bulls in the second half to win going away 101-91.\n\nThe Hornets overcame a 19-point, first-half deficit and moved a half-game ahead of the Miami Heat into eighth place in the Eastern Conference after two home losses this week had dropped them out of the playoff picture.\n\n\"That's a terrific win,\" Hornets coach Steve Clifford said. \"Not just because it's a win, but because of the way we won. Do we need everybody to bring it every night? Yes, we do. And for 18 games, we can do that. ... That's why I get frustrated because I see what we can be.\"\n\nClifford was irritated after Wednesday night's loss to Sacramento, ripping into his team about a lack of defensive intensity.\n\nAnd after the Bulls scored 35 points in the first quarter, he had to be wondering if the message got through. But the Hornets held the Bulls to 10 points in the third quarter and 31 overall in the second half.\n\nCharlotte trailed by eight at the break after the Bulls shot 11 of 14 from beyond the arc in the first half. The Hornets simply outhustled the Bulls in the second half with 27 second-chance points to Chicago's 10.\n\nCharlotte also outrebounded Chicago 55-36.\n\nBulls coach Tom Thibodeau said the rebounding was the difference in the game.\n\n\"The first quarter was as well as we played all year, but then the last three quarters the second shot got us,\" Thibodeau said. \"... So much of rebounding is will and determination and (the Hornets) are fighting for a playoff spot.\"\n\nPau Gasol said the Bulls got lulled into a false sense of security after jumping out to a 35-19 lead in the first quarter while knocking down 7 of 8 3-pointers.\n\n\"When you are hot like that and you get a lead like that so early it's a double-edged sword,\" Gasol said. \"It's like all of a sudden, `I'm up 20. I'm winning this game.' That's a mistake that young teams make and we made that mistake today.\"\n\nThe Hornets came out aggressive in the third quarter led by the energetic Michael Kidd-Gilchrist. Charlotte went on a 23-5 run to start the half and took a 75-65 lead as the Bulls went cold from 3-point range, missing their first seven attempts.\n\n\"As a team, they run their offense with a lot of pace and they've got a lot of talented guys and a lot of shooters and if you're not playing with energy and attention to detail, they're going to kill you,\" Henderson said. \"So they did that in the first quarter, but we were a little more focused in the second half.\"\n\nKidd-Gilchrist had 13 points, seven rebounds and three steals and brought needed spark to the Hornets with his physical play.\n\nKemba Walker had 10 points, eight rebounds and seven assists in his second game back from a knee injury as all five Hornets starters scored in double digits for the sixth time in the last nine games.\n\nBismack Biyombo added 10 points and 10 rebounds for the Hornets, who played without injured center Al Jefferson (knee) and forward Cody Zeller (shoulder).\n\nAaron Brooks led Chicago with 24 points. Gasol had 18 points and Tony Snell scored 17.\n\n--\n\nTIP-INS\n\nBulls: Noah was whistled for technical foul in the second quarter for arguing a call, his seventh of the season. He finished with just one point and six rebounds.\n\nHornets: Clifford said before the game Zeller's strained right shoulder is not responding well to treatment and he could be out a bit longer. Zeller has already missed two games.\n\nMCDERMOTT CHIPS IN:\n\nRookie Doug McDermott had three 3-pointers and finished with 13 points for his fourth double-digit scoring game of the season.\n\nThe Hornets had a chance to draft McDermott with the ninth pick in the draft but passed on him to take Indiana freshman Noah Vonleh instead. While McDermott has found a spot in the Chicago rotation, the Hornets are banking on the 19-year-old Vonleh having more long-term upside.\n\nUP NEXT\n\nBulls: At Oklahoma City on Sunday night.\n\nHornets: At Utah on Monday night.",
+  "tags_rule": [
+    "PhysicalGame",
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.629173",
+  "pipeline_version": "v1"
+}

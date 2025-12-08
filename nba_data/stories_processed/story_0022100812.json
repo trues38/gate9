@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100812",
+  "espn_id": "401360631",
+  "date": "Feb 07, 2022",
+  "matchup": "CHI vs. PHX",
+  "headline": "Booker scores 38, NBA-best Suns hang on, beat Bulls 127-124",
+  "cleaned_body": "CHICAGO -- — Devin Booker got off to a big start while helping Phoenix build a huge lead. The NBA-leading Suns remained in control the rest of the way and came away with yet another win.\n\nBooker scored 38 points, and Phoenix beat the Chicago Bulls 127-124 on Monday night.\n\nThe Suns led by as many as 27 points in the third quarter and withstood a push down the stretch to win for the 13th time in 14 games. They improved to 43-10 overall and a league-leading 21-5 on the road.\n\nBooker hit the 30-point mark for the third time in four games. The All-Star made 14 of 23 shots, including five 3-pointers.\n\n“Just playing within the offense,” Booker said. “I understand that's how our team is built, there are gonna be opportunities to score at all times. I've been in this system for a minute now. There's no reason to force anything. We have too many talented players out there.\"\n\nChris Paul added 19 points and 11 assists. JaVale McGee finished with 16 points and eight rebounds, and Mikal Bridges scored 15.\n\nChicago’s DeMar DeRozan scored 38, coming off a season-high 45-point performance in Sunday’s loss to Philadelphia.\n\nZach LaVine added 32 points after missing the previous two games because of back spasms. Malcolm Hill scored the final eight points, including a layup at the buzzer. But it was easy to see why coach Billy Donovan said the box score “without question” did not reflect how lopsided this one really was.\n\nThe Bulls fell into a third-place tie in the Eastern Conference with Cleveland, 1 1/2 games behind Miami and a half-game back of defending NBA champion Milwaukee.\n\n“I thought as the game wore on, we played at a higher and higher and higher standard,” Donovan said. “To start the game, it was almost like they forced us to play at a higher level. And we've got to be able to do that ourselves.”\n\nThe Bulls are missing their two best perimeter defenders with Lonzo Ball and Alex Caruso injured. But Donovan expects more from the players who are available.\n\nPhoenix was rolling along with an 88-61 lead midway through the third after Booker hit a 19-footer, then withstood a push down the stretch by Chicago.\n\nA three-point play by DeRozan cut it to 113-104 with 5:56 left in the game. Jae Crowder came through with a 3 to quiet the crowd and stop the momentum. Deandre Ayton scored on a hook and hit 1 of 2 free throws to make it a 15-point game with 4:42 left.\n\n“With our team, it's just we're always so balanced,” Paul said. “We take the best available shot and not just any shot.”\n\nBIG QUARTER\n\nThe Suns took control in the second quarter while building a 67-49 halftime lead.\n\nBooker scored 22 in the half, going 8 of 10 from the field with three 3-pointers. The Suns went on a 17-3 run early in the second quarter to stretch a five-point lead to 19. And a three-point play by Bridges midway through the quarter bumped the lead to 58-37.\n\n“That's a good team win for us,” Paul said. “This is a team that I watch a lot on League Pass. I like their team. They compete. They play hard.\"\n\nTIP-INS\n\nSuns: Phoenix coach Monty Williams, in jest, when asked where he sees Billy Donovan's fingerprints on Chicago: “I'm not a forensic scientist.” Williams was Donovan's top assistant during the 2015-16 season with Oklahoma City. Donovan has the Bulls contending in the East in his second season coaching them. “I learned a lot about coaching and different ways to pace,” Williams said. “You could see that the foundation they laid last year is paying off now.”\n\nBulls: G Coby White had 13 points after missing back-to-back games because of a strained right adductor. Paul, meanwhile, said he's still not used to facing White, who played on the AAU team he sponsors — Team CP3. “Coby is my family,” he said. “Out there competing against him, I still don't ever really get used to it.” ... The Bulls had 18 assists compared to 31 for Phoenix.\n\nUP NEXT\n\nSuns: Visit Philadelphia on Tuesday.\n\nBulls: Visit Charlotte on Wednesday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.564216",
+  "pipeline_version": "v1"
+}

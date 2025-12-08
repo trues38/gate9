@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400482",
+  "espn_id": "400578774",
+  "date": "Jan 01, 2015",
+  "matchup": "CHI vs. DEN",
+  "headline": "Derrick Rose's strong finish powers Bulls by Nuggets",
+  "cleaned_body": "CHICAGO -- Derrick Rose made up for all those misses with a bunch of big shots down the stretch.\nThere was a quite a struggle. Then there was quite a transformation.\n\nRose scored 13 of his 17 points in the fourth quarter, and the Chicago Bulls beat the Denver Nuggets 106-101 on Thursday night.\nJimmy Butler scored 26 for Chicago, and Pau Gasol added 17 points, nine rebounds and a career-high nine blocks. The Bulls rejected a franchise-record 18 shots in all on the way to their 11th win in 13 games, but the difference in the end was their superstar point guard.\nRose found his rhythm just in time after struggling the previous two games and for most of this one.\n\"My mentality is not going to change,\" he said. \"I'm going to shoot the ball. I'm a scoring guard.\"\nThe 2011 MVP hit 7 of 25 shots after going 7 for 35 over the previous two games. But he came up with one big basket after another at the very end, hitting 5 of 11 in the fourth quarter. It was a strong finish after he missed his first eight shots overall -- including all seven in a scoreless first half.\nWilson Chandler led Denver with 22 points. Ty Lawson scored 20, while Arron Afflalo had 19 points. Kenneth Faried added 18 points and 19 rebounds, but the Nuggets fell to 4-12 on the road.\n\"I don't think we've got that killer instinct yet as a team,\" Faried said. \"We show glimpses of it, but then it fades away.\"\nChicago, which trailed by 13 early in the third, was clinging to a 100-97 lead after Denver's Jusuf Nurkic scored on a put-back layup with 46 seconds left.\nRose then nailed a 21-foot jumper, and the Bulls hung on after Faried dunked with 22 seconds remaining to get the Nuggets within three again. Chicago's Aaron Brooks hit two free throws to make it a five-point game before Nurkic hit two of his own after he got fouled trying to dunk on Taj Gibson with 11 seconds left. Rose then hit two more foul shots to make it 106-101, and the Bulls came away with a tight victory.\n\"It was important that he kind of broke off that slump,\" Gasol said. \"He was effective and got himself going and scored big in the fourth quarter, helped us win the game. I think it's really important to have that kind of ending, carry that momentum into the next game.\"\nBLOCKED OUT\nThe Bulls' previous high for blocks was 16 at Cleveland on Jan. 20, 2012. Gasol blocked eight shots in a game twice while with Memphis -- against Phoenix on Feb. 20, 2004, and against Sacramento on Jan. 29, 2007.\nTIP-INS\nNuggets: G Nate Robinson goes way back with Brooks, and they both entered with 1:35 left in the first quarter. Robinson, who flourished with the Bulls in 2012-13, got a huge round of applause from the crowd. Brooks, a former Nugget, is hoping for similar success after signing with the Bulls in the summer. \"I've known Aaron and his family pretty much our whole lives. I'm proud of him,\" Robinson said.\nBulls: Coach Tom Thibodeau said he has seen some \"good and bad\" from Nikola Mirotic in short stretches at small forward. That the 6-foot-10 Mirotic is seeing some time there instead of his usual spot at power forward is noteworthy because Thibodeau said in the past he did not envision that happening. \"We got to keep working at it,\" he said. \"It's going to take some time. I think it's hard for him to pick up two positions right now. So when he does play at the three, it limits what you can do in terms of it's a very small package that we're using (offensively and defensively).\" ... Kirk Hinrich scored 10 points on 4-for-4 shooting in 27 minutes after missing five games because of a strained left hamstring. ... Mike Dunleavy Jr. jammed his right ankle guarding Chandler with 7:42 left in the third and sat out the rest of the game, although he was cleared to return. He said X-rays showed no structural damage.\nUP NEXT\nNuggets: Host Memphis on Saturday.\nBulls: Host Boston on Saturday.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.124781",
+  "pipeline_version": "v1"
+}

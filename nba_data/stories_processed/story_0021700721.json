@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700721",
+  "espn_id": "400975467",
+  "date": "Jan 26, 2018",
+  "matchup": "POR @ DAL",
+  "headline": "Lillard leads Trail Blazers past Mavericks 107-93",
+  "cleaned_body": "DALLAS --  Damian Lillard had to defeat a stomach bug before he could lead the Portland Trail Blazers past the Dallas Mavericks.\n\nLillard \"ate something weird\" and missed all four shots he took and had a pair of turnovers in the first quarter.\n\n\"I kind of had a stomachache,\" Lillard said. \"A kind of weird feeling in my throat like I was going to throw up, so I was kind of winded. I just felt kind of sick, like it was stomach flu or something.\"\n\nHe started feeling better in the second quarter and his game reflected that, as he scored a game-high 29 points in the final three quarters to lead Portland to a 107-93 victory Friday night.\n\n\"I just kept drinking water,\" Lillard said. \"I just kept telling myself it's a mental battle. We had to get the job done and that's what we did.\"\n\nLillard had 14 points in the third quarter when Portland closed out the victory.\n\n\"He can get on a rhythm,\" Portland coach Terry Stotts said. \"He is just capable of doing that. After getting off to a slow start offensively, missing four to five shots, he is capable of getting hot.\"\n\nC.J. McCollum added 20 points and Jusuf Nurkic had 12 for the Trail Blazers (27-22), who have won four of their past five games -- including two wins against the Mavericks.\n\nEd Davis had 15 points and 13 rebounds off the bench.\n\n\"I just tried to come with energy,\" Davis said. \"The ball was finding me and rebounds were falling into my hands, so I was just trying to give a spark to help the team.\"\n\nPortland played without forward Evan Turner, who was out for personal reasons. Maurice Harkless started in his place and had five points in 17 minutes.\n\nHarrison Barnes scored 21 points and Dennis Smith Jr. had 18 for the Mavericks (16-33) in the first game of a back-to-back. Dallas travels to Denver for a road contest Saturday.\n\nWesley Matthews added 12 points for the Mavericks, who struggled and shot 39.3 percent from the field.\n\n\"We were committed to the defensive end, that's for sure, but our offense really wasn't there,\" Matthews said. \"No matter what you do on the defensive end, you don't put the ball in the basket you don't really put much pressure on them.\"\n\nThe Trail Blazers led 52-44 at halftime and never trailed in the second half. Dallas was as close as two points -- 65-63 -- in the third quarter, but used a 20-4 run in the fourth quarter to put the game out of reach.\n\n\"They hit some hellacious shots,\" Mavericks coach Rick Carlisle said. \"We had a poor shot-making night, and that combination can lead to problems quickly with these guys.\"\n\nFAMILY SUPPORT\n\nDavis had a big game with his mother, Angela Jones, in attendance, who traveled to Dallas from Virginia to see him get a double-double. \"It's just always good to see family in the stands, especially my mom,\" Davis said.\n\nPROTECT THE BALL\n\nThe Mavericks committed only five turnovers, one shy of the franchise record for the fewest in a game. Dallas has 10 games in franchise history with four turnovers, including one game earlier this season.\n\nTIP-INS\n\nTrail Blazers: Portland leads the all-time series 82-70 and has won three straight against Dallas.\n\nMavericks: G Seth Curry still has yet to play this season due to a leg injury. Carlisle said he expects Curry to play this season, but doesn't know when. ... The Mavericks debuted their \"City\" Edition jersey, a black jersey with neon blue and green trim.\n\nUP NEXT\n\nTrail Blazers: visit the Los Angeles Clippers on Tuesday.\n\nMavericks: visit the Denver Nuggets on Saturday to complete a back-to-back.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.913777",
+  "pipeline_version": "v1"
+}

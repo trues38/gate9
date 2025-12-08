@@ -1,0 +1,26 @@
+{
+  "game_id": "0022100319",
+  "espn_id": "401360143",
+  "date": "Dec 01, 2021",
+  "matchup": "ATL @ IND",
+  "headline": "Young makes key free throws, leads Hawks past Pacers 114-111",
+  "cleaned_body": "INDIANAPOLIS -- — Trae Young made two crucial free throws in the final seconds of a hard-fought victory on Wednesday night, but lamented a turnover that put the Atlanta Hawks in a precarious last-second situation.\n\nThe Hawks had a one-point lead when Young lost control of the basketball. Indiana Pacers rookie Chris Duarte came up with the steal, but was unable to convert a contested layup that had his bench and coach Rick Carlisle screaming for a foul.\n\nYoung was subsequently fouled with 1.2 seconds remaining and made the final two of his 33 points for a 114-111 road win.\n\n“I could have done better closing it out,” Young said. “I can't have a turnover at the end to give them a chance to win.”\n\nAfter the final buzzer, Carlisle continued to yell at referees about the lack of a call on the Duarte drive.\n\n“The last play was unfortunate,” Carlisle said. “Those of you that saw it saw (Kevin) Huerter pull him down, pull the jersey down while he's going up. That was clearly a foul. I'm not sure why it wasn't called.”\n\nHuerter disagreed, albeit with a wry grin.\n\n“I never foul,\" Huerter said. “I've never fouled anybody in my life.”\n\nFor much of the night, Carlisle watched his players struggle to stop Young, who also had 10 assists and eight rebounds for the Hawks, who shot 51.2% (44 of 86), including 16 of 33 on 3-pointers. The Pacers made just 10 of 33 from beyond the arc.\n\n“I'm getting to my spots and I've worked really hard on making my jumpers,” Young said. “And the other guys are making plays, too If they don't make plays, I don't get as many good looks.”\n\nYoung found Huerter for several open looks as Huerter finished with 19 points, and John Collins scored 14.\n\n“He operates really well with Trae,” said Hawks assistant coach Chris Jent. “It's good to see.”\n\nMalcolm Brogdon led the Pacers with 27 points.\n\n“We had defensive breakdowns and they closed the game out,” Brogdon said.\n\nDomantas Sabonis scored 22 points and grabbed 10 rebounds, and Myles Turner had 17 points and nine rebounds.\n\n“I just thought we didn't play with the force we needed to play with,” Carlisle said.\n\nThe Hawks were hot from the outset, hitting 8 of 10 3s, but the Pacers stayed close on 17-of-31 shooting. Atlanta led 45-42 midway through the second quarter, but Turner sank a pair of free throws to make it 51-all with 4:26 remaining in the first half.\n\nThe visitors closed the first half with a 12-4 surge to take a 65-57 lead into the break. The last basket punctuated the run as Young fed Collins for an alley-oop dunk in the final seconds.\n\nAtlanta made 25 of 42 shots (59.5%), including 10 of 15 3s, in the first half.\n\nYoung hit a step-back jumper to provide the Hawks' largest lead at 74-62 with 7:45 remaining in the third. The Pacers rallied with a 15-2 run to nudge ahead. Indiana was ahead 88-87 entering the fourth.\n\nMCMILLAN ABSENT\n\nHawks coach Nate McMillan opted to be isolated — at least temporarily — after his son and assistant coach Jamelle McMillan entered the NBA's COVID-19 health and safety protocols. McMillan said the decision to not coach against his former team was “out of an abundance of caution.”\n\nDespite missing the game, the victory was the 700th of McMillan's career. He was on the Pacers staff for seven years, the last four as coach, before being fired in 2020.\n\nTIP-INS\n\nHawks: Improved to 4-8 in road games. ... Young has been so successful against the New York Knicks, he received one write-in vote in November's mayoral election, the New York City Board of Elections reported Wednesday. The point guard delivered clutch performances in a playoff series win over the Knicks last spring.\n\nPacers: Reserve guard T.J. McConnell exited early with a right wrist injury. ... This was the first of six consecutive home games. ... Sabonis had his 17th triple-double. Monday's triple-double at Minnesota included a career-high 25 rebounds, the first time an NBA player has had as many rebounds in a triple-double since Shaquille O'Neal in 1993.\n\nUP NEXT\n\nHawks: Host Philadelphia on Friday.\n\nPacers: Host Miami on Friday.",
+  "tags_rule": [
+    "TripleDouble",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.428437",
+  "pipeline_version": "v1"
+}

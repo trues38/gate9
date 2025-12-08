@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100611",
+  "espn_id": "401360430",
+  "date": "Jan 10, 2022",
+  "matchup": "SAC vs. CLE",
+  "headline": "Cavs hold off late rally, send Kings to 5th straight loss",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Jarret Allen had 18 points and 17 rebounds, Darius Garland also had a double-double and the Cleveland Cavaliers held off the Sacramento Kings 109-108 on Monday night.\n\nKevin Love scored 19 points, Evan Mobley added 17 and Lauri Markkanen and Cedi Osman finished with 15 points apiece. Garland had 12 points and 11 assists as the Cavaliers completed the season sweep of the Kings.\n\nAs good as the win felt, Cleveland coach J.B. Bickerstaff wasn’t entirely pleased. The Cavs committed 17 turnovers that led to 20 points, allowed 15 offensive rebounds and went scoreless over the final 2 ½ minutes.\n\n“It’s a win so we’ll take it but it wasn’t our best,” Bickerstaff said. “We talk about playing with purpose and discipline for 48 minutes. We didn’t do that tonight. We can’t put ourselves in these type of positions. We have to improve because it’s going to cost us down the stretch if we don’t.”\n\nTyrese Haliburton had 21 points and eight assists for Sacramento. Buddy Hield added 19 points. The Kings have lost a season-worst five straight.\n\nCleveland led 109-99 with 2:34 remaining but went cold. Sacramento went on its biggest run after that and got within 109-108 on two free throws by De'Aaron Fox. After the Cavaliers turned the ball over, Fox missed a 15-footer as time expired.\n\n“We did all we needed to do to put ourselves in a position to win, We just couldn’t quite get over the hump,” Kings interim coach Alvin Gentry said. “If you tell me that I could get De’Aaron Fox a foul-line jumpshot to win the game, I’ll take that. If we play that way night in and night out we’ll change the direction of our team.”\n\nThe Cavaliers led going into the fourth quarter, fell behind by three, then went on a 14-2 run to take a comfortable lead. Mobley, quiet for most of the evening, made a pair of baskets during the run then later made a three-point play to make it 106-99. Markkanen followed with a 3-pointer before the Kings made their late push.\n\n“The message today was to come back how we were two weeks ago,” Allen said. “We were rebounding the ball, protecting the paint, doing everything that made us a good team. It was a huge step in the right direction.”\n\nComing off a season-low two points in Sunday’s 96-82 loss to Golden State on Sunday, Love got the Cavaliers going early and had 14 points in the first half including a 3-pointer that put Cleveland ahead by 12.\n\nThe Kings got within 47-45 on Marvin Bagley III’s dunk but Garland hit a 3-pointer atop the arc for the Cavs and Osman followed with a pair of free throws. Osman later scored on a reverse just before halftime to make it 62-49.\n\nLamar Stevens scored six of Cleveland’s first 11 points in the third quarter and fed Allen with an alley-oop pass but Hield made back-to-back 3s then added a third beyond the arc to help Sacramento get within 84-79.\n\nTIP-INS\n\nCavaliers: Allen had his double-double before halftime.\n\nKings: Richaun Holmes and Damian Jones remain in the NBA health and safety protocol.\n\nUP NEXT\n\nCavaliers: Continue their six-game road trip at Utah on Wednesday.\n\nKings: Face the Lakers on Wednesday at Golden 1 Center.\n\n----",
+  "tags_rule": [
+    "DoubleDouble",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.190565",
+  "pipeline_version": "v1"
+}

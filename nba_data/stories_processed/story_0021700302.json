@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700302",
+  "espn_id": "400975053",
+  "date": "Nov 28, 2017",
+  "matchup": "MIL @ SAC",
+  "headline": "Antetokounmpo scores 32 to help Bucks breeze past Kings",
+  "cleaned_body": "SACRAMENTO, Calif. --  Giannis Antetokounmpo wasn't the least bit surprised that Milwaukee's most lopsided win of the season coincided with one of the Bucks' best defensive games.\n\nThe NBA's most improved player last year also issued a warning of sorts to his teammates.\n\n\"We can't hide now,\" Antetokounmpo said after scoring 19 of his 32 points in the third quarter of Millwaukee's 112-87 win over the Sacramento Kings on Tuesday night. \"We did it today, we played really hard defensively so we have to keep doing that. No excuses as a team.\"\n\nThe Bucks have been erratic at times on both ends of the court this season and had dropped three of four before jumping on the Kings early.\n\nMilwaukee coach Jason Kidd credited his team's defense but also praised the offense. The Bucks shot 59 percent with 26 assists.\n\n\"There was nothing that was forced,\" Kidd said. \"The ball moved, we didn't hold it, we didn't back down, we didn't dribble 10 times to take a shot. Our guys trusted one another.\"\n\nEric Bledsoe had 21 points, five assists and five rebounds for the Bucks, who won for the second time in five games. Khris Middleton scored 12 points.\n\nMilwaukee led by as many as 36 and won despite not scoring a second-chance point.\n\nAntetokounmpo scored 11 points in the first quarter, but was at his best coming out of halftime. He went 6 for 8 from the field in the third, including a rare 3-pointer.\n\nIt was Antetokounmpo's eighth 30-point game this season.\n\n\"When the ball moves everybody's got energy,\" Antetokounmpo said. \"Whenever we move the ball like that as a team it's easy to find one another. It looks good and that's what we have to keep doing.\"\n\nMilwaukee has won three straight against Sacramento.\n\nThe Bucks were crisp early, but they didn't pull away until a 20-3 run midway through the second quarter. Bledsoe scored 11 during the run, and Middleton made two free throws to put Milwaukee up 61-34 at halftime.\n\nGarrett Temple scored 18 for the Kings, and Buddy Hield added 13 points. Willie Cauley-Stein had 10 points and 10 rebounds.\n\nSacramento came out flat and never recovered, one day after rallying in the fourth quarter to beat the short-handed Golden State Warriors.\n\nEven after Jason Kidd emptied his bench in the fourth quarter, Sacramento struggled to get the lead under 30.\n\nThe Kings committed 11 turnovers in the first half and repeatedly allowed Antetokounmpo to get into the paint for easy buckets.\n\n\"That was not a game,\" Sacramento coach Dave Joerger said. \"We struggled right from the jump. They are extremely athletic and they gave us problems with their length, and they made shots tonight.\"\n\nJason Terry, who spent a few brief moments with the Kings in 2014 before being traded to Houston, was booed every time he touched the ball. He made a 3-pointer that put the Bucks up 92-56.\n\nTIP-INS\n\nBucks: Middleton was a game-time decision because of illness. ... Antetokounmpo `s 3-pointer was only his second make from beyond the arc in the past nine games. ... John Henson was charged with a technical foul after hanging onto the rim following a dunk in the first quarter.\n\nKings: Sacramento missed seven of its first 12 free-throw attempts. ... The Kings are 0-4 on the second night of back-to-backs. ... Rookie De'Aaron Fox shot 2 of 10 and missed all three of his 3-point attempts.\n\nGETTING A REST\n\nThe Bucks most lopsided win since beating Washington 123-96 on Dec. 23, 2016 allowed Kidd to get most of his starters plenty of rest. Tony Snell logged 29 minutes while Antetokounmpo played 26 and Middleton played 23. \"It's always good to see Giannis not at 38 and Khris at 40 or even Tony at 40,\" Kidd said. \"The guys were really professional, took care of business.\"\n\nDEFENSIVE BREAKDOWN\n\nWhile Milwaukee was celebrating its defensive effort, Sacramento was grumbling about its defense which allowed the Bucks multiple uncontested shots. \"We didn't do the things we needed to do to make it a close game,\" Kings guard Frank Mason said. \"They got anywhere they wanted on the court, a lot of easy lay-ups, uncontested shots, things like that.\"\n\nUP NEXT\n\nBucks: Play at Portland on Thursday.\n\nKings: Begin a four-game road trip against Chicago on Friday.",
+  "tags_rule": [
+    "MomentumShift",
+    "PhysicalGame",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.166786",
+  "pipeline_version": "v1"
+}

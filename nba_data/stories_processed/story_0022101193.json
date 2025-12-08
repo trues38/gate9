@@ -1,0 +1,21 @@
+{
+  "game_id": "0022101193",
+  "espn_id": "401361012",
+  "date": "Apr 06, 2022",
+  "matchup": "CHI vs. BOS",
+  "headline": "Celtics rout Bulls for 50th, close in on No. 2 spot in East",
+  "cleaned_body": "CHICAGO -- — Jaylen Brown scored 25 points, Al Horford added 17 on 7-of-7 shooting and the Boston Celtics routed the Chicago Bulls 117-94 on Wednesday night for their 50th victory.\n\nThe Celtics have won three in a row and are 27-6 since Jan. 22. They can wrap up the second spot in the Eastern Conference playoffs Thursday night with a victory at Milwaukee.\n\n“It’s a pretty simple formula,” Celtics coach Ime Udoka said. “Play defense at an elite level. Share the ball, be unselfish on offense. And the results are there.”\n\nJayson Tatum scored 16 points for Boston. He was 5 of 18 from the field, making only one of eight from 3-point range.\n\nThe Bulls have lost two straight. They claimed a playoff berth Tuesday.\n\nDeMar DeRozan scored 16 points for Chicago, and Nikola Vucevic added 13 points. Vucevic had four of the Bulls’ 17 turnovers.\n\n“I think what happens is when you’re winning, you have a false sense of reality of who you are,” Bulls coach Billy Donovan said. “And when you’re losing, you have a false sense of reality of who you are.”\n\nThe Celtics had a 16-4 run midway through the first quarter to take a 31-14 lead. They shot 57.8% in the first half, going 9 of 18 from 3-point range. Reserve guard Payton Pritchard was 3-for-3 from long distance in the second quarter.\n\nComing off a home loss to Milwaukee on Tuesday night, the Bulls committed 10 turnovers in the first half. Their frontline depth was weakened when forward Patrick Williams committed his fourth foul with 4:31 left in the second quarter.\n\nBulls guard Zach LaVine was 1 of 5 from the filed in the first quarter, didn’t attempt a shot in the second quarter and finished 2 of 9. He had seven points.\n\n“It’s hard to play when we’re disconnected like this, and the results show,” LaVine said. “Offensively, defensively, we're disconnected right now. We have to find our rhythm in these next two games.”\n\nFormer President Barack Obama attended the game.\n\nTIP-INS\n\nCeltics: C-F Robert Williams (knee) remained in Boston to help “expedite the process” of his recovery, Udoka said. Williams hasn’t played since March 27, and he was expected to be sidelined from four to six weeks, which would rule him out for the first round of the playoffs.\n\nBulls: G Alex Caruso was ruled out because of a sore back. “He’s just not moving like he normally does,” said Donovan, adding that Caruso has been coping with the residual effects of a sore wrist he fractured on Jan. 21. G Matt Thomas (right leg bruise) also was ruled out.\n\nUP NEXT\n\nCeltics: At Milwaukee on Thursday night.\n\nBulls: Vs. Charlotte on Friday night.",
+  "tags_rule": [
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.908160",
+  "pipeline_version": "v1"
+}

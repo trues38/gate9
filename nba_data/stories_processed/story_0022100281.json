@@ -1,0 +1,26 @@
+{
+  "game_id": "0022100281",
+  "espn_id": "401360105",
+  "date": "Nov 26, 2021",
+  "matchup": "CHA vs. MIN",
+  "headline": "Oubre, Hornets blister Timberwolves from long range, 133-115",
+  "cleaned_body": "CHARLOTTE, N.C. -- — Kelly Oubre Jr. matched a career high with seven 3-pointers and had 27 points off the bench, helping the surging Charlotte Hornets snap the Minnesota Timberwolves’ five-game winning streak with a 133-115 victory Friday night.\n\nMiles Bridges and Gordon Hayward each had 18 points, and LaMelo Ball had 10 points and 13 assists. The Hornets have won eight of their last nine games.\n\nKarl-Anthony Towns had 25 points for Minnesota, and D’Angelo Russell and Malik Beasley each added 18 points.\n\nOubre said the key for the Hornets during their current streak is the team's eagerness to get better.\n\n“It's the willingness to grow and learn,” Oubre said. “We're a young team, but we show up each and every day. We show up ready to work and ready to get better and grow closer as a unit.”\n\nThe Hornets (13-8) tied a franchise record with 23 3-pointers and shot 57.5% from beyond the arc against the NBA's top-ranked 3-point defense. The Timberwolves (9-10) had held their opponents to 30.1% shooting from 3-point range entering the game.\n\n“The ball was moving,” Hornets coach James Borrego said, citing his team's 32 assists. \"The unselfish spirit was there.\"\n\nBorrego said he felt Ball got the effort going early with nine assists in the first half, including a full-court baseball pass to Bridges for a transition layup as he was falling out of bounds.\n\n\"He got downhill and created for himself and for others,\" Borrego said. “I thought he was fantastic.\"\n\nHayward was also effective driving to the rim, which Borrego said is one of the keys to the Hornets moving up the standings.\n\n“We have so many weapons. We have so many guys who can throw it up,” Hayward said.\n\nTowns said allowing the Hornets to shoot 23 of 40 from 3-point range is “unacceptable.”\n\n“We were just not matching up with anybody,\" Towns said. “We were having two people guarding the ball, and leaving guys on the wing ready to shoot. ... Kelly Oubre was feasting off of that tonight.”\n\nThe Hornets improved to 7-2 at home.\n\nCharlotte took a 68-58 lead at halftime behind 15 points from Oubre.\n\nCharlotte broke open the game late in the third quarter behind the left-handed shooting Oubre, who made four 3-pointers in the final 3:58 of the quarter to push the lead to 19. Minnesota could never make a run in the fourth and Minnesota coach Chris Finch yanked his starters with about six minutes to play with his team down 20.\n\nOUBRE'S HOT HAND\n\nThis marked the second time this month Oubre has knocked down seven 3s in a game, with most of them coming Friday night on catch-and-shoot jumpers from the left corner.\n\nThe free agent pickup is shooting a career-best 36.6% from 3-point range in his first season with the Hornets. His previous high was 35.2% in 2019 with the Phoenix Suns.\n\nNOT A STEP BACK\n\nTowns said the loss was a “trip,” not a “step back” for the Timberwolves.\n\n“I anything we have shown that we are here to play this season,\" Towns said. \"This is one of those days where you have to chalk it up and say, ‘we got humbled.’ But this is not how we play. We can't expect that because we have a five-game winning streak it is just going to translate to a six- or seven-game winning streak. The more wins we get, the more teams are going to want to beat us.”\n\nWASHINGTON'S ADDITION\n\nP.J. Washington had 17 points in his second game back from a shoulder injury.\n\nHe got his first start of the season with Mason Plumlee out with a calf injury.\n\nBorrego said when Washington plays at the 5-spot “the floor opens up offensively for us because he creates more space for us, especially when he is hitting shots.”\n\nTIP-INS\n\nTimberwolves: G Patrick Beverly (left adductor strain) did not play. ... Shot just 31.4% from 3-point range.\n\nHornets: First-round draft pick Kai Jones scored his first NBA points on a late dunk.\n\nUP NEXT\n\nTimberwolves: At Philadelphia on Saturday night.\n\nHornets: Open four-game trip at Houston on Saturday night.\n\n------",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "Streak",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport",
+    "HotShooting"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.937473",
+  "pipeline_version": "v1"
+}

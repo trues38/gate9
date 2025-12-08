@@ -1,0 +1,21 @@
+{
+  "game_id": "0021700754",
+  "espn_id": "400975500",
+  "date": "Jan 31, 2018",
+  "matchup": "LAL @ ORL",
+  "headline": "Magic use big 3rd quarter to run away from Lakers, 127-105",
+  "cleaned_body": "ORLANDO, Fla. --  The Magic's shots went in and the Lakers' starters went out in the third quarter Wednesday night.\n\nLos Angeles never recovered.\n\nMarreese Speights scored 21 points, Evan Fournier added 19 and Orlando ran away from the Lakers for a 127-105 victory. Winning for only the fourth time in 24 games, the Magic hit a franchise-record nine 3s in a 43-point third period.\n\n\"The 3-pointer is a momentum shot,\" Speights said after making his second start of the season. \"You come out and hit a couple like that and you can beat a team easily. You saw that happen in the third quarter.\"\n\nOrlando (15-35) was 9 for 13 from behind the arc in its highest-scoring quarter of the season. The Magic shot 18 for 32 (56 percent) from 3-point territory overall.\n\n\"It seemed like we were going to make every single shot,\" said Mario Hezonja, who hit two of his four 3-pointers in the third. \"When that happens, you can take a breath and say, OK, we don't have to go crazy tonight and try to protect anything. We can control the pace of the game. And we did that.\"\n\nJulius Randle and Jordan Clarkson scored 20 points apiece for the Lakers, who never led after the first quarter.\n\nWhen Elfrid Payton's three-point play gave the Magic a 66-53 lead 93 seconds into the third, Lakers coach Luke Walton yanked all five of his starters out of the game.\n\n\"I just thought we came out with no energy. (Speights) got a quick 3 and it didn't feel like our guys were ready to play,\" Walton explained. \"The message was, look, if you're not ready to play or you don't want to play, you're not going to play. So we went to the second unit. It was a teaching moment.\"\n\nThe Lakers (19-31) never again got the margin under 11.\n\nHezonja hit a 3-pointer, Fournier followed with two more and Jonathon Simmons added two more 3s to help the Magic finish the period on a 22-13 run for a 20-point lead. They led by 29 early in the fourth.\n\nThe Lakers were down by 12 when three straight baskets by Clarkson got them back in the game midway through the second quarter. Speights scored Orlando's final 10 points of the half, including a couple of 3s.\n\nIt was a dispiriting loss for the Lakers, who had won eight of 11.\n\n\"We lost by 30 (actually 22) to the team that has the worst record in the league,\" Kyle Kuzma said. \"That's kind of deflating, but give credit to them. They beat us.\"\n\nTIP-INS\n\nLakers: It was Clarkson's sixth straight game of 15 or more points. ... Rookie G Lonzo Ball missed his eighth straight game with a sore left knee. ... The Lakers, the worst 3-point shooting team (.327) in the NBA, went 4 of 20 from long range.\n\nMagic: F Aaron Gordon missed his second straight game with a strained left hip flexor. Orlando is 2-9 without him. ... The Magic shot 54 percent from the field. ... Orlando wore new uniforms without the words \"Orlando\" or \"Magic\" on them.\n\nUP NEXT\n\nLakers: Play at Brooklyn on Friday night, the fourth stop on a five-game road trip.\n\nMagic: Home on Saturday night against Washington.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.756133",
+  "pipeline_version": "v1"
+}

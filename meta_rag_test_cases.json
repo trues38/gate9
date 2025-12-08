@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "type": "BAD_NEWS_BANK",
+        "title": "Credit Suisse Collapses, Files for Bankruptcy",
+        "summary": "Global banking giant Credit Suisse announces insolvency after failed rescue talks. Markets fear contagion.",
+        "ticker": "CS",
+        "expected_meta_trigger": true
+    },
+    {
+        "id": 2,
+        "type": "BAD_NEWS_WAR",
+        "title": "China Launches Full-Scale Invasion of Taiwan",
+        "summary": "Beijing announces military operation to reunify Taiwan. Global markets crash on fears of semiconductor supply halt.",
+        "ticker": "TSM",
+        "expected_meta_trigger": true
+    },
+    {
+        "id": 3,
+        "type": "BAD_NEWS_INFLATION",
+        "title": "US Inflation Surges to 10.5%, New Record High",
+        "summary": "CPI data shocks analysts as inflation accelerates. Fed expected to raise rates aggressively.",
+        "ticker": "SPY",
+        "expected_meta_trigger": true
+    },
+    {
+        "id": 4,
+        "type": "BAD_NEWS_BANK_RUN",
+        "title": "New York Community Bank (NYCB) Faces Deposit Run",
+        "summary": "Shares of NYCB plunge 40% as depositors flee. Fears of another regional banking crisis mount.",
+        "ticker": "KRE",
+        "expected_meta_trigger": true
+    },
+    {
+        "id": 5,
+        "type": "MANIA_SQUEEZE",
+        "title": "AMC Entertainment Stock Rallies 300% in One Day",
+        "summary": "Meme stock mania returns as retail traders target AMC short sellers. Hedge funds suffer massive losses.",
+        "ticker": "AMC",
+        "expected_meta_trigger": true
+    },
+    {
+        "id": 6,
+        "type": "MANIA_AI",
+        "title": "AI Startup Valuations Hit Dotcom Levels",
+        "summary": "Analysts warn of an AI bubble as unproven startups raise billions at sky-high valuations.",
+        "ticker": "QQQ",
+        "expected_meta_trigger": false
+    },
+    {
+        "id": 7,
+        "type": "MANIA_CRYPTO",
+        "title": "Bitcoin Surpasses $100k, Retail FOMO Kicks In",
+        "summary": "Crypto markets explode higher as institutional adoption grows. Retail investors flock back to digital assets.",
+        "ticker": "COIN",
+        "expected_meta_trigger": false
+    },
+    {
+        "id": 8,
+        "type": "NEUTRAL_EARNINGS",
+        "title": "Apple Reports Steady Earnings, Meets Expectations",
+        "summary": "Apple Q3 revenue matches analyst forecasts. iPhone sales remain stable despite economic headwinds.",
+        "ticker": "AAPL",
+        "expected_meta_trigger": false
+    },
+    {
+        "id": 9,
+        "type": "NEUTRAL_FED",
+        "title": "Fed Keeps Rates Unchanged, Signals Patience",
+        "summary": "The Federal Reserve holds interest rates steady, emphasizing a data-dependent approach for future meetings.",
+        "ticker": "SPY",
+        "expected_meta_trigger": false
+    },
+    {
+        "id": 10,
+        "type": "BAD_NEWS_PANDEMIC",
+        "title": "New Deadly Virus Strain Detected in Europe",
+        "summary": "WHO warns of a potential new pandemic as a highly contagious virus spreads across Europe. Travel bans considered.",
+        "ticker": "EZE",
+        "expected_meta_trigger": true
+    }
+]

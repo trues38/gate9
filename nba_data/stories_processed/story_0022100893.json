@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100893",
+  "espn_id": "401360712",
+  "date": "Feb 24, 2022",
+  "matchup": "PHX @ OKC",
+  "headline": "Booker has 25 points, Suns beat Thunder for 8th straight win",
+  "cleaned_body": "OKLAHOMA CITY -- — Devin Booker had 25 points, 12 assists and a career-high six steals to help the NBA-leading Phoenix Suns beat the Oklahoma City Thunder 124-104 on Thursday night.\n\nBooker played point guard with All-Star Chris Paul out with a fractured right thumb. Booker finished with a season-high assist total and helped the Suns win their eighth straight game.\n\n“I thought Devin managed the game well,\" Suns coach Monty Williams said.\n\nOklahoma City collapsed on big man Deandre Ayton, limiting him to six points on five shots. Cameron Johnson and Mikal Bridges each scored 21 points for the Suns, who have won 19 of 20 to improve to 49-10.\n\nThe Suns will try to turn Paul's absence into a growing experience.\n\n“I feel like we can only get better from this,\" Suns forward Jae Crowder said. \"Obviously, we’ve put ourselves in position to to have a cushion. But at the same time, we’re playing for something. We’re playing purposeful basketball each and every night.”\n\nShai Gilgeous-Alexander led Oklahoma City with 32 points in his return after missing 10 games because of a sprained right ankle. Rookie guard Josh Giddey, who had 15 points, nine rebounds and six assists, said he was glad to see Gilgeous-Alexander back.\n\n“Love playing with him,\" Giddey said. \"I think that chemistry is getting better and better over time. I think in a few years, we’re going to be one of the best backcourts in the league. So growing with him is something I’m loving doing.”\n\nPhoenix led 31-14 at the end of the first quarter, outscoring Oklahoma City 14-0 in fast-break points behind nine steals.\n\nThe Thunder rallied in the second behind Gilgeous-Alexander’s nine points in the period. Crowder’s layup at the buzzer gave the Suns a 48-45 halftime lead. Gilgeous-Alexander scored 15 points before the break.\n\nThe Thunder finally took the lead early in the third quarter, but the Suns regained control and led 85-77 heading into the fourth. Phoenix made 5 of 8 3-pointers in the third quarter after making 2 of 17 in the first half.\n\nThe Thunder cut it to 94-91 in the fourth quarter, but the Suns closed on a 30-13 run.\n\n“The good thing is, we got that game out of the way,” Williams said. “I thought we had some rust in the pipes tonight, and we were able to get some of that out and get used to Book (Booker) playing some point.”\n\nTIP-INS\n\nSuns: Former Thunder G Cameron Payne missed his 14th straight game with a sprained right wrist. ... Crowder scored 17 points.\n\nThunder: Lu Dort (left shoulder strain), Ty Jerome (sore left hip), Mike Muscala (sore right ankle), Jeremiah Robinson-Earl (fractured right foot) and Kenrich Williams (sprained right knee) all sat out. ... Made 1 of 12 3-pointers in the first half and 6 of 31 overall.\n\nBABY STEPS\n\nThe Suns added point guard Aaron Holiday in a recent trade with Washington. Williams thought it was too soon to start him.\n\n“I’m just careful of putting too much on Aaron,\" Williams said. \"You know, he just got here, he and Torrey (Craig). But it’s a lot tougher for Aaron to play the point guard position. And so I just thought we’d be better served having him come off the bench and just be Aaron.”\n\nSTREAK ENDS\n\nGiddey’s run of consecutive triple-doubles ended at three. He was the first rookie since Oscar Robertson in 1960-61 to have at least three straight triple-doubles.\n\nGiddey had 11 points, 12 rebounds and 10 assists on Feb. 12 against Chicago. He posted 28 points, 11 rebounds and 12 assists at New York on Feb. 14, then followed with 17 points, 10 rebounds and 10 assists against the San Antonio Spurs on Feb. 16.\n\nSUPER SUB\n\nAleksej Pokusevski had 13 points and seven rebounds for the Thunder in just over 19 minutes of action. He made 5 of 10 field goals.\n\nUP NEXT:\n\nSuns: Host New Orleans on Friday night.\n\nThunder: At Indiana on Friday night.\n\n------\n\nFollow Cliff Brunt on Twitter: https://twitter.com/CliffBruntAP\n\n------",
+  "tags_rule": [
+    "LateCollapse",
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.731641",
+  "pipeline_version": "v1"
+}

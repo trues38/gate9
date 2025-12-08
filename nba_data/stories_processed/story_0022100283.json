@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100283",
+  "espn_id": "401360107",
+  "date": "Nov 26, 2021",
+  "matchup": "CHI @ ORL",
+  "headline": "DeMar DeRozan scores 23 points, Bulls rout Magic 123-88",
+  "cleaned_body": "ORLANDO, Fla. -- — DeMar DeRozan scored 23 points, Zach LaVine added 21 and the Chicago Bulls beat the Orlando Magic 123-88 on a Friday night that belonged to Nikola Vucevic.\n\nPlaying in Orlando for the first time after nine seasons with the Magic, the Chicago center added 16 points and eight rebounds to a game that turned into a rout.\n\n“It's a special place for me and it's always special to come back,” said Vucevic, who was playing in only his second game after missing seven games due to COVID.\n\n“I'm still not 100%, which is expected. As much as I enjoyed laying on my couch for 10 days, it's not easy to come back to it,\" added Vucevic, who played 29 minutes and got a scoreboard video tribute during a timeout. “That was the toughest time for me to manage my emotions because it brought back all those memories.”\n\n“Vooch is the kind of guy who keeps it kind of chill,” said Coby White, who came off the Chicago bench with 20 points. “But it was good to see him come back here and get a win, and I think he got excited for sure.”\n\nWendell Carter Jr., who went the other way in the March 25 trade that sent Vucevic to Chicago, had 26 points and 10 rebounds for the Magic. Orlando has lost five straight.\n\nThe Magic never recovered from a run of 18 straight Chicago points midway through the first half. Orlando shot 37.5 % overall and made only 7 of 32 3-point shots. Most of their first 15 turnovers contributed to Chicago rallies.\n\n“That's what is killing us and that's what (opponents) know,” Magic coach Jamahl Mosley said. “We've got to stop beaing ourselves.”\n\nDeRozan, the NBA's No. 7 scorer at 25.8 points per game, did not convert a field goal until 1:45 remained in the first half.\n\nThe Bulls took command by scoring the first 16 points of the second quarter to lead 43-27. During that stretch of nearly four minutes, White scored seven points while the Magic had four turnovers and missed all five of their shots.\n\n“I just got into a rhythm early,” said White, who made 9 of 11 shots.\n\n“He got off to a great start offensively,” Bulls coach Billy Donovan said. “The ball found him on the perimeter and tonight the ball went in the basket.”\n\nCarter and rookie Jalen Suggs helped the Magic get the lead down to nine points by halftime, but DeRozan answered with three 3-pointers in the third quarter, topping one of them off as a four-point play.\n\nCole Anthony, Orlando's leading scorer, missed a fourth straight game with a sprained right ankle.\n\nTIP-INS\n\nBulls: Donovan, who briefly was Magic coach before returning to the Florida Gators and never actually coaching a game for Orlando, has now faced four different Magic coaches: Scott Skiles, Frank Vogel, Steve Clifford and Jamahl Mosley. ... Many teams get scheduled to play Orlando and Miami on the same trip to Florida. The Bulls haven’t had such a trip since March 2018 and don’t have one this season, either.\n\nMagic: Starting Saturday, Orlando plays seven of its next eight and 10 of its next 13 games on the road. ... Continuing a Thanksgiving tradition now in its 29th year, team employees -- including Mosley, who sponsored the meal -- served breakfast Thursday to more than 400 men, women and children at a homeless shelter.\n\nUP NEXT\n\nBulls: Host Miami on Saturday.\n\nMagic: At Cleveland on Saturday.",
+  "tags_rule": [
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.227759",
+  "pipeline_version": "v1"
+}

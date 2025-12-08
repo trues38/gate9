@@ -1,0 +1,25 @@
+{
+  "game_id": "0021700273",
+  "espn_id": "400975024",
+  "date": "Nov 24, 2017",
+  "matchup": "OKC vs. DET",
+  "headline": "Pistons overcome 15-point deficit to beat Thunder 99-98",
+  "cleaned_body": "OKLAHOMA CITY --  Another second-half collapse, another round of questions about Oklahoma City's finishing power.\n\nAfter dominating defending NBA champion Golden State from start to finish two days earlier, the Thunder wasted a big lead in a 99-98 loss to the Detroit Pistons on Friday night.\n\nOklahoma City had a 10-point lead at the half and was up 15 midway through the third quarter before the Pistons stormed back, led by center Andre Drummond and bench players Ish Smith and Langston Galloway.\n\n\"In the first half, (Drummond) was not good. That's one of the reasons we were getting crushed,\" Pistons coach Stan Van Gundy said about. \"In the second half, he was much better and we made some big shots.\"\n\nDetroit grabbed the lead for good midway through the fourth quarter and the Thunder missed 14 of their last 20 shots, including a final 27-footer by Russell Westbrook in the final three seconds that left Oklahoma City a point short.\n\n\"We're going to live and die with Russ taking that shot,\" Oklahoma City's Paul George said. \"He had a good look but it just didn't go in.\"\n\nWestbrook had his sixth triple-double of the season for Oklahoma City with 27 points, 11 assists and 11 rebounds. He missed a long 3-point attempt on the final possession to finish 1 of 10 from 3-point range and 10 of 29 from the field.\n\nOklahoma City had numerous chances, missing three shots on one possession in the final minute.\n\nIt was the eighth double-digit lead given up by the Thunder this season on their way to a loss.\n\nSmith finished with 15 points.\n\n\"Going into these buildings is going to be tough on us, but as long as we stay together and keep picking each other up, then we got a good chance,\" Pistons point guard Reggie Jackson said. \"It is always great to get a win on the road.\"\n\nCarmelo Anthony had 20 points for Oklahoma City, and Paul George had 16.\n\nIMPRESSIVE RESUME\n\nSince the start of 2009-10 season, the Thunder have the fourth best overall winning percentage among the Big Four professional sports, trailing only the New England Patriots (NFL), San Antonio Spurs (NBA) and Green Bay Packers (NFL).\n\nWELCOME BACK?\n\nFormer Thunder guard Jackson made his first appearance in OKC after missing both meetings last season due to injury. Jackson was booed lustily in pregame introductions and in the first half of the game.  His last appearance at Chesapeake Arena included a verbal altercation with a fan at courtside.\n\nUP NEXT\n\nPistons: At Boston on Monday night.\n\nThunder: At Dallas on Saturday night.\n\n---\n\nFor more NBA coverage: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "LateCollapse",
+    "TripleDouble",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:55.188499",
+  "pipeline_version": "v1"
+}

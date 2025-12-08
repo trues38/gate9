@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700087",
+  "espn_id": "400974838",
+  "date": "Oct 29, 2017",
+  "matchup": "BKN vs. DEN",
+  "headline": "Murray, Jokic lead Nuggets to 124-111 win over Nets",
+  "cleaned_body": "NEW YORK -- After getting a pep talk from his coach, Jamal Murray came through with a big game for the Denver Nuggets.\nMurray scored 26 points, Nikola Jokic had 21 points and 14 rebounds, and the Nuggets beat the Brooklyn Nets 124-111 on Sunday.\n\"Before the game this morning (Murray) said, `Coach right now I'm a broken arrow,\" Nuggets coach Mike Malone said. \"I said, `No, you're not. You're going to be fine. Just stay with it. I believe in you and you have to believe in yourself.' Tonight, he came out and imposed his will on the game and was fantastic for us.\"\nWilson Chandler added 18 points for the Nuggets, who have won two straight games.\nSpencer Dinwiddie tied a career-high with 22 points, Rondae Hollis-Jefferson had 18 points and Joe Harris tied his season-high with 16 points for the Nets.\nThe Nuggets went on a 22-4 run to begin the third quarter as Brooklyn missed 10 of its first 11 shots. Chandler carried Denver in the third with 14 points as the Nuggets took a 100-84 lead into the fourth quarter and never looked back.\n\"I thought that third quarter was phenomenal,\" Malone said. \"That was by far our best quarter of basketball on both ends of the floor. We outscored them 40-21 and to hold them to only 40 percent for the game was terrific.\"\nWhile the third quarter was Denver's best quarter of the season, it was arguably Brooklyn's worst of the season.\n\"It's just the defensive end, really,\" Harris said. \"You can't give up 40 points in one quarter. Obviously they got comfortable, came off with a little more energy than we did and that was the game right there.\"\nHollis-Jefferson led Brooklyn with 16 points at the half as the Nets took a 63-60 lead into the locker room. Brooklyn's 63 points matched a season-high for points in the first half previously done in the season opener against Indiana. Emmanuel Mudiay led Denver with 15 points at the half.\nBrooklyn's 36 first quarter points marked its most in an opening period this season.\nTIP-INS\nNuggets: Malone believes his young backcourt will be the key to success this season. \"The biggest challenge for us is going to be when you have a 21-year-old backup point guard and a 20-year old starting point guard, there are going to be inconsistencies. Can we try to help them and speed up their maturation as players? Because we have big plans, we want to be a playoff team and when you have two young guards who are going through growing pains at times, it doesn't make it always easy.\" . Juancho Hernangomez (mononucleosis) was out.\nNets: Coach Kenny Atkinson said DeMarre Carroll (right ankle soreness) and Quincy Acy (left groin strain) are day-to-day. Jeremy Lin (right knee) was also out. ... Timofey Mozgov has now made two 3-pointers in seven games, which is more than he totaled the previous two. ... Jacob Wiley made his NBA debut.\nUP NEXT\nNuggets: Visit New York on Monday. Denver then begins a six-game home stand.\nNets: Host Phoenix on Tuesday. Brooklyn then hits the road for five consecutive games.",
+  "tags_rule": [
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.132651",
+  "pipeline_version": "v1"
+}

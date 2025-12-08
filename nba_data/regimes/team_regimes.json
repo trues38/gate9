@@ -1,0 +1,283 @@
+[
+  {
+    "team_id": 16,
+    "team_name": "Minnesota Timberwolves",
+    "regime_label": "Juggernaut",
+    "momentum": 1.8,
+    "volatility": 0.15,
+    "key_narratives": [
+      "Unstoppable"
+    ],
+    "roster_size": 3
+  },
+  {
+    "team_id": 30,
+    "team_name": "Charlotte Hornets",
+    "regime_label": "Slumping",
+    "momentum": 0.48,
+    "volatility": 0.21,
+    "key_narratives": [],
+    "roster_size": 10
+  },
+  {
+    "team_id": 29,
+    "team_name": "Memphis Grizzlies",
+    "regime_label": "Balanced",
+    "momentum": 0.97,
+    "volatility": 0.07,
+    "key_narratives": [],
+    "roster_size": 7
+  },
+  {
+    "team_id": 17,
+    "team_name": "Brooklyn Nets",
+    "regime_label": "Slumping",
+    "momentum": 0.62,
+    "volatility": 0.24,
+    "key_narratives": [],
+    "roster_size": 5
+  },
+  {
+    "team_id": 19,
+    "team_name": "Orlando Magic",
+    "regime_label": "Balanced",
+    "momentum": 1.07,
+    "volatility": 0.08,
+    "key_narratives": [],
+    "roster_size": 5
+  },
+  {
+    "team_id": 5,
+    "team_name": "Cleveland Cavaliers",
+    "regime_label": "Balanced",
+    "momentum": 1.02,
+    "volatility": 0.06,
+    "key_narratives": [],
+    "roster_size": 11
+  },
+  {
+    "team_id": 24,
+    "team_name": "San Antonio Spurs",
+    "regime_label": "Juggernaut",
+    "momentum": 1.26,
+    "volatility": 0.18,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 9,
+    "team_name": "Golden State Warriors",
+    "regime_label": "Balanced",
+    "momentum": 1.1,
+    "volatility": 0.0,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 14,
+    "team_name": "Miami Heat",
+    "regime_label": "Freefall",
+    "momentum": 0.87,
+    "volatility": 0.08,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 12,
+    "team_name": "LA Clippers",
+    "regime_label": "Slumping",
+    "momentum": 0.3,
+    "volatility": 0.25,
+    "key_narratives": [],
+    "roster_size": 7
+  },
+  {
+    "team_id": 7,
+    "team_name": "Denver Nuggets",
+    "regime_label": "Juggernaut",
+    "momentum": 1.78,
+    "volatility": 0.24,
+    "key_narratives": [
+      "Euphoric"
+    ],
+    "roster_size": 10
+  },
+  {
+    "team_id": 18,
+    "team_name": "New York Knicks",
+    "regime_label": "Juggernaut",
+    "momentum": 1.69,
+    "volatility": 0.2,
+    "key_narratives": [],
+    "roster_size": 10
+  },
+  {
+    "team_id": 15,
+    "team_name": "Milwaukee Bucks",
+    "regime_label": "Balanced",
+    "momentum": 0.6,
+    "volatility": 0.1,
+    "key_narratives": [],
+    "roster_size": 7
+  },
+  {
+    "team_id": 10,
+    "team_name": "Houston Rockets",
+    "regime_label": "Juggernaut",
+    "momentum": 1.33,
+    "volatility": 0.21,
+    "key_narratives": [
+      "Euphoric"
+    ],
+    "roster_size": 9
+  },
+  {
+    "team_id": 20,
+    "team_name": "Philadelphia 76ers",
+    "regime_label": "Surging",
+    "momentum": 1.48,
+    "volatility": 0.09,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 22,
+    "team_name": "Portland Trail Blazers",
+    "regime_label": "Balanced",
+    "momentum": 0.68,
+    "volatility": 0.11,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 26,
+    "team_name": "Utah Jazz",
+    "regime_label": "Balanced",
+    "momentum": 0.63,
+    "volatility": 0.14,
+    "key_narratives": [],
+    "roster_size": 4
+  },
+  {
+    "team_id": 21,
+    "team_name": "Phoenix Suns",
+    "regime_label": "Balanced",
+    "momentum": 1.03,
+    "volatility": 0.07,
+    "key_narratives": [],
+    "roster_size": 6
+  },
+  {
+    "team_id": 6,
+    "team_name": "Dallas Mavericks",
+    "regime_label": "Balanced",
+    "momentum": 0.82,
+    "volatility": 0.14,
+    "key_narratives": [],
+    "roster_size": 7
+  },
+  {
+    "team_id": 25,
+    "team_name": "Oklahoma City Thunder",
+    "regime_label": "Juggernaut",
+    "momentum": 3.31,
+    "volatility": 0.46,
+    "key_narratives": [
+      "Unstoppable",
+      "Euphoric"
+    ],
+    "roster_size": 8
+  },
+  {
+    "team_id": 4,
+    "team_name": "Chicago Bulls",
+    "regime_label": "Freefall",
+    "momentum": 0.22,
+    "volatility": 0.09,
+    "key_narratives": [
+      "Frustrated"
+    ],
+    "roster_size": 9
+  },
+  {
+    "team_id": 3,
+    "team_name": "New Orleans Pelicans",
+    "regime_label": "Slumping",
+    "momentum": -0.35,
+    "volatility": 0.38,
+    "key_narratives": [
+      "Frustrated",
+      "Crisis"
+    ],
+    "roster_size": 7
+  },
+  {
+    "team_id": 13,
+    "team_name": "Los Angeles Lakers",
+    "regime_label": "Juggernaut",
+    "momentum": 1.35,
+    "volatility": 0.23,
+    "key_narratives": [
+      "Euphoric"
+    ],
+    "roster_size": 6
+  },
+  {
+    "team_id": 1,
+    "team_name": "Atlanta Hawks",
+    "regime_label": "Balanced",
+    "momentum": 1.22,
+    "volatility": 0.06,
+    "key_narratives": [],
+    "roster_size": 6
+  },
+  {
+    "team_id": 28,
+    "team_name": "Toronto Raptors",
+    "regime_label": "Freefall",
+    "momentum": 0.9,
+    "volatility": 0.1,
+    "key_narratives": [],
+    "roster_size": 2
+  },
+  {
+    "team_id": 23,
+    "team_name": "Sacramento Kings",
+    "regime_label": "Slumping",
+    "momentum": 0.62,
+    "volatility": 0.24,
+    "key_narratives": [],
+    "roster_size": 3
+  },
+  {
+    "team_id": 2,
+    "team_name": "Boston Celtics",
+    "regime_label": "Surging",
+    "momentum": 1.75,
+    "volatility": 0.12,
+    "key_narratives": [
+      "Unstoppable"
+    ],
+    "roster_size": 4
+  },
+  {
+    "team_id": 11,
+    "team_name": "Indiana Pacers",
+    "regime_label": "Slumping",
+    "momentum": 0.53,
+    "volatility": 0.28,
+    "key_narratives": [],
+    "roster_size": 8
+  },
+  {
+    "team_id": 8,
+    "team_name": "Detroit Pistons",
+    "regime_label": "Juggernaut",
+    "momentum": 1.78,
+    "volatility": 0.29,
+    "key_narratives": [
+      "Euphoric"
+    ],
+    "roster_size": 7
+  }
+]

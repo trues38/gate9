@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700783",
+  "espn_id": "400975529",
+  "date": "Feb 03, 2018",
+  "matchup": "SAC vs. DAL",
+  "headline": "Mavericks use big run in fourth quarter to rally past Kings",
+  "cleaned_body": "SACRAMENTO, Calif. --  On a night when Dirk Nowitzki inched closer to another NBA milestone, his Dallas teammates also took a collective step forward in what has been a mostly disappointing season.\n\nBaby steps, for certain, but a definite move in the right direction for a team that went into the game with the worst record in the West.\n\nYogi Ferrell made consecutive 3-pointers to spark a big run at the start of the fourth quarter and the Mavericks beat the Sacramento Kings 106-99 on Saturday night to snap a five-game losing streak.\n\nNowitzki had 15 points and seven rebounds, Harrison Barnes scored 18 points and Dwight Powell added 17 points and nine rebounds to help Dallas win in Sacramento for the first time in nearly three years.\n\n\"We did a great job keeping our composure, battling,\" Barnes said. \"A lot of times we have lost our poise but tonight we did a great job of really bearing down, keeping our composure, not getting rattled and playing through calls.\"\n\nNowitzki played 26 minutes and needs six more to become sixth player in NBA history to reach 50,000 for his career, joining a list that includes Kareem Abdul-Jabbar, Karl Malone, Kevin Garnett, Jason Kidd and Elvin Hayes.\n\n\"We've been pretty good if we hold opponents under 100 points and they were well on their way to score way over,\" Nowitzki said. \"It was a little too easy there at times. They had it going and finally in the fourth we picked it up a little bit.\"\n\nThe Mavericks trailed by as much as 10 in the second half and were down 85-81 heading into the fourth before opening the final period on a 16-0 run. Devin Harris followed Ferrell's back-to-back 3s with a pair of layups, including one off a midcourt steal. After Nowitzki connected from deep, Harris made a 3-pointer to put Dallas up 97-85.\n\nSacramento closed to 100-94 on a free throw by De'Aaron Fox with 2:45 remaining but Barnes made a driving one-handed dunk and a more traditional two-handed jam to help the Mavericks hold on.\n\n\"We were two steps slow most of the night,\" Kings coach Dave Joerger said. \"Too many turnovers. We could create our own shots, but not at the rim. We just didn't knock some of them down. It's not enjoyable but we're trying.\"\n\nDallas won for the second time in 10 games.\n\n\"This game was similar to the last game we played these guys, I think they were down going into the fourth,\" Mavericks coach Rick Carlisle said. \"Tonight we were down and we were able to turn it around. That run really gave us a cushion and an opportunity to finish the game.\"\n\nFox and Temple had 15 points apiece for Sacramento. The Kings had not lost at home to the Mavericks since Feb. 5, 2015.\n\nBarnes and Nowitzki combined for the Mavericks' first 17 points of the game while making five 3-pointers, all of them uncontested.\n\nDallas got a lift from Powell early in the second and Barnes added a fourth 3, but Buddy Hield hit a 13-foot runner to beat the shot clock buzzer with 6.9 seconds left and pull the Kings within 56-54 at halftime.\n\nTIP-INS\n\nMavericks: Barnes' first 12 points came on 3-pointers. . Dallas is 13-10 when holding opponents under 100 points. . Powell had three dunks in the third quarter, including on back-to-back possessions.\n\nKings: Sacramento missed its first 10 shots in the fourth quarter. ... Kosta Koufos started the third quarter in place of Randolph. Koufos finished with eight points and seven rebounds. ... Jason Williams, who was a wildly popular player in Sacramento from 1998-2001, sat courtside next to owner Vivek Ranadive.\n\nBAREA'S BACK\n\nJJ Barea scored five points on 2-of-12 shooting but had 11 assists in 24 minutes in his return after missing the previous three games with a left oblique strain. \"He's got to be one of the smartest pick-and-roll players this league has,\" Nowitzki said. \"If you go under he usually shoots. If you go over, he kind of puts his defender in jail and plays cat-and-mouse with the big.\"\n\nUP NEXT\n\nMavericks: Play at the Los Angeles Clippers on Monday.\n\nKings: Host the Chicago Bulls on Monday night.",
+  "tags_rule": [
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.287040",
+  "pipeline_version": "v1"
+}

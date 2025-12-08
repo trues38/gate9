@@ -1,0 +1,24 @@
+{
+  "game_id": "0021301080",
+  "espn_id": "400489953",
+  "date": "Mar 28, 2014",
+  "matchup": "CHI vs. POR",
+  "headline": "Trail Blazers cruise in Chicago with 5 in double figures",
+  "cleaned_body": "CHICAGO -- The Portland Trail Blazers had dropped three straight games and appeared in danger of losing considerable playoff ground in the tough Western Conference before LaMarcus Aldridge returned to the lineup on Thursday.\nTwo games later, the Blazers seemed to have turned things following a pair of comfortable wins, the latest a 91-74 victory over the Chicago Bulls on Friday night.\nIs the turnaround as easily explained as the return of an All-Star performer? Well, yeah, the Blazers say.\n\"Other than us getting our best player back, which changes everything, I think our urgency is going up,\" Damian Lillard said. \"After the loss at Orlando (on Tuesday), we realized, 'All right, it's time to turn it around now. We can't wait and we can't have all of these lackadaisical efforts.'\n\"Everybody's got on the same page and, during these last two games, we've really defended and done everything together.\"\nMo Williams scored 18 points to lead five Blazers in double figures. Lillard had 16 points, Nicolas Batum and Robin Lopez each had 13, Wesley Matthews had 11 and Thomas Robinson added 10.\nThe Blazers got past the Bulls easily, despite a quiet night from Aldridge, who was playing just his second game after missing two weeks with a back injury. He had five points and 13 rebounds in 29 minutes after having 25 points and 16 rebounds in Atlanta.\n\"His presence on the court puts pressure on everyone,\" Portland coach Terry Stotts said. \"He does a lot more to help us win than just his field-goal percentage.\"\nNo one in the Bulls' locker room would disagree.\n\"He is a load down there; a great player,\" Joakim Noah said. \"You can tell when he is on the court, whether he scores or not. He changes their team. He is one of the best in the game.\"\nCarlos Boozer had 16 points and 12 rebounds in 24 minutes to lead Chicago. D.J. Augustin had 15, Taj Gibson 13 and Noah added 11 points and 10 rebounds.\nThe Bulls lost both games of the season series and have dropped 11 of 13 overall against Portland, including five of seven at the United Center.\nBefore Friday, the Bulls had been 10-3 in their last 13 home games, averaging 96.8 points on 44.5 percent shooting during that span. But it was apparent early that they wouldn't approach either of those marks in this one.\n\"We were flat,\" Bulls coach Tom Thibodeau said. \"They had something to do with that.\"\nGetting off to fast starts was one reason behind the Bulls' recent home success, but they were cold at the start, going 8-of-23 (34.8 percent) from the field in scoring 16 points in the first quarter. Minus Boozer's 10 points on 5-of-10 shooting, the rest of the team managed just six points on 3-of-13 shooting.\nThe Blazers had a 47-36 halftime lead and then took charge at the start of the third quarter, beginning the second half with a dunk by Lopez and a 3-pointer by Batum to make it 52-36. In all, Portland stretched the run to 15-2 for a 62-38 lead.\nThe Bulls ended the third quarter on a mini-spurt -- including a three-point play on a dunk and foul by Gibson -- to trim the deficit to 73-58 entering the fourth quarter.\nThe Bulls got the ball first in the final quarter and had a couple of inside looks on that initial possession, but came up empty. Lillard then essentially dashed any hopes of a huge rally with a 3-pointer at the other end to make it 76-58.\nThe Bulls failed to score 80 points for the 11th time this season and are 0-11 in those games.\n\"Our defense tonight was just an example of everybody being there for each other,\" Lopez said. \"When you know there is someone behind you, it gives you the confidence to be aggressive.\"\nGame notes\nBulls G Derrick Rose, out for the season with a torn right meniscus, suffered the injury in the first game against the Blazers on Nov. 22 and had surgery three days later. ... Thibodeau was asked if he was taking part in the Bulls' NCAA pool. \"I didn't get a chance to participate,\" the coach said. \"I was looking at that Quicken Loans one. I think I would have won that.\" That was the contest in which Warren Buffett offered $1 billion to anyone who could fill out a perfect bracket. No one made it through the third day without at least one game wrong. ... Portland entered with a 20-18 road record but was 2-7 in last nine.",
+  "tags_rule": [
+    "EarlyRun",
+    "InjuryReport",
+    "CoachComment",
+    "MomentumShift"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.300638",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100127",
+  "espn_id": "401359951",
+  "date": "Nov 05, 2021",
+  "matchup": "TOR vs. CLE",
+  "headline": "Garland hits go-ahead free throws, Cavs beat Raptors 102-101",
+  "cleaned_body": "TORONTO -- — Darius Garland made a pair of free throws with 4.8 seconds remaining, and the Cleveland Cavaliers rallied to beat the Raptors 102-101 on Friday night, ending Toronto’s winning streak at five games.\n\nGarland scored 17 of his 21 points in the second half, Jarrett Allen had 16 points and 15 rebounds, and Evan Mobley scored 18 for the Cavs, who had lost their previous six games at Toronto.\n\n“They are a really good, physical, active, defensive team that tries to get you on your heels,” Cavs coach J.B. Bickerstaff said of the Raptors. “In the second half, Darius put them on their heels.”\n\nAllen credited Garland, a third-year guard, for keeping the Cavs composed in the final minutes.\n\n“Towards the end we could see we were getting flustered,” Allen said. “They were hitting some tough shots, our defense wasn’t where it needed to be. He got us all grouped together and told us that we needed to be on our game, and we got it done.”\n\nCleveland won its third straight and improved to 4-3 on the road.\n\n“We’re getting more and more confident every game,” Mobley said. “The chemistry is building every game.”\n\nBickerstaff was impressed with the maturity his team showed in overcoming a tough opponent on the road.\n\n“There’s something special growing in that locker room,” Bickerstaff said.\n\nOG Anunoby scored 23 points but missed a jump shot in the final seconds that would have won it for the Raptors. Rookie Scottie Barnes, who returned after missing two games because of a sprained right thumb, couldn’t convert a tip-in on Anunoby’s late miss.\n\n“We got the ball to OG, got a decent shot,” Barnes said. “I just missed the tip.”\n\nCedi Osman scored 17 points for the Cavaliers and Ricky Rubio had 11.\n\nFred VanVleet scored 18 points, Gary Trent Jr. had 17 and Barnes scored 14 for the Raptors, who led by 15 points early in the third quarter.\n\n“That one felt strange to lose,” Raptors coach Nick Nurse said. “I think we played pretty hard and I think we played pretty well.”\n\nToronto led 80-74 to begin the fourth. With 4:42 remaining, Allen banked home a 3-pointer to tie it at 94-all.\n\n“The basketball gods, when you’re playing the game the way our guys were playing, sometimes they favor you,” Bickerstaff said. “That shot showed favor.”\n\nThe Raptors pushed back ahead, and Anunoby’s 3 made it 101-96 with 1:43 left. Allen scored back-to-back baskets to make it a one-point game, and the Cavs got possession with 24.8 seconds left after Barnes couldn’t grab the rebound on VanVleet’s missed 3.\n\nAnunoby fouled a driving Garland, and the Cavs guard made both to give his team its first and only lead of the game.\n\nToronto called timeout, but Anunoby and Barnes couldn’t deliver the winning basket.\n\nUp 29-28 after one, the Raptors widened their lead with an 11-2 run to start the second quarter and took a 57-48 advantage into halftime.\n\nTIP-INS\n\nCavaliers: Committed 19 turnovers, leading to 23 Toronto points. ... Osman shot 3 for 5 from 3-point range in the first half but the rest of the Cavs were 1 for 9. ... Garland had eight assists.\n\nRaptors: F Pascal Siakam is ahead of schedule in his return from left shoulder surgery and could return to the lineup next week, Nurse said. Siakam recently returned from a check-up with the Los Angeles-based doctor who performed his surgery.\n\nFOUL PLAY\n\nToronto didn’t shoot a free throw in the first quarter, while the Cavs went 8 for 9 at the line in the period.\n\nGETTING TO 20\n\nAnunoby has scored 20 or more points in six of his past eight games.\n\nUP NEXT\n\nCavaliers: Visit New York on Sunday night.\n\nRaptors: Host Brooklyn on Sunday.\n\n------",
+  "tags_rule": [
+    "ReturnFromInjury",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "ClutchShot"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.873223",
+  "pipeline_version": "v1"
+}

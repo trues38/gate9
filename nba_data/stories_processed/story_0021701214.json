@@ -1,0 +1,23 @@
+{
+  "game_id": "0021701214",
+  "espn_id": "400975960",
+  "date": "Apr 10, 2018",
+  "matchup": "ATL vs. PHI",
+  "headline": "JJ Redick leads way as 76ers set team mark with 15th straight win",
+  "cleaned_body": "ATLANTA -- JJ Redick scored 28 points and the surging Philadelphia 76ers set a franchise record with their 15th consecutive victory, holding off the Atlanta Hawks 121-113 Tuesday night to move a step closer to locking up the No. 3 seed in the Eastern Conference.\nThe 76ers overcame a tough night for rookie star Ben Simmons, who missed the morning shootaround after coming down with the stomach flu. He still managed to put up 13 points, 10 rebounds and six assists before fouling out with 7 seconds remaining.\nSimmons picked up a technical in the third quarter for arguing all the way down the court about a call that didn't go his way.\nHis teammates helped pick up the slack. Redick hit 6 of 9 from beyond the 3-point arc, while former Atlanta players Ersan Ilyasova and Marco Belinelli burned their old team. Ilyasova scored 26 points, Belinelli added 20 and the duo combined for nine 3-pointers.\nPhiladelphia went 17 of 37 beyond the arc.\nJust two years removed from a 10-72 debacle, the 76ers can lock up the East's third seed with a home victory over Milwaukee in the regular-season finale Wednesday night. The rebuilding Hawks were long ago eliminated from playoff contention, closing out their worst season since 2005 with a record of 24-58.\nThey can only hope to duplicate the remarkable turnaround in Philly.\nTaurean Prince led the Hawks with 27 points.\nTIP-INS\n76ers: G T.J. McConnell went down hard midway through third quarter after running into Dewayne Dedmon's pick near the top of the key while trying to keep up with Prince. It wasn't exactly a fair fight -- Dedmon outweighs McConnell by 55 pounds. McConnell was down for a couple of minutes before walking slowly to the bench. He was able to return, though he failed to score in 19 minutes. ... Philadelphia's last loss was March 13 at home to Indiana. In all, the 76ers have won 26 of their last 31 games. ... F Dario Saric went out in the opening minute after he sustained a cut lip and chipped tooth.\nHawks: Rookie G Antonius Cleveland fouled out of the game after playing just 13 minutes. ... Prince hurled up a franchise-record 18 3-pointers, making six. ... Atlanta was outrebounded 54-39.\nUP NEXT\n76ers: Returns to Philadelphia to close out the regular season with what could be a first-round playoff preview. Milwaukee holds a 2-1 edge in the season series, with each team holding serve on its home court.\nHawks: It's on to 2018 for Atlanta, whose 10-year playoff streak pretty much ended before the season began.",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "FoulTrouble",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:50.746233",
+  "pipeline_version": "v1"
+}

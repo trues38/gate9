@@ -1,0 +1,26 @@
+{
+  "game_id": "0021400709",
+  "espn_id": "400579001",
+  "date": "Jan 31, 2015",
+  "matchup": "DET vs. HOU",
+  "headline": "Pistons turn back Smith, Rockets in 114-101 victory",
+  "cleaned_body": "AUBURN HILLS, Mich. --  Kentavious Caldwell-Pope had enough responsibility trying to contain James Harden at the defensive end.\n\nThat made the Detroit guard's offensive contribution that much more impressive.\n\nCaldwell-Pope scored a season-high 28 points, including 12 in the fourth quarter, and the Pistons held off Harden and the Houston Rockets 114-101 on Saturday night. D.J. Augustin added 28 points and 12 assists for Detroit.\n\n\"I felt good,\" Caldwell-Pope said. \"I got myself going with my energy on the defensive end, ran the floor to get easy baskets and that opened up my outside shooting.\"\n\nHarden scored 21 of his 26 points in the second half, returning from a bruised left knee to help the Rockets nearly rally from a 21-point, third-quarter deficit.\n\nHouston's Josh Smith was booed throughout his return to the Palace, just more than a month after the Pistons waived the high-priced forward. He had seven points and seven rebounds, shooting only 3 of 11 from the field. Detroit snapped a four-game skid and ended Houston's four-game winning streak.\n\n\"We didn't defend the 3-point line and we didn't defend the paint. They just played a lot harder than we did, and we just let them kick our tails,\" Rockets coach Kevin McHale said. \"We couldn't stop Augustin in any part of the floor. I tried a couple different lineups because I just wanted someone to get in front of him for a couple possessions.\"\n\nThe Pistons played well initially after cutting Smith, winning seven straight, and fans gave him an unfriendly welcome in his return, booing him when he went to the scorer's table to check in for the first time and also when he touched the ball.\n\nDetroit led 59-46 at halftime and 86-69 at the start of the fourth quarter.\n\nHarden led a 19-6 run to start the fourth, but Caldwell-Pope made enough big shots down the stretch to help the Pistons hold on. The second-year guard capped the victory with a shot from well behind the 3-point line with 3.1 seconds remaining and the shot clock expiring.\n\n---\n\nBOUNCING BACK\n\nThe Pistons were coming off an embarrassing 20-point loss at Philadelphia, and they were sharp throughout against Houston's normally tough defense. Greg Monroe had 19 points and 12 rebounds, and Andre Drummond had 11 and 16. Detroit won for the first time since losing point guard Brandon Jennings last weekend to a ruptured Achilles tendon.\n\nAugustin, the starting point guard with Jennings out, had one of his best games of the season.\n\n\"Yeah, I thought he was decent,\" coach Stan Van Gundy joked. \"No, he was tremendous. He really was. He was on the attack, right from the start of the game on, and that's big for us.\"\n\nDEFENSIVE PROBLEMS\n\nHouston was without star center Dwight Howard, who has been sidelined because of swelling in his right knee. Harden left toward the end of the second quarter with his knee injury but came back and played almost the entire second half.\n\nNo matter who was in, the Rockets couldn't slow down the Pistons.\n\n\"Terrible defense. They had 69 points in their last game against Philly and we let them have 60 at halftime,\" Harden said. \"That's terrible. We didn't play at all until the fourth quarter, and that was too late.\"\n\nThe Rockets lead the NBA in 3-pointers, but Detroit held its own from beyond the arc, going 10 of 25. Houston shot 11 of 32 on 3s.\n\nTIP-INS\n\nRockets: Donatas Motiejunas scored 21 points on 10-of-13 shooting. ... Harden had nine assists and seven rebounds.\n\nPistons: Augustin's 12 assists were his season high. ... Caldwell-Pope fell two points short of his career high in scoring. He made six 3-pointers.\n\nUP NEXT\n\nThe Rockets host Chicago on Wednesday night.\n\nThe Pistons host Miami on Tuesday night.",
+  "tags_rule": [
+    "MomentumShift",
+    "Streak",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.672430",
+  "pipeline_version": "v1"
+}

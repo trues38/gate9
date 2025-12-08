@@ -1,0 +1,23 @@
+{
+  "game_id": "0021301015",
+  "espn_id": "400489888",
+  "date": "Mar 19, 2014",
+  "matchup": "DET @ DEN",
+  "headline": "Brooks scores 27 in Nuggets' win over Pistons",
+  "cleaned_body": "DENVER -- Aaron Brooks got word just before game time that he would start in place of an ailing Ty Lawson, and then took advantage of his opportunity.\nBrooks had 27 points and a career-high 17 assists to lead the Denver Nuggets past the Detroit Pistons 118-109 on Wednesday night for their fourth win in five games.\n\"Aaron did a great job of picking those guys apart,\" teammate Darrell Arthur said. \"He did whatever he wanted to. He got to the rim. He got guys open for easy looks. He did a great job managing the floor today.\"\nBrooks said he found out Lawson, who was suffering from a sinus infection, wouldn't be able to play when Lawson walked off the court and told him after struggling in pregame warm-ups.\n\"I thought he was joking at first,\" Brooks said. \"I was like, `Quit playing around. Get back out there.' But that's what you have to do. We all stepped up.\"\nRandy Foye added 22 points, Kenneth Faried had 14 and J.J. Hickson had 11 points and 11 rebounds for the Nuggets. Wilson Chandler also sat out after receiving an injection to treat a hip injury.\nGreg Monroe scored 22 points to lead the Pistons, who lost their 11th in a row on the road. Rodney Stuckey added 18 and Kyle Singler and Charlie Villanueva each had 13.\n\"Aaron Brooks was able to get in the lane and Randy Foye just caught fire from 3,\" Monroe said. \"Anytime you have a backcourt that one's getting to the rim and the other is knocking down 3s, it's going to be tough on any night.\"\nTrailing by seven at the half, the Nuggets rallied to take an 85-84 lead into the fourth quarter.\nAfter Singler's 3-pointer put the Pistons in front 82-75, the Nuggets outscored Detroit 10-2 over the final 3:20 of the third quarter to regain the lead.\nBrooks started the spurt with a 3-pointer and a driving reverse layup and Foye closed it by hitting a 3 and finishing a fast-break with a layup after stealing an inbounds pass.\nDenver used another 10-2 surge to stretch its lead to 104-91 midway through the final period.\nDetroit pulled to 113-109 with 54.2 seconds remaining as Singler and Villanueva hit 3s around a layup by Hickson. But Hickson had another layup and Anthony Randolph converted a three-point play to give the Nuggets a nine-point cushion with 31.7 seconds remaining.\nStuckey scored 14 of his points in the first half, helping the Pistons take a 61-54 lead.\nDetroit led by as many as 11 points early on.\nGame notes\nPistons C Andre Drummond sat the game out after injuring his neck on Saturday against Indiana. ... Pistons G Chauncey Billups, a former Nugget and native of Denver who has been sidelined by a knee injury, returned a warm ovation from the crowd with a couple of waves of his hand. ... The Pistons lost Josh Smith to ejection midway through the third quarter after he picked up a pair of technical fouls in quick succession. ... Brooks' previous career high for assists was 13 against Phoenix on Nov. 17, 2009.",
+  "tags_rule": [
+    "InjuryReport",
+    "PhysicalGame",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.094178",
+  "pipeline_version": "v1"
+}

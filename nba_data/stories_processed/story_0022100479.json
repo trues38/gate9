@@ -1,0 +1,24 @@
+{
+  "game_id": "0022100479",
+  "espn_id": "401360303",
+  "date": "Dec 23, 2021",
+  "matchup": "DET @ MIA",
+  "headline": "Herro, Strus power Heat to 115-112 comeback win over Pistons",
+  "cleaned_body": "MIAMI -- — Tyler Herro scored 29 points, Max Strus added 26 and the Miami Heat rallied to beat the short-handed Detroit Pistons 115-112 on Thursday night.\n\nStrus’ fifth 3-pointer with 40 seconds remaining gave the Heat their final margin.\n\nCory Joseph’s game-tying 3-point attempt with two seconds left bounced off the rim and was rebounded by Miami reserve forward Udonis Haslem.\n\n“We knew it was going to be a tough game,” Herro said. “These guys always come out and play hard. We just stuck with it, stuck with the game plan the whole four quarters. Big win.”\n\nKyle Lowry scored 21 points and Gabe Vincent finished with 15 for the Heat.\n\nTrey Lyles scored a career-high 28 points for the Pistons. Saddiq Bey added 23 points, Joseph scored 21 and Frank Jackson 19.\n\nThe Pistons learned hours before the game that Isaiah Stewart, Killian Hayes, Saben Lee and Rodney McGruder entered the league’s health and safety protocols. Rookie Cade Cunningham, the team’s second-leading scorer, was placed in health and safety protocols on Wednesday.\n\nDetroit also was without coach Dwane Casey, who has missed three of the last five games because of personal reasons. Assistant Rex Kalamian is running the club during Casey’s absence.\n\n“We’re all very blessed to play this game and every day when you wake up, that’s how you have to look at it,” said Joseph, who converted 5 of 7 3-pointers. “So, despite having guys down, we just came out, we played free, we played fast, we played together.”\n\nThe Heat scored seven unanswered points and went ahead 112-110 on a 3-pointer by Herro with 1:12 remaining. Herro’s shot culminated a scramble for the ball as the shot clock was about to expire.\n\n“It looked like the possession was jammed up and also it looked like there were probably two or three people open for a second,” Heat coach Erik Spoelstra said. “I was contemplating on calling a time out. Thankfully, the head coach didn’t get in the way, and he made an incredible shot at which he has the ability to do.”\n\nBey’s jumper with 59 seconds tied it at 112-all before Strus’ winner.\n\nThe Pistons hit a season-high 18 3-pointers. They have lost 16 of 17 and their only win during the slide was a home victory against Miami on Sunday.\n\n“We knew guys had to play big minutes,” Kalamian said. “They just gave everything that they had and just came up a little bit short. Our belief as a team, as an organization, never wavered as to whether we could win this game tonight.”\n\nMiami center Dewayne Dedmon sprained his left knee on a missed short jumper 5:19 into the first quarter and didn’t return. Dedmon’s absence resulted in the eighth appearance of the season by Haslem. The 41-year-old Haslem scored seven points and had five rebounds in 12 minutes.\n\nTIP-INS\n\nPistons: Leading scorer Jerami Grant (right thumb sprain) missed his sixth straight game. ... After sitting out three consecutive games because of coach’s decision, Joseph has logged 24, 23 and 42 minutes in his last three games.\n\nHeat: Since joining the starting rotation, Vincent has scored in double figures in five of seven games. ... F P.J. Tucker (left leg inflammation) sat out his second straight game. ... Miami shot 12 of 32 from 3-point range, ending a streak of seven games converting 13 or more from beyond the arc.\n\nHARDSHIP RULE SIGNINGS\n\nBoth clubs used the hardship rule and signed G League players to 10-day contracts as they deal with reduced rosters because of protocols. The Pistons signed forward Cheick Diallo, while the Heat added forward Zylan Cheatham. A four-year NBA veteran, Diallo averaged 14 points in 13 games with the Motor City Cruise this season. Cheatham joined the Heat from the Birmingham Squadron.\n\nUP NEXT\n\nPistons: Conclude a three-game trip Sunday at San Antonio.\n\nHeat: Host Orlando on Sunday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "ThreePointExplosion",
+    "CoachComment",
+    "CareerHigh"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.848239",
+  "pipeline_version": "v1"
+}

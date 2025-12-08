@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400296",
+  "espn_id": "400578588",
+  "date": "Dec 07, 2014",
+  "matchup": "MEM vs. MIA",
+  "headline": "Leuer's double-double leads Grizzlies past Heat",
+  "cleaned_body": "MEMPHIS, Tenn. -- The Memphis Grizzlies showed they are not solely dependent on their inside game for success.\nJon Leuer scored a season-high 20 points and matched his career best with 12 rebounds as Memphis beat the Miami Heat 103-87 on Sunday.\n\"He played out of his mind,\" said Memphis guard Courtney Lee, who had 17 points. \"That's the Jon Leuer we see every day in practice being athletic, getting up and down the floor and stretching the floor. Once he hit his first shot, his confidence was through the roof.\"\nLeuer was 7 of 12 from the floor, including 2 of 3 from outside the arc, as Memphis used accurate shooting from its guards and shot 62 percent from 3-point range. Mike Conley had 18 points for Memphis, connecting on all eight of his shots, while Lee was 7 of 9 in the game. Conley and Lee combined to go 5 for 5 from distance.\nMemphis made 59 percent of its shots overall while snapping a two-game losing streak.\n\"They didn't even hurt us in (their) normal game, that's what's disappointing,\" Heat coach Erik Spoelstra said. \".It wasn't really the power, paint, post-up game that you would expect.\"\nZach Randolph matched Lee's 17 points, while Tony Allen had 14 points, shooting 6 of 8.\nMemphis coach Dave Joerger said Leuer's performance as \"sensational,\" a bit of reversal from earlier in the year when the stretch forward struggled shooting. In the last six games, Leuer had not reached double figures in scoring and didn't even play in Friday's loss to San Antonio.\n\"It's just a matter of seeing the ball go in a couple of times,\" Leuer said of gaining confidence. \"Just focusing on doing all the little things. When you focus on playing the right way and making good decisions, playing hard, shots tend to fall.\"\nDwyane Wade scored 25 points in Miami's fourth straight loss. Josh McRoberts added 14 points, Luol Deng finished with 13, and Chris Bosh and Mario Chalmers added 12 apiece.\n\"They made us pay for bad possessions,\" Wade said. \"They hit some shots, and it was going against what we wanted them to do. .We came in with a game plan for the Grizzlies, and they beat us another way.\"\nConsecutive baskets by Wade to open the fourth quarter pulled the Heat within 82-79, but Memphis answered with eight straight points to take its lead back to double digits, eventually extending the margin to 17.\n\"In order to get better each year, you've got to improve on something,\" Lee said. \"Everybody knows that's our DNA, to get it down low to the big fellas and let them go to work. It opens up everything for everybody else.\"\nTIP-INS\nHeat: Deng recorded a steal in the first half, the 700th of his career. ... Bosh missed his only shot outside the arc, ending a string of 10 straight games with a 3-pointer. ... The Heat's last four opponents have averaged 55.9 percent shooting and 39 of 73 (53.4 percent) from 3-point range.\nGrizzlies: Memphis C Marc Gasol drew a technical for the third consecutive game. Sunday's, however, was for delay of game. ... Gasol, Memphis' leading scorer, managed only two points on 1 of 6 shooting. ... Leuer had 12 rebounds on Dec. 9, 2013, against Orlando.\nBIRDMAN STILL GROUNDED\nMiami's Chris Andersen remained out with a sprained right ankle. He was with the team and did some pregame workouts. Spoelstra said Andersen may be ahead of schedule for return, \"but he hasn't done any contact yet.\"\"\nLOOK WHO'S HERE\nPerformer Justin Timberlake, a minority owner of the Grizzlies, sat on the front row at midcourt during the first half, then visited players in the Memphis locker room after the game.\nSTILL STINGING\nConley said Leuer's motivation was Ohio State, Conley's alma mater, defeating Wisconsin 59-0 on Saturday. \"I had to take my frustration out,\" Leuer, the former Badger, said with a laugh. \"It was a bad day for Badger Nation, but we're a resilient group.\"\nUP NEXT:\nHeat: Visit Phoenix on Tuesday.\nGrizzlies: Host Mavericks on Tuesday.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.512800",
+  "pipeline_version": "v1"
+}

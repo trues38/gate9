@@ -1,0 +1,22 @@
+{
+  "game_id": "0022100390",
+  "espn_id": "401360214",
+  "date": "Dec 10, 2021",
+  "matchup": "PHX vs. BOS",
+  "headline": "McGee scores 21, Suns roll past Celtics 111-90",
+  "cleaned_body": "PHOENIX -- — JaVale McGee always brings the energy. On Friday night, he also brought the buckets.\n\nThe 7-footer had season highs of 21 points and 15 rebounds, Chris Paul added 12 assists and the Phoenix Suns rolled to a 111-90 win over the Boston Celtics.\n\nThe Suns won for the 20th time in 21 games despite missing starters Devin Booker (hamstring) and Deandre Ayton (non-COVID illness). Booker has missed four games in a row, while Ayton was a late scratch because he didn't feel well at the morning shootaround.\n\nMcGee picked up the slack, shooting 9 of 16 from the field and even knocking down a 3-pointer, just the 11th in his 14-year career. The big man was one of Phoenix’s most important pickups during free agency, and he’s quickly become a fan favorite because of his hustle.\n\n“Big time,” Suns forward Jae Crowder said. “We're down men right now and to get that out of him in a starting role was crucial for us tonight. He did a great job.”\n\nCoach Monty Williams said: “JaVale was the catalyst tonight.”\n\nThe veteran is on pace to average more than 10 points per game for just the fourth time.\n\n“There's a lot of things on this team that work for the center position if you're doing it the right way,” McGee said. “I pride myself on being extremely efficient with the minutes they give me.”\n\nSeven Suns scored in double figures. Cam Payne had 17 points while Jae Crowder and Cameron Johnson both added 16.\n\nThe Celtics have lost three straight, fell to 13-14 and lost four of five games during their West Coast road trip. This one was particularly rough. Boston's offense looked disjointed all night, and nobody could shoot.\n\nJayson Tatum led the Celtics with 24 points but went just 10 of 25 from the field. Marcus Smart was 1 of 13. The entire team was 4 of 26 (15%) from 3-point range.\n\n“It was kind of like a snowball effect,” Tatum said. “One turnover, one miss, it just built and built. Instead of moving on to the next play, we kind of let it carry over. We let our offense affect our defense and then they got rolling.”\n\nPhoenix took an 84-69 lead after the third quarter and pushed that advantage to 20 points by early in the fourth to cruise to the win.\n\nBoston was without Jaylen Brown (hamstring) and Josh Richardson (COVID-19 protocol) and, unlike the Suns' absences, the Celtics appeared lost. Celtics coach Ime Udoka said it's a problem, but certainly not the only one.\n\n“You still have to play with proper respect and effort,” Udoka said. “We didn’t do that the last two games.”\n\nJALEN'S CHANCE\n\nSuns second-year forward Jalen Smith got the rare chance for extended playing time since Ayton wasn't in the lineup. The 6-foot-10 backup finished with seven points and nine rebounds.\n\nThe No. 10 overall pick in the 2020 draft has had a disappointing start to his career and barely played during the team's run to the NBA Finals last season.\n\nHe’s still awkward at times but did have some good moments Friday. He made a 3-pointer and threw down a powerful dunk after a smooth pass from Paul, as well as adding a steal and two blocks.\n\nTIP-INS\n\nCeltics: C Bruno Fernando (back spasms) also didn't play. ... Smart missed his first 11 shots before knocking down the 12th attempt in the third quarter.\n\nSuns: Ayton missed his seventh game of the season. He joined Booker, F Abdel Nader (knee) and F/C Frank Kaminsky (knee) on the injured list. ... The feisty Suns picked up three technical fouls — one each for Bridges, Paul and Crowder. It was Bridges' first career technical in four seasons.\n\nUP NEXT\n\nCeltics: Begin a five-game homestand against the Bucks on Monday.\n\nSuns: Travel to face the Clippers on Monday.\n\n------",
+  "tags_rule": [
+    "PhysicalGame",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.113645",
+  "pipeline_version": "v1"
+}

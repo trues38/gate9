@@ -1,0 +1,24 @@
+{
+  "game_id": "0021401087",
+  "espn_id": "400579379",
+  "date": "Mar 28, 2015",
+  "matchup": "CHA vs. ATL",
+  "headline": "Hornets beat Hawks backups 115-100",
+  "cleaned_body": "CHARLOTTE, N.C. --  The Charlotte Hornets needed a little pick-me-up after a tough -- and potential costly -- double-overtime loss to the Washington Wizards on Friday night.\n\nThe Atlanta Hawks seemed happy to oblige.\n\nKemba Walker scored 21 points and the Hornets beat a Hawks team missing all five starters, 115-100 on Saturday night.\n\nThe Hawks gave DeMarre Carroll, Kyle Korver, Al Horford and Paul Millsap the night off to rest and Jeff Teague sat out with a sprained ankle, one night after Atlanta clinched the top seed in the Eastern Conference.\n\nGerald Henderson scored 20 points on 9-of-10 shooting, and Mo Williams hit four 3-pointers and had 18 points as the Hornets snapped a three-game losing streak.\n\nMarvin Williams chipped in with 17 points for Charlotte (31-41), which moved back within a game of eighth place in the tight Eastern Conference.\n\n\"We just had to put it behind us,\" Henderson said of the loss to the Wizards. \"Obviously that was a tough game to lose, going into double overtime. We just came out and found that energy and beat a good team.\"\n\nOr a good team's backups, that is.\n\nKent Bazemore scored a season-high 20 points to lead the Hawks. Mike Muscala had 18 points and 10 rebounds, and Dennis Schroder added 17 points and 11 assists as the Hawks lost for the third time in the last four meetings to their Interstate-85 foes.\n\n\"I did get some pull-up jumpers to go down and shot some 3s,\" said Bazemore, who was 3 of 7 on 3-pointers. \"For me, coming off the injuries and the long year I've had, it's pretty encouraging.\"\n\nThe Hawks lost despite shooting 15 of 30 from 3-point range.\n\nHawks coach Mike Budenholzer was pleased with the overall play of his second and third units.\n\n\"Defensively was where there was the most slippage, but they played the way we want to play and did a lot of things,\" Budenholzer said.\n\nThe Hornets built a 57-52 halftime lead behind 10 points off the bench from rookie P.J. Hairston, who was 4 of 4 from the field before the break, including a pair of 3-pointers.\n\nCharlotte pushed the lead to 14 behind nine points from Walker in the third quarter, including scores on three straight possessions, and kept Atlanta from making a meaningful run in the fourth to win for only the third time in the last 11 games.\n\nAl Jefferson, who played 40 minutes and scored 31 points and had 10 rebounds in the loss to Washington, seemed completely worn out. He scored two points on 1-of-5 shooting, played only 18 minutes.\n\nHe wasn't alone.\n\n\"Obviously we caught a break with them resting their guys,\" Hornets coach Steve Clifford said. \"But you can see that we're fatigued. I thought our guys did a good job wanting to win and playing through a lot of fatigue. We struggled to guard them. They hit a lot of 3s. But any win in this league is a good win, especially in the middle of this 17 (games) in 33 days deal.\"\n\nClifford said he's giving the Hornets the day off on Sunday to recover.\n\n---\n\nTIP-INS\n\nHawks: Korver will have to wait another night to pass Mookie Blaylock for third on the Hawks' list for 3-pointers made in a season. He has made 199.\n\nHornets: The Hornets led at the end of the first quarter for only the second time in the last 12 games.\n\nKIDD-GILCHRIST SIDELINED\n\nThe Hornets played without forward Michael Kidd-Gilchrist, who is expected to miss seven to 10 days with a sprained left ankle.\n\nBIG GAME LOOMING\n\nCharlotte's win sets up a big game Monday night at home against Boston. The Hornets lead the series with the Celtics 2-1 and could use the tiebreaker advantage.\n\n\"It's important if it ever came down with us and them,\" Clifford said. \"And it's also important with the conference record. Our conference record is pretty good. Our problem has been the West. It's a conference and obviously the head-to-head.\"\n\nUP NEXT\n\nHawks: Host Milwaukee on Monday night.\n\nHornets: Host Boston on Monday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.463938",
+  "pipeline_version": "v1"
+}

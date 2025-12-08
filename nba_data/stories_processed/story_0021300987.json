@@ -1,0 +1,23 @@
+{
+  "game_id": "0021300987",
+  "espn_id": "400489860",
+  "date": "Mar 16, 2014",
+  "matchup": "MIL vs. CHA",
+  "headline": "Bobcats beat Bucks 101-92, win 4th straight",
+  "cleaned_body": "MILWAUKEE --  Gary Neal liked returning to Milwaukee much better than he enjoyed playing there.\n\nKemba Walker scored 21 points and Al Jefferson added 16 of his 20 in the second half to help the Charlotte Bobcats beat the Bucks 101-92 on Sunday for their fourth straight victory.\n\nNeal added 18 in his return to Milwaukee after the Bucks traded him to Charlotte last month. Gerald Henderson scored 14 as the Bobcats matched their longest winning streak of the season, set Feb. 18-22.\n\nWith the victory, the Bobcats (33-34) are 1 1/2 games behind the Brooklyn Nets for the sixth seed in the Eastern Conference. The two face each other Wednesday in Brooklyn and then seven days later in Charlotte.\n\nAfter a quiet first half, Neal got it going in the second and scored 10 points in a strong fourth quarter.\n\n\"In the first half I got into a little bit of foul trouble, so my minutes were kind of cut short because of that,\" Neal said. \"I credit my teammates. They were able to find me and kind of make the game easier for me.\"\n\nNeal and Luke Ridnour faced their former teammates for the first time since being traded by the Bucks last month.\n\nMilwaukee sent Neal and Ridnour to Charlotte on Feb. 20 for Adrien and Ramon Sessions. Neal complained about his role with the Bucks and clashed with coach Larry Drew and center Larry Sanders, who is out indefinitely with a fractured orbital bone.\n\nNeal got into a heated exchange with Sanders in the Bucks' locker room after the 116-100 loss to the Suns in Phoenix on Jan. 4. Then Neal, in his fourth season in the NBA, fell out of the rotation when Drew played younger players.\n\n\"Since I've been in Charlotte, I have been playing well,\" Neal said. \"I have been efficient and effective. Hopefully, I will be able to keep that up.\"\n\nHe shot 5 of 6 and made all six free throw attempts.\n\n\"I am a Bobcat now,\" Neal said. \"So, I am focused and concentrating on my house right now. That is in Charlotte. We finished the game well. We executed the last three minutes and we were able to come away with the win. An important win for us.\"\n\nNeal scored seven the Bobcats' first 12 points to start the fourth quarter.\n\nAfter Josh McRoberts hit a 3-pointer, Neal added a jumper that gave Charlotte an 88-85 lead. Khris Middleton answered with a basket to pull Milwaukee within one, but Jefferson scored on a hook shot and layup to end any chance of the Bucks' win.\n\nBrandon Knight, who scored 21 points for the Bucks, wasn't surprised by what Neal or the Bobcats did.\n\n\"He did what he does,\" Knight said. \"He made shots. Not just him, but their entire team. They did a great job executing, not just Gary. Gary did his job today.\"\n\nAfter the Bucks looked as if they would bounce back from their 115-94 loss to the Knicks in New York on Saturday afternoon, they faded when it mattered the most.\n\n\"A little bit of lack of effort,\" Knight said of what hurt the team in the fourth after playing well enough to win in the first three quarters. \"I say we had a lot more effort today than yesterday, but the fourth quarter you got to have some heart. We lacked that today in the fourth quarter. They were just a better team.\"\n\nNeal continues to rebound from a one-game trip to the bench.\n\nAfter Neal scored 19 points in a 105-98 victory over the Denver Nuggets on Monday, Bobcats coach Steve Clifford benched him in Wednesday's 98-85 win at Washington for an \"internal team matter.\" Neal scored 19 in the 105-93 victory over the Minnesota Timberwolves on Friday.\n\nRamon Sessions scored 18 points, the most since joining the Bucks. Jeff Adrien and John Henson each had 12, but it wasn't enough to stop the Bobcats from their first sweep of a season series from the Bucks.\n\nThe sparse crowd booed when Neal entered the game in the first quarter and when he made two free throws in the second.\n\nGame notes Bucks F Ersan Ilyasova missed the game due to a sore right ankle.",
+  "tags_rule": [
+    "Streak",
+    "PhysicalGame",
+    "FoulTrouble"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.163235",
+  "pipeline_version": "v1"
+}

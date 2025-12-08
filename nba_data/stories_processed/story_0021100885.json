@@ -1,0 +1,25 @@
+{
+  "game_id": "0021100885",
+  "espn_id": "320413022",
+  "date": "Apr 13, 2012",
+  "matchup": "POR vs. DAL",
+  "headline": "Dirk Nowitzki, Dallas hold off Portland, win 2nd straight on road",
+  "cleaned_body": "PORTLAND, Ore. -- The Dallas Mavericks built a big lead and then withstood the Portland Trail Blazers' furious comeback attempt in the fourth quarter.\n\nDirk Nowitzki had 24 points and nine rebounds, Delonte West added 21 points, seven assists and six rebounds, and Mavericks nearly lost a 24-point lead in a 97-94 win over Portland on Friday night.\n\n\"We took care of business early and gave ourselves a little margin for error,\" Jason Terry said. \"In the end we finished the game.\"\n\nShawn Marion had 17 points and 14 rebounds for defending champion Dallas, which has a 1½-game lead over Denver and Houston for the sixth playoff spot in the Western Conference. Brandan Wright added 13 points and eight rebounds.\n\nNicolas Batum had 20 to lead the Blazers, Jamal Crawford scored 18, and Wesley Matthews had 15 points and seven rebounds.\n\n\"I think the Mavericks won the game,\" Portland interim coach Kaleb Canales said. \"I don't think we gave them the game.\"\n\nThe Mavericks jumped out to an early lead and held Portland at a comfortable distance for 3½ quarters. Dallas was up by 24 points in the third and 16 points with less than four minutes to go in the game.\n\nHowever, Portland was not dead. The Blazers suddenly put together a 12-0 run to pull to 93-89 and had the Rose Garden rocking with less than a minute left.\n\n\"This team doesn't quit,\" Nowitzki said of the Blazers. \"Their fans are unbelievable. They get into the game like no other crowd in the NBA. The Blazers feed off their crowd. They got going and got back into the game.\"\n\nBut Nowitzki, who had scored just five points in the second half, rose to the occasion, too. He drew a foul and then knocked in two free throws. Wright finished a fast break with a dunk to put the game away.\n\nMatthews made a meaningless 3-pointer at the buzzer.\n\nComing off a win at Golden State on Thursday night, the Mavericks have won the first two on their four-game road trip. With the playoffs approaching, Dallas' 39-year-old point guard, Jason Kidd, was inactive for the game to give him a rest.\n\nPortland's playoff hopes have all but evaporated after the team announced Thursday that All-Star forward LaMarcus Aldridge would need arthroscopic surgery on his hip and would be shut down for the rest of the season. Aldridge was eighth in the league in scoring at 21.7 points per game. J.J. Hickson started in place of Aldridge for the second straight game, and had 13 points and 10 rebounds, his third double-double in three games.\n\nDallas jumped out to a 9-0 lead and held a 30-16 advantage after the first quarter. West scored to make it 38-18 early in the second. Batum scored 10 points in short order, keying a 21-7 Portland run to cut the lead to 45-39, but the Mavericks closed out the half with their own 11-2 run.\n\nDallas opened up the third on another run and eventually led 79-55.\n\nGame notes  The Mavericks have held opponents to 100 points or fewer in all but 14 games this season.  Portland finishes its regular-season home schedule Wednesday. The Blazers are 20-12 at the Rose Garden this season.  It was the Mavericks' first visit to Portland since Game 6 of the first round of the playoffs last year, which Dallas won to clinch the series en route to the NBA championship.",
+  "tags_rule": [
+    "DoubleDouble",
+    "MomentumShift",
+    "PlayoffContext",
+    "CoachComment",
+    "EarlyRun"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "HighStakes",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.998767",
+  "pipeline_version": "v1"
+}

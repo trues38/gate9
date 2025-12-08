@@ -1,0 +1,25 @@
+{
+  "game_id": "0021400171",
+  "espn_id": "400578463",
+  "date": "Nov 20, 2014",
+  "matchup": "CHI @ SAC",
+  "headline": "DeMarcus Cousins, Kings halt Bulls' undefeated road streak",
+  "cleaned_body": "SACRAMENTO, Calif. -- After seven straight losing seasons, there's a new vibe in Sacramento. The Kings have opened the season with some impressive victories and added another one Thursday night.\nDeMarcus Cousins had 22 points and 14 rebounds and Rudy Gay scored 20 points to help the Kings beat Chicago 103-88, snapping the Bulls' six-game road winning streak.\nA sellout crowd roared its approval, especially during the final three quarters when the Kings dominated, outscoring the highly touted Bulls by 22 points. The Kings also own wins against San Antonio, Phoenix, the Clippers and Portland, which all were playoff teams last season.\nSacramento squandered big leads in its past three losses -- Dallas (24), Memphis (26) and New Orleans (12) -- but outscored the Bulls 23-20 in the fourth.\n\n\"We really didn't want to give this one away; we've done that in three times before,\" said Darren Collison, who had 17 points and 12 assists. \"In a way it was good; those losses taught us a lesson. It was a learning experience for us.\"\nAlthough Cousins was dominant in the second half with 16 points, he got plenty of help. Reserve Omri Casspi scored 14 points, Ben McLemore had 11 and seldom-used Derrick Williams added 10 for the Kings, who never trailed after taking the lead in the second quarter.\n\"We got a gap in the middle of the second quarter where we got hurt,\" Chicago coach Tom Thibodeau said. \"The game was won there, and we couldn't get a handle on it the rest of the way.\"\nJimmy Butler had 23 points, and Taj Gibson, Mike Dunleavy and Aaron Brooks had 12 each for Chicago. Joakim Noah had 10 points and 11 rebounds despite foul trouble. The Bulls played the second game of a seven-game road trip, their longest of the season.\nChicago was trying to win its first seven road games for the first time in franchise history. Instead the Bulls joined the rest of the league with at least one road loss. The last team to start 7-0 on the road was San Antonio, which won its first eight road games in 2010-11.\n\"This was a team that manhandled the Clippers on the road a few days ago,\" Kings coach Michael Malone said. \"We held them to 59 points in the final three quarters. That was a great defensive effort.\"\nThe Kings held an 88-77 lead when Cousins left the game with his fifth foul with 7:26 left to play. But the frustrated Bulls could never get closer than eight points.\nChicago played without starters Derrick Rose (strained left hamstring) and Pau Gasol (strained left calf) for the second straight game.\nNoah picked up his fifth foul at the 4:30 mark of the third quarter after fighting for a rebound against Cousins. An incensed Noah stormed to the bench after also being called for a technical.\nThe Kings promptly went on an 11-1 run to build a 13-point lead.\nTIP-INS\nBulls: Rose was running sprints at Thursday's shootaround but watched the game in street clothes with Gasol. Rose has missed seven of the Bulls' 12 games. ... Kirk Hinrich was called for a technical in the first quarter following an encounter with Cousins after making a basket.\nKings: Ex-Kings standouts Mike Bibby and Chris Webber were introduced to the crowd along with video clips as part of the team honoring its \"legends.\" Webber was the color commentator for the TNT-televised game, and Bibby sat courtside. ... The Kings outscored the Bulls 30-18 in the second quarter and held a 28-21 advantage in the third..\nQUOTABLE: \"I don't care if we're on TNT or the Home Shopping Network,\" Malone said after being asked whether the victory was more pleasing because it was a rare nationally televised game for Sacramento.\nTHREE-POINT DISPARITY: The Bulls made all five of their 3s in the opening quarter, then misfired on the next eight the remainder of the game. The Kings, who began the night with the NBA's worst 3-point percentage (.302), made four of six attempts.\nUP NEXT\nBulls: At Portland on Friday night.\nKings: At Minnesota on Saturday night.",
+  "tags_rule": [
+    "LateCollapse",
+    "Streak",
+    "FoulTrouble",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.478546",
+  "pipeline_version": "v1"
+}

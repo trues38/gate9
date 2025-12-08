@@ -1,0 +1,24 @@
+{
+  "game_id": "0021300744",
+  "espn_id": "400489617",
+  "date": "Feb 07, 2014",
+  "matchup": "DET vs. BKN",
+  "headline": "Andre Drummond, Brandon Jennings power Pistons past Nets",
+  "cleaned_body": "AUBURN HILLS, Mich. -- The Detroit Pistons are still one of the worst fourth-quarter teams in the NBA.\nFriday, they found a solution to the problem.\nDetroit dominated Brooklyn for two-and-a-half quarters, building a 29-point lead, then held on for dear life as the Nets cut the lead to single digits in the waning moments.\nPistons coach Maurice Cheeks said after the game that he thinks his team has developed a mental block when it comes to holding leads down the stretch.\n\"You can get one of those,\" he said. \"Fortunately, we had a huge lead tonight, but that is still something we really need to work on. I think we need to win a couple games in the fourth quarter and find some confidence.\"\nBrooklyn trailed 96-63 heading into the fourth, but Detroit's offense stalled yet again. Jason Kidd didn't play his starters at all in the final period, but Jason Terry hit a pair of 3-pointers and Mason Plumlee got open for three dunks to get the Nets within 102-92 with 1:57 to go.\n\"We could not get a rebound or a stop, so I was trying to find guys who can play,\" Kidd said. \"The guys who were out there playing continued to execute and we finally got some stops.\"\nRodney Stuckey hit a 17-foot baseline jumper on Detroit's next possession, then hit a pair of free throws to stave off a complete collapse.\n\"We were bleeding at that point, so we really needed those points,\" Cheeks said. \"We stopped pushing the ball in the fourth, and they started making shots, so that made it even harder to run.\"\nBrandon Jennings made a run at a rare quadruple double, and could have had a regular triple-double if he had managed a single second-half assist. He finished with 26 points, 10 rebounds, nine assists and eight turnovers.\nAndre Drummond added 16 points and 22 rebounds, even hitting two free throws with 36.5 seconds to go after missing his first six attempts. Josh Smith had with 23 points, eight rebounds, seven assists and four blocks before leaving the game with 4:39 to play. Cheeks said Smith twisted his ankle, but the team wasn't sure of the severity.\nThe Nets were resting Kevin Garnett, and the starting lineup struggled badly, combining for just 42 points. Terry led the team with 18, all in the second half, while Plumlee also got his 10 points after halftime.\nJoe Johnson added 16 as the one bright spot among Brooklyn's starters.\n\"We knew what we had to do against them -- rebound and get back in transition defense,\" Nets point guard Deron Williams said. \"We just weren't ready to play tonight. Our energy wasn't there, our effort wasn't there and they seemed to have another gear than we did.\"\nWith Garnett on the bench, the Nets had no answer for Detroit inside. When the Pistons weren't feeding Drummond, Smith and Greg Monroe in the post, Stuckey and Jennings were driving to the basket with ease.\nBrooklyn's struggles peaked early in the second quarter when Smith was swooping in for a fast-break dunk and Mirza Teletovic swiped at the ball, but caught Smith in the face.\nTeletovic was given a flagrant foul, giving Smith two chances to make one free throw to complete the three-point play.\nHe made it on the second try and Detroit kept the ball because of the flagrant foul. Chauncey Billups, playing for the first time since Jan. 10, sent a behind-the-back pass to set up Drummond for an easy dunk and a five-point possession. That put the Pistons up by 20, and they were ahead 67-44 at the intermission.\nThe Nets, who were outshot 62 percent to 31 percent in the half, didn't get much better in the third quarter, with a series of turnovers leading to Detroit fast breaks.\nAt that point, the Pistons seemed in complete control, but that just isn't the way they play.\n\"Once a team cuts it to 20, that should get your attention,\" Billups said. \"That's when you should kick back into a more focused gear.\"\nGame notes\nThe Pistons announced before the game that reserve forward Josh Harrellson will be sidelined until after the All-Star break with a slight tear of his left meniscus. ... Kidd was the last NBA player to reach double figures in points, assists, rebounds and turnovers in the same game, doing it for Phoenix in 2000. ... Will Bynum did not play after getting into an argument with Cheeks during Detroit's last game. Cheeks said he simply wanted to get Billups back into the rotation.",
+  "tags_rule": [
+    "TripleDouble",
+    "PhysicalGame",
+    "CoachComment",
+    "LateCollapse"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.221473",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,23 @@
+{
+  "game_id": "0021400212",
+  "espn_id": "400578504",
+  "date": "Nov 26, 2014",
+  "matchup": "GSW @ ORL",
+  "headline": "Curry, 3s too much for Magic; Warriors win 111-96",
+  "cleaned_body": "ORLANDO, Fla. --  The\n\nGolden State Warriors\n\nhave had much to be thankful for this NBA season.\n\nThey added to that list at the expense of the\n\nOrlando Magic\n\n.\n\nStephen Curry\n\nhad 28 points, including six 3-pointers, as the Golden State Warriors rolled to a 111-96 victory over the Orlando Magic on Wednesday night.\n\nCurry sat in the fourth quarter of Golden State's seventh straight victory overall and third consecutive win over the Magic. The Warriors led by as many as 27 in the second half.\n\n\"Right now I think we have a pretty high level of tunnel vision to stay in the moment, cherish every opportunity to play,\" Curry said. \"We're winning in different styles, everybody's getting involved and you enjoy that as you go along.\"\n\nHarrison Barnes\n\nadded 16 points. Seven Warriors reached double figures.\n\nOrlando, which has been bothered by a rash of recent injuries, lost its third straight game.\n\nTobias Harris\n\nled the Magic with 16 points and 10 rebounds.\n\nThe Warriors hit their first five shots to take a 10-0 lead barely two minutes into the game.\n\nThen Curry got going, connecting on all four 3-point attempts as part of a 14-point opening quarter. He finished the half with 25, going 5 for 5 from beyond arc.\n\n\"I always think he's going to make every shot. That's what you expect. He's got the most beautiful rhythm to his shot that I've ever seen,\" Warriors coach Steve Kerr said.\n\nCurry's sixth consecutive make from 3 early in the second half pushed Golden State's lead to 20. He didn't miss his first 3-pointer of the night until the 5:39 mark of the third quarter.\n\n\"They dictated the pace the whole game,\" Harris said. \"Whatever they wanted to do out there, that's what they did.\"\n\nOrlando entered Wednesday having seen its players miss a total of 43 games to injury or illness this season.\n\nFive Magic players began the day on the injury report. Three of them --\n\nEvan Fournier\n\n(right quad contusion, Harris (strained right calf), and\n\nKyle O'Quinn\n\n(sprained left ankle) -- were all active against the Warriors. For O'Quinn it was his first action since the season-opener.\n\nDespite Curry's shooting, the extra personnel provided Orlando an energy injection that helped the Magic keep pace for a while.\n\nOrlando made a spurt early in the second quarter, briefly taking a two-point lead. But the Warriors outscored the Magic 29-14 the rest of the half.\n\nTIP-INS\n\nMagic: C Nik Vucevic finished with 11 points and 13 rebounds, his 13th double-double of the season.\n\nWarriors: Have made 25 3-pointers in their last two games. They improved to 4-0 against the Eastern Conference.\n\nHOLIDAY TRADITION\n\nMagic guard\n\nWillie Green\n\n, general manager Rob Hennigan and Vaughn are joining other Magic staff, Levy Restaurants/Lee Wesley and the Coalition for the Homeless of Central Florida to serve Thanksgiving breakfast to more than 700 homeless men, women and children on Thursday. It marks the 22nd year of an annual Magic tradition that includes breakfast for Coalition residents and any members of the community who don't have the means to celebrate the holiday.\n\nCELEB WATCH\n\nFormer Magic No. 1 pick and four-time NBA champion Shaquille O'Neal sat courtside. Also in the building was fellow Orlando resident and PGA golfer Bubba Watson, 2014 Miss Universe Puerto Rico Gabriela Berrios and L.A. Dodgers second baseman Dee Gordon.\n\nUP NEXT\n\nMagic: Begin a six-game road trip at Indiana on Friday.\n\nWarriors: Continue their four-game road trip at Charlotte Friday.\n\n---\n\nFollow Kyle Hightower on Twitter at http://www.twitter.com/khightower",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:57.179789",
+  "pipeline_version": "v1"
+}

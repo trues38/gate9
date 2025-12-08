@@ -1,0 +1,24 @@
+{
+  "game_id": "0021700989",
+  "espn_id": "400975735",
+  "date": "Mar 10, 2018",
+  "matchup": "MEM @ DAL",
+  "headline": "Grizzlies drop 17th straight as Mavericks roll to 114-80 win",
+  "cleaned_body": "DALLAS --  If the Dallas Mavericks are tanking for a high draft pick, as owner Mark Cuban suggested in an interview that cost him $600,000, they've got some work to do to catch the Memphis Grizzlies.\n\nAnd they lost more ground Saturday night.\n\nHarrison Barnes scored 25 points and the Mavericks beat Memphis 114-80, extending the Grizzlies' losing streak to 17 games.\n\nThe Grizzlies (18-48), who have the longest losing streak in the NBA this season and the league's worst record, sat center Marc Gasol for rest, trailed by 26 points after shooting 26 percent in the first half and didn't lead after the 9:20 mark of the first quarter.\n\nThe only longer losing streaks in franchise history were skids of 23 and 19 games in the expansion season of 1995-96 in Vancouver. It's the longest losing streak in Memphis pro basketball history.\n\n\"It's in our mind every game,\" said Dillon Brooks, who led Memphis with 17 points. \"We're trying to figure out what's working and try to keep progressing through that, but not a lot is clicking right now. I guess we've just got to clear our heads and go into the next game energetic and act like we love the game.\"\n\nThe Mavericks (21-45), also among the NBA's worst teams, allowed their fewest points in any half this season while building a 56-30 halftime lead on the way to their largest margin of victory this season. Barnes had 14 points in the first half, 10 of them on 11 free throws.\n\nJ.J. Barea scored 20 for Dallas, and Doug McDermott also had 20 for his highest total since coming to the Mavericks at the trading deadline.\n\n\"I like him,\" coach Rick Carlisle said of McDermott. \"If you get him open and running around, he's going to make shots.\"\n\nMemphis' JaMychal Green had his 12th double-double with 14 points and 10 rebounds. Dwight Powell of Dallas had his fourth with 15 points and 10 boards.\n\nTIP-INS\n\nGrizzlies: F Chandler Parsons still gets booed every time he touches the ball in Dallas. He took a maximum offer from the Grizzlies in the summer of 2016 coming off his second knee injury in as many seasons with the Mavericks, who hoped to sign him for less. Parsons scored nine points in 15 minutes. ... The road losing streak is at 14 games. Memphis hasn't won away from home in 2018.\n\nMavericks: F Dorian Finney-Smith played for the first time since Nov. 12 and had seven points in 18 minutes. He missed 51 straight games with left knee quadriceps tendinitis and has missed 57 games overall. ... C Salah Mejri limped to the locker room in the first quarter after the leg got caught under Memphis C Deyonta Davis as both went to the floor. He didn't return, with the injury listed as a right hamstring strain.\n\nTAKE IT EASY\n\nAlong with Gasol, Nerlens Noel of Dallas was out for rest. The Mavericks also sat point guard Dennis Smith Jr. because of a left knee issue that also sidelined him the second and third games of his rookie season.\n\nIt's the same knee Smith had surgically repaired after a ligament tear in high school. He accelerated the rehab so he could play his only season at North Carolina State. Carlisle said he anticipated Smith would play Sunday against Houston.\n\nGASOL'S ROLE\n\nGasol has expressed frustration at times this season, particularly when he hasn't played in the fourth quarter. When it happened recently at Chicago, he left without talking to reporters.\n\n\"Having not experienced something like this before, it's difficult,\" coach J.B. Bickerstaff said. \"He's beginning to understand that he is a mentor to these younger guys now and he's helping them. He's teaching them. He's leading them. He's trying to show them how to play the game the right way.\"\n\nDISSING DIRK\n\nDirk Nowitzki, the 39-year-old in his 20th season, all with the Mavericks, was 1 of 9 and missed all five 3-pointers, matching his season low with two points. Barea couldn't pass up a chance for a dig on the 13-time All-Star. \"Everybody but Dirk, I think they did their job tonight,\" Barea said.\n\nUP NEXT\n\nGrizzlies: Open three-game homestand Monday against Milwaukee.\n\nMavericks: Finish four-game homestand and back-to-back against Houston on Sunday.\n\n---\n\nMore AP NBA: https://apnews.com/tag/NBAbasketball",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.896058",
+  "pipeline_version": "v1"
+}

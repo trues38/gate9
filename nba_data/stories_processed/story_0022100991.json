@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100991",
+  "espn_id": "401360810",
+  "date": "Mar 09, 2022",
+  "matchup": "SAC vs. DEN",
+  "headline": "Jokic dominates Kings as Nuggets win after blowing big lead",
+  "cleaned_body": "SACRAMENTO, Calif. -- — Nikola Jokic had 38 points, 18 rebounds and seven assists, and the Denver Nuggets held on after blowing an 18-point lead and beat the Sacramento Kings 106-100 on Wednesday night.\n\nMonte Morris added 20 points and made a critical three-point play late to help preserve the Nuggets’ fourth consecutive win and 12th in the last 14 games. Bryn Forbes and Aaron Gordon each scored 11 points.\n\n“Our guys understand what time it is in the season,” Nuggets coach Mike Malone said. “This is when you want to be playing your best basketball. There’s a feel-good atmosphere in the locker room.”\n\nThe Nuggets trailed 92-91 after De’Aaron Fox’s dunk. Austin Rivers followed with a 3-pointer and Morris made an 18-foot jumper for Denver. Harrison Barnes’ 3-pointer got the Kings within 96-95 before Jokic and Morris scored on consecutive three-point plays.\n\nFox had 32 points and 10 assists for Sacramento. Barnes added 17 points and five rebounds. The Kings have lost six of eight since the All-Star break.\n\nJokic dominated the Kings all night. He had a double-double before halftime and fell three assists shy of a third consecutive triple-double.\n\n“Lately, we’re playing really good, we’re winning games,” Jokic said. “Hopefully it’s going to continue.”\n\nThe reigning league MVP leads the NBA with 18 triple-doubles and needs three more to tie Wilt Chamberlain’s career record for centers (78).\n\n“He just controls the whole game,” Kings interim coach Alvin Gentry said. “He’s a point guard, he’s a forward, he’s a center. He’s whatever he needs to be at that particular time to get them over the hump.”\n\nMorris said it’s a no-brainer that Jokic should be MVP again this season.\n\n“He’s been dominating for so long there’s nothing you can really do,” Morris said. “This guy’s playing phenomenal. He’s been doing it for a long time. I still feel like he doesn’t get enough credit.”\n\nThe second quarter ended in controversy when Fox was fouled with eight-tenths of a second remaining. Initial indications were that Fox was fouled before shooting, yet he was awarded three free throws. Malone was charged with a technical as the teams were walking off the court at halftime, giving the Kings a free throw attempt to open the third quarter.\n\nSacramento trailed 80-77 at the start of the fourth then cut the gap to 87-86 following back-to-back 3s from Barnes and Fox.\n\nBAD BOOGIE\n\nFormer Kings star DeMarcus Cousins had a rough night in his return to Sacramento. The fifth overall pick in 2010 who spent his first seven seasons with the Kings, Cousins was called for five fouls including four on the offensive end. He finished with five points and six rebounds.\n\nSABONIS SUSPENDED\n\nThe Kings were without Domantas Sabonis, who served a one-game NBA suspension without pay for aggressively confronting and making contact with a referee during Monday’s loss to the New York Knicks. Sabonis had been called for a foul when he was charged with his first technical foul, then picked up a second and was ejected after bumping into the official.\n\nTIP-INS\n\nNuggets: Will Barton (left ankle sprain), Jeff Green (personal reasons) and Bones Hyland (right knee soreness) were held out.\n\nKings: Gentry had to be restrained by an assistant following a foul call in the second quarter. ... Davion Mitchell was hurt after a hard fall in the first half. He was taken to the locker room, then returned in the second quarter.\n\nUP NEXT\n\nNuggets: Face Golden State in Denver on Thursday. The Nuggets beat the Warriors 131-124 on Monday.\n\nKings: Play the Jazz in Utah on Saturday. Sacramento has lost six straight against the Jazz.\n\n----",
+  "tags_rule": [
+    "DoubleDouble",
+    "TripleDouble",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:53.143628",
+  "pipeline_version": "v1"
+}

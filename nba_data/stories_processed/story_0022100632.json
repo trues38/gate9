@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100632",
+  "espn_id": "401360451",
+  "date": "Jan 14, 2022",
+  "matchup": "CHA vs. ORL",
+  "headline": "Wagner brothers, Magic top Hornets to end 10-game skid",
+  "cleaned_body": "CHARLOTTE, N.C. -- — Moritz Wagner scored a season-high 26 points, younger brother Franz added 19 points and seven assists, and the Orlando Magic beat the Charlotte Hornets 116-109 on Friday night to snap a 10-game losing streak.\n\nGary Harris added 18 points for the Magic (8-35), who had not won since before Christmas.\n\nOrlando also got a big lift off the bench from rookie Jalen Suggs, who scored 12 points on 5-of-8 shooting and had seven assists and six rebounds in his first game since fracturing his thumb on Nov. 29. The No. 5 pick in the NBA draft was a little rusty at times though, committing six turnovers in 22 1/2 minutes.\n\n“It feels good for these guys to be able to celebrate all of the work that we have put in,” said Magic coach Jamahl Mosley. “... They have done a great job of just staying the course and continuing to compete for one another.”\n\nLaMelo Ball had 23 points and eight assists for the Hornets (23-20), who shot 12 of 42 from 3-point range. Miles Bridges added 20 points and Mason Plumlee had 10 points and 10 rebounds in a chippy game.\n\nDespite the 10-game skid, the Magic had been competitive with eight of those losses by 10 points or less.\n\nThey finally finished one.\n\nOrlando trailed by three entering the fourth quarter, but took advantage of a cold-shooting Hornets team to open the quarter on a 15-2 run. The Magic extended the lead to 13 with 2 minutes left, punctuated by Moritz Wagner's dunk — and celebratory flex — off a feed from Cole Anthony.\n\n“At some point you get impatient and you do want it all to carry over and be a win,” Moritz Wagner said. “At a certain point in the game, we said let's play to win and get one.”\n\nThe Hornets entered the game on a five-game win streak that included two victories over the defending NBA champion Milwaukee Bucks and one over the Philadelphia 76ers. But Charlotte went cold in the fourth quarter and the Magic quickly surged ahead behind Moritz Wagner, who finished 11 of 17 from the field with four 3-pointers.\n\nFranz Wagner brought intensity throughout the game, and the Magic outscored the Hornets by 24 points when he was on the floor. He finished 8 of 11 from the field and added six rebounds and two blocked shots.\n\nHe said having Suggs back paid immediate dividends.\n\n“Forget what he does on offense, the biggest thing is the energy that he brings to the floor,” Franz Wagner said of the second-team All-American while at Gonzaga.\n\nAdded Mosley: “There is a level of toughness that needs to be brought from him. The competitive edge that he continues to show. ... . He just continues to fight and compete at a high level and then shows some poise at different times.”\n\nOrlando’s reserves outscored Charlotte’s backups 55-19.\n\nIt was a bad loss for the Hornets, who had beaten the Magic twice this season in Orlando by a combined 16 points.\n\n“Yeah, disappointing loss,\" Hornets coach James Borrego said. \"They played harder. They were the more aggressive team. They acted like we did for the last couple games, so credit to them. We have a ways to go.”\n\nBALL’S SHOWMANSHIP\n\nBall came up with two eye-popping plays on back-to-back possessions for the Hornets that brought fans out of their seats.\n\nFirst, he shook Anthony by faking a drive to the basket before stepping back and creating more than 5 feet of space, more than enough to knock down a 3-pointer. Then he came up with a steal on the other end of the court, drove the length of the floor, and went between his legs with the ball while in the air before lofting a perfect alley-oop pass to Bridges, who finished with a resounding dunk.\n\nTIP-INS\n\nMagic: Mo Bamba (sprained right toe) and Wendell Carter Jr. (hamstring) did not play.\n\nHornets: Kelly Oubre Jr. remained in the health and safety protocols. ... Terry Rozier had 19 points, but shot just 4 of 15 from 3-point range.\n\nUP NEXT\n\nMagic: At Dallas on Saturday night.\n\nHornets: At New York on Monday.\n\n------",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.493516",
+  "pipeline_version": "v1"
+}

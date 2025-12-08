@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100605",
+  "espn_id": "401360424",
+  "date": "Jan 09, 2022",
+  "matchup": "SAC @ POR",
+  "headline": "Anfernee Simons scores 31, Portland beats Sacramento 103-88",
+  "cleaned_body": "PORTLAND, Ore. -- — Anfernee Simons led all scorers with 31 points and the Portland Trail Blazers handed the Sacramento Kings their fourth straight loss, 103-88 on Sunday night.\n\nJusuf Nurkic had 14 points, 16 rebounds and nine assists, and the Blazers snapped a two-game losing streak.\n\nTyrese Haliburton scored 17 points for the Kings, who have lost seven straight on the road. Alex Len added 16 points and 10 rebounds.\n\nSimons' 3-pointer put the Blazers up 90-70, their biggest lead of the game, with just over seven minutes left. The Kings responded with a 10-2 run before Simons hit another 3 that made it 95-80 with 4:36 to go.\n\nThe Blazers never trailed in the game.\n\n“Just playing with a lot of energy, going out there and having fun,” Simons said about the team's mindset. “That's kind of our speech, `Have fun, play hard, play together.' I think we did all three of those things.”\n\nSimons, who has been filling in for Damian Lillard, finished with seven 3-pointers.\n\n“He's been tremendous,” Nurkic said. “Without him, we don't win the game.”\n\nLillard remained out because of lower abdominal tendinopathy and won't travel on Portland's upcoming six-game trip. Backcourt teammate CJ McCollum has missed 14 games after a collapsed right lung.\n\nNorman Powell went into health and safety protocols earlier Sunday. Ben McLemore started for the first time this season and finished with 13 points.\n\nThe Kings were also short-handed. De’Aaron Fox was a game-time decision because of a sore right shoulder and started. Maurice Harkless didn't play because of a sore right ankle.\n\nRichaun Holmes and Damian Jones were out because of the health and safety protocols, but Chimezie Metu was cleared and played 13 minutes off the bench.\n\n“It’s not good enough. We've got to be a lot better,\" Haliburton said. \"We have to be better when teams are missing their best players, and it's just another game this year where a team is missing a majority of their starters, their core. I know guys came in and made plays, but I don't know, man. We gotta be better.”\n\nThe Blazers led most of the first half, with Simons' floater putting them up 40-29. Portland led 53-40 at the break.\n\nNurkic hit a 3-pointer that gave Portland a 71-57 lead in the third quarter.\n\nNurkic shrugged a bit when asked afterward how badly he wanted the triple-double.\n\n“If it happened, great, but if not, I'll take the win,” he said.\n\nTIP INS\n\nKings: It was the final meeting between the teams this season. Sacramento won the first two. ... The Kings made just seven of 31 3-point attempts.\n\nBlazers: Coach Chauncey Billups said before the game that Lillard is consulting with specialists this week regarding his injury to determine how to proceed. ... Billups also said McCollum is close to a return, but he and his wife are expecting the birth of their first child soon.\n\nSTARTING MATERIAL?\n\nSimons has been getting demonstrably better filling in for Lillard at the point, leading to speculation about whether he could be an every-night starter in the league.\n\n“I think he's on his way. This stretch here without Dame is going to big for Ant,\" Billups said. \"I know what I feel about him, but it's not about me, it's about proving himself to everybody else. He's going to have to maintain that consistency.”\n\nMOTIVATION\n\nSacramento interim coach Alvin Gentry said he has to continue to try and motivate the team, and the players need to be accountable, too.\n\n“We are not in a position to have pity parties. It’s the old adage about ‘tough times don’t last, tough people do,” Gentry said. ”So we've got to make sure that we’re the tough people surviving this thing because it's no fun at all what we’re going through right now.\"\n\nUP NEXT\n\nKings: Host the Cleveland Cavaliers on Monday, the first of a five-game homestand.\n\nTrail Blazers: Host the Brooklyn Nets on Monday night in a game that was originally scheduled for Dec. 23, but postponed.\n\n------",
+  "tags_rule": [
+    "LateCollapse",
+    "TripleDouble",
+    "Streak",
+    "CoachComment",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:59.334364",
+  "pipeline_version": "v1"
+}

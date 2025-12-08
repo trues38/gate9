@@ -1,0 +1,23 @@
+{
+  "game_id": "0021401193",
+  "espn_id": "400579485",
+  "date": "Apr 12, 2015",
+  "matchup": "MIL vs. BKN",
+  "headline": "Bucks grab playoff berth one season after losing franchise-record 67",
+  "cleaned_body": "MILWAUKEE -- The rebuilding plan is way ahead of schedule for the Milwaukee Bucks.\nA year after a franchise-worst 67-loss season, the Bucks are headed to the playoffs.\nErsan Ilyasova scored 21 points and coach Jason Kidd's team relied on defense in a 96-73 victory over the Brooklyn Nets on Sunday that wrapped up the playoff spot and the sixth seed in the Eastern Conference.\n\n\"To be honest, I always believed we could do better. But I didn't know if we could go from 15 wins to get 40,\" said Giannis Antetokounmpo, who finished with 13 points.\nThe athletic 20-year-old forward is one of the big reasons why the Bucks are the first team since the 2008-09 Miami Heat to make the playoffs a year after having the NBA's worst record.\n\"Our goal was to go to the playoffs, from day one. Everybody believed in it. I started believing in it and we made it,\" the 6-foot-11 Antetokounmpo said.\nO.J. Mayo added 17 points for the Bucks, who held Brooklyn to 32 percent shooting. It was season low for points for a Bucks opponent.\nBrook Lopez had his 17th double-double of the season with 12 points and 10 rebounds for the Nets. They are tied for eighth with Indiana -- a winner over Oklahoma City later Sunday -- in the East, a game behind Boston. The Nets have the tiebreaker over the Pacers.\nBrooklyn has two games left, starting with Chicago at home Monday night.\n\"We have to forget about this one,\" forward Thaddeus Young said. \"We can't even think about the next two games. We have to focus on this next one against Chicago. It's as simple as that.\"\nNo need to fret any more for the Bucks, who will likely face either Toronto or Chicago in the first round.\nFew -- if any -- NBA observers expected the Bucks to make the playoffs, let alone be competitive enough to finish with a .500 record. Not with a new coach and a young roster.\nJabari Parker, the second overall pick in the NBA draft last June, was lost for the season in December with a left knee injury. The Bucks went in a tailspin after the All-Star break and trade deadline as they adjusted to the departure of leading scorer Brandon Knight and the arrival of new point guard Michael Carter-Williams.\nBut they've settled down to go 6-4 over their past 10 games, clinching a postseason berth against the team coached by Kidd last season.\nAccording to STATS, Kidd is the first coach in NBA history to lead two franchises to the playoffs in his first two years as a head coach.\n\"They do a good job of packing the paint,\" said Brooklyn guard Jarrett Jack said, who finished with 11 points. \"Showing our pick-and-roll didn't really disrupt them in the lane.\"\nBREAKOUT\nBrooklyn stayed within 43-41 at halftime with the Bucks shooting 41 percent in the first half.\nMilwaukee inched away with an 18-6 run over the first six-plus minutes of the third quarter to take a 61-47 lead. Ilyasova -- one of the veteran holdovers from last season -- had 11 points during the stretch.\nIlyasova drew a charge during the middle of the spurt, sandwiching that defensive play with a layup and 18-foot jumper. The Bucks kept the Nets on their heels by attacking the basket, hitting 13 of 18 from the field in the third.\nBRICK HOUSE\nKidd liked the energy and effort, especially on the defensive end. He's been stressing that philosophy all year long.\n\"I think it was a perfect example this afternoon. Shots weren't going in, but guys were playing on the defensive end, getting stops and rebounding the ball,\" Kidd said. \"Even though we missed some shots, we kept running the ball and kept that pace at a high level. Hopefully, that wore them down.\"\nTIP-INS\nNets: Backup shooting guard Alan Anderson did not make the trip because of a sprained left ankle. He has missed five straight games.\nBucks: Milwaukee has 40 victories, its most record since winning 46 in 2009-10.\nUP NEXT\nNets: Hosts Chicago on Monday night.\nBucks: At Philadelphia on Monday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "InjuryReport",
+    "PlayoffContext"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "HighStakes",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:58.060925",
+  "pipeline_version": "v1"
+}

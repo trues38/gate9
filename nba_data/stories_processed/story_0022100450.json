@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100450",
+  "espn_id": "401360274",
+  "date": "Dec 19, 2021",
+  "matchup": "MEM vs. POR",
+  "headline": "Lillard scores 32 points, Trail Blazers beat Grizzlies",
+  "cleaned_body": "MEMPHIS, Tenn. -- — Damian Lillard scored 32 points, Norman Powell added 28 and the Portland Trail Blazers beat Memphis 105-100 on Sunday night to snap the Grizzlies’ five-game winning streak.\n\nDillon Brooks scored a career-high 37 points for Memphis. The Grizzlies lost for the second time in their last 12 games.\n\n“It’s not like we blew them out,” Lillard said. “We had to execute. We had to get stops. We had to weather a few storms. It was a great win.”\n\nPowell scored 20 in the second half to give the Trail Blazers their second straight victory after they snapped a seven-game losing streak with a home victory over Charlotte on Friday night.\n\nPortland took the lead, 94-91, on a four-point play by Lillard with 4:02 left and reclaimed the advantage, 97-95, on a 3-pointer by Powell three minutes later.\n\n“It was a big play,” Powell said about his 3-pointer. “I was just trying to find an opening. We are not going to get too excited, but it’s a great win for us. It was great to get a gritty win.”\n\nThe Grizzlies had a chance to tie at 103 with 5.3 seconds to go, but Desmond Bane’s 3-pointer rimmed out. Nassir Little added two free throws with 1.8 seconds left to seal the win.\n\n“Pulling a game out like this shows growth,” Lillard said.\n\nLillard scored 17 points of his 21 first-half points in the first quarter.\n\nTIP-INS\n\nGrizzlies: Ja Morant, out since Nov. 26 with a sprained left knee, was removed from the team’s injury report, but did not play. Morant also returned from the NBA health and safety protocols and is permitted to practice and to be on the bench. Morant was out 12 days with his knee injury before entering protocols. ... The Grizzlies had 10 or more steals for the 11th straight time. The only NBA team with a longer streak was the 1997-98 Boston Celtics, who went 16 consecutive games with 10-plus steals from Feb. 25 to March 29, 1998. ... Dillon Brooks had his fifth consecutive 20-point game.\n\nTrail Blazers: CJ McCollum (collapsed right lung) and Cody Zeller (patella) did not play. ... The Trail Blazers set a franchise record with 16 3s in their 125-116 win over Charlotte Friday night. They were 6 of 20 in the opening half Sunday against the Grizzlies and finished with 11. ... Portland limited the Grizzlies to 38.5% shooting.\n\nUP NEXT\n\nTrail Blazers: At New Orleans on Tuesday night.\n\nGrizzlies: Host Oklahoma City on Monday night.",
+  "tags_rule": [
+    "LateCollapse",
+    "ReturnFromInjury",
+    "Streak",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:51.205515",
+  "pipeline_version": "v1"
+}

@@ -1,0 +1,24 @@
+{
+  "game_id": "0021400118",
+  "espn_id": "400578410",
+  "date": "Nov 13, 2014",
+  "matchup": "MEM vs. SAC",
+  "headline": "Courtney Lee's buzzer-beater caps Grizzlies' rally over Kings",
+  "cleaned_body": "MEMPHIS, Tenn. -- Marc Gasol couldn't believe both defenders stayed with him when he set a pick at the foul line on the final play.\nCourtney Lee couldn't believe he was wide open under the basket for a reverse layup as the horn sounded.\nAnd the Sacramento Kings were in disbelief that they squandered a 26-point lead and allowed the Grizzlies to convert Lee's last-second shot into a 111-110 victory Thursday night.\n\"There's not a lot words. That's a fantastic effort to get back in that game to be down like we were,\" said Memphis guard Mike Conley, who led the Grizzlies with 22 points and 11 assists. \"It looked grim to be honest.\"\nThe victory extended Memphis' regular-season home winning streak to 18. But that seemed in doubt through most of the game.\nThe Kings dominated the game throughout and were still holding a 17-point lead with just over 7 minutes left. Memphis used a 16-1 run to cut the deficit but didn't hold its first lead until a 3-pointer by Conley with almost 11 seconds left.\nThe Grizzlies' only other lead came on the final basket from Lee, who was wide open as he leaped through the air to catch the inbounds lob pass from Vince Carter and caromed the layup off the backboard. The ball bounced on the bracket before dropping through the net for the largest comeback in franchise history.\nLee was open because Rudy Gay and Jason Thompson both stayed with Gasol as the Grizzlies center set a pick at the top of the key.\n\"I was in position where I could win the game or lose the game,\" Lee said when asked if he got the shot off in time. \"You've just got to go out there and try to make the right play.\"\nThe outcome still had to wait on a lengthy review by officials, who wanted to make sure the Kings didn't tip the inbounds pass, thus starting the clock earlier, and that Lee got the shot off in time.\n\"We lost the game, and it didn't come down to that last play,\" Kings coach Michael Malone said, later adding: \"We built a 26-point lead and threw it away. \".We didn't deserve to win that game.\nGasol had 20 points and Zach Randolph finished with 17. Lee scored 16 points and Carter had 11, including a trio of 3-pointers in a furious fourth frame when Memphis outscored the Kings 35-19, connecting on 63 percent of its shots.\nGay led the Kings with 25 points, while Cousins added 22 points and 12 rebounds. Darren Collison had 20 points, while Ben McLemore scored 17, but missed a pair of free throws with less than a second left to set the stage for the final sequence.\n\"It definitely is heartbreaking,\" Gay said. \"That's the difference in a battle-tested playoff team and us.\"\n------\nTIP-INS:\nKings: Sacramento was playing the final game of a four-game road trip. ... The Kings have not allowed an opponent to score 25 points or more in a game this season. ... McLemore was 3-of-6 from outside the arc and has converted 11 of 20 from 3-point range over the last three games.\nGrizzlies: Memphis has won eight straight in the series and 15 of 17 overall matchups with the Kings. ... Memphis, which shot a season-best 52.6 percent from the field in Tuesday night's win over the Lakers, managed 50.6 percent against the Kings despite a 2-for-15 start. ... The previous largest deficit Memphis had faced this season was 13 points at Indiana in the second game of the season.\nHISTORIC COMEBACK\nThe previous largest deficit the Grizzlies had overcome was 25 points on two occasions. \"I've been a part of a few comebacks,\" Memphis guard Tony Allen said, \"but this one was amazing.\"\nSTOPPING BY TO SAY HELLO\nGay, who started his career in Memphis after a 2006 draft-night trade, came by the Grizzlies locker room after the game, spending considerable time with Gasol and Conley.\nUP NEXT:\nKings: Host San Antonio on Saturday.\nGrizzlies: Host Detroit on Saturday",
+  "tags_rule": [
+    "MomentumShift",
+    "LateCollapse",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.481254",
+  "pipeline_version": "v1"
+}

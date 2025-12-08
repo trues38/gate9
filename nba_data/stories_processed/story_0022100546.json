@@ -1,0 +1,25 @@
+{
+  "game_id": "0022100546",
+  "espn_id": "401360365",
+  "date": "Jan 02, 2022",
+  "matchup": "ORL @ BOS",
+  "headline": "Brown scores 50, rallies Celts to 116-111 OT win over Magic",
+  "cleaned_body": "BOSTON -- — Jaylen Brown scored a career-high 50 points, rallying the Boston Celtics from 14 points down late in the fourth quarter to a 116-111 overtime victory over the Orlando Magic on Sunday night.\n\nBrown scored 21 in the fourth quarter, then opened OT with his fifth 3-pointer of the game. Brown, whose previous career high was 46 against the Knicks on Oct. 20, also finished with 11 rebounds as the Celtics avoided losing for the fourth time in five games.\n\n“We needed to win. No way we could have lost this game. It wouldn’t have been good,” said Brown, who made nine of 12 shots in the fourth quarter while leading the Celtics on a frenzied comeback.\n\nMarcus Smart added 17 points, seven assists and seven rebounds for the Celtics, who needed an 11-2 run down the stretch to force overtime. Dennis Schroder had 21 points and seven assists.\n\n“We let the game come to us,\" Smart said. \"It wasn’t pretty. It was a little ugly. But we came out with the win and that’s because we kept our composure and we kept with it.”\n\nTerrence Ross scored 33 for the Magic, who outscored Boston 35-20 in the third quarter. They closed the period on a 20-4 run to take a 77-65 lead into the fourth and were ahead 96-82 with a little more than 4 minutes remaining in regulation.\n\n“Everybody was just going extreme tonight. We were playing with a lot of energy, a lot of hustle,” Ross said. “Any time you play like that, you're going to give yourself a good chance.”\n\nShortly after missing the free throw on a three-point play attempt with 1:40 left, Brown drove for a layup to tie it at 98-all with 38 seconds to go. He added another layup that briefly put Boston up 100-98 with 30 seconds remaining, but Tim Frazier tied it up again and the game was decided in overtime.\n\n“We’ve just got to shake it off and learn from the situations that we were in, because we’ll find ourselves in more of these as the year goes on,” Orlando coach Jamahl Mosley said.\n\nBoston, which beat one of the top teams in the league Friday with a 123-108 win over Phoenix, couldn’t stop the lowly Magic (8-29) two days later.\n\nBoth teams were without their top scorers. Cole Anthony was out for the Magic with a sprained right ankle and Boston’s Jayson Tatum missed his fourth straight game after being placed on the COVID-19 health and safety protocols list last week.\n\nGary Harris added 23 points and Wendell Carter Jr. finished with 15 points and 16 rebounds for Orlando. Frazier, who also scored 11 in the third, finished with 14 points.\n\nThe Celtics led 45-42 at halftime despite committing 14 turnovers in the first half and nearly letting a 14-point lead vanish before the break. Frazier opened the third quarter with a 3-pointer to tie it, starting the Magic on a roll that would put them up by as much as 14.\n\n“We got a little careless there. We were playing really fast and a little reckless at times and let them get back into the game, but overall we showed growth,\" Boston coach Ime Udoka said. “We’ve lost quite a few of those this year and got out there defensively and got what we wanted towards the end of the game.”\n\nBROWN'S BIG NIGHT\n\nBrown said he wasn't aware he was headed toward a career night, too caught up in the pace of the rally to realize how much he had scored until the final minute.\n\nBrown is the seventh player in team history to score 50 and the fourth Celtic to reach 50 points and 10 or more rebounds in a game, joining Tatum, Larry Bird and Kevin McHale.\n\n“My teammates found me tonight and I knocked some shots down,” Brown said.\n\nTIP-INS\n\nMagic: Orlando had just four turnovers in the first half. … Mo Bamba was back after missing seven games due to health and safety protocols. … G Hassani Gravett returned after missing one game due to safety protocols. … C Robin Lopez remained on the protocol list.\n\nCeltics: C Robert Williams, who had his first career triple-double Friday with 10 points, 10 assists and 11 rebounds in a win over Phoenix, was out with a sprained right big toe. … Although Tatum’s status was bumped up to “reconditioning to return to competition,” he remained out of the lineup for the fourth straight game. … Schroder returned after missing four games on the protocols list. … G Romeo Langford was out with a non-COVID illness and G Brodric Thomas was out with lower back pain. … C Enes Freedom was still on the protocol list.\n\nUP NEXT\n\nMagic: At Chicago on Monday night.\n\nCeltics: Host San Antonio on Wednesday night.\n\n----",
+  "tags_rule": [
+    "MomentumShift",
+    "TripleDouble",
+    "CoachComment",
+    "CareerHigh",
+    "InjuryReport"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.176819",
+  "pipeline_version": "v1"
+}

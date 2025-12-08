@@ -1,0 +1,22 @@
+{
+  "game_id": "0021700290",
+  "espn_id": "400975041",
+  "date": "Nov 27, 2017",
+  "matchup": "ORL @ IND",
+  "headline": "Victor Oladipo scores 26, leads Pacers past Magic 121-109",
+  "cleaned_body": "INDIANAPOLIS -- When Victor Oladipo was asked about his return to the lineup after missing Indiana's previous game, he couldn't describe how tormenting it was to watch from the sidelines with a bruised right knee.\nSo, when Oladipo was cleared for Monday night's matchup with the Orlando Magic, he made up for lost time with a performance that spoke for itself.\nOladipo scored 26 points to help the Pacers beat the Magic 121-109, handing Orlando its ninth straight loss.\n\"He was anxious to play and just came out aggressive,\" Pacers coach Nate McMillan said. \"He shot the ball with a great deal of confidence ... when a guy is playing with that type of confidence, we try to put the ball in his hands and let him make plays, and he did that tonight.\"\nOladipo made his first 11 shots before finishing the game 11-for-14. He also grabbed six rebounds -- all on the defensive end of the floor -- and added five assists.\nAfter his final bucket of the night -- an off-balance 3-pointer that banked in -- Oladipo turned and shrugged almost in disbelief that he had yet to miss a shot all night.\n\"Yeah, it was a little something,\" Oladipo said. \"At that point, when you're making stuff like that, you don't know where it comes from. It just went in. It was pretty cool.\"\nAnd when Oladipo finally missed a shot, the Pacers picked up the slack to mount a 13-0 scoring run that lasted nearly three minutes, putting Indiana ahead by 17 with five minutes left in the game.\nIt was the Pacers' fourth quarter surge on offense that ultimately proved to be the difference in a game where the Magic fought desperately to snap their losing streak.\nThe Pacers had five players in double figures as Bojan Bogdanovic added 22 points, Domantas Sabonis scored 19 points and Myles Turner and Lance Stephenson each added 18.\nOrlando gave Indiana everything it could handle through the first three quarters. The Magic managed to fight back from 76-66 and close the deficit, trailing 85-84 heading into the fourth quarter. But the Pacers hit their stride during the final 12 minutes and outscored the Magic 36-25 in the fourth.\nJonathon Simmons led Orlando with 21 points.\n\"We fought hard. We played hard. We played well in spurts a lot of the basketball game,\" Magic coach Frank Vogel said. \"Block out all the noise. Block out how many we lost and focus on trying to improve each day.\"\nSTEADY PACE\nSince losing 118-95 to Houston on Nov. 12, the Pacers are 6-1. During the same seven game stretch, Indiana has scored 100 or more points in each of its six wins. The Pacers -- who average 108 points per game -- are now 11-4 in games where they score 100 or more points.\nMAGIC SPELL\nDating back to the 2012-13 season, the Pacers have won 17 of their last 19 regular season meetings with Orlando, including the last six matchups with the Magic, leaving former Pacers coach Frank Vogel winless against his old team.\nTIP-INS\nMagic: Orlando has now lost nine straight games during a stretch in which it is 2-11 in its last 13 games. ... The Magic are now 3-12 when allowing their opponent to score 100 or more points. ... With 16 3-pointers Monday night, the Magic have now made at least one three in 841 consecutive games, the fifth longest streak in the NBA.\nPacers: Indiana has made 11 or more 3-pointers in six of its last nine games.\nUP NEXT:\nMagic: Host Oklahoma City on Wednesday night.\nPacers: At Houston on Wednesday night.",
+  "tags_rule": [
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:54.405834",
+  "pipeline_version": "v1"
+}

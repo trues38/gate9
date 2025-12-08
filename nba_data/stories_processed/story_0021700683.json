@@ -1,0 +1,23 @@
+{
+  "game_id": "0021700683",
+  "espn_id": "400975429",
+  "date": "Jan 21, 2018",
+  "matchup": "ORL @ BOS",
+  "headline": "Magic win for 3rd time in 20 games, beat Celtics 103-95",
+  "cleaned_body": "BOSTON --  After a near-miss in their last game, the Orlando Magic were rewarded for another solid effort.\n\nElfrid Payton had 22 points and the Magic won for just the third time in their last 20 games, overcoming Kyrie Irving's 40 points to beat the Boston Celtics 103-95 on Sunday.\n\n\"It feels good to get a win, especially after playing well,\" Payton said. \"We felt we played well against the Cavs and didn't come out with the victory. So to get the win today feels good.\"\n\nOrlando snapped a 14-game losing streak at Boston. The Magic had lost 10 in a row on the road overall since early December including a one-point loss to Cleveland in its previous game.\n\nIrving sat out Boston's previous game to rest a sore left shoulder. Despite his efforts, the Celtics dropped their season-worst third straight overall and at home.\n\n\"We haven't played well consistently on both ends for a while now,\" Celtics coach Brad Stevens said. \"I felt like they were shooting layups for the most part tonight.\"\n\nEvan Fournier added 19 and Aaron Gordon had a double-double with 11 points and 12 rebounds for the Magic.\n\n\"Was a really good win for us and we are playing really hard right now,\" Fournier said. \"We almost let it slip, but made a few plays to close the deal and it feels really good.\"\n\nTrailing 59-58 at halftime, Orlando outscored the Celtics 32-12 in the third quarter while shooting 60 percent. The Magic held Boston to four field goals, three by Irving, and led 90-71 after three.\n\n\"I thought Payton was the leader of the pack,\" Magic coach Frank Vogel said. \"The Elfrid in the third quarter was the guy driving the engine.\"\n\nJayson Tatum sparked a fourth-quarter run by scoring seven of his nine points to draw the Celtics to 93-84, but both teams traded points and Orlando maintained control the rest of the way.\n\nSURE SHOTS\n\nOrlando shot 61 percent on combined 27 of 44 in the second and third quarter. The Magic came into the game 14th in the NBA in field goal percentage.\n\nBENCH STRENGTH\n\nShelvin Mack and D.J. Augustin combined for 20 points as the Magic bench outscored the Celtics 38-8. Boston reserves shot 4 for 19 from the field.\n\nTIP-INS\n\nMagic: G Aaron Afflalo completed his two-game suspension and didn't play. ... Nikola Vucevic missed his 12th game and is hoping to return after the All-Star break. ... Orlando made one of its first 16 shots in the fourth quarter.\n\nCeltics: Marcus Morris (12) scored in double figures for his fourth straight game. Jaylen Brown added 17 for Boston. Boston had been one of five teams not to lose three straight.\n\nUP NEXT\n\nMagic: Host Sacramento on Tuesday night.\n\nCeltics: Visit the Los Angeles Lakers on Tuesday night.",
+  "tags_rule": [
+    "DoubleDouble",
+    "Streak",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Surge",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.725868",
+  "pipeline_version": "v1"
+}

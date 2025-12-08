@@ -1,0 +1,41 @@
+{
+    "Scott Foster": {
+        "style": "Control Enforcer",
+        "home_win_pct": 61,
+        "foul_rate": "High",
+        "variance_impact": "Suppressor",
+        "pace_impact": "Slow",
+        "notes": "Known for extending series and favoring structure."
+    },
+    "Zach Zarba": {
+        "style": "Let-them-play",
+        "home_win_pct": 49,
+        "foul_rate": "Low",
+        "variance_impact": "Amplifier",
+        "pace_impact": "Fast",
+        "notes": "Allows physical play, favors road underdogs."
+    },
+    "Tony Brothers": {
+        "style": "Volatile Interventionist",
+        "home_win_pct": 55,
+        "foul_rate": "High",
+        "variance_impact": "Chaos Generator",
+        "pace_impact": "Mixed",
+        "notes": "Unpredictable technical fouls."
+    },
+    "Bill Kennedy": {
+        "style": "Fair & Balanced",
+        "home_win_pct": 52,
+        "foul_rate": "Medium",
+        "variance_impact": "Neutral",
+        "pace_impact": "Neutral",
+        "notes": "Standard officiating profile."
+    },
+    "Generic": {
+        "style": "Standard",
+        "home_win_pct": 55,
+        "foul_rate": "Medium",
+        "variance_impact": "Neutral",
+        "pace_impact": "Neutral"
+    }
+}

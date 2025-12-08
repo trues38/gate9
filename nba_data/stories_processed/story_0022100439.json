@@ -1,0 +1,23 @@
+{
+  "game_id": "0022100439",
+  "espn_id": "401360263",
+  "date": "Dec 17, 2021",
+  "matchup": "CHA @ POR",
+  "headline": "Lillard scores 43 points, Trail Blazers snap 7-game skid",
+  "cleaned_body": "PORTLAND, Ore. -- — Damian Lillard scored a season-high 43 points and the Portland Trail Blazers snapped a seven-game losing streak, beating the Charlotte Hornets 125-116 on Friday night.\n\nBlazers coach Chauncey Billups believes Lillard’s game has benefitted from improved health. Lillard has been nursing an abdominal injury all season.\n\n“I feel like he’s moving so much better,” Billups said. “A lot of his game is creating space. He’s not a 6-6 point guard and when you can shoot it that well, you have to create space. And I think lately since he’s been back he’s been able to do that.”\n\nAfter the game, however, Lillard told reporters he has felt disrespected by the media amid his shooting struggles. The All-Star guard came into the game with the worst shooting numbers of his career, shooting under 40% from the field and barely over 30% from the 3-point line, before breaking out on Friday night.\n\n“I’ve never not given any of you guys time,” Lillard said in response to question about whether he was happy with the win. “And when our team is going through it and I’m in a little bit of a struggle, I see certain people not giving me the same respect. So that’s why I’m a little irritated in here. But with my team, I’m happy with what we did. That’s that. I still come in here and give that same time, but I don’t appreciate it. It’ll be handled that way going forward.”\n\nBen McLemore added 28 points for Portland, hitting six of his eight 3-pointers in the first half to help the Trail Blazers set a franchise record with 16 3-pointers in the half. They led 81-55 at the break.\n\n“He stays ready, he’s always prepared,” Lillard said. “He’s always working on his shots at game speed. That’s something you got to give him a lot of credit for. He didn’t play the first 15-20 games and he has been ready. That’s who he is.”\n\n“He’s a consummate professional,” Billups said of McLemore.\n\nLaMelo Ball led the Hornets with 27 points in his first game back after being in the NBA’s health and safety protocols.\n\n“I felt good coming back,” Ball said. “The energy was cool. There's going to be some stuff here and there but I’m still living. I’m straight. It was great coming back, touching the ball, it’s a blessing.”\n\nThe Hornets cut a 29-point deficit to single digits in the fourth quarter. Kelly Oubre Jr.‘s layup pulled Charlotte to 118-112 with 1:12 left, but McLemore hit a 3-pointer to put Portland ahead 121-112.\n\nLillard scored 17 first-quarter points to help the Blazers race to 41-24 lead.\n\nThe Blazers were 21 of 47 from 3-point range overall.\n\nTIP-INS\n\nHornets: Hornets coach James Borrego told reporters before the game that while there was no hard minutes restriction for Ball’s minutes. He played 29 minutes.\n\nTrail Blazers: The seven-game losing streak was the Blazers’ longest since the 2015-16 season. … With CJ McCollum (collapsed right lung), Dennis Smith Jr. (knee soreness), Tony Snell (personal reasons) and Cody Zeller (patella) all out due to injury, rookie two-way player Trendon Watford played in the first half for the first time this season.\n\nUP NEXT\n\nHornets: At Phoenix on Sunday night.\n\nTrail Blazers: At Memphis on Sunday night.",
+  "tags_rule": [
+    "InjuryReport",
+    "Streak",
+    "LateCollapse"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Collapse",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.559291",
+  "pipeline_version": "v1"
+}

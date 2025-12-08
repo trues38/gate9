@@ -1,0 +1,22 @@
+{
+  "game_id": "0021201008",
+  "espn_id": "400278728",
+  "date": "Mar 20, 2013",
+  "matchup": "CHA vs. TOR",
+  "headline": "Byron Mullens, Gerald Henderson lead Bobcats over Raptors",
+  "cleaned_body": "CHARLOTTE, N.C. -- Gerald Henderson is enjoying the best streak of his four-year NBA career, and the Charlotte Bobcats are playing better, too.\n\nHenderson turned in another solid all-around game, Byron Mullens scored 25 points and the Bobcats beat the Toronto Raptors 107-101 on Wednesday night to win consecutive games for the first time since mid-November.\n\nHenderson scored 21 points on 8-of-14 shooting, and added seven rebounds and five assists. The soon-to-be restricted free agent is averaging 22.7 points on 50 percent shooting in his past seven games, including a 35-point performance in a win over Boston on March 12.\n\nBut he's more willing to talk about the team's recent improvement than his own personal accomplishments.\n\n\"I think it's just us maturing,\" Henderson said. \"I think that's a big deal. We've been in a lot of situations where we haven't gotten it done in the fourth quarter but we have recently, so that's good.\"\n\nWith the Raptors keying on him in the final period, Henderson played the role of distributor, and the Bobcats leaned heavily on Mullens and Ben Gordon down the stretch.\n\nMullens scored 12 points in the fourth quarter and Gordon had 11 as Charlotte's reserves outscored their counterparts 52-13.\n\nThe 7-foot Mullens made his final eight free throws, including four with less than 13 seconds to go, as Charlotte won its third straight at home.\n\n\"We're going back to the way we were playing at the beginning of the season,\" Mullens said, referring to the team's 7-5 start. \"I don't want to get way over to the top with this because it's just two wins. But we'll take it for what it is. It's been a while since we've had that so I'm going to enjoy it.\"\n\nRudy Gay had 25 points and DeMar DeRozan added 19 points for the Raptors, who have lost seven of their past eight games in Charlotte and fell to 9-25 this season on the road.\n\nGordon finished with 16 points, and Josh McRoberts had 12 points and 12 rebounds.\n\nThe Bobcats blew a fourth-quarter lead against the Raptors on Friday night and lost by 14. This time, they held on when Toronto made a run.\n\nLeading 94-93 with 2:45 left, the Bobcats forced a turnover. Gordon then converted a pair of free throws and knocked down a 3-pointer from the corner to quickly push the lead to six.\n\nThe Raptors got within three, but McRoberts grabbed a key rebound and kicked the ball out to run more time off the clock. Gordon was fouled and converted one of two foul shots.\n\nMullens, who missed his first four free throws in the game, knocked down two from the line with 11.1 seconds left to help Charlotte secure the win. He stole the ensuing inbounds pass and made two more free throws.\n\n\"It stinks because we just had a great practice and came in here ready to win,\" Gay said. \"I guess we just have to go back to the drawing board.\"\n\nThe Raptors have dropped 10 of 14.\n\nThe Bobcats looked flat early on just two nights after posting season highs in points, field goal percentage and assists in a 119-114 win over Washington.\n\nToronto jumped to a 17-6 lead behind DeRozan, who scored 12 in the first quarter.\n\nBut the Bobcats (16-52) stormed back to take a five-point lead at halftime as Henderson started to heat up and backup point guard Jannero Pargo connected on a pair of 3-pointers.\n\n\"I think we thought the game was going to be easy,\" Raptors coach Dwane Casey said. \"Typical NBA game where the shots were falling and it started going easy so we kind of relaxed a little bit. So we go out on the second quarter, and they got us back on our heels and took control.\"\n\nGame notes Pargo, playing on a 10-day contract, is 10-of-16 from beyond the arc in his past three games with the Bobcats. ... Jonas Valanciunas and Kyle Lowry each had 18 points for the Raptors (26-42). ... The Bobcats are averaging 11.7 turnovers over their past 10 games, down from 14.1 in the previous 58 games.",
+  "tags_rule": [
+    "ThreePointExplosion",
+    "CoachComment"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Stable",
+    "Narrative": "Standard",
+    "Health": "Stable",
+    "Tactical": "Standard",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:56.185962",
+  "pipeline_version": "v1"
+}

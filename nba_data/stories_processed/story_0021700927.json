@@ -1,0 +1,26 @@
+{
+  "game_id": "0021700927",
+  "espn_id": "400975673",
+  "date": "Mar 02, 2018",
+  "matchup": "CHA @ PHI",
+  "headline": "76ers rally to beat Hornets 110-99, 13th straight in Philly",
+  "cleaned_body": "PHILADELPHIA --  Ersan Ilyasova's return to Philadelphia came in time to key a comeback against the Hornets.\n\nThe \"Trust the Process!\" chants rang out in the final minute and the 76ers -- who won just 10 times in 2015-16 -- won the type of game that proved why they might make some noise in the playoffs.\n\nIlyasova scored 11 of his 18 points in the fourth quarter in his first home game since he rejoined the Sixers, Joel Embiid had 23 points and 15 rebounds, and Philadelphia beat Charlotte 110-99 on Friday night.\n\n\"I told him, `Let's do whatever we had going on last year,\" Embiid said. \"He played great. Everybody had a great second half. But I was excited to have him back.\"\n\nIlyasova played 53 games for the Sixers last season before he was traded to Atlanta. The Hawks waived him this week and he was enticed to reunite with a familiar organization ready to make a run at the postseason.\n\n\"I'm glad I came,\" he said.\n\nSo were the Sixers, once Ilyasova delivered a flawless fourth (4 for 4 from the floor, sank both free throws) that compensated for Embiid's scoreless quarter. Embiid had been otherwise dominant in a lopsided matchup against Dwight Howard.\n\nThe Sixers won their 13th straight game at the Wells Fargo Center.\n\n\"I think, for me, I need that energy,\" Embiid said. \"We've got to put on a show. It's great, especially if we make the playoffs, it'll be louder than usual.\"\n\nThe Sixers were coming off an impressive 108-97 win over the Cleveland Cavaliers on Thursday night that ended an 11-game losing streak against the Eastern Conference champions. Coach Brett Brown said playing the second of a back-to-back at home against a Hornets team badly in need of victories would be a nice test.\n\n\"We're closer than we've ever been to achieving a pretty significant goal. We don't feel like we're there at all, and I don't see complacency creeping in there,\" Brown said. \"We're playing a team in desperation mode.\"\n\nLed by Kemba Walker and Frank Kaminsky, the determined Hornets charged to a 14-point lead and seemed poised to snatch a needed road win.\n\nThe 76ers stole the win right back.\n\nDario Saric and Ilyasova hit consecutive 3-pointers for a 91-89 lead in the fourth that sent a stout crowd that had trudged through a storm to get to the Wells Fargo Center into a frenzy.\n\nThe only thing that could derail the Sixers at this point would be a serious injury to Embiid or Rookie of the Year candidate Ben Simmons.\n\nEmbiid, playing with four fouls, crashed to the court on a hard foul in the third and instantly grabbed his lower back. Embiid was slow to rise but did and made two free throws. He brushed off his discomfort and stormed down the court on the next possession for a bucket that cut the Sixers' deficit to 80-74 through three.\n\nWalker scored 31 points and Kaminsky 19 for the Hornets. Nicolas Batum had 14 points, 13 rebounds and eight assists.\n\nThe Hornets entered four games out of the final playoff spot in the Eastern Conference and still need to leap Detroit to reach eighth. They completely unraveled in the fourth and coach Steve Clifford was hit with a technical foul in the final seconds.\n\n\"We made so many mistakes and they capitalized,\" Walker said. \"We've got to play better. We've got to finish games better.\"\n\nWhile Embiid dominated, the Hornets got nothing out Howard. He picked up three fouls in the first quarter and played only 10 minutes for the half. He heard one of the loudest ovations of the night when he clanged two consecutive free throws in the third quarter and earned fans a free dessert from a fast-food joint.\n\nTIP-INS\n\nHornets: F Cody Zeller sat out with a sore left knee and Michael Kidd-Gilchrist scored nine points after he missed a game with a sore hamstring.\n\nSixers: Brown said reaction to Saric's dunk in the closing seconds in the win over the Cavs was \"overblown.\" \"It was not meant to be done disrespectfully,\" Brown said. ... Team owner Josh Harris was linked to the White House this week when it was reported he met multiple times with Jared Kushner, the son-in-law of President Donald Trump. Of Harris' connection to the White House, Brown said, \"I haven't given it one bit of thought.\"\n\nKING SIMMONS\n\nClifford compared Simmons' size and athleticism to a young LeBron James. Simmons and James are friends and the two embraced following Philadelphia's win over the Cavs.\n\n\"His ability to get the ball going toward the basket into the paint, and then deliver really any pass, which was LeBron's big strength also when he was younger,\" Clifford said.\n\nUP NEXT\n\nHornets: Play Sunday at Toronto.\n\nSixers: Play Sunday at Milwaukee.",
+  "tags_rule": [
+    "MomentumShift",
+    "ClutchShot",
+    "Streak",
+    "CoachComment",
+    "InjuryReport",
+    "PhysicalGame"
+  ],
+  "regime_output": {
+    "Performance": "Plateau",
+    "Momentum": "Comeback",
+    "Narrative": "Standard",
+    "Health": "InjuryRisk",
+    "Tactical": "Physical",
+    "Variance": "Low"
+  },
+  "processed_at": "2025-12-06T13:04:52.984418",
+  "pipeline_version": "v1"
+}
