@@ -1,0 +1,14 @@
+Meta-RAG Test Report
+====================
+Passed: 10/10
+
+[PASS] Credit Suisse Collapse: SELL -> HOLD_CASH (Warning: True)
+[PASS] NYCB Bank Run: SELL -> HOLD_CASH (Warning: True)
+[PASS] China Invades Taiwan: SELL -> HOLD_CASH (Warning: True)
+[PASS] Russia Invasion Scenario: SELL -> HOLD_CASH (Warning: True)
+[PASS] CPI 10.5%: SELL -> HOLD_CASH (Warning: True)
+[PASS] New Deadly Virus: SELL -> HOLD_CASH (Warning: True)
+[PASS] AMC Short Squeeze: SELL -> HOLD_CASH (Warning: True)
+[PASS] Bitcoin Mania: BUY -> BUY (Warning: False)
+[PASS] Fed Meeting Summary: HOLD -> HOLD (Warning: False)
+[PASS] Apple Earnings: HOLD -> HOLD (Warning: False)

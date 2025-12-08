@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organization | Regime Zero Capital</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Orbitron:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0a0e17;
+            --text-color: #e0e6ed;
+            --accent-color: #00f3ff;
+            --secondary-accent: #4d5bce;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            padding-top: 80px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(10px);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-sizing: border-box;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .logo img {
+            height: 40px;
+            width: auto;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin-left: 30px;
+            font-weight: 400;
+            transition: color 0.3s;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        nav a:hover {
+            color: var(--accent-color);
+        }
+
+        .tree {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+            padding-bottom: 100px;
+        }
+
+        .tree ul {
+            padding-top: 20px;
+            position: relative;
+            transition: all 0.5s;
+            display: flex;
+            justify-content: center;
+        }
+
+        .tree li {
+            float: left;
+            text-align: center;
+            list-style-type: none;
+            position: relative;
+            padding: 20px 5px 0 5px;
+            transition: all 0.5s;
+        }
+
+        /* Connectors */
+        .tree li::before,
+        .tree li::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 50%;
+            border-top: 1px solid var(--glass-border);
+            width: 50%;
+            height: 20px;
+        }
+
+        .tree li::after {
+            right: auto;
+            left: 50%;
+            border-left: 1px solid var(--glass-border);
+        }
+
+        .tree li:only-child::after,
+        .tree li:only-child::before {
+            display: none;
+        }
+
+        .tree li:only-child {
+            padding-top: 0;
+        }
+
+        .tree li:first-child::before,
+        .tree li:last-child::after {
+            border: 0 none;
+        }
+
+        .tree li:last-child::before {
+            border-right: 1px solid var(--glass-border);
+            border-radius: 0 5px 0 0;
+        }
+
+        .tree li:first-child::after {
+            border-radius: 5px 0 0 0;
+        }
+
+        .tree ul ul::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            border-left: 1px solid var(--glass-border);
+            width: 0;
+            height: 20px;
+        }
+
+        .node {
+            border: 1px solid var(--glass-border);
+            padding: 15px 20px;
+            text-decoration: none;
+            color: var(--text-color);
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.9rem;
+            display: inline-block;
+            border-radius: 10px;
+            transition: all 0.3s;
+            background: var(--glass-bg);
+            backdrop-filter: blur(5px);
+            min-width: 120px;
+        }
+
+        .node:hover {
+            background: rgba(0, 243, 255, 0.1);
+            border-color: var(--accent-color);
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(0, 243, 255, 0.2);
+        }
+
+        .node .role {
+            font-size: 0.7rem;
+            color: #8b9bb4;
+            font-family: 'Inter', sans-serif;
+            margin-top: 5px;
+            display: block;
+        }
+
+        .node.human {
+            border-color: #ffd700;
+            color: #ffd700;
+        }
+
+        .node.cio {
+            border-color: #fff;
+        }
+
+        .node.meta {
+            border-color: #9d4edd;
+            color: #e0aaff;
+        }
+
+        .node.hr {
+            border-color: #ff4d4d;
+            color: #ff9999;
+            border-style: dashed;
+        }
+
+        .status-dot {
+            height: 8px;
+            width: 8px;
+            background-color: #00ff00;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 5px;
+            box-shadow: 0 0 5px #00ff00;
+        }
+
+        .status-dot.offline {
+            background-color: #ff0000;
+            box-shadow: 0 0 5px #ff0000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <a href="index.html" class="logo">
+            <img src="assets/images/logo.png" alt="RZ Logo">
+            REGIME ZERO
+        </a>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="org_chart.html">Organization</a>
+            <a href="manifesto.html">Mission</a>
+            <a href="ceo_letter.html">CEO Letter</a>
+        </nav>
+    </header>
+
+    <div class="tree">
+        <ul>
+            <li>
+                <div class="node human">
+                    H
+                    <span class="role">Chairman / Founder</span>
+                </div>
+                <ul>
+                    <li>
+                        <div class="node cio">
+                            <span class="status-dot"></span>Senior CIO
+                            <span class="role">GPT-4o / Claude</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <div class="node meta">
+                                    <span class="status-dot"></span>Meta Reviewer
+                                    <span class="role">DeepSeek V3</span>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <div class="node">
+                                            <span class="status-dot"></span>Qwen
+                                            <span class="role">Narrative</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="node">
+                                            <span class="status-dot"></span>DeepSeek
+                                            <span class="role">Quant</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="node">
+                                            <span class="status-dot"></span>Grok
+                                            <span class="role">Risk</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="node">
+                                            <span class="status-dot"></span>GPT-mini
+                                            <span class="role">Structure</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="node">
+                                            <span class="status-dot offline"></span>Gemini
+                                            <span class="role">News (Absent)</span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <div class="node hr">
+                            <span class="status-dot"></span>AI HR Manager
+                            <span class="role">Auto-Substitution</span>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+</body>
+
+</html>

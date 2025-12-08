@@ -1,0 +1,44 @@
+/* G9 Dark Mode Theme */
+body {
+    color: #E0E0E0;
+    background-color: #0E1117;
+}
+
+.stApp {
+    background-color: #0E1117;
+}
+
+h1, h2, h3 {
+    color: #00E5FF !important; /* G9 Cyan */
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.stButton>button {
+    background-color: #3A7CFF; /* G9 Blue */
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
+
+.stButton>button:hover {
+    background-color: #00E5FF;
+    color: black;
+}
+
+div[data-testid="stMetricValue"] {
+    color: #00E5FF;
+}
+
+hr {
+    border-color: #3A7CFF;
+}
+
+/* Custom Card */
+.metric-card {
+    background-color: #1E2130;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #3A7CFF;
+    margin-bottom: 10px;
+}

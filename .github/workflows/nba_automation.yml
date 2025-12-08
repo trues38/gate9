@@ -1,0 +1,57 @@
+
+name: NBA Report Automation (SaaS Factory)
+
+on:
+  schedule:
+    # Run at 15:00 UTC = 00:00 KST
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Manual Trigger Reason'
+        required: false
+        default: 'Manual Button Click'
+  repository_dispatch:
+    types: [trigger-report]
+
+jobs:
+  produce-reports:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push reports back to repo
+      
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install System Deps (DuckDB/SQLite)
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y sqlite3
+
+    - name: Install Python Deps
+      run: |
+        pip install requests openai duckdb python-dotenv supabase
+
+    - name: Run NBA Ops Pipeline
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        PYTHONPATH: .
+      run: |
+        python3 nba_ops_pipeline.py
+
+    - name: Commit and Push Report Changes
+      run: |
+        git config --global user.name 'NBA Ops Bot'
+        git config --global user.email 'ops@antigravity.ai'
+        git add web/public/reports/ web/public/data/ admin_status.json
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-Generated Reports (SaaS Pipeline)" && git push)

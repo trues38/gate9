@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manifesto | Regime Zero Capital</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Orbitron:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0a0e17;
+            --text-color: #e0e6ed;
+            --accent-color: #00f3ff;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            padding-top: 80px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(10px);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .logo img {
+            height: 40px;
+            width: auto;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin-left: 30px;
+            font-weight: 400;
+            transition: color 0.3s;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        nav a:hover {
+            color: var(--accent-color);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 40px;
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 3rem;
+            color: var(--accent-color);
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        h2 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            color: #fff;
+            margin-top: 40px;
+            border-bottom: 1px solid var(--glass-border);
+            padding-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #a0aec0;
+            margin-bottom: 20px;
+        }
+
+        .highlight {
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        blockquote {
+            border-left: 4px solid var(--accent-color);
+            margin: 30px 0;
+            padding-left: 20px;
+            font-style: italic;
+            color: #fff;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <a href="index.html" class="logo">
+            <img src="assets/images/logo.png" alt="RZ Logo">
+            REGIME ZERO
+        </a>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="org_chart.html">Organization</a>
+            <a href="manifesto.html">Mission</a>
+            <a href="ceo_letter.html">CEO Letter</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>THE MANIFESTO</h1>
+
+        <blockquote>
+            "Markets are not random. They are stories repeated in rhyme."
+        </blockquote>
+
+        <h2>Our Mission</h2>
+        <p>
+            Regime Zero Capital was founded on a singular, radical premise: <span class="highlight">Human emotion is the
+                greatest inefficiency in financial markets.</span>
+        </p>
+        <p>
+            By removing the human trader from the loop and replacing them with a consensus of specialized Artificial
+            Intelligences, we aim to achieve a level of objectivity, speed, and historical recall that is biologically
+            impossible.
+        </p>
+
+        <h2>The "Zero" Philosophy</h2>
+        <p>
+            <strong>Zero Bias.</strong> Our models do not have egos. They do not hold losing positions out of pride.<br>
+            <strong>Zero Latency.</strong> We process news the millisecond it hits the wire.<br>
+            <strong>Zero Hallucination.</strong> Through our proprietary "Meta-Reviewer" architecture, we cross-verify
+            every claim against hard data.
+        </p>
+
+        <h2>The Future</h2>
+        <p>
+            We are not just building a hedge fund. We are building the <span class="highlight">Market Operating
+                System</span> of the 21st century. A system that doesn't just predict the future, but understands the
+            past better than any historian.
+        </p>
+    </div>
+
+</body>
+
+</html>

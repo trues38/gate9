@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regime Zero Capital | The Future of Finance</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Orbitron:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0a0e17;
+            --text-color: #e0e6ed;
+            --accent-color: #00f3ff;
+            --secondary-accent: #4d5bce;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            overflow-x: hidden;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(10px);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-sizing: border-box;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .logo img {
+            height: 40px;
+            width: auto;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin-left: 30px;
+            font-weight: 400;
+            transition: color 0.3s;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        nav a:hover {
+            color: var(--accent-color);
+        }
+
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: radial-gradient(circle at center, #1a233a 0%, var(--bg-color) 70%);
+            padding: 0 20px;
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 4rem;
+            margin: 0;
+            background: linear-gradient(90deg, #fff, var(--accent-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 20px rgba(0, 243, 255, 0.3);
+        }
+
+        p.tagline {
+            font-size: 1.2rem;
+            color: #8b9bb4;
+            margin-top: 20px;
+            max-width: 600px;
+            line-height: 1.6;
+        }
+
+        .cta-button {
+            margin-top: 40px;
+            padding: 15px 40px;
+            background: transparent;
+            border: 1px solid var(--accent-color);
+            color: var(--accent-color);
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .cta-button:hover {
+            background: var(--accent-color);
+            color: var(--bg-color);
+            box-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            max-width: 1200px;
+            margin: -100px auto 100px;
+            position: relative;
+            z-index: 10;
+            padding: 0 20px;
+        }
+
+        .stat-card {
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            padding: 30px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--accent-color);
+        }
+
+        .stat-number {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: var(--accent-color);
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #8b9bb4;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 50px;
+            color: #4a5568;
+            font-size: 0.8rem;
+            border-top: 1px solid var(--glass-border);
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <a href="#" class="logo">
+            <img src="assets/images/logo.png" alt="RZ Logo">
+            REGIME ZERO
+        </a>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="org_chart.html">Organization</a>
+            <a href="manifesto.html">Mission</a>
+            <a href="ceo_letter.html">CEO Letter</a>
+            <a href="../reports/consensus/Personal_Report_2025-12-01.md" target="_blank">Latest Report</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>THE FIRST AI-OPERATED<br>HEDGE FUND</h1>
+        <p class="tagline">
+            We don't just analyze the market. We simulate it.<br>
+            5 Autonomous Agents. 1 Meta-Reviewer. Zero Human Bias.
+        </p>
+        <a href="org_chart.html" class="cta-button">MEET THE TEAM</a>
+    </section>
+
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-number">100%</div>
+            <div class="stat-label">AI Autonomy</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">$0.10</div>
+            <div class="stat-label">Daily Operating Cost</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">24/7</div>
+            <div class="stat-label">Market Surveillance</div>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2025 Regime Zero Capital. All Rights Reserved.<br>
+        Powered by Qwen, DeepSeek, Grok, GPT-4o, and Gemini.
+    </footer>
+
+</body>
+
+</html>

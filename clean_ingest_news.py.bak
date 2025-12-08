@@ -1,0 +1,112 @@
+import os
+import re
+import time
+from dotenv import load_dotenv
+from supabase import create_client
+
+# Load environment variables
+load_dotenv()
+url = os.environ.get("SUPABASE_URL")
+key = os.environ.get("SUPABASE_KEY")
+supabase = create_client(url, key)
+
+# 1. Regex Cleaning Logic
+def is_noise(text):
+    if not text:
+        return True
+    noise_patterns = [
+        r"(?i)(celebrity|kpop|idol|entertainment)",
+        r"(?i)(sports|soccer|baseball|nba|mlb|kbo)",
+        r"(?i)(weather|rain|typhoon|storm)",
+        r"(?i)(accident|murder|crime|arrest|police)",
+        r"(?i)(festival|concert|award|movie|drama|tv)",
+        r"(?i)(coupon|event|discount|sale|promotion)",
+        r"(?i)(local|city hall|district|council)"
+    ]
+    for p in noise_patterns:
+        if re.search(p, text):
+            return True
+    return False
+
+# 2. Deduplication Logic (Using Set for 100% accuracy)
+seen_titles = set()
+
+def run_cleaning():
+    print("🚀 Starting cleanup of 'ingest_news'...")
+    
+    # Fetch IDs and Titles
+    # We'll fetch in chunks using range (offset-based)
+    offset = 0
+    batch_size = 1000
+    total_deleted = 0
+    total_processed = 0
+    
+    while True:
+        print(f"📥 Fetching batch at offset {offset}...")
+        try:
+            # Supabase range is inclusive: range(start, end)
+            response = supabase.table("ingest_news")\
+                .select("id, title")\
+                .range(offset, offset + batch_size - 1)\
+                .execute()
+                
+            rows = response.data
+            if not rows:
+                print("✅ No more rows found.")
+                break
+                
+            ids_to_delete = []
+            good_rows_count = 0
+            
+            for row in rows:
+                row_id = row.get('id')
+                title = row.get('title', '')
+                
+                # Check Noise
+                if is_noise(title):
+                    ids_to_delete.append(row_id)
+                    continue
+                
+                # Check Duplicate
+                # Normalize for dedupe
+                clean_key = title.lower().strip()
+                if clean_key in seen_titles:
+                    ids_to_delete.append(row_id)
+                    continue
+                
+                seen_titles.add(clean_key)
+                good_rows_count += 1
+            
+            # Perform Deletion
+            if ids_to_delete:
+                print(f"🗑️ Deleting {len(ids_to_delete)} rows in this batch...")
+                # Delete in chunks of 50 to be safe
+                for i in range(0, len(ids_to_delete), 50):
+                    batch_ids = ids_to_delete[i:i+50]
+                    supabase.table("ingest_news").delete().in_("id", batch_ids).execute()
+                total_deleted += len(ids_to_delete)
+            
+            total_processed += len(rows)
+            
+            # Update offset: We only advance by the number of GOOD rows we left behind.
+            # Because the deleted rows are gone, the next rows shift up.
+            offset += good_rows_count
+            
+            print(f"✅ Processed {len(rows)} rows. Total Deleted: {total_deleted}. Next Offset: {offset}")
+            
+            if len(rows) < batch_size:
+                break
+                
+        except Exception as e:
+            print(f"❌ Error: {e}")
+            # If error, maybe skip this batch or break?
+            # To avoid infinite loop on error, we break or increment offset blindly?
+            # Let's increment offset to skip the problem area
+            offset += batch_size
+            print(f"⚠️ Skipping batch due to error. New Offset: {offset}")
+            time.sleep(1)
+
+    print(f"🎉 Cleanup Complete! Processed: {total_processed}, Deleted: {total_deleted}")
+
+if __name__ == "__main__":
+    run_cleaning()

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGIME ZERO // TERMINAL</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts: JetBrains Mono for that dev/terminal feel -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="scanline"></div>
+    <div class="terminal-container">
+        <!-- Header -->
+        <header class="terminal-header">
+            <div class="brand">
+                <span class="blink cursor">█</span> REGIME ZERO <span class="version">v1.0.5</span>
+            </div>
+            <div class="header-right">
+                <button id="theme-toggle" class="theme-toggle">[ LIGHT MODE ]</button>
+                <div class="datetime" id="current-time">LOADING...</div>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="terminal-body">
+
+            <!-- Loading Sequence (Hidden after load) -->
+            <div id="boot-sequence" class="boot-sequence">
+                <div class="log-line">> INITIALIZING REGIME ANALYZER...</div>
+            </div>
+
+            <!-- Dashboard (Hidden initially) -->
+            <div id="dashboard" class="dashboard hidden">
+
+                <!-- Top Section: Regime Match -->
+                <section class="panel match-panel">
+                    <div class="panel-header">
+                        <span class="panel-title">[ MARKET REGIME ANALYSIS ]</span>
+                        <span class="panel-status status-active">● LIVE</span>
+                    </div>
+                    <div class="match-content">
+                        <div class="match-stat">
+                            <span class="label">SIMILARITY MATCH</span>
+                            <span class="value highlight-green">87%</span>
+                        </div>
+                        <div class="match-stat">
+                            <span class="label">HISTORICAL TWIN</span>
+                            <span class="value highlight-amber">2022-03-15</span>
+                        </div>
+                        <div class="match-stat">
+                            <span class="label">REGIME TYPE</span>
+                            <span class="value">INSTITUTIONAL ACCUMULATION</span>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Middle Section: Comparison -->
+                <section class="panel comparison-panel">
+                    <div class="comparison-grid">
+                        <!-- Today -->
+                        <div class="sub-panel">
+                            <div class="sub-header">┌─ TODAY (2025-12-03) ──────────────┐</div>
+                            <div class="asset-row">
+                                <span class="asset-name">BTC </span>
+                                <span class="asset-val">Institutional Accumulation</span>
+                            </div>
+                            <div class="asset-row">
+                                <span class="asset-name">FED </span>
+                                <span class="asset-val">Hawkish Hold (+1.24%)</span>
+                            </div>
+                            <div class="asset-row">
+                                <span class="asset-name">OIL </span>
+                                <span class="asset-val text-red">Bearish Action (-1.26%)</span>
+                            </div>
+                            <div class="asset-row">
+                                <span class="asset-name">GOLD</span>
+                                <span class="asset-val text-green">Safe Haven Bid (+1.51%)</span>
+                            </div>
+                            <div class="sub-footer">└───────────────────────────────────┘</div>
+                        </div>
+
+                        <!-- Twin -->
+                        <div class="sub-panel">
+                            <div class="sub-header">┌─ TWIN (2022-03-15) ───────────────┐</div>
+                            <div class="info-row">
+                                <span class="info-label">Context:</span>
+                                <span class="info-val">Ukraine War Early Phase</span>
+                            </div>
+                            <div class="info-row">
+                                <span class="info-label">Result:</span>
+                                <span class="info-val text-green">+15% (3w)</span> → <span
+                                    class="info-val text-red">-25% (6w)</span>
+                            </div>
+                            <div class="info-row">
+                                <span class="info-label">Trigger:</span>
+                                <span class="info-val">Fed Hawkish Surprise</span>
+                            </div>
+                            <div class="sub-footer">└───────────────────────────────────┘</div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Bottom Section: Interpretation & Signals -->
+                <div class="bottom-grid">
+                    <section class="panel interpretation-panel">
+                        <div class="panel-header">[ INTERPRETATION ]</div>
+                        <div class="text-content">
+                            <p>> Both periods show institutional crypto adoption amid tight Fed policy.</p>
+                            <p>> Key difference: 2025 has lower geopolitical risk compared to 2022.</p>
+                            <p>> Short-term rally possible, but Fed remains constraining factor.</p>
+                        </div>
+                    </section>
+
+                    <section class="panel signals-panel">
+                        <div class="panel-header">[ ACTION SIGNALS ]</div>
+                        <div class="signal-list">
+                            <div class="signal-item warning">
+                                <span class="icon">⚠</span> CAUTION: Mixed signals detected
+                            </div>
+                            <div class="signal-item success">
+                                <span class="icon">✓</span> SUPPORT: Institutional bid intact
+                            </div>
+                            <div class="signal-item danger">
+                                <span class="icon">✗</span> RISK: Macro headwinds persist
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- ASCII Chart Area -->
+                <section class="panel chart-panel">
+                    <div class="panel-header">[ BTC PRICE ACTION (7D) ]</div>
+                    <pre class="ascii-chart">
+$96,000 ┤           ╭──╮
+$94,000 ┤        ╭──╯  ╰─╮
+$92,000 ┤      ╭─╯       ╰──╮
+$90,000 ┤   ╭──╯            ╰─
+$88,000 ┤╭──╯
+        └┴──┴──┴──┴──┴──┴──┴──
+         M  T  W  T  F  S  S
+                    </pre>
+                </section>
+
+            </div>
+        </main>
+
+        <!-- Command Line Footer -->
+        <footer class="terminal-footer">
+            <div class="command-line">
+                <span class="prompt">user@regime-zero:~$</span>
+                <input type="text" id="cmd-input" placeholder="Type /help for commands..." autocomplete="off"
+                    spellcheck="false">
+            </div>
+            <div class="status-bar">
+                <span>CONNECTED: 12ms</span>
+                <span>MEM: 24GB</span>
+                <span>CPU: 12%</span>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

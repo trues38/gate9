@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGIME PRO ALPHA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #050505;
+            color: #E0E0E0;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .surging {
+            color: #00FF94;
+            background: rgba(0, 255, 148, 0.1);
+            border: 1px solid rgba(0, 255, 148, 0.2);
+        }
+
+        .slumping {
+            color: #FF0055;
+            background: rgba(255, 0, 85, 0.1);
+            border: 1px solid rgba(255, 0, 85, 0.2);
+        }
+
+        .stable {
+            color: #888;
+            background: rgba(136, 136, 136, 0.1);
+            border: 1px solid rgba(136, 136, 136, 0.2);
+        }
+    </style>
+</head>
+
+<body class="p-8">
+
+    <header class="border-b-2 border-gray-800 pb-6 mb-8 flex justify-between items-end">
+        <div>
+            <h1 class="text-5xl font-black tracking-tighter text-white mb-2">
+                REGIME PRO <span class="text-[#00FF94]">LIVE</span>
+            </h1>
+            <p class="text-sm text-gray-500 uppercase tracking-widest" id="timestamp">
+                LOADING INTELLIGENCE...
+            </p>
+        </div>
+        <div class="text-right">
+            <p class="text-xs text-[#00FF94] animate-pulse">● SYSTEM ONLINE (ROSTER: VERIFIED)</p>
+            <p class="text-xs text-gray-600">ACCESS: TIER 1</p>
+        </div>
+    </header>
+
+    <section class="mb-12">
+        <h2 class="text-xs font-bold text-gray-500 mb-4 border-l-2 border-[#00FF94] pl-2 uppercase">Layer 3: Market
+            Conviction</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center border border-gray-800 p-8 bg-[#0A0A0A]">
+            <div>
+                <div class="text-8xl font-black text-white tracking-tighter" id="market-conf">
+                    --<span class="text-2xl text-gray-500">%</span>
+                </div>
+                <div class="text-xl text-[#00FF94] font-bold mt-2" id="market-mood">
+                    CALCULATING...
+                </div>
+            </div>
+            <div class="text-sm text-gray-400 border-l border-gray-800 pl-6">
+                <p><strong>STRATEGY:</strong> <span id="strategy-text">Analyzing market volatility...</span></p>
+            </div>
+        </div>
+    </section>
+
+    <main>
+        <div class="flex justify-between items-end mb-4">
+            <h2 class="text-xs font-bold text-gray-500 border-l-2 border-[#00FF94] pl-2 uppercase">High Conviction
+                Opportunities</h2>
+            <span class="text-xs text-gray-600">SORTED BY: ALPHA SIGNAL</span>
+        </div>
+
+        <table class="w-full text-left border-collapse border border-gray-800">
+            <thead class="bg-[#0A0A0A]">
+                <tr class="text-xs text-gray-500 border-b border-gray-800">
+                    <th class="py-3 pl-4">ASSET (PLAYER)</th>
+                    <th class="py-3">REGIME STATUS</th>
+                    <th class="py-3">HISTORICAL DNA</th>
+                    <th class="py-3">CONFIDENCE</th>
+                </tr>
+            </thead>
+            <tbody id="player-table">
+                <tr>
+                    <td colspan="4" class="py-12 text-center text-[#00FF94]">Decrypting Signals...</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <script>
+        // EMBEDDED DATA START
+        const REPORT_DATA = {
+            "generated_at": "2025-12-07T03:25:00.000000",
+            "market_confidence": 76.8,
+            "market_mood": "RISK_ON",
+            "total_players": 209,
+            "players": [
+                {
+                    "id": "murrade01",
+                    "name": "Dejounte Murray",
+                    "team": "New Orleans Pelicans",
+                    "status": "🔥 Surging",
+                    "vector": "Ascending",
+                    "momentum_score": 2.07,
+                    "conviction_score": 91,
+                    "narrative": "Regime: Blowout, RecordBreaking, Clutch. \nDNA Match: Mookie Blaylock (68.3%)",
+                    "last_updated": "Nov 23, 2024"
+                },
+                {
+                    "id": "davisan01",
+                    "name": "Anthony Davis",
+                    "team": "Los Angeles Lakers",
+                    "status": "🔥 Surging",
+                    "vector": "Ascending",
+                    "momentum_score": 1.95,
+                    "conviction_score": 89,
+                    "narrative": "Regime: Euphoric, Clutch, RecordBreaking. \nDNA Match: David Robinson (78.9%)",
+                    "last_updated": "Dec 05, 2024"
+                },
+                {
+                    "id": "tatumja01",
+                    "name": "Jayson Tatum",
+                    "team": "Boston Celtics",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.88,
+                    "conviction_score": 88,
+                    "narrative": "Regime: Clutch, Euphoric, Highlight. \nDNA Match: Grant Hill (69.4%)",
+                    "last_updated": "Nov 28, 2024"
+                },
+                {
+                    "id": "wembyvi01",
+                    "name": "Victor Wembanyama",
+                    "team": "San Antonio Spurs",
+                    "status": "🔥 Surging",
+                    "vector": "Ascending",
+                    "momentum_score": 2.1,
+                    "conviction_score": 87,
+                    "narrative": "Regime: RecordBreaking, Fearless, Highlight. \nDNA Match: None (Unprecedented)",
+                    "last_updated": "Nov 30, 2024"
+                },
+                {
+                    "id": "gilgesh01",
+                    "name": "Shai Gilgeous-Alexander",
+                    "team": "Oklahoma City Thunder",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.63,
+                    "conviction_score": 73,
+                    "narrative": "Regime: Blowout, Clutch, Frustrated. \nDNA Match: Sam Mack (63.4%)",
+                    "last_updated": "Oct 30, 2023"
+                },
+                {
+                    "id": "holmgch01",
+                    "name": "Chet Holmgren",
+                    "team": "Oklahoma City Thunder",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.61,
+                    "conviction_score": 72,
+                    "narrative": "Regime: Blowout, Comeback, Frustrated. \nDNA Match: Tom Gugliotta (63.7%)",
+                    "last_updated": "Oct 30, 2023"
+                },
+                {
+                    "id": "curryst01",
+                    "name": "Stephen Curry",
+                    "team": "Golden State Warriors",
+                    "status": "📉 Descending",
+                    "vector": "Descending",
+                    "momentum_score": -0.2,
+                    "conviction_score": 67,
+                    "narrative": "Regime: Frustrated, Rivalry, Blowout. \nDNA Match: Rony Seikaly (66.2%)",
+                    "last_updated": "Nov 26, 2024"
+                },
+                {
+                    "id": "williji01",
+                    "name": "Jalen Williams",
+                    "team": "Oklahoma City Thunder",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.8,
+                    "conviction_score": 79,
+                    "narrative": "Regime: Efficient, Teamwork, Clutch. \nDNA Match: Latrell Sprewell (65.9%)",
+                    "last_updated": "Dec 02, 2024"
+                },
+                {
+                    "id": "sengual01",
+                    "name": "Alperen Sengun",
+                    "team": "Houston Rockets",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.7,
+                    "conviction_score": 75,
+                    "narrative": "Regime: Highlight, Resilient, Playmaking. \nDNA Match: Arvydas Sabonis (68.5%)",
+                    "last_updated": "Nov 28, 2024"
+                },
+                {
+                    "id": "cunnica01",
+                    "name": "Cade Cunningham",
+                    "team": "Detroit Pistons",
+                    "status": "⚖️ Stable",
+                    "vector": "Ascending",
+                    "momentum_score": 0.1,
+                    "conviction_score": 70,
+                    "narrative": "Regime: Rivalry, Clutch, Frustrated. \nDNA Match: Lindsey Hunter (68.6%)",
+                    "last_updated": "Nov 25, 2024"
+                },
+                {
+                    "id": "knechda01",
+                    "name": "Dalton Knecht",
+                    "team": "Los Angeles Lakers",
+                    "status": "📈 Ascending",
+                    "vector": "Ascending",
+                    "momentum_score": 0.5,
+                    "conviction_score": 67,
+                    "narrative": "Regime: Resilient, Clutch, Blowout. \nDNA Match: Darrick Martin (66.3%)",
+                    "last_updated": "Nov 13, 2024"
+                }
+            ]
+        };
+        // EMBEDDED DATA END
+
+        function renderReport(data) {
+            // Header
+            document.getElementById('timestamp').innerText = `UPDATED: ${new Date(data.generated_at).toLocaleString()}`;
+
+            // Market Signal
+            document.getElementById('market-conf').innerHTML = `${data.market_confidence}<span class="text-2xl text-gray-500">%</span>`;
+            document.getElementById('market-mood').innerText = `MARKET MOOD: ${data.market_mood}`;
+
+            // Strategy Text
+            const strat = data.market_confidence > 70
+                ? "High confidence detected across Alpha Regime assets. Aggressive sizing authorized."
+                : "Market signals are mixed. Exposure reduction recommended.";
+            document.getElementById('strategy-text').innerText = strat;
+
+            // Player Table
+            const tbody = document.getElementById('player-table');
+            tbody.innerHTML = '';
+
+            // Show TOP 20
+            data.players.slice(0, 20).forEach(p => {
+                // Status Class
+                let statusClass = 'stable';
+                if (p.status.includes('Surging') || p.status.includes('Ascending')) statusClass = 'surging';
+                if (p.status.includes('Slumping') || p.status.includes('Collapsing') || p.status.includes('Descending')) statusClass = 'slumping';
+
+                // DNA Parsing
+                let dna = "--";
+                if (p.narrative.includes("DNA Match:")) {
+                    dna = p.narrative.split("DNA Match: ")[1];
+                }
+
+                const row = `
+                        <tr class="border-b border-gray-800 hover:bg-[#111] transition-colors">
+                            <td class="py-4 pl-4">
+                                <div class="font-bold text-white text-lg">${p.name}</div>
+                                <div class="text-xs text-gray-600 font-mono">${p.team}</div>
+                            </td>
+                            <td class="py-4">
+                                <span class="px-2 py-1 text-xs font-bold rounded ${statusClass}">
+                                    ${p.status}
+                                </span>
+                            </td>
+                            <td class="py-4 text-xs font-mono text-gray-300">
+                                <span class="text-[#00FF94]">${dna}</span>
+                            </td>
+                            <td class="py-4 pr-4">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-32 h-1.5 bg-[#1A1A1A] rounded-full overflow-hidden">
+                                        <div class="h-full bg-[#00FF94]" style="width: ${p.conviction_score}%"></div>
+                                    </div>
+                                    <span class="text-lg font-black text-white">${p.conviction_score}</span>
+                                </div>
+                            </td>
+                        </tr>
+                    `;
+                tbody.innerHTML += row;
+            });
+        }
+
+        // INIT
+        renderReport(REPORT_DATA);
+    </script>
+</body>
+
+</html>

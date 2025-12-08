@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>G9 Regime Zero | Universe</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            background-color: #050505;
+            color: #e0e0e0;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+        }
+
+        #graph {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .hud {
+            position: absolute;
+            top: 24px;
+            left: 24px;
+            background: rgba(10, 10, 16, 0.85);
+            padding: 24px;
+            border-radius: 16px;
+            border: 1px solid #333;
+            box-shadow: 0 0 30px rgba(0, 255, 204, 0.1);
+            max-width: 320px;
+            backdrop-filter: blur(12px);
+            transition: all 0.3s ease;
+        }
+
+        .hud:hover {
+            border-color: #00ffcc;
+            box-shadow: 0 0 40px rgba(0, 255, 204, 0.2);
+        }
+
+        h1 {
+            margin: 0 0 8px 0;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 20px;
+            color: #00ffcc;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 0 10px rgba(0, 255, 204, 0.5);
+        }
+
+        .subtitle {
+            font-size: 11px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+        }
+
+        #info {
+            font-size: 13px;
+            line-height: 1.6;
+            color: #ccc;
+        }
+
+        .regime-name {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 16px;
+            color: #fff;
+            margin-bottom: 4px;
+            display: block;
+        }
+
+        .regime-date {
+            font-size: 11px;
+            color: #00ffcc;
+            opacity: 0.8;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 12px;
+            font-size: 11px;
+            color: #666;
+        }
+
+        .loading {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            color: #444;
+            font-size: 10px;
+            font-family: 'Orbitron', sans-serif;
+        }
+    </style>
+    <script src="//unpkg.com/d3"></script>
+    <script src="//unpkg.com/force-graph"></script>
+</head>
+
+<body>
+    <div id="graph"></div>
+
+    <div class="hud">
+        <h1>G9 Regime Zero</h1>
+        <div class="subtitle">Semantic Market Universe</div>
+        <div id="info">
+            <p>Hover over a node to analyze the regime structure.</p>
+            <p id="status-text" style="color:#555; font-size:11px;">> Awaiting Input...</p>
+        </div>
+    </div>
+
+    <div class="loading">SYSTEM STATUS: ONLINE</div>
+
+    <script>
+        Promise.all([
+            fetch('viz_data.json').then(res => {
+                if (!res.ok) throw new Error(`Failed to load viz_data.json: ${res.statusText}`);
+                return res.json();
+            }),
+            fetch('twin_data.json').then(res => res.json()).catch(() => null)
+        ]).then(([data, twinData]) => {
+            // Update Status
+            document.getElementById('status-text').textContent = "> System Ready. Hover/Click to Analyze.";
+            document.getElementById('status-text').style.color = "#00ffcc";
+
+            // Add Twin Link if exists
+            if (twinData) {
+                // Check if nodes exist in data
+                const nodeIds = new Set(data.nodes.map(n => n.id));
+                if (nodeIds.has(twinData.source) && nodeIds.has(twinData.target)) {
+                    data.links.push({
+                        source: twinData.source,
+                        target: twinData.target,
+                        value: 5,
+                        type: 'twin',
+                        color: '#ff0055'
+                    });
+
+                    // Add label to HUD
+                    const info = document.getElementById('info');
+                    info.innerHTML += `
+                            <div style="margin-top:20px; border-top:1px solid #333; padding-top:10px;">
+                                <span style="color:#ff0055; font-weight:bold;">⚡️ HISTORICAL TWIN ACTIVE</span><br>
+                                <span style="font-size:11px; color:#aaa;">${twinData.source} ↔ ${twinData.target}</span><br>
+                                <span style="font-size:11px; color:#00ffcc;">Similarity: ${(twinData.similarity * 100).toFixed(1)}%</span>
+                            </div>
+                        `;
+                }
+            }
+
+            const Graph = ForceGraph()
+                (document.getElementById('graph'))
+                .graphData(data)
+                .nodeId('id')
+                .nodeLabel('name')
+                .nodeAutoColorBy('group')
+                .nodeVal(node => node.val * 1.5)
+                .linkWidth(link => link.type === 'twin' ? 3 : link.value * 0.5)
+                .linkColor(link => link.type === 'twin' ? '#ff0055' : 'rgba(100, 255, 218, 0.15)')
+                .linkDirectionalParticles(link => link.type === 'twin' ? 4 : 0)
+                .linkDirectionalParticleSpeed(link => link.type === 'twin' ? 0.01 : 0)
+                .linkDirectionalParticleWidth(4)
+                // 🧲 MAGNETIC PHYSICS
+                .d3Force('link', d3.forceLink().id(d => d.id).distance(link => link.type === 'twin' ? 50 : 100).strength(link => link.type === 'twin' ? 0.8 : 0.05))
+                .d3Force('charge', d3.forceManyBody().strength(-100)) // Reduce repulsion
+                .backgroundColor('#050505')
+                .nodeCanvasObject((node, ctx, globalScale) => {
+                    const label = node.name;
+                    const fontSize = 12 / globalScale;
+                    ctx.font = `${fontSize}px Sans-Serif`;
+                    const textWidth = ctx.measureText(label).width;
+                    const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2);
+
+                    ctx.fillStyle = 'rgba(0, 0, 0, 0.8)';
+                    // Dim non-twin nodes if twin is active
+                    const isTwinNode = twinData && (node.id === twinData.source || node.id === twinData.target);
+                    const opacity = twinData ? (isTwinNode ? 1 : 0.1) : 1;
+
+                    if (node.id === window.hoverNodeId || isTwinNode) {
+                        ctx.fillStyle = `rgba(0, 255, 204, ${opacity * 0.2})`;
+                    }
+
+                    ctx.beginPath();
+                    ctx.arc(node.x, node.y, node.val * 4, 0, 2 * Math.PI, false);
+                    ctx.fillStyle = node.color || '#00ffcc';
+                    ctx.globalAlpha = opacity; // Apply dimming
+
+                    // Highlight Twin Nodes
+                    if (isTwinNode) {
+                        ctx.fillStyle = '#ff0055';
+                        ctx.shadowBlur = 30;
+                        ctx.shadowColor = '#ff0055';
+                        ctx.globalAlpha = 1;
+                    } else if (node.id === window.hoverNodeId) {
+                        ctx.shadowBlur = 15;
+                        ctx.shadowColor = node.color;
+                    } else {
+                        ctx.shadowBlur = 0;
+                    }
+
+                    ctx.fill();
+                    ctx.globalAlpha = 1; // Reset
+                })
+                .onNodeHover(node => {
+                    window.hoverNodeId = node ? node.id : null;
+                    document.body.style.cursor = node ? 'pointer' : null;
+                    if (node) {
+                        updateHUD(node);
+                    }
+                })
+                .onNodeClick(node => {
+                    if (node) {
+                        updateHUD(node);
+                        Graph.centerAt(node.x, node.y, 1000);
+                        Graph.zoom(6, 2000);
+                    }
+                });
+
+            function updateHUD(node) {
+                const info = document.getElementById('info');
+                if (!node) return;
+
+                const signatureList = (node.signature || []).map(s => `<li>${s}</li>`).join('');
+                const vibe = node.vibe || 'N/A';
+                const desc = node.desc || 'No description available.';
+                const risks = (node.risks || []).map(r => `<li>${r}</li>`).join('');
+                const upside = (node.upside || []).map(u => `<li>${u}</li>`).join('');
+
+                info.innerHTML = `
+                    <span class="regime-name">${node.name}</span>
+                    <span class="regime-date">${node.date}</span>
+                    
+                    <div style="margin-top:10px; font-size:11px; color:#aaa;">
+                        <strong>VIBE:</strong> ${vibe}
+                    </div>
+
+                    <div style="border-left: 2px solid ${node.color}; padding-left: 10px; margin-top: 10px;">
+                        <strong>STRUCTURAL:</strong> ${desc}
+                    </div>
+
+                    <div style="margin-top:10px;">
+                        <strong style="color:#00ffcc; font-size:11px;">INPUT SIGNAL:</strong>
+                        <ul style="margin:4px 0; padding-left:15px; font-size:10px; color:#ddd;">
+                            ${signatureList || '<li>No signal data</li>'}
+                        </ul>
+                    </div>
+                    
+                    ${risks ? `
+                    <div style="margin-top:10px;">
+                        <strong style="color:#ff5555; font-size:11px;">RISKS:</strong>
+                        <ul style="margin:4px 0; padding-left:15px; font-size:10px; color:#faa;">
+                            ${risks}
+                        </ul>
+                    </div>` : ''}
+
+                    <div class="stat-row">
+                        <span>FAMILY: ${node.group}</span>
+                    </div>
+                `;
+
+                // Re-append Twin Info if exists
+                if (twinData) {
+                    info.innerHTML += `
+                        <div style="margin-top:20px; border-top:1px solid #333; padding-top:10px;">
+                            <span style="color:#ff0055; font-weight:bold;">⚡️ HISTORICAL TWIN ACTIVE</span><br>
+                            <span style="font-size:11px; color:#aaa;">${twinData.source} ↔ ${twinData.target}</span><br>
+                            <span style="font-size:11px; color:#00ffcc;">Similarity: ${(twinData.similarity * 100).toFixed(1)}%</span>
+                        </div>
+                    `;
+                }
+            }
+
+            // Auto-focus on Twin
+            if (twinData) {
+                setTimeout(() => {
+                    const node1 = data.nodes.find(n => n.id === twinData.source);
+                    const node2 = data.nodes.find(n => n.id === twinData.target);
+                    if (node1 && node2) {
+                        // Center between them
+                        const x = (node1.x + node2.x) / 2;
+                        const y = (node1.y + node2.y) / 2;
+                        Graph.centerAt(x, y, 2000);
+                        Graph.zoom(4, 2000);
+                    }
+                }, 2000);
+            }
+        }).catch(err => {
+            document.getElementById('info').innerHTML = `
+                <div style="color: #ff5555; font-weight: bold;">⚠️ SYSTEM ERROR</div>
+                <div style="font-size: 11px; margin-top: 5px;">${err.message}</div>
+            `;
+        });
+    </script>
+</body>
+
+</html>
