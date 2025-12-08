@@ -63,19 +63,19 @@ export default function AdminDashboard() {
             {/* Header */}
             <header className="mb-10 flex justify-between items-center">
                 <div>
-                    <h1 className="text-3xl font-bold text-amber-500">NBA OPS CENTER</h1>
+                    <h1 className="text-3xl font-bold text-amber-500">NBA 작전 상황실 (OPS CENTER)</h1>
                     <p className="text-slate-400 mt-2 font-mono text-sm">
-                        MASTER CONTROL // DATE: {status?.date || 'Unknown'}
+                        마스터 컨트롤 // 날짜: {status?.date || '알 수 없음'}
                     </p>
                 </div>
                 <div className="flex gap-4">
                     {status?.db_status === "Healthy" ? (
                         <span className="px-4 py-2 bg-green-900 text-green-300 rounded border border-green-700 font-mono text-sm flex items-center gap-2">
-                            ● API ONLINE
+                            ● API 정상 (ONLINE)
                         </span>
                     ) : (
                         <span className="px-4 py-2 bg-red-900 text-red-300 rounded border border-red-700 font-mono text-sm flex items-center gap-2">
-                            ● API OFFLINE
+                            ● API 오프라인 (OFFLINE)
                         </span>
                     )}
                 </div>
@@ -86,33 +86,33 @@ export default function AdminDashboard() {
 
                 {/* Module 1: Lineup Integrity */}
                 <StatusCard
-                    title="Lineup Integrity"
-                    value={status?.lineups_synced ? "SYNCED" : "STALE"}
-                    detail={`${status?.lineup_player_count || 0} active players`}
+                    title="라인업 무결성"
+                    value={status?.lineups_synced ? "동기화 완료" : "오류/구버전"}
+                    detail={`${status?.lineup_player_count || 0}명 선수 활성`}
                     isHealthy={!!status?.lineups_synced}
                 />
 
                 {/* Module 2: Regime Snapshots */}
                 <StatusCard
-                    title="Regime Engine"
-                    value={status?.regime_synced ? "ACTIVE" : "MISSING"}
-                    detail={`${status?.regime_team_count || 0} teams monitored`}
+                    title="레짐 엔진 (Regime)"
+                    value={status?.regime_synced ? "정상 작동" : "데이터 없음"}
+                    detail={`${status?.regime_team_count || 0}개 팀 감시 중`}
                     isHealthy={!!status?.regime_synced}
                 />
 
                 {/* Module 3: Injury Feeds */}
                 <StatusCard
-                    title="Injury Feeds"
-                    value="PENDING"
-                    detail="Feed Implementation in progress"
+                    title="부상자 리포트"
+                    value="대기 중"
+                    detail="피드 연동 개발 진행 중"
                     isHealthy={false} // Todo
                     isWarning={true}
                 />
 
                 {/* Module 4: DuckDB State */}
                 <StatusCard
-                    title="Data Lake (DuckDB)"
-                    value={status?.db_status || "UNKNOWN"}
+                    title="데이터 레이크 (DuckDB)"
+                    value={status?.db_status || "알 수 없음"}
                     detail="nba_analytics.duckdb"
                     isHealthy={status?.db_status === "Healthy"}
                 />
@@ -121,7 +121,7 @@ export default function AdminDashboard() {
             {/* Control Panel */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="bg-slate-800 rounded-lg border border-slate-700 p-6">
-                    <h2 className="text-xl font-bold mb-4 text-slate-300">⚡ ACTION CONTROLS</h2>
+                    <h2 className="text-xl font-bold mb-4 text-slate-300">⚡ 액션 컨트롤 (Action Controls)</h2>
                     <div className="flex gap-4">
                         <button
                             onClick={handleGenerate}
@@ -131,7 +131,7 @@ export default function AdminDashboard() {
                                 : "bg-blue-600 hover:bg-blue-500 text-white"
                                 }`}
                         >
-                            {genLoading ? "🚀 Launching..." : "RUN BATCH GENERATION"}
+                            {genLoading ? "🚀 실행 중..." : "배치(Batch) 생성 시작"}
                         </button>
                     </div>
                 </div>
@@ -141,7 +141,7 @@ export default function AdminDashboard() {
 
             {/* Raw Data Preview (Snapshot Viewer) */}
             <div className="mt-10">
-                <h2 className="text-xl font-bold mb-4 text-slate-300">📋 SNAPSHOT VIEWER (Sample: Team 21)</h2>
+                <h2 className="text-xl font-bold mb-4 text-slate-300">📋 스냅샷 뷰어 (샘플: Team 21)</h2>
                 <RosterPreview teamId={21} />
             </div>
 
@@ -175,9 +175,9 @@ function OverridePanel() {
                     notes: "Manual Override from Dashboard"
                 })
             });
-            alert("Override Applied! Re-run Batch to see effect.");
+            alert("수정 요청 완료! 배치를 다시 실행하면 반영됩니다.");
         } catch (e) {
-            alert("Failed to apply override");
+            alert("수정 요청 실패");
         } finally {
             setLoading(false);
         }
@@ -185,25 +185,25 @@ function OverridePanel() {
 
     return (
         <div className="bg-slate-800 rounded-lg border border-amber-900/50 p-6">
-            <h2 className="text-xl font-bold mb-4 text-amber-500">🔧 MANUAL OVERRIDE</h2>
+            <h2 className="text-xl font-bold mb-4 text-amber-500">🔧 수동 데이터 수정 (Manual Override)</h2>
             <form onSubmit={handleSubmit} className="flex flex-col gap-3">
                 <div className="flex gap-2">
                     <input className="bg-slate-900 border border-slate-700 p-2 rounded text-white flex-1"
-                        placeholder="Team ID (e.g. 21)" value={teamId} onChange={e => setTeamId(e.target.value)} />
+                        placeholder="팀 ID (예: 21)" value={teamId} onChange={e => setTeamId(e.target.value)} />
                     <input className="bg-slate-900 border border-slate-700 p-2 rounded text-white flex-[2]"
-                        placeholder="Player Name" value={player} onChange={e => setPlayer(e.target.value)} />
+                        placeholder="선수 이름" value={player} onChange={e => setPlayer(e.target.value)} />
                 </div>
                 <div className="flex gap-2">
                     <select className="bg-slate-900 border border-slate-700 p-2 rounded text-white flex-1"
                         value={field} onChange={e => setField(e.target.value)}>
-                        <option value="status">Status (Injury)</option>
-                        <option value="regime">Regime Score</option>
+                        <option value="status">상태 (Status)</option>
+                        <option value="regime">레짐 점수 (Regime Score)</option>
                     </select>
                     <input className="bg-slate-900 border border-slate-700 p-2 rounded text-white flex-[2]"
-                        placeholder="New Value (e.g. OUT)" value={value} onChange={e => setValue(e.target.value)} />
+                        placeholder="새 값 (예: OUT)" value={value} onChange={e => setValue(e.target.value)} />
                 </div>
                 <button disabled={loading} className="bg-amber-700 hover:bg-amber-600 text-white font-bold py-2 rounded mt-2">
-                    {loading ? "Applying..." : "FORCE UPDATE"}
+                    {loading ? "적용 중..." : "강제 업데이트 실행"}
                 </button>
             </form>
         </div>
@@ -245,10 +245,10 @@ function RosterPreview({ teamId }: { teamId: number }) {
             <table className="w-full text-sm text-left">
                 <thead className="bg-slate-900 text-slate-400 uppercase">
                     <tr>
-                        <th className="px-4 py-3">Player</th>
-                        <th className="px-4 py-3">Status</th>
-                        <th className="px-4 py-3">Last Pts</th>
-                        <th className="px-4 py-3">Role</th>
+                        <th className="px-4 py-3">선수명</th>
+                        <th className="px-4 py-3">상태</th>
+                        <th className="px-4 py-3">최근 득점</th>
+                        <th className="px-4 py-3">역할</th>
                     </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-700 text-slate-300">
@@ -258,7 +258,7 @@ function RosterPreview({ teamId }: { teamId: number }) {
                             <td className="px-4 py-3 text-green-400">{p.status}</td>
                             <td className="px-4 py-3">{p.last_pts}</td>
                             <td className="px-4 py-3">
-                                {p.starter ? <span className="text-amber-400">STARTER</span> : "Reserve"}
+                                {p.starter ? <span className="text-amber-400">선발 (STARTER)</span> : "교체 (Reserve)"}
                             </td>
                         </tr>
                     ))}
