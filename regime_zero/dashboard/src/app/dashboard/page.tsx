@@ -12,6 +12,8 @@ import {
 import { cn } from "@/lib/utils"
 import { supabase } from "@/lib/supabase"
 
+export const dynamic = 'force-dynamic'
+
 interface NewsItem {
     id: number
     title: string
