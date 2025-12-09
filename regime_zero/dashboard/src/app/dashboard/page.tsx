@@ -10,7 +10,7 @@ import {
     ArrowUpRight, ArrowDownRight, Globe, Lock, Unlock, LogOut, RefreshCw, ChevronDown
 } from "lucide-react"
 import { cn } from "@/lib/utils"
-import { supabase } from "@/lib/supabase"
+import { supabase } from "@/lib/db"
 
 export const dynamic = 'force-dynamic'
 
