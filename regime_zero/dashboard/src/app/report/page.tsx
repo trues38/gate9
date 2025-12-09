@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react"
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { cn } from "@/lib/utils"
-import { supabase } from "@/lib/supabase"
+import { supabase } from "../../lib/db"
 import { Terminal } from "lucide-react"
 
 interface ReportMeta {
