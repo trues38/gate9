@@ -1,0 +1,48 @@
+{
+  "date": "2025-12-05",
+  "last_updated": "2025-12-05T09:00:00.000000",
+  "weather": "흐림",
+  "weather_summary": "우크라이나 전쟁 장기화 및 FTX 사태 여파로 시장 불확실성 지속, 안전자산 선호 심리 강화",
+  "actions": [
+    {
+      "type": "buy",
+      "asset": "금 ETF",
+      "label": "골드 강세",
+      "reason": "안전자산 수요 증가, 지정학적 리스크 헤지"
+    },
+    {
+      "type": "reduce",
+      "asset": "CRYPTO",
+      "label": "시장 위축",
+      "reason": "FTX 사태 여파로 인한 신뢰 하락 및 규제 강화 우려"
+    },
+    {
+      "type": "hold",
+      "asset": "KOSPI",
+      "label": "관망세",
+      "reason": "글로벌 불확실성 속 방향성 탐색"
+    }
+  ],
+  "factor_interpretation": {
+    "rates": "4.0% (Stable)",
+    "dollar": "105.2 (Strong)",
+    "risk": "Risk-Off (High)",
+    "liquidity": "Tightening"
+  },
+  "one_line_insight": "2022년 12월 유사 패턴: 우크라이나 전쟁 및 FTX 사태 (Similarity 95%)",
+  "risks": [
+    "지정학적 리스크 고조 (우크라이나)",
+    "가상자산 시장 변동성 확대"
+  ],
+  "checklist": [
+    "금리 정책 방향성 모니터링",
+    "주요 기술주 실적 발표 주시"
+  ],
+  "historian_insight": {
+    "match_date": "2022-12-01",
+    "regime_name": "Ukraine War and FTX Collapse",
+    "similarity_score": 95,
+    "reasoning": "Both dates capture a narrative of prolonged Russia-Ukraine war with headlines exposing Russian military vulnerabilities, crypto market stress prompting exchange volatility halts and Japanese tax reforms akin to post-FTX regulations, alongside resilient Cyber Monday consumer spending in a mild risk-on environment with elevated gold as safe-haven demand. Low oil reflects contained energy inflation despite geopolitics, mirroring 2022's dynamics.",
+    "human_explanation": "Today reminds me of December 2022 amid the grinding Ukraine war and FTX crypto meltdown—Russian troops struggling without gear, exchanges slamming brakes on wild orders, Japan taming crypto taxes, yet Cyber Monday tech deals fire up shoppers, with gold screaming caution but markets holding mild risk-on."
+  }
+}
