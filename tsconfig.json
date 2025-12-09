@@ -38,6 +38,7 @@
   ],
   "exclude": [
     "node_modules",
-    "bible_os"
+    "bible_os",
+    "regime_zero/scripts"
   ]
 }
