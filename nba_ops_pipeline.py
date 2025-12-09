@@ -72,11 +72,11 @@ def run_ops_pipeline():
         try:
             subprocess.run(["python3", "nba_data/pipeline/04_crawl_stories.py"], check=True)
             add_integrity("News Feed", "SUCCESS", "news_ingest", "Auto-Crawled", {
-                "pyscript": "nba_data/pipeline/04_crawl_stories.py", "key_check": "ESPN_API_KEY", "infra": "GitHub Action", "logs": "stdout", "common_error": "429 Rate Limit"
+                "pyscript": "nba_data/pipeline/04_crawl_stories.py", "key_check": "None (Public API)", "infra": "GitHub Action", "logs": "stdout", "common_error": "429 Rate Limit"
             })
             recentness['news'] = 100
         except subprocess.CalledProcessError as e:
-            add_integrity("News Feed", "FAILED", "news_ingest", "Error", {"pyscript": "04_crawl_stories.py", "key_check": "ESPN_API_KEY", "infra": "GitHub Action", "logs": "stdout", "common_error": "Rate Limit"})
+            add_integrity("News Feed", "FAILED", "news_ingest", "Error", {"pyscript": "04_crawl_stories.py", "key_check": "None (Public API)", "infra": "GitHub Action", "logs": "stdout", "common_error": "Rate Limit"})
             error_logs.append({"timestamp": datetime.datetime.now().strftime("%H:%M"), "module": "News", "message": "Crawl Failed", "id": "err_news", "trace": str(e)})
 
     # 2.2 Stats Update
