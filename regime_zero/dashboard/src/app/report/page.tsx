@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react"
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { cn } from "@/lib/utils"
-import { supabase } from "../../lib/db"
+import { createClient } from "@supabase/supabase-js"
 import { Terminal } from "lucide-react"
 
 interface ReportMeta {
@@ -37,6 +37,11 @@ export default function TerminalReport() {
     const logsEndRef = useRef<HTMLDivElement>(null)
     const router = useRouter()
 
+    const getSupabase = () => createClient(
+        process.env.NEXT_PUBLIC_SUPABASE_URL || "https://placeholder.supabase.co",
+        process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder_key"
+    )
+
     // Boot Sequence
     useEffect(() => {
         const bootLogs = [
@@ -62,6 +67,7 @@ export default function TerminalReport() {
     // Fetch History
     useEffect(() => {
         async function fetchHistory() {
+            const supabase = getSupabase()
             const { data, error } = await supabase
                 .from('intelligence_reports')
                 .select('id, date, type')
@@ -81,6 +87,7 @@ export default function TerminalReport() {
 
     async function fetchReport(id: string) {
         setLoadingReport(true)
+        const supabase = getSupabase()
         const { data, error } = await supabase
             .from('intelligence_reports')
             .select('*')
