@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-09 08:12:55.332608",
+  "steps": [
+    "Fetched 0 Overrides",
+    "Batch Reports Generated",
+    "Roster Snapshot Created",
+    "Synced 385 Rows to DB"
+  ],
+  "errors": [
+    "Regime Update: cannot access local variable 'subprocess' where it is not associated with a value"
+  ],
+  "success": false
+}
