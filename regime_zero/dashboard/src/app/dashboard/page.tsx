@@ -9,8 +9,8 @@ import {
     ChevronRight, Info, CloudRain, CloudLightning, Sun, Moon, Terminal,
     ArrowUpRight, ArrowDownRight, Globe, Lock, Unlock, LogOut, RefreshCw, ChevronDown
 } from "lucide-react"
+import { createClient } from "@supabase/supabase-js"
 import { cn } from "@/lib/utils"
-import { supabase } from "../../lib/db"
 
 export const dynamic = 'force-dynamic'
 
@@ -93,6 +93,11 @@ function DashboardContent() {
     }, [])
 
     useEffect(() => {
+        const supabase = createClient(
+            process.env.NEXT_PUBLIC_SUPABASE_URL || "https://placeholder.supabase.co",
+            process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder_key"
+        )
+
         async function fetchData() {
             setLoading(true)
             console.log(`Fetching news for Country: ${selectedCountry}, Category: ${selectedCategory}`)
