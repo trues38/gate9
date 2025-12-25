@@ -1,0 +1,17 @@
+{
+    "game_id": "manual_game_2",
+    "espn_id": "manual_2",
+    "date": "20251214",
+    "matchup": "San Antonio Spurs at Oklahoma City Thunder",
+    "headline": "NBA Cup Semifinal: Spurs face Thunder in Las Vegas",
+    "text": "The San Antonio Spurs challenge the Oklahoma City Thunder in the NBA Cup Semifinals. Shai Gilgeous-Alexander looks to lead OKC.",
+    "odds": {
+        "valid": true,
+        "provider": "Manual Input",
+        "details": "OKC -9.5",
+        "overUnder": 225.5,
+        "spread": "-9.5",
+        "source_type": "manual_override"
+    },
+    "source": "manual"
+}

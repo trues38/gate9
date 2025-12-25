@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-02_NO_MIN",
+  "date": "2025-12-02",
+  "teams": {
+    "home": "NO",
+    "away": "MIN"
+  },
+  "team_regimes": {
+    "NO": {
+      "momentum": -5.340000152587891,
+      "volatility": 1.0199999809265137,
+      "label": "Crisis"
+    },
+    "MIN": {
+      "momentum": 2.75,
+      "volatility": 1.0399999618530273,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "NO": [
+      {
+        "name": "Zion Williamson",
+        "momentum": 21.4,
+        "trend": "Stable",
+        "last_5_avg": 21.4
+      },
+      {
+        "name": "Trey Murphy III",
+        "momentum": 15.2,
+        "trend": "Slumping",
+        "last_5_avg": 15.2
+      },
+      {
+        "name": "Jordan Poole",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Jeremiah Fears",
+        "momentum": 14.6,
+        "trend": "Surging",
+        "last_5_avg": 14.6
+      },
+      {
+        "name": "Saddiq Bey",
+        "momentum": 19.8,
+        "trend": "Stable",
+        "last_5_avg": 19.8
+      }
+    ],
+    "MIN": [
+      {
+        "name": "Anthony Edwards",
+        "momentum": 37.2,
+        "trend": "Slumping",
+        "last_5_avg": 37.2
+      },
+      {
+        "name": "Julius Randle",
+        "momentum": 17.0,
+        "trend": "Stable",
+        "last_5_avg": 17.0
+      },
+      {
+        "name": "Jaden McDaniels",
+        "momentum": 10.0,
+        "trend": "Stable",
+        "last_5_avg": 10.0
+      },
+      {
+        "name": "Donte DiVincenzo",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Naz Reid",
+        "momentum": 12.2,
+        "trend": "Stable",
+        "last_5_avg": 12.2
+      }
+    ]
+  },
+  "injuries": {
+    "NO": [],
+    "MIN": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "NO": "Backtest Mode: News Hidden",
+    "MIN": "Backtest Mode: News Hidden"
+  }
+}

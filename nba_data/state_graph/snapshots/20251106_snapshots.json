@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2025-11-06",
+    "game_id": "401810037",
+    "matchup": "LAC @ PHX",
+    "home_team": {
+      "team_id": "PHX",
+      "record": "4-5",
+      "rest_days": 1,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAC",
+      "record": "3-5",
+      "rest_days": 1,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "referees": [
+      "Josh Tiven",
+      "Che Flores",
+      "Nick Buchert"
+    ],
+    "state_notes": [
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out",
+      "Grayson Allen - Out",
+      "Jalen Green - Out"
+    ]
+  }
+]

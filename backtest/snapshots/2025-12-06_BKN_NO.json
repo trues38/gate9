@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-06_BKN_NO",
+  "date": "2025-12-06",
+  "teams": {
+    "home": "BKN",
+    "away": "NO"
+  },
+  "team_regimes": {
+    "BKN": {
+      "momentum": -3.450000047683716,
+      "volatility": 1.2400000095367432,
+      "label": "Crisis"
+    },
+    "NO": {
+      "momentum": -5.46999979019165,
+      "volatility": 0.9800000190734863,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "BKN": [
+      {
+        "name": "Michael Porter Jr.",
+        "momentum": 28.4,
+        "trend": "Stable",
+        "last_5_avg": 28.4
+      },
+      {
+        "name": "Cam Thomas",
+        "momentum": 16.4,
+        "trend": "Slumping",
+        "last_5_avg": 16.4
+      },
+      {
+        "name": "Nic Claxton",
+        "momentum": 11.6,
+        "trend": "Stable",
+        "last_5_avg": 11.6
+      },
+      {
+        "name": "Noah Clowney",
+        "momentum": 17.8,
+        "trend": "Surging",
+        "last_5_avg": 17.8
+      },
+      {
+        "name": "Ziaire Williams",
+        "momentum": 10.8,
+        "trend": "Surging",
+        "last_5_avg": 10.8
+      }
+    ],
+    "NO": [
+      {
+        "name": "Zion Williamson",
+        "momentum": 21.4,
+        "trend": "Stable",
+        "last_5_avg": 21.4
+      },
+      {
+        "name": "Trey Murphy III",
+        "momentum": 17.2,
+        "trend": "Stable",
+        "last_5_avg": 17.2
+      },
+      {
+        "name": "Jordan Poole",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Jeremiah Fears",
+        "momentum": 17.6,
+        "trend": "Stable",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Saddiq Bey",
+        "momentum": 20.6,
+        "trend": "Stable",
+        "last_5_avg": 20.6
+      }
+    ]
+  },
+  "injuries": {
+    "BKN": [],
+    "NO": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "BKN": "Backtest Mode: News Hidden",
+    "NO": "Backtest Mode: News Hidden"
+  }
+}

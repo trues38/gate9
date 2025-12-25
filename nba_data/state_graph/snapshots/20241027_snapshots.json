@@ -1,0 +1,264 @@
+[
+  {
+    "date": "2024-10-27",
+    "game_id": "401704663",
+    "matchup": "PHI @ IND",
+    "home_team": {
+      "team_id": "IND",
+      "record": "1-2",
+      "rest_days": 1,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "away_team": {
+      "team_id": "PHI",
+      "record": "1-2",
+      "rest_days": 1,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "referees": [
+      "Tre Maddox",
+      "Mitchell Ervin",
+      "Jonathan Sterling"
+    ],
+    "state_notes": [
+      "Ben Sheppard - Out"
+    ]
+  },
+  {
+    "date": "2024-10-27",
+    "game_id": "401704664",
+    "matchup": "MIL @ BKN",
+    "home_team": {
+      "team_id": "BKN",
+      "record": "1-2",
+      "rest_days": 1,
+      "injuries": [
+        "Drake Powell - Out",
+        "Cam Thomas - Out",
+        "Haywood Highsmith - Out"
+      ],
+      "lineup": [
+        "Nic Claxton",
+        "Noah Clowney",
+        "Egor Demin",
+        "Tyson Etienne",
+        "E.J. Liddell",
+        "Terance Mann",
+        "Tyrese Martin",
+        "Michael Porter Jr."
+      ]
+    },
+    "away_team": {
+      "team_id": "MIL",
+      "record": "1-2",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "referees": [
+      "Zach Zarba",
+      "Jason Goldenberg",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out",
+      "Drake Powell - Out",
+      "Cam Thomas - Out"
+    ]
+  },
+  {
+    "date": "2024-10-27",
+    "game_id": "401704665",
+    "matchup": "NO @ POR",
+    "home_team": {
+      "team_id": "POR",
+      "record": "1-2",
+      "rest_days": 1,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "NO",
+      "record": "2-1",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Poole - Day-To-Day",
+        "Herbert Jones - Day-To-Day",
+        "Dejounte Murray - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "John Goble",
+      "Tom Washington",
+      "Ashley Moyer-Gleich"
+    ],
+    "state_notes": [
+      "Jerami Grant - Out"
+    ]
+  },
+  {
+    "date": "2024-10-27",
+    "game_id": "401704666",
+    "matchup": "ATL @ OKC",
+    "home_team": {
+      "team_id": "OKC",
+      "record": "3-0",
+      "rest_days": 0,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "away_team": {
+      "team_id": "ATL",
+      "record": "2-1",
+      "rest_days": 1,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "referees": [
+      "Ed Malloy",
+      "Dedric Taylor",
+      "Che Flores"
+    ],
+    "state_notes": [
+      "OKC back-to-back"
+    ]
+  },
+  {
+    "date": "2024-10-27",
+    "game_id": "401704667",
+    "matchup": "LAC @ GS",
+    "home_team": {
+      "team_id": "GS",
+      "record": "2-1",
+      "rest_days": 1,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "LAC",
+      "record": "2-1",
+      "rest_days": 0,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Jacyn Goble",
+      "Brandon Schwab"
+    ],
+    "state_notes": [
+      "LAC back-to-back",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out",
+      "Seth Curry - Out",
+      "Al Horford - Out"
+    ]
+  }
+]

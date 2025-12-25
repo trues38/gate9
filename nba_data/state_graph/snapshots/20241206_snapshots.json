@@ -1,0 +1,356 @@
+[
+  {
+    "date": "2024-12-06",
+    "game_id": "401704899",
+    "matchup": "ORL @ PHI",
+    "home_team": {
+      "team_id": "PHI",
+      "record": "6-15",
+      "rest_days": 1,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "16-9",
+      "rest_days": 1,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Brian Forte",
+      "Mark Lindsay",
+      "Matt Kallio"
+    ],
+    "state_notes": [
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704900",
+    "matchup": "LAL @ ATL",
+    "home_team": {
+      "team_id": "ATL",
+      "record": "13-11",
+      "rest_days": 1,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAL",
+      "record": "12-11",
+      "rest_days": 1,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "referees": [
+      "Eric Dalen",
+      "Kevin Scott",
+      "Matt Myers"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704901",
+    "matchup": "MIL @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "19-4",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIL",
+      "record": "11-11",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "referees": [
+      "Brent Barnaky",
+      "Ben Taylor",
+      "Scott Twardoski"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out",
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704902",
+    "matchup": "IND @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "10-14",
+      "rest_days": 0,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "IND",
+      "record": "10-14",
+      "rest_days": 1,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "referees": [
+      "Sean Wright",
+      "Natalie Sago",
+      "J.D. Ralls"
+    ],
+    "state_notes": [
+      "CHI back-to-back",
+      "Ben Sheppard - Out",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704903",
+    "matchup": "SAC @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "11-12",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "SAC",
+      "record": "11-13",
+      "rest_days": 0,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Michael Smith",
+      "Sean Corbin"
+    ],
+    "state_notes": [
+      "SAC back-to-back",
+      "SA back-to-back"
+    ]
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704904",
+    "matchup": "MIN @ GS",
+    "home_team": {
+      "team_id": "GS",
+      "record": "13-9",
+      "rest_days": 0,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "12-10",
+      "rest_days": 1,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Jacyn Goble",
+      "Karl Lane",
+      "Jenna Schroeder"
+    ],
+    "state_notes": [
+      "GS back-to-back",
+      "Seth Curry - Out",
+      "Al Horford - Out"
+    ]
+  },
+  {
+    "date": "2024-12-06",
+    "game_id": "401704905",
+    "matchup": "UTAH @ POR",
+    "home_team": {
+      "team_id": "POR",
+      "record": "8-15",
+      "rest_days": 2,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "UTAH",
+      "record": "5-17",
+      "rest_days": 2,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Zach Zarba",
+      "Marat Kogut",
+      "Andy Nagy"
+    ],
+    "state_notes": [
+      "Jerami Grant - Out"
+    ]
+  }
+]

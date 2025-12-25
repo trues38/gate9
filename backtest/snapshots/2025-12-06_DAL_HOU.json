@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-06_DAL_HOU",
+  "date": "2025-12-06",
+  "teams": {
+    "home": "DAL",
+    "away": "HOU"
+  },
+  "team_regimes": {
+    "DAL": {
+      "momentum": -0.8700000047683716,
+      "volatility": 0.7099999785423279,
+      "label": "Slumping"
+    },
+    "HOU": {
+      "momentum": 6.070000171661377,
+      "volatility": 1.2899999618530273,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "DAL": [
+      {
+        "name": "Anthony Davis",
+        "momentum": 13.4,
+        "trend": "Slumping",
+        "last_5_avg": 13.4
+      },
+      {
+        "name": "Cooper Flagg",
+        "momentum": 22.0,
+        "trend": "Slumping",
+        "last_5_avg": 22.0
+      },
+      {
+        "name": "P.J. Washington",
+        "momentum": 17.6,
+        "trend": "Slumping",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Naji Marshall",
+        "momentum": 15.8,
+        "trend": "Stable",
+        "last_5_avg": 15.8
+      },
+      {
+        "name": "Max Christie",
+        "momentum": 9.4,
+        "trend": "Stable",
+        "last_5_avg": 9.4
+      }
+    ],
+    "HOU": [
+      {
+        "name": "Kevin Durant",
+        "momentum": 24.4,
+        "trend": "Stable",
+        "last_5_avg": 24.4
+      },
+      {
+        "name": "Alperen Sengun",
+        "momentum": 24.0,
+        "trend": "Stable",
+        "last_5_avg": 24.0
+      },
+      {
+        "name": "Amen Thompson",
+        "momentum": 17.8,
+        "trend": "Surging",
+        "last_5_avg": 17.8
+      },
+      {
+        "name": "Jabari Smith Jr.",
+        "momentum": 14.4,
+        "trend": "Stable",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Reed Sheppard",
+        "momentum": 12.8,
+        "trend": "Stable",
+        "last_5_avg": 12.8
+      }
+    ]
+  },
+  "injuries": {
+    "DAL": [],
+    "HOU": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "DAL": "Backtest Mode: News Hidden",
+    "HOU": "Backtest Mode: News Hidden"
+  }
+}

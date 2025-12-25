@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2025-12-10",
+    "game_id": "401809835",
+    "matchup": "PHX @ OKC",
+    "home_team": {
+      "team_id": "OKC",
+      "record": "24-1",
+      "rest_days": 2,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "away_team": {
+      "team_id": "PHX",
+      "record": "14-11",
+      "rest_days": 1,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "referees": [
+      "James Williams",
+      "Ray Acosta",
+      "Danielle Scott"
+    ],
+    "state_notes": [
+      "Grayson Allen - Out",
+      "Jalen Green - Out"
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "game_id": "401809836",
+    "matchup": "SA @ LAL",
+    "home_team": {
+      "team_id": "LAL",
+      "record": "17-7",
+      "rest_days": 2,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "17-7",
+      "rest_days": 1,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "John Goble",
+      "John Butler",
+      "Brandon Schwab"
+    ],
+    "state_notes": []
+  }
+]

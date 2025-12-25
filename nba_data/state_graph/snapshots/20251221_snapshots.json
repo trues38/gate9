@@ -1,0 +1,300 @@
+[
+  {
+    "date": "2025-12-21",
+    "game_id": "401810251",
+    "matchup": "CHI @ ATL",
+    "home_team": {
+      "team_id": "ATL",
+      "record": "15-15",
+      "rest_days": 1,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "away_team": {
+      "team_id": "CHI",
+      "record": "13-15",
+      "rest_days": 1,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "referees": [
+      "Marat Kogut",
+      "Mitchell Ervin",
+      "Jonathan Sterling"
+    ],
+    "state_notes": [
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "game_id": "401810252",
+    "matchup": "TOR @ BKN",
+    "home_team": {
+      "team_id": "BKN",
+      "record": "8-19",
+      "rest_days": 2,
+      "injuries": [
+        "Drake Powell - Out",
+        "Cam Thomas - Out",
+        "Haywood Highsmith - Out"
+      ],
+      "lineup": [
+        "Nic Claxton",
+        "Noah Clowney",
+        "Egor Demin",
+        "Tyson Etienne",
+        "E.J. Liddell",
+        "Terance Mann",
+        "Tyrese Martin",
+        "Michael Porter Jr."
+      ]
+    },
+    "away_team": {
+      "team_id": "TOR",
+      "record": "17-13",
+      "rest_days": 0,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "referees": [
+      "Scott Foster",
+      "Evan Scott",
+      "Natalie Sago"
+    ],
+    "state_notes": [
+      "TOR back-to-back",
+      "RJ Barrett - Out",
+      "Drake Powell - Out",
+      "Cam Thomas - Out"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "game_id": "401810253",
+    "matchup": "MIA @ NY",
+    "home_team": {
+      "team_id": "NY",
+      "record": "20-8",
+      "rest_days": 1,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "MIA",
+      "record": "15-14",
+      "rest_days": 1,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "referees": [
+      "Brian Forte",
+      "Phenizee Ransom",
+      "Nick Buchert"
+    ],
+    "state_notes": [
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "game_id": "401810254",
+    "matchup": "SA @ WSH",
+    "home_team": {
+      "team_id": "WSH",
+      "record": "5-22",
+      "rest_days": 0,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "21-7",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Jacyn Goble",
+      "Pat O'Connell"
+    ],
+    "state_notes": [
+      "SA back-to-back",
+      "WSH back-to-back"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "game_id": "401810255",
+    "matchup": "MIL @ MIN",
+    "home_team": {
+      "team_id": "MIN",
+      "record": "19-10",
+      "rest_days": 1,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIL",
+      "record": "11-18",
+      "rest_days": 2,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Tony Brothers",
+      "Jamahl Ralls"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "game_id": "401810256",
+    "matchup": "HOU @ SAC",
+    "home_team": {
+      "team_id": "SAC",
+      "record": "7-22",
+      "rest_days": 0,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "17-9",
+      "rest_days": 0,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "Josh Tiven",
+      "Che Flores",
+      "John Butler"
+    ],
+    "state_notes": [
+      "HOU back-to-back",
+      "SAC back-to-back",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out"
+    ]
+  }
+]

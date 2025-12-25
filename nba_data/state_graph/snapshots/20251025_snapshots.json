@@ -1,0 +1,284 @@
+[
+  {
+    "date": "2025-10-25",
+    "game_id": "401809955",
+    "matchup": "CHI @ ORL",
+    "home_team": {
+      "team_id": "ORL",
+      "record": "1-2",
+      "rest_days": 0,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "away_team": {
+      "team_id": "CHI",
+      "record": "2-0",
+      "rest_days": 2,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "referees": [
+      "Zach Zarba",
+      "Simone Jelks",
+      "Natalie Sago"
+    ],
+    "state_notes": [
+      "ORL back-to-back",
+      "Noa Essengue - Out",
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "game_id": "401809956",
+    "matchup": "OKC @ ATL",
+    "home_team": {
+      "team_id": "ATL",
+      "record": "1-2",
+      "rest_days": 0,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "3-0",
+      "rest_days": 1,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "Mark Lindsay",
+      "Ray Acosta",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "ATL back-to-back"
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "game_id": "401809957",
+    "matchup": "CHA @ PHI",
+    "home_team": {
+      "team_id": "PHI",
+      "record": "2-0",
+      "rest_days": 2,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "away_team": {
+      "team_id": "CHA",
+      "record": "1-1",
+      "rest_days": 2,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "referees": [
+      "Josh Tiven",
+      "Dedric Taylor",
+      "Jacyn Goble"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-10-25",
+    "game_id": "401809958",
+    "matchup": "IND @ MEM",
+    "home_team": {
+      "team_id": "MEM",
+      "record": "2-1",
+      "rest_days": 0,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "away_team": {
+      "team_id": "IND",
+      "record": "0-2",
+      "rest_days": 1,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "referees": [
+      "Brent Barnaky",
+      "Marat Kogut",
+      "Pat O'Connell"
+    ],
+    "state_notes": [
+      "MEM back-to-back",
+      "Ben Sheppard - Out",
+      "Vince Williams Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "game_id": "401809959",
+    "matchup": "PHX @ DEN",
+    "home_team": {
+      "team_id": "DEN",
+      "record": "1-1",
+      "rest_days": 1,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "PHX",
+      "record": "1-2",
+      "rest_days": 0,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "referees": [
+      "Sean Wright",
+      "Jason Goldenberg",
+      "J.T. Orr"
+    ],
+    "state_notes": [
+      "PHX back-to-back",
+      "Grayson Allen - Out",
+      "Jalen Green - Out",
+      "Tamar Bates - Out"
+    ]
+  }
+]

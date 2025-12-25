@@ -1,0 +1,1789 @@
+{
+  "start_date": "20251022",
+  "days": 40,
+  "total_games": 297,
+  "games": [
+    {
+      "game_id": "401809234",
+      "date": "20251022",
+      "matchup": "CLE @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401809933",
+      "date": "20251022",
+      "matchup": "BKN @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809934",
+      "date": "20251022",
+      "matchup": "MIA @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809935",
+      "date": "20251022",
+      "matchup": "TOR @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809936",
+      "date": "20251022",
+      "matchup": "PHI @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809937",
+      "date": "20251022",
+      "matchup": "DET @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809938",
+      "date": "20251022",
+      "matchup": "NO @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401809939",
+      "date": "20251022",
+      "matchup": "WSH @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809940",
+      "date": "20251022",
+      "matchup": "LAC @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809235",
+      "date": "20251022",
+      "matchup": "SA @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809941",
+      "date": "20251022",
+      "matchup": "SAC @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401809942",
+      "date": "20251022",
+      "matchup": "MIN @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809236",
+      "date": "20251023",
+      "matchup": "OKC @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401809237",
+      "date": "20251023",
+      "matchup": "DEN @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809946",
+      "date": "20251024",
+      "matchup": "MIL @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809943",
+      "date": "20251024",
+      "matchup": "ATL @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809944",
+      "date": "20251024",
+      "matchup": "CLE @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809945",
+      "date": "20251024",
+      "matchup": "BOS @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401809947",
+      "date": "20251024",
+      "matchup": "DET @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401809948",
+      "date": "20251024",
+      "matchup": "MIA @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401809949",
+      "date": "20251024",
+      "matchup": "SA @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401809950",
+      "date": "20251024",
+      "matchup": "WSH @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809951",
+      "date": "20251024",
+      "matchup": "MIN @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809952",
+      "date": "20251024",
+      "matchup": "GS @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809953",
+      "date": "20251024",
+      "matchup": "UTAH @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809954",
+      "date": "20251024",
+      "matchup": "PHX @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809955",
+      "date": "20251025",
+      "matchup": "CHI @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809956",
+      "date": "20251025",
+      "matchup": "OKC @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809957",
+      "date": "20251025",
+      "matchup": "CHA @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809958",
+      "date": "20251025",
+      "matchup": "IND @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401809959",
+      "date": "20251025",
+      "matchup": "PHX @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809960",
+      "date": "20251026",
+      "matchup": "BKN @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809961",
+      "date": "20251026",
+      "matchup": "BOS @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401809962",
+      "date": "20251026",
+      "matchup": "MIL @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401809963",
+      "date": "20251026",
+      "matchup": "NY @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809964",
+      "date": "20251026",
+      "matchup": "CHA @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809965",
+      "date": "20251026",
+      "matchup": "IND @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809966",
+      "date": "20251026",
+      "matchup": "TOR @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809967",
+      "date": "20251026",
+      "matchup": "POR @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809968",
+      "date": "20251026",
+      "matchup": "LAL @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809245",
+      "date": "20251027",
+      "matchup": "CLE @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401809969",
+      "date": "20251027",
+      "matchup": "ORL @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809970",
+      "date": "20251027",
+      "matchup": "ATL @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809971",
+      "date": "20251027",
+      "matchup": "BKN @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401809972",
+      "date": "20251027",
+      "matchup": "BOS @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401809973",
+      "date": "20251027",
+      "matchup": "TOR @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809974",
+      "date": "20251027",
+      "matchup": "OKC @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809975",
+      "date": "20251027",
+      "matchup": "PHX @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809246",
+      "date": "20251027",
+      "matchup": "DEN @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809976",
+      "date": "20251027",
+      "matchup": "MEM @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809977",
+      "date": "20251027",
+      "matchup": "POR @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809978",
+      "date": "20251028",
+      "matchup": "PHI @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809979",
+      "date": "20251028",
+      "matchup": "CHA @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809980",
+      "date": "20251028",
+      "matchup": "NY @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809981",
+      "date": "20251028",
+      "matchup": "SAC @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809982",
+      "date": "20251028",
+      "matchup": "LAC @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809986",
+      "date": "20251029",
+      "matchup": "HOU @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809983",
+      "date": "20251029",
+      "matchup": "CLE @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809984",
+      "date": "20251029",
+      "matchup": "ORL @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401809985",
+      "date": "20251029",
+      "matchup": "ATL @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809987",
+      "date": "20251029",
+      "matchup": "SAC @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809988",
+      "date": "20251029",
+      "matchup": "IND @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809989",
+      "date": "20251029",
+      "matchup": "NO @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809990",
+      "date": "20251029",
+      "matchup": "POR @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809991",
+      "date": "20251029",
+      "matchup": "LAL @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809992",
+      "date": "20251029",
+      "matchup": "MEM @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401809993",
+      "date": "20251030",
+      "matchup": "ORL @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809994",
+      "date": "20251030",
+      "matchup": "GS @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809995",
+      "date": "20251030",
+      "matchup": "WSH @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809996",
+      "date": "20251030",
+      "matchup": "MIA @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809502",
+      "date": "20251031",
+      "matchup": "ATL @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401809503",
+      "date": "20251031",
+      "matchup": "BOS @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809504",
+      "date": "20251031",
+      "matchup": "TOR @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401809505",
+      "date": "20251031",
+      "matchup": "NY @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809506",
+      "date": "20251031",
+      "matchup": "LAL @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401809507",
+      "date": "20251031",
+      "matchup": "UTAH @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401809508",
+      "date": "20251031",
+      "matchup": "DEN @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809509",
+      "date": "20251031",
+      "matchup": "NO @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809997",
+      "date": "20251101",
+      "matchup": "SAC @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809998",
+      "date": "20251101",
+      "matchup": "MIN @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809999",
+      "date": "20251101",
+      "matchup": "GS @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810000",
+      "date": "20251101",
+      "matchup": "ORL @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810001",
+      "date": "20251101",
+      "matchup": "HOU @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810002",
+      "date": "20251101",
+      "matchup": "DAL VS DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401810003",
+      "date": "20251102",
+      "matchup": "NO @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810004",
+      "date": "20251102",
+      "matchup": "PHI @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810005",
+      "date": "20251102",
+      "matchup": "UTAH @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810006",
+      "date": "20251102",
+      "matchup": "ATL @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810007",
+      "date": "20251102",
+      "matchup": "MEM @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810008",
+      "date": "20251102",
+      "matchup": "CHI @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810009",
+      "date": "20251102",
+      "matchup": "SA @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810010",
+      "date": "20251102",
+      "matchup": "MIA @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810011",
+      "date": "20251103",
+      "matchup": "MIN @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810012",
+      "date": "20251103",
+      "matchup": "MIL @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810013",
+      "date": "20251103",
+      "matchup": "UTAH @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810014",
+      "date": "20251103",
+      "matchup": "WSH @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810015",
+      "date": "20251103",
+      "matchup": "DAL @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401810016",
+      "date": "20251103",
+      "matchup": "DET @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401810017",
+      "date": "20251103",
+      "matchup": "SAC @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810018",
+      "date": "20251103",
+      "matchup": "LAL @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810019",
+      "date": "20251103",
+      "matchup": "MIA @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810020",
+      "date": "20251104",
+      "matchup": "MIL @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810021",
+      "date": "20251104",
+      "matchup": "ORL @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810022",
+      "date": "20251104",
+      "matchup": "PHI @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810023",
+      "date": "20251104",
+      "matchup": "CHA @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810024",
+      "date": "20251104",
+      "matchup": "PHX @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810025",
+      "date": "20251104",
+      "matchup": "OKC @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810026",
+      "date": "20251105",
+      "matchup": "PHI @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810027",
+      "date": "20251105",
+      "matchup": "UTAH @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401810028",
+      "date": "20251105",
+      "matchup": "BKN @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810029",
+      "date": "20251105",
+      "matchup": "WSH @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810030",
+      "date": "20251105",
+      "matchup": "MIN @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810031",
+      "date": "20251105",
+      "matchup": "HOU @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401810032",
+      "date": "20251105",
+      "matchup": "NO @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810033",
+      "date": "20251105",
+      "matchup": "MIA @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810034",
+      "date": "20251105",
+      "matchup": "SA @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810035",
+      "date": "20251105",
+      "matchup": "OKC @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810036",
+      "date": "20251105",
+      "matchup": "GS @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810037",
+      "date": "20251106",
+      "matchup": "LAC @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401809510",
+      "date": "20251107",
+      "matchup": "BOS @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809511",
+      "date": "20251107",
+      "matchup": "CLE @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809512",
+      "date": "20251107",
+      "matchup": "TOR @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809773",
+      "date": "20251107",
+      "matchup": "DET @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809774",
+      "date": "20251107",
+      "matchup": "HOU @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809775",
+      "date": "20251107",
+      "matchup": "CHA @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809776",
+      "date": "20251107",
+      "matchup": "DAL @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401809777",
+      "date": "20251107",
+      "matchup": "CHI @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809778",
+      "date": "20251107",
+      "matchup": "UTAH @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809779",
+      "date": "20251107",
+      "matchup": "GS @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809780",
+      "date": "20251107",
+      "matchup": "OKC @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810038",
+      "date": "20251108",
+      "matchup": "DAL @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810039",
+      "date": "20251108",
+      "matchup": "TOR @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810040",
+      "date": "20251108",
+      "matchup": "LAL @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810041",
+      "date": "20251108",
+      "matchup": "CHI @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810042",
+      "date": "20251108",
+      "matchup": "POR @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810043",
+      "date": "20251108",
+      "matchup": "NO @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810044",
+      "date": "20251108",
+      "matchup": "IND @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810045",
+      "date": "20251108",
+      "matchup": "PHX @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810046",
+      "date": "20251109",
+      "matchup": "HOU @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810047",
+      "date": "20251109",
+      "matchup": "BKN @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810048",
+      "date": "20251109",
+      "matchup": "BOS @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810049",
+      "date": "20251109",
+      "matchup": "OKC @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401810050",
+      "date": "20251109",
+      "matchup": "DET @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810051",
+      "date": "20251109",
+      "matchup": "IND @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810052",
+      "date": "20251109",
+      "matchup": "MIN @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810053",
+      "date": "20251110",
+      "matchup": "LAL @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810054",
+      "date": "20251110",
+      "matchup": "WSH @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401810055",
+      "date": "20251110",
+      "matchup": "POR @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810056",
+      "date": "20251110",
+      "matchup": "CLE @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810057",
+      "date": "20251110",
+      "matchup": "SA @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810058",
+      "date": "20251110",
+      "matchup": "MIL @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810059",
+      "date": "20251110",
+      "matchup": "NO @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810060",
+      "date": "20251110",
+      "matchup": "MIN @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810061",
+      "date": "20251110",
+      "matchup": "ATL @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810062",
+      "date": "20251111",
+      "matchup": "TOR @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810063",
+      "date": "20251111",
+      "matchup": "MEM @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810064",
+      "date": "20251111",
+      "matchup": "BOS @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810065",
+      "date": "20251111",
+      "matchup": "GS @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810066",
+      "date": "20251111",
+      "matchup": "IND @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810067",
+      "date": "20251111",
+      "matchup": "DEN @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810068",
+      "date": "20251112",
+      "matchup": "MIL @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810069",
+      "date": "20251112",
+      "matchup": "CHI @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401810070",
+      "date": "20251112",
+      "matchup": "ORL @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810071",
+      "date": "20251112",
+      "matchup": "MEM @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810072",
+      "date": "20251112",
+      "matchup": "CLE @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810073",
+      "date": "20251112",
+      "matchup": "WSH @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401810074",
+      "date": "20251112",
+      "matchup": "POR @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810075",
+      "date": "20251112",
+      "matchup": "GS @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810076",
+      "date": "20251112",
+      "matchup": "PHX @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810077",
+      "date": "20251112",
+      "matchup": "LAL @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810078",
+      "date": "20251112",
+      "matchup": "ATL @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810079",
+      "date": "20251112",
+      "matchup": "DEN @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810080",
+      "date": "20251113",
+      "matchup": "TOR @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810081",
+      "date": "20251113",
+      "matchup": "IND @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810082",
+      "date": "20251113",
+      "matchup": "ATL @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809781",
+      "date": "20251114",
+      "matchup": "MIA @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401809782",
+      "date": "20251114",
+      "matchup": "BKN @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809783",
+      "date": "20251114",
+      "matchup": "PHI @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401809784",
+      "date": "20251114",
+      "matchup": "POR @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401809785",
+      "date": "20251114",
+      "matchup": "CHA @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809786",
+      "date": "20251114",
+      "matchup": "SAC @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809787",
+      "date": "20251114",
+      "matchup": "LAL @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401809788",
+      "date": "20251114",
+      "matchup": "LAC @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809789",
+      "date": "20251114",
+      "matchup": "GS @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810083",
+      "date": "20251115",
+      "matchup": "MEM @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810084",
+      "date": "20251115",
+      "matchup": "OKC @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810085",
+      "date": "20251115",
+      "matchup": "TOR @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810086",
+      "date": "20251115",
+      "matchup": "LAL @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810087",
+      "date": "20251115",
+      "matchup": "DEN @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810088",
+      "date": "20251116",
+      "matchup": "LAC @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810089",
+      "date": "20251116",
+      "matchup": "SAC @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810090",
+      "date": "20251116",
+      "matchup": "BKN @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810091",
+      "date": "20251116",
+      "matchup": "ORL @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401810092",
+      "date": "20251116",
+      "matchup": "GS @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810093",
+      "date": "20251116",
+      "matchup": "POR @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810094",
+      "date": "20251116",
+      "matchup": "ATL @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810095",
+      "date": "20251116",
+      "matchup": "CHI @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810096",
+      "date": "20251117",
+      "matchup": "MIL @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810097",
+      "date": "20251117",
+      "matchup": "IND @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401810098",
+      "date": "20251117",
+      "matchup": "LAC @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810099",
+      "date": "20251117",
+      "matchup": "NY @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810100",
+      "date": "20251117",
+      "matchup": "CHA @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810101",
+      "date": "20251117",
+      "matchup": "DAL @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810102",
+      "date": "20251117",
+      "matchup": "OKC @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810103",
+      "date": "20251117",
+      "matchup": "CHI @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810104",
+      "date": "20251118",
+      "matchup": "GS @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810105",
+      "date": "20251118",
+      "matchup": "BOS @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810106",
+      "date": "20251118",
+      "matchup": "DET @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810107",
+      "date": "20251118",
+      "matchup": "MEM @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810108",
+      "date": "20251118",
+      "matchup": "UTAH @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810109",
+      "date": "20251118",
+      "matchup": "PHX @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810110",
+      "date": "20251119",
+      "matchup": "HOU @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810111",
+      "date": "20251119",
+      "matchup": "CHA @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810113",
+      "date": "20251119",
+      "matchup": "TOR @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810112",
+      "date": "20251119",
+      "matchup": "GS @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810114",
+      "date": "20251119",
+      "matchup": "WSH @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810115",
+      "date": "20251119",
+      "matchup": "DEN @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810116",
+      "date": "20251119",
+      "matchup": "SAC @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810117",
+      "date": "20251119",
+      "matchup": "NY @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810118",
+      "date": "20251119",
+      "matchup": "CHI @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810119",
+      "date": "20251120",
+      "matchup": "LAC @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810120",
+      "date": "20251120",
+      "matchup": "SAC @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401810121",
+      "date": "20251120",
+      "matchup": "PHI @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810122",
+      "date": "20251120",
+      "matchup": "ATL @ SA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809790",
+      "date": "20251121",
+      "matchup": "IND @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401809791",
+      "date": "20251121",
+      "matchup": "BKN @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809792",
+      "date": "20251121",
+      "matchup": "WSH @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809793",
+      "date": "20251121",
+      "matchup": "MIA @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809794",
+      "date": "20251121",
+      "matchup": "NO @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809795",
+      "date": "20251121",
+      "matchup": "MIN @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401809796",
+      "date": "20251121",
+      "matchup": "DEN @ HOU",
+      "status": "post"
+    },
+    {
+      "game_id": "401809797",
+      "date": "20251121",
+      "matchup": "OKC @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809798",
+      "date": "20251121",
+      "matchup": "POR @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810123",
+      "date": "20251122",
+      "matchup": "LAC @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810124",
+      "date": "20251122",
+      "matchup": "NY @ ORL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810125",
+      "date": "20251122",
+      "matchup": "ATL @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810126",
+      "date": "20251122",
+      "matchup": "WSH @ CHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810127",
+      "date": "20251122",
+      "matchup": "DET @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810128",
+      "date": "20251122",
+      "matchup": "MEM @ DAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810129",
+      "date": "20251122",
+      "matchup": "SAC @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810130",
+      "date": "20251123",
+      "matchup": "MIA @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810131",
+      "date": "20251123",
+      "matchup": "CHA @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810132",
+      "date": "20251123",
+      "matchup": "ORL @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810133",
+      "date": "20251123",
+      "matchup": "LAC @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810134",
+      "date": "20251123",
+      "matchup": "BKN @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810135",
+      "date": "20251123",
+      "matchup": "POR @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810136",
+      "date": "20251123",
+      "matchup": "SA @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810137",
+      "date": "20251123",
+      "matchup": "LAL @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810138",
+      "date": "20251124",
+      "matchup": "DET @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810139",
+      "date": "20251124",
+      "matchup": "CLE @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810140",
+      "date": "20251124",
+      "matchup": "NY @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810141",
+      "date": "20251124",
+      "matchup": "DAL @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810142",
+      "date": "20251124",
+      "matchup": "DEN @ MEM",
+      "status": "post"
+    },
+    {
+      "game_id": "401810143",
+      "date": "20251124",
+      "matchup": "POR @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810144",
+      "date": "20251124",
+      "matchup": "CHI @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401810145",
+      "date": "20251124",
+      "matchup": "HOU @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810146",
+      "date": "20251124",
+      "matchup": "UTAH @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810147",
+      "date": "20251124",
+      "matchup": "MIN @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809799",
+      "date": "20251125",
+      "matchup": "ATL @ WSH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809800",
+      "date": "20251125",
+      "matchup": "ORL @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401809801",
+      "date": "20251125",
+      "matchup": "LAC @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809802",
+      "date": "20251126",
+      "matchup": "DET @ BOS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809803",
+      "date": "20251126",
+      "matchup": "NY @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809804",
+      "date": "20251126",
+      "matchup": "MIL @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809805",
+      "date": "20251126",
+      "matchup": "IND @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809806",
+      "date": "20251126",
+      "matchup": "MIN @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809807",
+      "date": "20251126",
+      "matchup": "MEM @ NO",
+      "status": "post"
+    },
+    {
+      "game_id": "401809808",
+      "date": "20251126",
+      "matchup": "HOU @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401809809",
+      "date": "20251126",
+      "matchup": "SA @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401809810",
+      "date": "20251126",
+      "matchup": "PHX @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809811",
+      "date": "20251128",
+      "matchup": "CLE @ ATL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809812",
+      "date": "20251128",
+      "matchup": "PHI @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809813",
+      "date": "20251128",
+      "matchup": "CHI @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401809814",
+      "date": "20251128",
+      "matchup": "ORL @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401809815",
+      "date": "20251128",
+      "matchup": "WSH @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401809816",
+      "date": "20251128",
+      "matchup": "MIL @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401809817",
+      "date": "20251128",
+      "matchup": "PHX @ OKC",
+      "status": "post"
+    },
+    {
+      "game_id": "401809818",
+      "date": "20251128",
+      "matchup": "SA @ DEN",
+      "status": "post"
+    },
+    {
+      "game_id": "401809819",
+      "date": "20251128",
+      "matchup": "SAC @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401809820",
+      "date": "20251128",
+      "matchup": "DAL @ LAL",
+      "status": "post"
+    },
+    {
+      "game_id": "401809821",
+      "date": "20251128",
+      "matchup": "MEM @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810148",
+      "date": "20251129",
+      "matchup": "BOS @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810149",
+      "date": "20251129",
+      "matchup": "TOR @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810150",
+      "date": "20251129",
+      "matchup": "CHI @ IND",
+      "status": "post"
+    },
+    {
+      "game_id": "401810151",
+      "date": "20251129",
+      "matchup": "DET @ MIA",
+      "status": "post"
+    },
+    {
+      "game_id": "401810152",
+      "date": "20251129",
+      "matchup": "BKN @ MIL",
+      "status": "post"
+    },
+    {
+      "game_id": "401810153",
+      "date": "20251129",
+      "matchup": "NO @ GS",
+      "status": "post"
+    },
+    {
+      "game_id": "401810154",
+      "date": "20251129",
+      "matchup": "DEN @ PHX",
+      "status": "post"
+    },
+    {
+      "game_id": "401810155",
+      "date": "20251129",
+      "matchup": "DAL @ LAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810156",
+      "date": "20251130",
+      "matchup": "HOU @ UTAH",
+      "status": "post"
+    },
+    {
+      "game_id": "401810157",
+      "date": "20251130",
+      "matchup": "BOS @ CLE",
+      "status": "post"
+    },
+    {
+      "game_id": "401810158",
+      "date": "20251130",
+      "matchup": "TOR @ NY",
+      "status": "post"
+    },
+    {
+      "game_id": "401810159",
+      "date": "20251130",
+      "matchup": "ATL @ PHI",
+      "status": "post"
+    },
+    {
+      "game_id": "401810160",
+      "date": "20251130",
+      "matchup": "OKC @ POR",
+      "status": "post"
+    },
+    {
+      "game_id": "401810161",
+      "date": "20251130",
+      "matchup": "SA @ MIN",
+      "status": "post"
+    },
+    {
+      "game_id": "401810162",
+      "date": "20251130",
+      "matchup": "MEM @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401810163",
+      "date": "20251130",
+      "matchup": "NO @ LAL",
+      "status": "post"
+    }
+  ]
+}

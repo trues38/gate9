@@ -1,0 +1,78 @@
+{
+  "games": [
+    {
+      "game_id": "2025-12-09-ORL-MIA",
+      "date": "2025-12-09",
+      "teams": {
+        "home": "ORL",
+        "away": "MIA"
+      },
+      "home_stats": {
+        "points": 117,
+        "fieldGoalsMade": 44,
+        "fieldGoalsAttempted": 87,
+        "threePointFieldGoalsMade": 15,
+        "threePointFieldGoalsAttempted": 32,
+        "freeThrowsMade": 14,
+        "freeThrowsAttempted": 16,
+        "offensiveRebounds": 7,
+        "defensiveRebounds": 40,
+        "totalRebounds": 47,
+        "totalTurnovers": 17,
+        "plusMinus": 9
+      },
+      "away_stats": {
+        "points": 108,
+        "fieldGoalsMade": 42,
+        "fieldGoalsAttempted": 93,
+        "threePointFieldGoalsMade": 8,
+        "threePointFieldGoalsAttempted": 33,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 19,
+        "offensiveRebounds": 7,
+        "defensiveRebounds": 32,
+        "totalRebounds": 39,
+        "totalTurnovers": 8,
+        "plusMinus": -9
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-12-09-TOR-NY",
+      "date": "2025-12-09",
+      "teams": {
+        "home": "TOR",
+        "away": "NY"
+      },
+      "home_stats": {
+        "points": 101,
+        "fieldGoalsMade": 39,
+        "fieldGoalsAttempted": 90,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 38,
+        "freeThrowsMade": 12,
+        "freeThrowsAttempted": 18,
+        "offensiveRebounds": 12,
+        "defensiveRebounds": 25,
+        "totalRebounds": 37,
+        "totalTurnovers": 14,
+        "plusMinus": -16
+      },
+      "away_stats": {
+        "points": 117,
+        "fieldGoalsMade": 42,
+        "fieldGoalsAttempted": 80,
+        "threePointFieldGoalsMade": 16,
+        "threePointFieldGoalsAttempted": 35,
+        "freeThrowsMade": 17,
+        "freeThrowsAttempted": 28,
+        "offensiveRebounds": 14,
+        "defensiveRebounds": 34,
+        "totalRebounds": 48,
+        "totalTurnovers": 14,
+        "plusMinus": 16
+      },
+      "market_line": 0.0
+    }
+  ]
+}

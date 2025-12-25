@@ -1,0 +1,203 @@
+[
+  {
+    "date": "2024-10-31",
+    "game_id": "401704694",
+    "matchup": "MIL @ MEM",
+    "home_team": {
+      "team_id": "MEM",
+      "record": "3-3",
+      "rest_days": 0,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIL",
+      "record": "1-4",
+      "rest_days": 2,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "referees": [
+      "John Goble",
+      "Sean Corbin",
+      "Danielle Scott"
+    ],
+    "state_notes": [
+      "MEM back-to-back",
+      "Giannis Antetokounmpo - Out",
+      "Vince Williams Jr. - Out"
+    ]
+  },
+  {
+    "date": "2024-10-31",
+    "game_id": "401704695",
+    "matchup": "HOU @ DAL",
+    "home_team": {
+      "team_id": "DAL",
+      "record": "3-2",
+      "rest_days": 1,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "3-2",
+      "rest_days": 2,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Marat Kogut",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out"
+    ]
+  },
+  {
+    "date": "2024-10-31",
+    "game_id": "401704696",
+    "matchup": "SA @ UTAH",
+    "home_team": {
+      "team_id": "UTAH",
+      "record": "0-5",
+      "rest_days": 1,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "2-3",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "Curtis Blair",
+      "Tre Maddox",
+      "Brandon Adair"
+    ],
+    "state_notes": [
+      "SA back-to-back"
+    ]
+  },
+  {
+    "date": "2024-10-31",
+    "game_id": "401704697",
+    "matchup": "PHX @ LAC",
+    "home_team": {
+      "team_id": "LAC",
+      "record": "2-3",
+      "rest_days": 0,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "away_team": {
+      "team_id": "PHX",
+      "record": "4-1",
+      "rest_days": 2,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "referees": [
+      "Mark Lindsay",
+      "Ray Acosta",
+      "Matt Kallio"
+    ],
+    "state_notes": [
+      "LAC back-to-back",
+      "Grayson Allen - Out",
+      "Jalen Green - Out",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  }
+]

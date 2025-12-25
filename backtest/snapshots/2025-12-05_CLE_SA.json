@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-05_CLE_SA",
+  "date": "2025-12-05",
+  "teams": {
+    "home": "CLE",
+    "away": "SA"
+  },
+  "team_regimes": {
+    "CLE": {
+      "momentum": 0.7900000214576721,
+      "volatility": 1.0,
+      "label": "Surging"
+    },
+    "SA": {
+      "momentum": 2.240000009536743,
+      "volatility": 0.7099999785423279,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "CLE": [
+      {
+        "name": "Donovan Mitchell",
+        "momentum": 30.6,
+        "trend": "Stable",
+        "last_5_avg": 30.6
+      },
+      {
+        "name": "Evan Mobley",
+        "momentum": 19.4,
+        "trend": "Stable",
+        "last_5_avg": 19.4
+      },
+      {
+        "name": "De'Andre Hunter",
+        "momentum": 12.8,
+        "trend": "Stable",
+        "last_5_avg": 12.8
+      },
+      {
+        "name": "Jarrett Allen",
+        "momentum": 10.0,
+        "trend": "Stable",
+        "last_5_avg": 10.0
+      },
+      {
+        "name": "Sam Merrill",
+        "momentum": 12.4,
+        "trend": "Surging",
+        "last_5_avg": 12.4
+      }
+    ],
+    "SA": [
+      {
+        "name": "Victor Wembanyama",
+        "momentum": 27.0,
+        "trend": "Stable",
+        "last_5_avg": 27.0
+      },
+      {
+        "name": "De'Aaron Fox",
+        "momentum": 27.4,
+        "trend": "Stable",
+        "last_5_avg": 27.4
+      },
+      {
+        "name": "Stephon Castle",
+        "momentum": 15.0,
+        "trend": "Slumping",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Devin Vassell",
+        "momentum": 21.4,
+        "trend": "Slumping",
+        "last_5_avg": 21.4
+      },
+      {
+        "name": "Dylan Harper",
+        "momentum": 13.2,
+        "trend": "Stable",
+        "last_5_avg": 13.2
+      }
+    ]
+  },
+  "injuries": {
+    "CLE": [],
+    "SA": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "CLE": "Backtest Mode: News Hidden",
+    "SA": "Backtest Mode: News Hidden"
+  }
+}

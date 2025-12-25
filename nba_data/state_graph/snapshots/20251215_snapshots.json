@@ -1,0 +1,265 @@
+[
+  {
+    "date": "2025-12-15",
+    "game_id": "401836803",
+    "matchup": "DET @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "15-11",
+      "rest_days": 3,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "DET",
+      "record": "21-5",
+      "rest_days": 2,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "referees": [
+      "Eric Dalen",
+      "Nick Buchert",
+      "Jenna Reneau"
+    ],
+    "state_notes": [
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "game_id": "401839023",
+    "matchup": "TOR @ MIA",
+    "home_team": {
+      "team_id": "MIA",
+      "record": "14-12",
+      "rest_days": 3,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "TOR",
+      "record": "16-11",
+      "rest_days": 3,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "referees": [
+      "Kevin Cutler",
+      "Karl Lane",
+      "Jonathan Sterling"
+    ],
+    "state_notes": [
+      "RJ Barrett - Out",
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out"
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "game_id": "401836805",
+    "matchup": "DAL @ UTAH",
+    "home_team": {
+      "team_id": "UTAH",
+      "record": "10-15",
+      "rest_days": 2,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "DAL",
+      "record": "10-17",
+      "rest_days": 2,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Phenizee Ransom",
+      "Pat O'Connell"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-12-15",
+    "game_id": "401836806",
+    "matchup": "HOU @ DEN",
+    "home_team": {
+      "team_id": "DEN",
+      "record": "19-6",
+      "rest_days": 3,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "16-7",
+      "rest_days": 3,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "Zach Zarba",
+      "Natalie Sago",
+      "Jamahl Ralls"
+    ],
+    "state_notes": [
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out",
+      "Tamar Bates - Out"
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "game_id": "401836807",
+    "matchup": "MEM @ LAC",
+    "home_team": {
+      "team_id": "LAC",
+      "record": "6-20",
+      "rest_days": 3,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "away_team": {
+      "team_id": "MEM",
+      "record": "12-14",
+      "rest_days": 2,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Leon Wood",
+      "Che Flores"
+    ],
+    "state_notes": [
+      "Vince Williams Jr. - Out",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  }
+]

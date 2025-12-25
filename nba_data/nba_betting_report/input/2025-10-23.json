@@ -1,0 +1,78 @@
+{
+  "games": [
+    {
+      "game_id": "2025-10-23-IND-OKC",
+      "date": "2025-10-23",
+      "teams": {
+        "home": "IND",
+        "away": "OKC"
+      },
+      "home_stats": {
+        "points": 135,
+        "fieldGoalsMade": 46,
+        "fieldGoalsAttempted": 105,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 43,
+        "freeThrowsMade": 30,
+        "freeThrowsAttempted": 40,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 44,
+        "totalRebounds": 55,
+        "totalTurnovers": 14,
+        "plusMinus": -6
+      },
+      "away_stats": {
+        "points": 141,
+        "fieldGoalsMade": 43,
+        "fieldGoalsAttempted": 95,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 35,
+        "freeThrowsMade": 45,
+        "freeThrowsAttempted": 51,
+        "offensiveRebounds": 9,
+        "defensiveRebounds": 51,
+        "totalRebounds": 60,
+        "totalTurnovers": 14,
+        "plusMinus": 6
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-10-23-GS-DEN",
+      "date": "2025-10-23",
+      "teams": {
+        "home": "GS",
+        "away": "DEN"
+      },
+      "home_stats": {
+        "points": 137,
+        "fieldGoalsMade": 50,
+        "fieldGoalsAttempted": 99,
+        "threePointFieldGoalsMade": 18,
+        "threePointFieldGoalsAttempted": 47,
+        "freeThrowsMade": 19,
+        "freeThrowsAttempted": 25,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 33,
+        "totalRebounds": 43,
+        "totalTurnovers": 9,
+        "plusMinus": 6
+      },
+      "away_stats": {
+        "points": 131,
+        "fieldGoalsMade": 51,
+        "fieldGoalsAttempted": 95,
+        "threePointFieldGoalsMade": 16,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 13,
+        "freeThrowsAttempted": 14,
+        "offensiveRebounds": 7,
+        "defensiveRebounds": 36,
+        "totalRebounds": 43,
+        "totalTurnovers": 13,
+        "plusMinus": -6
+      },
+      "market_line": 0.0
+    }
+  ]
+}

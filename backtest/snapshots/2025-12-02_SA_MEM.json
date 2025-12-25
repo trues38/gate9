@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-02_SA_MEM",
+  "date": "2025-12-02",
+  "teams": {
+    "home": "SA",
+    "away": "MEM"
+  },
+  "team_regimes": {
+    "SA": {
+      "momentum": 1.7799999713897705,
+      "volatility": 0.7799999713897705,
+      "label": "Juggernaut"
+    },
+    "MEM": {
+      "momentum": -0.14000000059604645,
+      "volatility": 1.1299999952316284,
+      "label": "Balanced"
+    }
+  },
+  "player_regimes": {
+    "SA": [
+      {
+        "name": "Victor Wembanyama",
+        "momentum": 27.0,
+        "trend": "Stable",
+        "last_5_avg": 27.0
+      },
+      {
+        "name": "De'Aaron Fox",
+        "momentum": 25.8,
+        "trend": "Stable",
+        "last_5_avg": 25.8
+      },
+      {
+        "name": "Stephon Castle",
+        "momentum": 15.0,
+        "trend": "Slumping",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Devin Vassell",
+        "momentum": 22.4,
+        "trend": "Stable",
+        "last_5_avg": 22.4
+      },
+      {
+        "name": "Dylan Harper",
+        "momentum": 12.0,
+        "trend": "Stable",
+        "last_5_avg": 12.0
+      }
+    ],
+    "MEM": [
+      {
+        "name": "Jaren Jackson Jr.",
+        "momentum": 19.6,
+        "trend": "Slumping",
+        "last_5_avg": 19.6
+      },
+      {
+        "name": "Ja Morant",
+        "momentum": 14.4,
+        "trend": "Slumping",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Zach Edey",
+        "momentum": 14.4,
+        "trend": "Surging",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Santi Aldama",
+        "momentum": 13.2,
+        "trend": "Slumping",
+        "last_5_avg": 13.2
+      },
+      {
+        "name": "Cedric Coward",
+        "momentum": 8.6,
+        "trend": "Stable",
+        "last_5_avg": 8.6
+      }
+    ]
+  },
+  "injuries": {
+    "SA": [],
+    "MEM": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "SA": "Backtest Mode: News Hidden",
+    "MEM": "Backtest Mode: News Hidden"
+  }
+}

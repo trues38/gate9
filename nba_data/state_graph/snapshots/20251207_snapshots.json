@@ -1,0 +1,358 @@
+[
+  {
+    "date": "2025-12-07",
+    "game_id": "401810212",
+    "matchup": "ORL @ NY",
+    "home_team": {
+      "team_id": "NY",
+      "record": "16-7",
+      "rest_days": 1,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "14-10",
+      "rest_days": 1,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Tony Brothers",
+      "Mitchell Ervin",
+      "Evan Scott"
+    ],
+    "state_notes": [
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810213",
+    "matchup": "BOS @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "15-10",
+      "rest_days": 1,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "BOS",
+      "record": "15-9",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "referees": [
+      "John Goble",
+      "Scott Twardoski",
+      "Biniam Maru"
+    ],
+    "state_notes": [
+      "Jayson Tatum - Out",
+      "RJ Barrett - Out"
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810214",
+    "matchup": "DEN @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "7-17",
+      "rest_days": 1,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "DEN",
+      "record": "17-6",
+      "rest_days": 1,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "referees": [
+      "Marat Kogut",
+      "Gediminas Petraitis",
+      "Matt Kallio"
+    ],
+    "state_notes": [
+      "Tamar Bates - Out"
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810215",
+    "matchup": "POR @ MEM",
+    "home_team": {
+      "team_id": "MEM",
+      "record": "11-13",
+      "rest_days": 1,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "away_team": {
+      "team_id": "POR",
+      "record": "9-15",
+      "rest_days": 1,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "referees": [
+      "Jacyn Goble",
+      "Nate Green",
+      "John Conley"
+    ],
+    "state_notes": [
+      "Jerami Grant - Out",
+      "Vince Williams Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810216",
+    "matchup": "GS @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "9-14",
+      "rest_days": 1,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "13-12",
+      "rest_days": 0,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Dedric Taylor",
+      "Kevin Scott",
+      "Dannica Mosher"
+    ],
+    "state_notes": [
+      "GS back-to-back",
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810217",
+    "matchup": "LAL @ PHI",
+    "home_team": {
+      "team_id": "PHI",
+      "record": "13-10",
+      "rest_days": 1,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAL",
+      "record": "17-6",
+      "rest_days": 1,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "referees": [
+      "Zach Zarba",
+      "Phenizee Ransom",
+      "Karl Lane"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-12-07",
+    "game_id": "401810218",
+    "matchup": "OKC @ UTAH",
+    "home_team": {
+      "team_id": "UTAH",
+      "record": "8-15",
+      "rest_days": 1,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "23-1",
+      "rest_days": 1,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Rodney Mott",
+      "Tyler Ricks"
+    ],
+    "state_notes": []
+  }
+]

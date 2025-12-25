@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-05_BOS_LAL",
+  "date": "2025-12-05",
+  "teams": {
+    "home": "BOS",
+    "away": "LAL"
+  },
+  "team_regimes": {
+    "BOS": {
+      "momentum": 2.440000057220459,
+      "volatility": 0.8199999928474426,
+      "label": "Juggernaut"
+    },
+    "LAL": {
+      "momentum": 2.7300000190734863,
+      "volatility": 1.1299999952316284,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "BOS": [
+      {
+        "name": "Jaylen Brown",
+        "momentum": 34.0,
+        "trend": "Surging",
+        "last_5_avg": 34.0
+      },
+      {
+        "name": "Payton Pritchard",
+        "momentum": 19.4,
+        "trend": "Stable",
+        "last_5_avg": 19.4
+      },
+      {
+        "name": "Derrick White",
+        "momentum": 22.2,
+        "trend": "Surging",
+        "last_5_avg": 22.2
+      },
+      {
+        "name": "Anfernee Simons",
+        "momentum": 11.2,
+        "trend": "Stable",
+        "last_5_avg": 11.2
+      },
+      {
+        "name": "Neemias Queta",
+        "momentum": 13.2,
+        "trend": "Stable",
+        "last_5_avg": 13.2
+      }
+    ],
+    "LAL": [
+      {
+        "name": "Luka Doncic",
+        "momentum": 36.6,
+        "trend": "Stable",
+        "last_5_avg": 36.6
+      },
+      {
+        "name": "Austin Reaves",
+        "momentum": 32.4,
+        "trend": "Surging",
+        "last_5_avg": 32.4
+      },
+      {
+        "name": "Deandre Ayton",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Rui Hachimura",
+        "momentum": 10.6,
+        "trend": "Stable",
+        "last_5_avg": 10.6
+      },
+      {
+        "name": "LeBron James",
+        "momentum": 14.6,
+        "trend": "Slumping",
+        "last_5_avg": 14.6
+      }
+    ]
+  },
+  "injuries": {
+    "BOS": [],
+    "LAL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "BOS": "Backtest Mode: News Hidden",
+    "LAL": "Backtest Mode: News Hidden"
+  }
+}

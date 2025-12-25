@@ -1,0 +1,17 @@
+{
+    "game_id": "manual_game_1",
+    "espn_id": "manual_1",
+    "date": "20251214",
+    "matchup": "New York Knicks at Orlando Magic",
+    "headline": "NBA Cup Semifinal: Knicks take on Magic in Las Vegas",
+    "text": "The New York Knicks face the Orlando Magic in the NBA Cup Semifinals at T-Mobile Arena. Jalen Brunson leads the Knicks.",
+    "odds": {
+        "valid": true,
+        "provider": "Manual Input",
+        "details": "NY -4.5",
+        "overUnder": 223.5,
+        "spread": "-4.5",
+        "source_type": "manual_override"
+    },
+    "source": "manual"
+}

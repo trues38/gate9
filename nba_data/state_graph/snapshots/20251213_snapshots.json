@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2025-12-13",
+    "game_id": "401809837",
+    "matchup": "NY @ ORL",
+    "home_team": {
+      "team_id": "ORL",
+      "record": "15-11",
+      "rest_days": 3,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "away_team": {
+      "team_id": "NY",
+      "record": "18-7",
+      "rest_days": 3,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Sean Corbin",
+      "Kevin Scott",
+      "Andy Nagy"
+    ],
+    "state_notes": [
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-12-13",
+    "game_id": "401809838",
+    "matchup": "SA @ OKC",
+    "home_team": {
+      "team_id": "OKC",
+      "record": "24-2",
+      "rest_days": 2,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "18-7",
+      "rest_days": 1,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "Sean Wright",
+      "Brian Forte",
+      "Jason Goldenberg"
+    ],
+    "state_notes": []
+  }
+]

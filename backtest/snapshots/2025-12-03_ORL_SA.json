@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-03_ORL_SA",
+  "date": "2025-12-03",
+  "teams": {
+    "home": "ORL",
+    "away": "SA"
+  },
+  "team_regimes": {
+    "ORL": {
+      "momentum": 4.480000019073486,
+      "volatility": 1.1799999475479126,
+      "label": "Juggernaut"
+    },
+    "SA": {
+      "momentum": 1.7799999713897705,
+      "volatility": 0.7799999713897705,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "ORL": [
+      {
+        "name": "Franz Wagner",
+        "momentum": 23.8,
+        "trend": "Stable",
+        "last_5_avg": 23.8
+      },
+      {
+        "name": "Paolo Banchero",
+        "momentum": 19.4,
+        "trend": "Slumping",
+        "last_5_avg": 19.4
+      },
+      {
+        "name": "Desmond Bane",
+        "momentum": 26.8,
+        "trend": "Surging",
+        "last_5_avg": 26.8
+      },
+      {
+        "name": "Jalen Suggs",
+        "momentum": 15.4,
+        "trend": "Slumping",
+        "last_5_avg": 15.4
+      },
+      {
+        "name": "Anthony Black",
+        "momentum": 18.8,
+        "trend": "Stable",
+        "last_5_avg": 18.8
+      }
+    ],
+    "SA": [
+      {
+        "name": "Victor Wembanyama",
+        "momentum": 27.0,
+        "trend": "Stable",
+        "last_5_avg": 27.0
+      },
+      {
+        "name": "De'Aaron Fox",
+        "momentum": 26.4,
+        "trend": "Stable",
+        "last_5_avg": 26.4
+      },
+      {
+        "name": "Stephon Castle",
+        "momentum": 15.0,
+        "trend": "Slumping",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Devin Vassell",
+        "momentum": 21.8,
+        "trend": "Slumping",
+        "last_5_avg": 21.8
+      },
+      {
+        "name": "Dylan Harper",
+        "momentum": 12.4,
+        "trend": "Stable",
+        "last_5_avg": 12.4
+      }
+    ]
+  },
+  "injuries": {
+    "ORL": [],
+    "SA": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "ORL": "Backtest Mode: News Hidden",
+    "SA": "Backtest Mode: News Hidden"
+  }
+}

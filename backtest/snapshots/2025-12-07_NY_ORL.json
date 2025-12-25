@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-07_NY_ORL",
+  "date": "2025-12-07",
+  "teams": {
+    "home": "NY",
+    "away": "ORL"
+  },
+  "team_regimes": {
+    "NY": {
+      "momentum": 5.900000095367432,
+      "volatility": 1.440000057220459,
+      "label": "Juggernaut"
+    },
+    "ORL": {
+      "momentum": 3.609999895095825,
+      "volatility": 0.9800000190734863,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "NY": [
+      {
+        "name": "Jalen Brunson",
+        "momentum": 25.8,
+        "trend": "Surging",
+        "last_5_avg": 25.8
+      },
+      {
+        "name": "Karl-Anthony Towns",
+        "momentum": 22.6,
+        "trend": "Stable",
+        "last_5_avg": 22.6
+      },
+      {
+        "name": "Mikal Bridges",
+        "momentum": 17.8,
+        "trend": "Slumping",
+        "last_5_avg": 17.8
+      },
+      {
+        "name": "OG Anunoby",
+        "momentum": 11.2,
+        "trend": "Stable",
+        "last_5_avg": 11.2
+      },
+      {
+        "name": "Josh Hart",
+        "momentum": 16.2,
+        "trend": "Slumping",
+        "last_5_avg": 16.2
+      }
+    ],
+    "ORL": [
+      {
+        "name": "Franz Wagner",
+        "momentum": 24.8,
+        "trend": "Surging",
+        "last_5_avg": 24.8
+      },
+      {
+        "name": "Paolo Banchero",
+        "momentum": 16.8,
+        "trend": "Slumping",
+        "last_5_avg": 16.8
+      },
+      {
+        "name": "Desmond Bane",
+        "momentum": 21.6,
+        "trend": "Slumping",
+        "last_5_avg": 21.6
+      },
+      {
+        "name": "Jalen Suggs",
+        "momentum": 14.8,
+        "trend": "Surging",
+        "last_5_avg": 14.8
+      },
+      {
+        "name": "Anthony Black",
+        "momentum": 17.8,
+        "trend": "Stable",
+        "last_5_avg": 17.8
+      }
+    ]
+  },
+  "injuries": {
+    "NY": [],
+    "ORL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "NY": "Backtest Mode: News Hidden",
+    "ORL": "Backtest Mode: News Hidden"
+  }
+}

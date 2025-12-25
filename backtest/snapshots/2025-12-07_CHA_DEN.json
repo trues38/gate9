@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-07_CHA_DEN",
+  "date": "2025-12-07",
+  "teams": {
+    "home": "CHA",
+    "away": "DEN"
+  },
+  "team_regimes": {
+    "CHA": {
+      "momentum": -2.2100000381469727,
+      "volatility": 1.2599999904632568,
+      "label": "Crisis"
+    },
+    "DEN": {
+      "momentum": 3.630000114440918,
+      "volatility": 0.8799999952316284,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "CHA": [
+      {
+        "name": "Miles Bridges",
+        "momentum": 17.6,
+        "trend": "Stable",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "LaMelo Ball",
+        "momentum": 17.4,
+        "trend": "Slumping",
+        "last_5_avg": 17.4
+      },
+      {
+        "name": "Kon Knueppel",
+        "momentum": 16.8,
+        "trend": "Stable",
+        "last_5_avg": 16.8
+      },
+      {
+        "name": "Brandon Miller",
+        "momentum": 17.0,
+        "trend": "Stable",
+        "last_5_avg": 17.0
+      },
+      {
+        "name": "Collin Sexton",
+        "momentum": 14.6,
+        "trend": "Slumping",
+        "last_5_avg": 14.6
+      }
+    ],
+    "DEN": [
+      {
+        "name": "Nikola Jokic",
+        "momentum": 28.0,
+        "trend": "Surging",
+        "last_5_avg": 28.0
+      },
+      {
+        "name": "Jamal Murray",
+        "momentum": 29.2,
+        "trend": "Slumping",
+        "last_5_avg": 29.2
+      },
+      {
+        "name": "Aaron Gordon",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Tim Hardaway Jr.",
+        "momentum": 15.8,
+        "trend": "Stable",
+        "last_5_avg": 15.8
+      },
+      {
+        "name": "Christian Braun",
+        "momentum": 9.8,
+        "trend": "Stable",
+        "last_5_avg": 9.8
+      }
+    ]
+  },
+  "injuries": {
+    "CHA": [],
+    "DEN": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "CHA": "Backtest Mode: News Hidden",
+    "DEN": "Backtest Mode: News Hidden"
+  }
+}

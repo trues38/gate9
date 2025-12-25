@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-07_UTAH_OKC",
+  "date": "2025-12-07",
+  "teams": {
+    "home": "UTAH",
+    "away": "OKC"
+  },
+  "team_regimes": {
+    "UTAH": {
+      "momentum": -4.260000228881836,
+      "volatility": 1.4900000095367432,
+      "label": "Crisis"
+    },
+    "OKC": {
+      "momentum": 8.949999809265137,
+      "volatility": 1.4500000476837158,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "UTAH": [
+      {
+        "name": "Lauri Markkanen",
+        "momentum": 24.6,
+        "trend": "Slumping",
+        "last_5_avg": 24.6
+      },
+      {
+        "name": "Keyonte George",
+        "momentum": 21.2,
+        "trend": "Stable",
+        "last_5_avg": 21.2
+      },
+      {
+        "name": "Walker Kessler",
+        "momentum": 14.4,
+        "trend": "Slumping",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Ace Bailey",
+        "momentum": 11.0,
+        "trend": "Stable",
+        "last_5_avg": 11.0
+      },
+      {
+        "name": "Svi Mykhailiuk",
+        "momentum": 8.6,
+        "trend": "Slumping",
+        "last_5_avg": 8.6
+      }
+    ],
+    "OKC": [
+      {
+        "name": "Shai Gilgeous-Alexander",
+        "momentum": 34.8,
+        "trend": "Stable",
+        "last_5_avg": 34.8
+      },
+      {
+        "name": "Chet Holmgren",
+        "momentum": 18.0,
+        "trend": "Stable",
+        "last_5_avg": 18.0
+      },
+      {
+        "name": "Jalen Williams",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      },
+      {
+        "name": "Ajay Mitchell",
+        "momentum": 9.8,
+        "trend": "Stable",
+        "last_5_avg": 9.8
+      },
+      {
+        "name": "Aaron Wiggins",
+        "momentum": 13.2,
+        "trend": "Stable",
+        "last_5_avg": 13.2
+      }
+    ]
+  },
+  "injuries": {
+    "UTAH": [],
+    "OKC": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "UTAH": "Backtest Mode: News Hidden",
+    "OKC": "Backtest Mode: News Hidden"
+  }
+}

@@ -1,0 +1,279 @@
+[
+  {
+    "date": "2025-11-15",
+    "game_id": "401810083",
+    "matchup": "MEM @ CLE",
+    "home_team": {
+      "team_id": "CLE",
+      "record": "9-5",
+      "rest_days": 1,
+      "injuries": [
+        "Lonzo Ball - Day-To-Day",
+        "Larry Nance Jr. - Out",
+        "Max Strus - Out",
+        "Evan Mobley - Out"
+      ],
+      "lineup": [
+        "Jarrett Allen",
+        "Lonzo Ball",
+        "Thomas Bryant",
+        "Darius Garland",
+        "De'Andre Hunter",
+        "Chris Livingston",
+        "Sam Merrill",
+        "Donovan Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "MEM",
+      "record": "4-10",
+      "rest_days": 2,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "referees": [
+      "Jason Goldenberg",
+      "Ray Acosta",
+      "John Conley"
+    ],
+    "state_notes": [
+      "Vince Williams Jr. - Out",
+      "Larry Nance Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "game_id": "401810084",
+    "matchup": "OKC @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "4-9",
+      "rest_days": 0,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "13-1",
+      "rest_days": 2,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "Derrick Collins",
+      "Josh Tiven",
+      "Nate Green"
+    ],
+    "state_notes": [
+      "CHA back-to-back"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "game_id": "401810085",
+    "matchup": "TOR @ IND",
+    "home_team": {
+      "team_id": "IND",
+      "record": "1-12",
+      "rest_days": 1,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "away_team": {
+      "team_id": "TOR",
+      "record": "8-5",
+      "rest_days": 1,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "referees": [
+      "James Williams",
+      "J.T. Orr",
+      "John Butler"
+    ],
+    "state_notes": [
+      "RJ Barrett - Out",
+      "Ben Sheppard - Out"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "game_id": "401810086",
+    "matchup": "LAL @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "8-6",
+      "rest_days": 0,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAL",
+      "record": "10-4",
+      "rest_days": 0,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "referees": [
+      "Pat Fraher",
+      "Kevin Cutler",
+      "Brandon Adair"
+    ],
+    "state_notes": [
+      "LAL back-to-back",
+      "MIL back-to-back",
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "game_id": "401810087",
+    "matchup": "DEN @ MIN",
+    "home_team": {
+      "team_id": "MIN",
+      "record": "8-5",
+      "rest_days": 0,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "away_team": {
+      "team_id": "DEN",
+      "record": "10-2",
+      "rest_days": 2,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "referees": [
+      "Marat Kogut",
+      "Curtis Blair",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "MIN back-to-back",
+      "Tamar Bates - Out"
+    ]
+  }
+]

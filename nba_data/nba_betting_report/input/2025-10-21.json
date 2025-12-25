@@ -1,0 +1,78 @@
+{
+  "games": [
+    {
+      "game_id": "2025-10-21-OKC-HOU",
+      "date": "2025-10-21",
+      "teams": {
+        "home": "OKC",
+        "away": "HOU"
+      },
+      "home_stats": {
+        "points": 125,
+        "fieldGoalsMade": 46,
+        "fieldGoalsAttempted": 104,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 52,
+        "freeThrowsMade": 20,
+        "freeThrowsAttempted": 25,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 27,
+        "totalRebounds": 38,
+        "totalTurnovers": 12,
+        "plusMinus": 1
+      },
+      "away_stats": {
+        "points": 124,
+        "fieldGoalsMade": 43,
+        "fieldGoalsAttempted": 97,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 39,
+        "freeThrowsMade": 27,
+        "freeThrowsAttempted": 31,
+        "offensiveRebounds": 16,
+        "defensiveRebounds": 36,
+        "totalRebounds": 52,
+        "totalTurnovers": 25,
+        "plusMinus": -1
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-10-21-LAL-GS",
+      "date": "2025-10-21",
+      "teams": {
+        "home": "LAL",
+        "away": "GS"
+      },
+      "home_stats": {
+        "points": 109,
+        "fieldGoalsMade": 42,
+        "fieldGoalsAttempted": 77,
+        "threePointFieldGoalsMade": 8,
+        "threePointFieldGoalsAttempted": 32,
+        "freeThrowsMade": 17,
+        "freeThrowsAttempted": 28,
+        "offensiveRebounds": 7,
+        "defensiveRebounds": 32,
+        "totalRebounds": 39,
+        "totalTurnovers": 20,
+        "plusMinus": -10
+      },
+      "away_stats": {
+        "points": 119,
+        "fieldGoalsMade": 38,
+        "fieldGoalsAttempted": 78,
+        "threePointFieldGoalsMade": 17,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 26,
+        "freeThrowsAttempted": 29,
+        "offensiveRebounds": 9,
+        "defensiveRebounds": 31,
+        "totalRebounds": 40,
+        "totalTurnovers": 19,
+        "plusMinus": 10
+      },
+      "market_line": 0.0
+    }
+  ]
+}

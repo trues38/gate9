@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-02_BOS_NY",
+  "date": "2025-12-02",
+  "teams": {
+    "home": "BOS",
+    "away": "NY"
+  },
+  "team_regimes": {
+    "BOS": {
+      "momentum": 2.1600000858306885,
+      "volatility": 0.8399999737739563,
+      "label": "Juggernaut"
+    },
+    "NY": {
+      "momentum": 4.869999885559082,
+      "volatility": 1.25,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "BOS": [
+      {
+        "name": "Jaylen Brown",
+        "momentum": 30.8,
+        "trend": "Slumping",
+        "last_5_avg": 30.8
+      },
+      {
+        "name": "Payton Pritchard",
+        "momentum": 19.8,
+        "trend": "Surging",
+        "last_5_avg": 19.8
+      },
+      {
+        "name": "Derrick White",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      },
+      {
+        "name": "Anfernee Simons",
+        "momentum": 14.8,
+        "trend": "Stable",
+        "last_5_avg": 14.8
+      },
+      {
+        "name": "Neemias Queta",
+        "momentum": 12.2,
+        "trend": "Surging",
+        "last_5_avg": 12.2
+      }
+    ],
+    "NY": [
+      {
+        "name": "Jalen Brunson",
+        "momentum": 29.6,
+        "trend": "Slumping",
+        "last_5_avg": 29.6
+      },
+      {
+        "name": "Karl-Anthony Towns",
+        "momentum": 22.2,
+        "trend": "Stable",
+        "last_5_avg": 22.2
+      },
+      {
+        "name": "Mikal Bridges",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      },
+      {
+        "name": "OG Anunoby",
+        "momentum": 14.0,
+        "trend": "Slumping",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Josh Hart",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      }
+    ]
+  },
+  "injuries": {
+    "BOS": [],
+    "NY": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "BOS": "Backtest Mode: News Hidden",
+    "NY": "Backtest Mode: News Hidden"
+  }
+}

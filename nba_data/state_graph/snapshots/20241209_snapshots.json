@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2024-12-09",
+    "game_id": "401704925",
+    "matchup": "NY @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "7-18",
+      "rest_days": 1,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "NY",
+      "record": "15-9",
+      "rest_days": 1,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Tony Brothers",
+      "Gediminas Petraitis",
+      "Simone Jelks"
+    ],
+    "state_notes": [
+      "RJ Barrett - Out"
+    ]
+  }
+]

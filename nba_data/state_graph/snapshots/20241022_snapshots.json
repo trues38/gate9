@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2024-10-22",
+    "game_id": "401704627",
+    "matchup": "NY @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "1-0",
+      "rest_days": 3,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "NY",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Zach Zarba",
+      "Mark Lindsay",
+      "Brandon Schwab"
+    ],
+    "state_notes": [
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2024-10-22",
+    "game_id": "401704628",
+    "matchup": "MIN @ LAL",
+    "home_team": {
+      "team_id": "LAL",
+      "record": "1-0",
+      "rest_days": 3,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "James Williams",
+      "J.T. Orr",
+      "Nick Buchert"
+    ],
+    "state_notes": []
+  }
+]

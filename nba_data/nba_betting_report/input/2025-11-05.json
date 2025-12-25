@@ -1,0 +1,411 @@
+{
+  "games": [
+    {
+      "game_id": "2025-11-05-CLE-PHI",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "CLE",
+        "away": "PHI"
+      },
+      "home_stats": {
+        "points": 132,
+        "fieldGoalsMade": 49,
+        "fieldGoalsAttempted": 92,
+        "threePointFieldGoalsMade": 18,
+        "threePointFieldGoalsAttempted": 44,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 17,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 24,
+        "totalRebounds": 34,
+        "totalTurnovers": 15,
+        "plusMinus": 11
+      },
+      "away_stats": {
+        "points": 121,
+        "fieldGoalsMade": 44,
+        "fieldGoalsAttempted": 90,
+        "threePointFieldGoalsMade": 12,
+        "threePointFieldGoalsAttempted": 31,
+        "freeThrowsMade": 21,
+        "freeThrowsAttempted": 30,
+        "offensiveRebounds": 15,
+        "defensiveRebounds": 28,
+        "totalRebounds": 43,
+        "totalTurnovers": 19,
+        "plusMinus": -11
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-DET-UTAH",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "DET",
+        "away": "UTAH"
+      },
+      "home_stats": {
+        "points": 114,
+        "fieldGoalsMade": 45,
+        "fieldGoalsAttempted": 91,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 30,
+        "freeThrowsMade": 13,
+        "freeThrowsAttempted": 22,
+        "offensiveRebounds": 13,
+        "defensiveRebounds": 39,
+        "totalRebounds": 52,
+        "totalTurnovers": 13,
+        "plusMinus": 11
+      },
+      "away_stats": {
+        "points": 103,
+        "fieldGoalsMade": 33,
+        "fieldGoalsAttempted": 86,
+        "threePointFieldGoalsMade": 12,
+        "threePointFieldGoalsAttempted": 39,
+        "freeThrowsMade": 25,
+        "freeThrowsAttempted": 29,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 33,
+        "totalRebounds": 44,
+        "totalTurnovers": 15,
+        "plusMinus": -11
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-IND-BKN",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "IND",
+        "away": "BKN"
+      },
+      "home_stats": {
+        "points": 103,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 99,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 36,
+        "freeThrowsMade": 8,
+        "freeThrowsAttempted": 13,
+        "offensiveRebounds": 16,
+        "defensiveRebounds": 40,
+        "totalRebounds": 56,
+        "totalTurnovers": 18,
+        "plusMinus": -9
+      },
+      "away_stats": {
+        "points": 112,
+        "fieldGoalsMade": 36,
+        "fieldGoalsAttempted": 86,
+        "threePointFieldGoalsMade": 14,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 26,
+        "freeThrowsAttempted": 35,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 35,
+        "totalRebounds": 45,
+        "totalTurnovers": 14,
+        "plusMinus": 9
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-BOS-WSH",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "BOS",
+        "away": "WSH"
+      },
+      "home_stats": {
+        "points": 136,
+        "fieldGoalsMade": 52,
+        "fieldGoalsAttempted": 95,
+        "threePointFieldGoalsMade": 16,
+        "threePointFieldGoalsAttempted": 41,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 21,
+        "offensiveRebounds": 12,
+        "defensiveRebounds": 28,
+        "totalRebounds": 40,
+        "totalTurnovers": 7,
+        "plusMinus": 29
+      },
+      "away_stats": {
+        "points": 107,
+        "fieldGoalsMade": 39,
+        "fieldGoalsAttempted": 80,
+        "threePointFieldGoalsMade": 9,
+        "threePointFieldGoalsAttempted": 27,
+        "freeThrowsMade": 20,
+        "freeThrowsAttempted": 27,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 29,
+        "totalRebounds": 40,
+        "totalTurnovers": 19,
+        "plusMinus": -29
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-NY-MIN",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "NY",
+        "away": "MIN"
+      },
+      "home_stats": {
+        "points": 137,
+        "fieldGoalsMade": 55,
+        "fieldGoalsAttempted": 102,
+        "threePointFieldGoalsMade": 19,
+        "threePointFieldGoalsAttempted": 42,
+        "freeThrowsMade": 8,
+        "freeThrowsAttempted": 9,
+        "offensiveRebounds": 21,
+        "defensiveRebounds": 29,
+        "totalRebounds": 50,
+        "totalTurnovers": 14,
+        "plusMinus": 23
+      },
+      "away_stats": {
+        "points": 114,
+        "fieldGoalsMade": 40,
+        "fieldGoalsAttempted": 83,
+        "threePointFieldGoalsMade": 19,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 15,
+        "freeThrowsAttempted": 17,
+        "offensiveRebounds": 9,
+        "defensiveRebounds": 22,
+        "totalRebounds": 31,
+        "totalTurnovers": 17,
+        "plusMinus": -23
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-MEM-HOU",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "MEM",
+        "away": "HOU"
+      },
+      "home_stats": {
+        "points": 109,
+        "fieldGoalsMade": 34,
+        "fieldGoalsAttempted": 89,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 39,
+        "freeThrowsMade": 28,
+        "freeThrowsAttempted": 35,
+        "offensiveRebounds": 13,
+        "defensiveRebounds": 34,
+        "totalRebounds": 47,
+        "totalTurnovers": 15,
+        "plusMinus": -15
+      },
+      "away_stats": {
+        "points": 124,
+        "fieldGoalsMade": 48,
+        "fieldGoalsAttempted": 101,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 30,
+        "freeThrowsMade": 15,
+        "freeThrowsAttempted": 18,
+        "offensiveRebounds": 15,
+        "defensiveRebounds": 39,
+        "totalRebounds": 54,
+        "totalTurnovers": 13,
+        "plusMinus": 15
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-DAL-NO",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "DAL",
+        "away": "NO"
+      },
+      "home_stats": {
+        "points": 99,
+        "fieldGoalsMade": 37,
+        "fieldGoalsAttempted": 89,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 32,
+        "freeThrowsMade": 15,
+        "freeThrowsAttempted": 20,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 34,
+        "totalRebounds": 44,
+        "totalTurnovers": 15,
+        "plusMinus": -2
+      },
+      "away_stats": {
+        "points": 101,
+        "fieldGoalsMade": 39,
+        "fieldGoalsAttempted": 91,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 31,
+        "freeThrowsMade": 13,
+        "freeThrowsAttempted": 16,
+        "offensiveRebounds": 14,
+        "defensiveRebounds": 42,
+        "totalRebounds": 56,
+        "totalTurnovers": 16,
+        "plusMinus": 2
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-DEN-MIA",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "DEN",
+        "away": "MIA"
+      },
+      "home_stats": {
+        "points": 122,
+        "fieldGoalsMade": 43,
+        "fieldGoalsAttempted": 101,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 25,
+        "freeThrowsAttempted": 28,
+        "offensiveRebounds": 21,
+        "defensiveRebounds": 40,
+        "totalRebounds": 61,
+        "totalTurnovers": 17,
+        "plusMinus": 10
+      },
+      "away_stats": {
+        "points": 112,
+        "fieldGoalsMade": 38,
+        "fieldGoalsAttempted": 86,
+        "threePointFieldGoalsMade": 14,
+        "threePointFieldGoalsAttempted": 41,
+        "freeThrowsMade": 22,
+        "freeThrowsAttempted": 25,
+        "offensiveRebounds": 5,
+        "defensiveRebounds": 33,
+        "totalRebounds": 38,
+        "totalTurnovers": 15,
+        "plusMinus": -10
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-LAL-SA",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "LAL",
+        "away": "SA"
+      },
+      "home_stats": {
+        "points": 118,
+        "fieldGoalsMade": 37,
+        "fieldGoalsAttempted": 83,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 31,
+        "freeThrowsMade": 34,
+        "freeThrowsAttempted": 44,
+        "offensiveRebounds": 12,
+        "defensiveRebounds": 26,
+        "totalRebounds": 38,
+        "totalTurnovers": 14,
+        "plusMinus": 2
+      },
+      "away_stats": {
+        "points": 116,
+        "fieldGoalsMade": 36,
+        "fieldGoalsAttempted": 74,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 33,
+        "freeThrowsMade": 31,
+        "freeThrowsAttempted": 40,
+        "offensiveRebounds": 8,
+        "defensiveRebounds": 29,
+        "totalRebounds": 37,
+        "totalTurnovers": 19,
+        "plusMinus": -2
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-POR-OKC",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "POR",
+        "away": "OKC"
+      },
+      "home_stats": {
+        "points": 121,
+        "fieldGoalsMade": 36,
+        "fieldGoalsAttempted": 88,
+        "threePointFieldGoalsMade": 19,
+        "threePointFieldGoalsAttempted": 43,
+        "freeThrowsMade": 30,
+        "freeThrowsAttempted": 32,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 38,
+        "totalRebounds": 49,
+        "totalTurnovers": 18,
+        "plusMinus": 2
+      },
+      "away_stats": {
+        "points": 119,
+        "fieldGoalsMade": 38,
+        "fieldGoalsAttempted": 91,
+        "threePointFieldGoalsMade": 15,
+        "threePointFieldGoalsAttempted": 38,
+        "freeThrowsMade": 28,
+        "freeThrowsAttempted": 31,
+        "offensiveRebounds": 13,
+        "defensiveRebounds": 37,
+        "totalRebounds": 50,
+        "totalTurnovers": 15,
+        "plusMinus": -2
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-05-SAC-GS",
+      "date": "2025-11-05",
+      "teams": {
+        "home": "SAC",
+        "away": "GS"
+      },
+      "home_stats": {
+        "points": 121,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 83,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 23,
+        "freeThrowsMade": 28,
+        "freeThrowsAttempted": 33,
+        "offensiveRebounds": 8,
+        "defensiveRebounds": 39,
+        "totalRebounds": 47,
+        "totalTurnovers": 16,
+        "plusMinus": 5
+      },
+      "away_stats": {
+        "points": 116,
+        "fieldGoalsMade": 40,
+        "fieldGoalsAttempted": 89,
+        "threePointFieldGoalsMade": 17,
+        "threePointFieldGoalsAttempted": 43,
+        "freeThrowsMade": 19,
+        "freeThrowsAttempted": 23,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 34,
+        "totalRebounds": 44,
+        "totalTurnovers": 19,
+        "plusMinus": -5
+      },
+      "market_line": 0.0
+    }
+  ]
+}

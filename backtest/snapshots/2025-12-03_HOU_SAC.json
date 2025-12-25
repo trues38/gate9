@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-03_HOU_SAC",
+  "date": "2025-12-03",
+  "teams": {
+    "home": "HOU",
+    "away": "SAC"
+  },
+  "team_regimes": {
+    "HOU": {
+      "momentum": 5.079999923706055,
+      "volatility": 1.1399999856948853,
+      "label": "Juggernaut"
+    },
+    "SAC": {
+      "momentum": -6.099999904632568,
+      "volatility": 1.190000057220459,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "HOU": [
+      {
+        "name": "Kevin Durant",
+        "momentum": 25.0,
+        "trend": "Surging",
+        "last_5_avg": 25.0
+      },
+      {
+        "name": "Alperen Sengun",
+        "momentum": 21.2,
+        "trend": "Surging",
+        "last_5_avg": 21.2
+      },
+      {
+        "name": "Amen Thompson",
+        "momentum": 17.6,
+        "trend": "Surging",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Reed Sheppard",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Jabari Smith Jr.",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      }
+    ],
+    "SAC": [
+      {
+        "name": "Zach LaVine",
+        "momentum": 17.6,
+        "trend": "Stable",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "DeMar DeRozan",
+        "momentum": 19.8,
+        "trend": "Stable",
+        "last_5_avg": 19.8
+      },
+      {
+        "name": "Keegan Murray",
+        "momentum": 19.8,
+        "trend": "Slumping",
+        "last_5_avg": 19.8
+      },
+      {
+        "name": "Domantas Sabonis",
+        "momentum": 20.4,
+        "trend": "Stable",
+        "last_5_avg": 20.4
+      },
+      {
+        "name": "Russell Westbrook",
+        "momentum": 13.2,
+        "trend": "Slumping",
+        "last_5_avg": 13.2
+      }
+    ]
+  },
+  "injuries": {
+    "HOU": [],
+    "SAC": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "HOU": "Backtest Mode: News Hidden",
+    "SAC": "Backtest Mode: News Hidden"
+  }
+}

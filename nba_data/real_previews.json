@@ -1,0 +1,184 @@
+{
+    "0022501209": {
+        "matchup": "CHA vs CHI",
+        "headline": "Bulls, Hornets clash in battle of struggling squads; LaMelo OUT",
+        "text": "The Chicago Bulls (9-14) look to snap a 7-game losing streak as they visit the Charlotte Hornets (7-17). Both teams are decimated by injuries. LaMelo Ball is OUT (ankle) for Charlotte, while Chicago is missing key pieces. With both defenses struggling, this is a desperate matchup for momentum.",
+        "injuries": [
+            {
+                "player": "LaMelo Ball",
+                "team": "CHA",
+                "status": "OUT",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Tre Mann",
+                "team": "CHA",
+                "status": "OUT",
+                "impact": "MEDIUM"
+            },
+            {
+                "player": "Zach Collins",
+                "team": "CHI",
+                "status": "PROBABLE",
+                "impact": "LOW"
+            }
+        ],
+        "sentiment": "HOME_VULNERABLE"
+    },
+    "0022501210": {
+        "matchup": "DET vs ATL",
+        "headline": "Historic Pistons (19-5) host Hawks sans Trae Young",
+        "text": "The Detroit Pistons are the story of the league at 19-5, entering as favorites against the Atlanta Hawks (14-11). Cade Cunningham (27.5 ppg) leads a surging Detroit team. Atlanta is without Trae Young (knee), forcing Jalen Johnson to carry the load. Detroit has won 4 of their last 5 and looks to continue their dominance at home.",
+        "injuries": [
+            {
+                "player": "Trae Young",
+                "team": "ATL",
+                "status": "OUT",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Jalen Duren",
+                "team": "DET",
+                "status": "AVAILABLE",
+                "impact": "LOW"
+            }
+        ],
+        "sentiment": "HOME_DOMINANCE"
+    },
+    "0022501211": {
+        "matchup": "PHI vs IND",
+        "headline": "Sixers heavy favorites vs depleted Pacers; Embiid expected to play",
+        "text": "The 76ers (13-10) host the Indiana Pacers (6-18) who are reeling from the season-ending injury to Tyrese Haliburton. Joel Embiid is listed as PROBABLE and expected to dominate inside. The Pacers have lost Aaron Nesmith and Obi Toppin as well. This matchup heavily favors Philadelphia's healthy star trio against a shorthanded Indiana roster.",
+        "injuries": [
+            {
+                "player": "Joel Embiid",
+                "team": "PHI",
+                "status": "PROBABLE",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Tyrese Haliburton",
+                "team": "IND",
+                "status": "OUT",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Aaron Nesmith",
+                "team": "IND",
+                "status": "OUT",
+                "impact": "MEDIUM"
+            }
+        ],
+        "sentiment": "HOME_LOCK"
+    },
+    "0022501212": {
+        "matchup": "WAS vs CLE",
+        "headline": "Cavs look to extend domination over reeling Wizards (3-19)",
+        "text": "The Cleveland Cavaliers (14-11) visit the Washington Wizards (3-19). The Cavs have won 10 straight meetings. Washington is missing Bilal Coulibaly and Alex Sarr (OUT), leaving their league-worst defense vulnerable. Cleveland is favored by double digits despite missing Jarrett Allen. A potential blowout scenario.",
+        "injuries": [
+            {
+                "player": "Alex Sarr",
+                "team": "WAS",
+                "status": "OUT",
+                "impact": "HIGH"
+            },
+            {
+                "player": "Bilal Coulibaly",
+                "team": "WAS",
+                "status": "OUT",
+                "impact": "MEDIUM"
+            },
+            {
+                "player": "Jarrett Allen",
+                "team": "CLE",
+                "status": "OUT",
+                "impact": "HIGH"
+            }
+        ],
+        "sentiment": "AWAY_LOCK"
+    },
+    "0022501213": {
+        "matchup": "MEM vs UTA",
+        "headline": "Grizzlies aim to keep momentum vs struggling Jazz",
+        "text": "The Memphis Grizzlies (11-13) have won 7 of their last 9 and host the Utah Jazz (8-15). Ja Morant is probable to return/play, boosting Memphis significantly. Utah is 2-8 on the road and without Walker Kessler. The narrative favors the surging Grizzlies against a Jazz team struggling to find consistency.",
+        "injuries": [
+            {
+                "player": "Ja Morant",
+                "team": "MEM",
+                "status": "PROBABLE",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Walker Kessler",
+                "team": "UTA",
+                "status": "OUT",
+                "impact": "HIGH"
+            },
+            {
+                "player": "Zach Edey",
+                "team": "MEM",
+                "status": "OUT",
+                "impact": "MEDIUM"
+            }
+        ],
+        "sentiment": "HOME_SURGE"
+    },
+    "0022501214": {
+        "matchup": "DAL vs BKN",
+        "headline": "Mavs host Nets; Irving OUT vs former team",
+        "text": "The Dallas Mavericks (9-16) host the Brooklyn Nets (6-17). Kyrie Irving remains OUT (knee), missing the revenge game. Luka Doncic leads a struggling Mavs squad. Brooklyn has won 3 of 4 but is missing Cam Thomas. Both teams are fighting to turn their seasons around in this volatility-filled matchup.",
+        "injuries": [
+            {
+                "player": "Kyrie Irving",
+                "team": "DAL",
+                "status": "OUT",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Dereck Lively II",
+                "team": "DAL",
+                "status": "OUT",
+                "impact": "HIGH"
+            },
+            {
+                "player": "Cam Thomas",
+                "team": "BKN",
+                "status": "OUT",
+                "impact": "HIGH"
+            }
+        ],
+        "sentiment": "HOME_VULNERABLE"
+    },
+    "0022501215": {
+        "matchup": "GSW vs MIN",
+        "headline": "Warriors and Wolves clash in potential playoff preview",
+        "text": "The Warriors (13-12) host the Timberwolves (15-9). Steph Curry is expected to return/play. Minnesota is missing Mike Conley, and Anthony Edwards is QUESTIONABLE. A tight contest is expected between two Western Conference contenders. Golden State has home court, but Minnesota's defense is elite when healthy.",
+        "injuries": [
+            {
+                "player": "Steph Curry",
+                "team": "GSW",
+                "status": "PROBABLE",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Draymond Green",
+                "team": "GSW",
+                "status": "OUT",
+                "impact": "HIGH"
+            },
+            {
+                "player": "Anthony Edwards",
+                "team": "MIN",
+                "status": "QUESTIONABLE",
+                "impact": "CRITICAL"
+            },
+            {
+                "player": "Mike Conley",
+                "team": "MIN",
+                "status": "OUT",
+                "impact": "MEDIUM"
+            }
+        ],
+        "sentiment": "TOSS_UP"
+    }
+}

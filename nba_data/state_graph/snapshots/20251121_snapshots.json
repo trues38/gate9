@@ -1,0 +1,455 @@
+[
+  {
+    "date": "2025-11-21",
+    "game_id": "401809790",
+    "matchup": "IND @ CLE",
+    "home_team": {
+      "team_id": "CLE",
+      "record": "11-6",
+      "rest_days": 1,
+      "injuries": [
+        "Lonzo Ball - Day-To-Day",
+        "Larry Nance Jr. - Out",
+        "Max Strus - Out",
+        "Evan Mobley - Out"
+      ],
+      "lineup": [
+        "Jarrett Allen",
+        "Lonzo Ball",
+        "Thomas Bryant",
+        "Darius Garland",
+        "De'Andre Hunter",
+        "Chris Livingston",
+        "Sam Merrill",
+        "Donovan Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "IND",
+      "record": "2-14",
+      "rest_days": 1,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "referees": [
+      "Curtis Blair",
+      "Michael Smith",
+      "Sean Corbin"
+    ],
+    "state_notes": [
+      "Ben Sheppard - Out",
+      "Larry Nance Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809791",
+    "matchup": "BKN @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "8-8",
+      "rest_days": 2,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "BKN",
+      "record": "3-12",
+      "rest_days": 2,
+      "injuries": [
+        "Drake Powell - Out",
+        "Cam Thomas - Out",
+        "Haywood Highsmith - Out"
+      ],
+      "lineup": [
+        "Nic Claxton",
+        "Noah Clowney",
+        "Egor Demin",
+        "Tyson Etienne",
+        "E.J. Liddell",
+        "Terance Mann",
+        "Tyrese Martin",
+        "Michael Porter Jr."
+      ]
+    },
+    "referees": [
+      "Pat Fraher",
+      "Brandon Schwab",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "Drake Powell - Out",
+      "Cam Thomas - Out",
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809792",
+    "matchup": "WSH @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "11-5",
+      "rest_days": 1,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "WSH",
+      "record": "1-14",
+      "rest_days": 1,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Marc Davis",
+      "Andy Nagy",
+      "Matt Kallio"
+    ],
+    "state_notes": [
+      "RJ Barrett - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809793",
+    "matchup": "MIA @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "8-7",
+      "rest_days": 1,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIA",
+      "record": "10-6",
+      "rest_days": 1,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "referees": [
+      "Tony Brothers",
+      "Che Flores",
+      "Nate Green"
+    ],
+    "state_notes": [
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809794",
+    "matchup": "NO @ DAL",
+    "home_team": {
+      "team_id": "DAL",
+      "record": "5-12",
+      "rest_days": 1,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "away_team": {
+      "team_id": "NO",
+      "record": "2-14",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Poole - Day-To-Day",
+        "Herbert Jones - Day-To-Day",
+        "Dejounte Murray - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Jason Goldenberg",
+      "Dannica Mosher"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809795",
+    "matchup": "MIN @ PHX",
+    "home_team": {
+      "team_id": "PHX",
+      "record": "10-6",
+      "rest_days": 2,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "10-6",
+      "rest_days": 1,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Eric Dalen",
+      "Kevin Scott",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "Grayson Allen - Out",
+      "Jalen Green - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809796",
+    "matchup": "DEN @ HOU",
+    "home_team": {
+      "team_id": "HOU",
+      "record": "10-4",
+      "rest_days": 1,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "away_team": {
+      "team_id": "DEN",
+      "record": "12-3",
+      "rest_days": 1,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Dedric Taylor",
+      "J.T. Orr"
+    ],
+    "state_notes": [
+      "Tamar Bates - Out",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809797",
+    "matchup": "OKC @ UTAH",
+    "home_team": {
+      "team_id": "UTAH",
+      "record": "5-10",
+      "rest_days": 2,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "16-1",
+      "rest_days": 1,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "Sean Wright",
+      "Matt Myers",
+      "John Butler"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-11-21",
+    "game_id": "401809798",
+    "matchup": "POR @ GS",
+    "home_team": {
+      "team_id": "GS",
+      "record": "9-9",
+      "rest_days": 1,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "POR",
+      "record": "7-9",
+      "rest_days": 1,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "referees": [
+      "Kevin Cutler",
+      "CJ Washington",
+      "J.B. DeRosa"
+    ],
+    "state_notes": [
+      "Jerami Grant - Out",
+      "Seth Curry - Out",
+      "Al Horford - Out"
+    ]
+  }
+]

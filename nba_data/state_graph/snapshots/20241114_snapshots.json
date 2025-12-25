@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2024-11-14",
+    "game_id": "401704794",
+    "matchup": "DAL @ UTAH",
+    "home_team": {
+      "team_id": "UTAH",
+      "record": "3-8",
+      "rest_days": 1,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "DAL",
+      "record": "5-7",
+      "rest_days": 1,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "referees": [
+      "Tony Brothers",
+      "J.T. Orr",
+      "Mousa Dagher"
+    ],
+    "state_notes": []
+  }
+]

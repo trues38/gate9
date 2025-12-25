@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2025-11-22",
+    "game_id": "401810123",
+    "matchup": "LAC @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "4-12",
+      "rest_days": 2,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAC",
+      "record": "5-11",
+      "rest_days": 1,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Justin Van Duyne",
+      "Pat O'Connell"
+    ],
+    "state_notes": [
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810124",
+    "matchup": "NY @ ORL",
+    "home_team": {
+      "team_id": "ORL",
+      "record": "10-7",
+      "rest_days": 1,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "away_team": {
+      "team_id": "NY",
+      "record": "9-6",
+      "rest_days": 2,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Mark Lindsay",
+      "Karl Lane",
+      "Jenna Schroeder"
+    ],
+    "state_notes": [
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810125",
+    "matchup": "ATL @ NO",
+    "home_team": {
+      "team_id": "NO",
+      "record": "2-15",
+      "rest_days": 0,
+      "injuries": [
+        "Jordan Poole - Day-To-Day",
+        "Herbert Jones - Day-To-Day",
+        "Dejounte Murray - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "ATL",
+      "record": "10-7",
+      "rest_days": 1,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "referees": [
+      "Brian Forte",
+      "Scott Foster",
+      "Sha'Rae Mitchell"
+    ],
+    "state_notes": [
+      "NO back-to-back"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810126",
+    "matchup": "WSH @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "9-7",
+      "rest_days": 0,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "WSH",
+      "record": "1-15",
+      "rest_days": 0,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Scott Twardoski",
+      "Ray Acosta",
+      "Danielle Scott"
+    ],
+    "state_notes": [
+      "WSH back-to-back",
+      "CHI back-to-back",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810127",
+    "matchup": "DET @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "8-9",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "DET",
+      "record": "14-2",
+      "rest_days": 3,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "referees": [
+      "Tyler Ford",
+      "Tyler Ricks",
+      "Natalie Sago"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810128",
+    "matchup": "MEM @ DAL",
+    "home_team": {
+      "team_id": "DAL",
+      "record": "5-13",
+      "rest_days": 0,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "away_team": {
+      "team_id": "MEM",
+      "record": "6-11",
+      "rest_days": 1,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "referees": [
+      "James Williams",
+      "Brent Barnaky",
+      "John Conley"
+    ],
+    "state_notes": [
+      "DAL back-to-back",
+      "Vince Williams Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "game_id": "401810129",
+    "matchup": "SAC @ DEN",
+    "home_team": {
+      "team_id": "DEN",
+      "record": "12-4",
+      "rest_days": 0,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "SAC",
+      "record": "4-13",
+      "rest_days": 1,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "referees": [
+      "John Goble",
+      "Tre Maddox",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "DEN back-to-back",
+      "Tamar Bates - Out"
+    ]
+  }
+]

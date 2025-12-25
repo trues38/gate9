@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-07_TOR_BOS",
+  "date": "2025-12-07",
+  "teams": {
+    "home": "TOR",
+    "away": "BOS"
+  },
+  "team_regimes": {
+    "TOR": {
+      "momentum": 0.2199999988079071,
+      "volatility": 1.1299999952316284,
+      "label": "Balanced"
+    },
+    "BOS": {
+      "momentum": 5.440000057220459,
+      "volatility": 1.2799999713897705,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "TOR": [
+      {
+        "name": "Brandon Ingram",
+        "momentum": 16.8,
+        "trend": "Slumping",
+        "last_5_avg": 16.8
+      },
+      {
+        "name": "Scottie Barnes",
+        "momentum": 22.4,
+        "trend": "Slumping",
+        "last_5_avg": 22.4
+      },
+      {
+        "name": "RJ Barrett",
+        "momentum": 20.0,
+        "trend": "Stable",
+        "last_5_avg": 20.0
+      },
+      {
+        "name": "Immanuel Quickley",
+        "momentum": 21.6,
+        "trend": "Surging",
+        "last_5_avg": 21.6
+      },
+      {
+        "name": "Jakob Poeltl",
+        "momentum": 7.8,
+        "trend": "Stable",
+        "last_5_avg": 7.8
+      }
+    ],
+    "BOS": [
+      {
+        "name": "Jaylen Brown",
+        "momentum": 33.0,
+        "trend": "Stable",
+        "last_5_avg": 33.0
+      },
+      {
+        "name": "Payton Pritchard",
+        "momentum": 19.2,
+        "trend": "Stable",
+        "last_5_avg": 19.2
+      },
+      {
+        "name": "Derrick White",
+        "momentum": 22.8,
+        "trend": "Stable",
+        "last_5_avg": 22.8
+      },
+      {
+        "name": "Anfernee Simons",
+        "momentum": 11.8,
+        "trend": "Stable",
+        "last_5_avg": 11.8
+      },
+      {
+        "name": "Neemias Queta",
+        "momentum": 12.0,
+        "trend": "Stable",
+        "last_5_avg": 12.0
+      }
+    ]
+  },
+  "injuries": {
+    "TOR": [],
+    "BOS": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "TOR": "Backtest Mode: News Hidden",
+    "BOS": "Backtest Mode: News Hidden"
+  }
+}

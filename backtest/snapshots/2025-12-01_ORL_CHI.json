@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-01_ORL_CHI",
+  "date": "2025-12-01",
+  "teams": {
+    "home": "ORL",
+    "away": "CHI"
+  },
+  "team_regimes": {
+    "ORL": {
+      "momentum": 4.480000019073486,
+      "volatility": 1.25,
+      "label": "Juggernaut"
+    },
+    "CHI": {
+      "momentum": -2.9200000762939453,
+      "volatility": 0.7300000190734863,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "ORL": [
+      {
+        "name": "Franz Wagner",
+        "momentum": 22.8,
+        "trend": "Stable",
+        "last_5_avg": 22.8
+      },
+      {
+        "name": "Paolo Banchero",
+        "momentum": 19.4,
+        "trend": "Slumping",
+        "last_5_avg": 19.4
+      },
+      {
+        "name": "Desmond Bane",
+        "momentum": 22.4,
+        "trend": "Surging",
+        "last_5_avg": 22.4
+      },
+      {
+        "name": "Jalen Suggs",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      },
+      {
+        "name": "Anthony Black",
+        "momentum": 16.8,
+        "trend": "Stable",
+        "last_5_avg": 16.8
+      }
+    ],
+    "CHI": [
+      {
+        "name": "Coby White",
+        "momentum": 24.2,
+        "trend": "Stable",
+        "last_5_avg": 24.2
+      },
+      {
+        "name": "Josh Giddey",
+        "momentum": 20.0,
+        "trend": "Stable",
+        "last_5_avg": 20.0
+      },
+      {
+        "name": "Nikola Vucevic",
+        "momentum": 18.0,
+        "trend": "Stable",
+        "last_5_avg": 18.0
+      },
+      {
+        "name": "Ayo Dosunmu",
+        "momentum": 15.8,
+        "trend": "Stable",
+        "last_5_avg": 15.8
+      },
+      {
+        "name": "Matas Buzelis",
+        "momentum": 9.0,
+        "trend": "Stable",
+        "last_5_avg": 9.0
+      }
+    ]
+  },
+  "injuries": {
+    "ORL": [],
+    "CHI": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "ORL": "Backtest Mode: News Hidden",
+    "CHI": "Backtest Mode: News Hidden"
+  }
+}

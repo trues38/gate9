@@ -1,0 +1,424 @@
+[
+  {
+    "date": "2024-11-18",
+    "game_id": "401704810",
+    "matchup": "CHI @ DET",
+    "home_team": {
+      "team_id": "DET",
+      "record": "7-9",
+      "rest_days": 0,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "CHI",
+      "record": "6-9",
+      "rest_days": 0,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "referees": [
+      "Matt Boland",
+      "Curtis Blair",
+      "Justin Van Duyne"
+    ],
+    "state_notes": [
+      "CHI back-to-back",
+      "DET back-to-back",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704811",
+    "matchup": "PHI @ MIA",
+    "home_team": {
+      "team_id": "MIA",
+      "record": "6-7",
+      "rest_days": 0,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "PHI",
+      "record": "2-11",
+      "rest_days": 2,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "referees": [
+      "Ed Malloy",
+      "Mitchell Ervin",
+      "Suyash Mehta"
+    ],
+    "state_notes": [
+      "MIA back-to-back",
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704812",
+    "matchup": "WSH @ NY",
+    "home_team": {
+      "team_id": "NY",
+      "record": "8-6",
+      "rest_days": 0,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "WSH",
+      "record": "2-11",
+      "rest_days": 0,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Kevin Cutler",
+      "Tom Washington",
+      "Kevin Scott"
+    ],
+    "state_notes": [
+      "WSH back-to-back",
+      "NY back-to-back"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704813",
+    "matchup": "IND @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "3-12",
+      "rest_days": 1,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "IND",
+      "record": "6-8",
+      "rest_days": 0,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Natalie Sago",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "IND back-to-back",
+      "Ben Sheppard - Out",
+      "RJ Barrett - Out"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704814",
+    "matchup": "HOU @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "5-9",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "10-5",
+      "rest_days": 0,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "Ben Taylor",
+      "Nick Buchert",
+      "Brandon Adair"
+    ],
+    "state_notes": [
+      "HOU back-to-back",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out",
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704815",
+    "matchup": "ORL @ PHX",
+    "home_team": {
+      "team_id": "PHX",
+      "record": "9-6",
+      "rest_days": 0,
+      "injuries": [
+        "Grayson Allen - Out",
+        "Jalen Green - Out",
+        "Koby Brea - Out"
+      ],
+      "lineup": [
+        "Devin Booker",
+        "Jamaree Bouyea",
+        "Dillon Brooks",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Collin Gillespie",
+        "Jordan Goodwin",
+        "Nigel Hayes-Davis"
+      ]
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "9-6",
+      "rest_days": 2,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Sean Corbin",
+      "Tyler Ford",
+      "John Butler"
+    ],
+    "state_notes": [
+      "PHX back-to-back",
+      "Tristan da Silva - Out",
+      "Grayson Allen - Out",
+      "Jalen Green - Out"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704816",
+    "matchup": "ATL @ SAC",
+    "home_team": {
+      "team_id": "SAC",
+      "record": "8-7",
+      "rest_days": 1,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "away_team": {
+      "team_id": "ATL",
+      "record": "7-8",
+      "rest_days": 0,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "referees": [
+      "Derrick Collins",
+      "Pat Fraher",
+      "Aaron Smith"
+    ],
+    "state_notes": [
+      "ATL back-to-back"
+    ]
+  },
+  {
+    "date": "2024-11-18",
+    "game_id": "401704817",
+    "matchup": "GS @ LAC",
+    "home_team": {
+      "team_id": "LAC",
+      "record": "8-7",
+      "rest_days": 0,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "10-3",
+      "rest_days": 2,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Marc Davis",
+      "J.T. Orr",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "LAC back-to-back",
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  }
+]

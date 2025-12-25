@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-01_WSH_MIL",
+  "date": "2025-12-01",
+  "teams": {
+    "home": "WSH",
+    "away": "MIL"
+  },
+  "team_regimes": {
+    "WSH": {
+      "momentum": -7.449999809265137,
+      "volatility": 1.6200000047683716,
+      "label": "Crisis"
+    },
+    "MIL": {
+      "momentum": -2.200000047683716,
+      "volatility": 1.0099999904632568,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "WSH": [
+      {
+        "name": "Alex Sarr",
+        "momentum": 20.2,
+        "trend": "Stable",
+        "last_5_avg": 20.2
+      },
+      {
+        "name": "CJ McCollum",
+        "momentum": 21.8,
+        "trend": "Slumping",
+        "last_5_avg": 21.8
+      },
+      {
+        "name": "Kyshawn George",
+        "momentum": 15.8,
+        "trend": "Slumping",
+        "last_5_avg": 15.8
+      },
+      {
+        "name": "Tre Johnson",
+        "momentum": 10.4,
+        "trend": "Stable",
+        "last_5_avg": 10.4
+      },
+      {
+        "name": "Khris Middleton",
+        "momentum": 10.2,
+        "trend": "Stable",
+        "last_5_avg": 10.2
+      }
+    ],
+    "MIL": [
+      {
+        "name": "Giannis Antetokounmpo",
+        "momentum": 26.0,
+        "trend": "Stable",
+        "last_5_avg": 26.0
+      },
+      {
+        "name": "Ryan Rollins",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Kyle Kuzma",
+        "momentum": 13.4,
+        "trend": "Stable",
+        "last_5_avg": 13.4
+      },
+      {
+        "name": "Myles Turner",
+        "momentum": 13.6,
+        "trend": "Stable",
+        "last_5_avg": 13.6
+      },
+      {
+        "name": "Kevin Porter Jr.",
+        "momentum": 11.5,
+        "trend": "Stable",
+        "last_5_avg": 11.5
+      }
+    ]
+  },
+  "injuries": {
+    "WSH": [],
+    "MIL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "WSH": "Backtest Mode: News Hidden",
+    "MIL": "Backtest Mode: News Hidden"
+  }
+}

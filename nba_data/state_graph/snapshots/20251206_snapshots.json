@@ -1,0 +1,363 @@
+[
+  {
+    "date": "2025-12-06",
+    "game_id": "401810205",
+    "matchup": "NO @ BKN",
+    "home_team": {
+      "team_id": "BKN",
+      "record": "6-17",
+      "rest_days": 1,
+      "injuries": [
+        "Drake Powell - Out",
+        "Cam Thomas - Out",
+        "Haywood Highsmith - Out"
+      ],
+      "lineup": [
+        "Nic Claxton",
+        "Noah Clowney",
+        "Egor Demin",
+        "Tyson Etienne",
+        "E.J. Liddell",
+        "Terance Mann",
+        "Tyrese Martin",
+        "Michael Porter Jr."
+      ]
+    },
+    "away_team": {
+      "team_id": "NO",
+      "record": "3-21",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Poole - Day-To-Day",
+        "Herbert Jones - Day-To-Day",
+        "Dejounte Murray - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Josh Tiven",
+      "Eric Dalen",
+      "Suyash Mehta"
+    ],
+    "state_notes": [
+      "Drake Powell - Out",
+      "Cam Thomas - Out"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810206",
+    "matchup": "ATL @ WSH",
+    "home_team": {
+      "team_id": "WSH",
+      "record": "3-19",
+      "rest_days": 1,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "ATL",
+      "record": "14-11",
+      "rest_days": 0,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "referees": [
+      "Marc Davis",
+      "J.T. Orr",
+      "Nick Buchert"
+    ],
+    "state_notes": [
+      "ATL back-to-back"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810207",
+    "matchup": "GS @ CLE",
+    "home_team": {
+      "team_id": "CLE",
+      "record": "14-11",
+      "rest_days": 0,
+      "injuries": [
+        "Lonzo Ball - Day-To-Day",
+        "Larry Nance Jr. - Out",
+        "Max Strus - Out",
+        "Evan Mobley - Out"
+      ],
+      "lineup": [
+        "Jarrett Allen",
+        "Lonzo Ball",
+        "Thomas Bryant",
+        "Darius Garland",
+        "De'Andre Hunter",
+        "Chris Livingston",
+        "Sam Merrill",
+        "Donovan Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "12-12",
+      "rest_days": 1,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Gediminas Petraitis",
+      "Justin Van Duyne",
+      "Jamahl Ralls"
+    ],
+    "state_notes": [
+      "CLE back-to-back",
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Larry Nance Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810208",
+    "matchup": "MIL @ DET",
+    "home_team": {
+      "team_id": "DET",
+      "record": "19-5",
+      "rest_days": 0,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIL",
+      "record": "10-15",
+      "rest_days": 0,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "referees": [
+      "Sean Wright",
+      "Mark Lindsay",
+      "Jonathan Sterling"
+    ],
+    "state_notes": [
+      "MIL back-to-back",
+      "DET back-to-back",
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810209",
+    "matchup": "SAC @ MIA",
+    "home_team": {
+      "team_id": "MIA",
+      "record": "14-10",
+      "rest_days": 0,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "SAC",
+      "record": "6-17",
+      "rest_days": 2,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Che Flores",
+      "J.B. DeRosa"
+    ],
+    "state_notes": [
+      "MIA back-to-back",
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810210",
+    "matchup": "LAC @ MIN",
+    "home_team": {
+      "team_id": "MIN",
+      "record": "15-8",
+      "rest_days": 1,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "away_team": {
+      "team_id": "LAC",
+      "record": "6-18",
+      "rest_days": 0,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "referees": [
+      "Pat Fraher",
+      "Natalie Sago",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "LAC back-to-back",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "game_id": "401810211",
+    "matchup": "HOU @ DAL",
+    "home_team": {
+      "team_id": "DAL",
+      "record": "9-16",
+      "rest_days": 0,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "15-6",
+      "rest_days": 0,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "John Butler",
+      "Nate Cearley"
+    ],
+    "state_notes": [
+      "HOU back-to-back",
+      "DAL back-to-back",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out"
+    ]
+  }
+]

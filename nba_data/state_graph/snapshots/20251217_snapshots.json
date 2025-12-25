@@ -1,0 +1,110 @@
+[
+  {
+    "date": "2025-12-17",
+    "game_id": "401810222",
+    "matchup": "CLE @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "11-15",
+      "rest_days": 2,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "CLE",
+      "record": "15-13",
+      "rest_days": 2,
+      "injuries": [
+        "Lonzo Ball - Day-To-Day",
+        "Larry Nance Jr. - Out",
+        "Max Strus - Out",
+        "Evan Mobley - Out"
+      ],
+      "lineup": [
+        "Jarrett Allen",
+        "Lonzo Ball",
+        "Thomas Bryant",
+        "Darius Garland",
+        "De'Andre Hunter",
+        "Chris Livingston",
+        "Sam Merrill",
+        "Donovan Mitchell"
+      ]
+    },
+    "referees": [
+      "Tyler Ford",
+      "John Butler",
+      "Biniam Maru"
+    ],
+    "state_notes": [
+      "Larry Nance Jr. - Out",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2025-12-17",
+    "game_id": "401810223",
+    "matchup": "MEM @ MIN",
+    "home_team": {
+      "team_id": "MIN",
+      "record": "17-10",
+      "rest_days": 2,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "away_team": {
+      "team_id": "MEM",
+      "record": "13-14",
+      "rest_days": 1,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "referees": [
+      "Zach Zarba",
+      "Kevin Cutler",
+      "Marcy Williams"
+    ],
+    "state_notes": [
+      "Vince Williams Jr. - Out"
+    ]
+  }
+]

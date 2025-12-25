@@ -1,0 +1,190 @@
+[
+  {
+    "date": "2024-11-21",
+    "game_id": "401704826",
+    "matchup": "DET @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "6-9",
+      "rest_days": 1,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "DET",
+      "record": "7-10",
+      "rest_days": 2,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "referees": [
+      "John Goble",
+      "Marat Kogut",
+      "Danielle Scott"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2024-11-21",
+    "game_id": "401704827",
+    "matchup": "MIN @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "4-12",
+      "rest_days": 2,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "8-7",
+      "rest_days": 3,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Mark Lindsay",
+      "Jason Goldenberg",
+      "Sha'Rae Mitchell"
+    ],
+    "state_notes": [
+      "RJ Barrett - Out"
+    ]
+  },
+  {
+    "date": "2024-11-21",
+    "game_id": "401704828",
+    "matchup": "UTAH @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "8-8",
+      "rest_days": 1,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "UTAH",
+      "record": "3-12",
+      "rest_days": 1,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Brian Forte",
+      "Matt Myers"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2024-11-21",
+    "game_id": "401704829",
+    "matchup": "ORL @ LAL",
+    "home_team": {
+      "team_id": "LAL",
+      "record": "10-5",
+      "rest_days": 1,
+      "injuries": [
+        "Rui Hachimura - Day-To-Day",
+        "Luka Doncic - Day-To-Day",
+        "Jaxson Hayes - Day-To-Day",
+        "Gabe Vincent - Out"
+      ],
+      "lineup": [
+        "Deandre Ayton",
+        "Luka Doncic",
+        "Rui Hachimura",
+        "Jaxson Hayes",
+        "Bronny James",
+        "LeBron James",
+        "Maxi Kleber",
+        "Dalton Knecht"
+      ]
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "10-7",
+      "rest_days": 0,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Matt Boland",
+      "Karl Lane",
+      "J.B. DeRosa"
+    ],
+    "state_notes": [
+      "ORL back-to-back",
+      "Tristan da Silva - Out"
+    ]
+  }
+]

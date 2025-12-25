@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-01_UTAH_HOU",
+  "date": "2025-12-01",
+  "teams": {
+    "home": "UTAH",
+    "away": "HOU"
+  },
+  "team_regimes": {
+    "UTAH": {
+      "momentum": -3.7300000190734863,
+      "volatility": 1.1699999570846558,
+      "label": "Crisis"
+    },
+    "HOU": {
+      "momentum": 5.230000019073486,
+      "volatility": 1.0,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "UTAH": [
+      {
+        "name": "Lauri Markkanen",
+        "momentum": 20.4,
+        "trend": "Stable",
+        "last_5_avg": 20.4
+      },
+      {
+        "name": "Keyonte George",
+        "momentum": 21.2,
+        "trend": "Slumping",
+        "last_5_avg": 21.2
+      },
+      {
+        "name": "Walker Kessler",
+        "momentum": 14.4,
+        "trend": "Slumping",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Ace Bailey",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Svi Mykhailiuk",
+        "momentum": 8.4,
+        "trend": "Stable",
+        "last_5_avg": 8.4
+      }
+    ],
+    "HOU": [
+      {
+        "name": "Kevin Durant",
+        "momentum": 24.6,
+        "trend": "Stable",
+        "last_5_avg": 24.6
+      },
+      {
+        "name": "Alperen Sengun",
+        "momentum": 20.6,
+        "trend": "Surging",
+        "last_5_avg": 20.6
+      },
+      {
+        "name": "Amen Thompson",
+        "momentum": 15.4,
+        "trend": "Slumping",
+        "last_5_avg": 15.4
+      },
+      {
+        "name": "Reed Sheppard",
+        "momentum": 17.2,
+        "trend": "Slumping",
+        "last_5_avg": 17.2
+      },
+      {
+        "name": "Jabari Smith Jr.",
+        "momentum": 16.4,
+        "trend": "Stable",
+        "last_5_avg": 16.4
+      }
+    ]
+  },
+  "injuries": {
+    "UTAH": [],
+    "HOU": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "UTAH": "Backtest Mode: News Hidden",
+    "HOU": "Backtest Mode: News Hidden"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-03_ATL_LAC",
+  "date": "2025-12-03",
+  "teams": {
+    "home": "ATL",
+    "away": "LAC"
+  },
+  "team_regimes": {
+    "ATL": {
+      "momentum": 1.5,
+      "volatility": 0.8999999761581421,
+      "label": "Juggernaut"
+    },
+    "LAC": {
+      "momentum": -4.71999979019165,
+      "volatility": 1.0199999809265137,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "ATL": [
+      {
+        "name": "Jalen Johnson",
+        "momentum": 26.8,
+        "trend": "Stable",
+        "last_5_avg": 26.8
+      },
+      {
+        "name": "Nickeil Alexander-Walker",
+        "momentum": 24.2,
+        "trend": "Stable",
+        "last_5_avg": 24.2
+      },
+      {
+        "name": "Trae Young",
+        "momentum": 17.8,
+        "trend": "Slumping",
+        "last_5_avg": 17.8
+      },
+      {
+        "name": "Onyeka Okongwu",
+        "momentum": 17.6,
+        "trend": "Stable",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Kristaps Porzingis",
+        "momentum": 13.6,
+        "trend": "Slumping",
+        "last_5_avg": 13.6
+      }
+    ],
+    "LAC": [
+      {
+        "name": "James Harden",
+        "momentum": 22.2,
+        "trend": "Slumping",
+        "last_5_avg": 22.2
+      },
+      {
+        "name": "Kawhi Leonard",
+        "momentum": 28.8,
+        "trend": "Surging",
+        "last_5_avg": 28.8
+      },
+      {
+        "name": "Ivica Zubac",
+        "momentum": 17.4,
+        "trend": "Stable",
+        "last_5_avg": 17.4
+      },
+      {
+        "name": "John Collins",
+        "momentum": 12.8,
+        "trend": "Stable",
+        "last_5_avg": 12.8
+      },
+      {
+        "name": "Derrick Jones Jr.",
+        "momentum": 9.2,
+        "trend": "Stable",
+        "last_5_avg": 9.2
+      }
+    ]
+  },
+  "injuries": {
+    "ATL": [],
+    "LAC": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "ATL": "Backtest Mode: News Hidden",
+    "LAC": "Backtest Mode: News Hidden"
+  }
+}

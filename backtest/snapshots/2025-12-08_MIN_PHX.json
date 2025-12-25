@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-08_MIN_PHX",
+  "date": "2025-12-08",
+  "teams": {
+    "home": "MIN",
+    "away": "PHX"
+  },
+  "team_regimes": {
+    "MIN": {
+      "momentum": 3.390000104904175,
+      "volatility": 0.9300000071525574,
+      "label": "Juggernaut"
+    },
+    "PHX": {
+      "momentum": 0.6499999761581421,
+      "volatility": 1.2699999809265137,
+      "label": "Surging"
+    }
+  },
+  "player_regimes": {
+    "MIN": [
+      {
+        "name": "Anthony Edwards",
+        "momentum": 28.2,
+        "trend": "Slumping",
+        "last_5_avg": 28.2
+      },
+      {
+        "name": "Julius Randle",
+        "momentum": 21.2,
+        "trend": "Stable",
+        "last_5_avg": 21.2
+      },
+      {
+        "name": "Jaden McDaniels",
+        "momentum": 15.8,
+        "trend": "Surging",
+        "last_5_avg": 15.8
+      },
+      {
+        "name": "Naz Reid",
+        "momentum": 16.2,
+        "trend": "Stable",
+        "last_5_avg": 16.2
+      },
+      {
+        "name": "Donte DiVincenzo",
+        "momentum": 13.6,
+        "trend": "Slumping",
+        "last_5_avg": 13.6
+      }
+    ],
+    "PHX": [
+      {
+        "name": "Devin Booker",
+        "momentum": 18.6,
+        "trend": "Slumping",
+        "last_5_avg": 18.6
+      },
+      {
+        "name": "Dillon Brooks",
+        "momentum": 23.0,
+        "trend": "Stable",
+        "last_5_avg": 23.0
+      },
+      {
+        "name": "Grayson Allen",
+        "momentum": 19.2,
+        "trend": "Slumping",
+        "last_5_avg": 19.2
+      },
+      {
+        "name": "Jalen Green",
+        "momentum": 15.5,
+        "trend": "Slumping",
+        "last_5_avg": 15.5
+      },
+      {
+        "name": "Collin Gillespie",
+        "momentum": 19.6,
+        "trend": "Slumping",
+        "last_5_avg": 19.6
+      }
+    ]
+  },
+  "injuries": {
+    "MIN": [],
+    "PHX": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "MIN": "Backtest Mode: News Hidden",
+    "PHX": "Backtest Mode: News Hidden"
+  }
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "date": "2025-10-30",
+    "game_id": "401809993",
+    "matchup": "ORL @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "2-3",
+      "rest_days": 1,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "2-4",
+      "rest_days": 0,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Marat Kogut",
+      "Mitchell Ervin",
+      "Nate Cearley"
+    ],
+    "state_notes": [
+      "ORL back-to-back",
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "game_id": "401809994",
+    "matchup": "GS @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "4-1",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "4-2",
+      "rest_days": 1,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "James Williams",
+      "Ray Acosta",
+      "Robert Hussey"
+    ],
+    "state_notes": [
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "game_id": "401809995",
+    "matchup": "WSH @ OKC",
+    "home_team": {
+      "team_id": "OKC",
+      "record": "6-0",
+      "rest_days": 1,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "away_team": {
+      "team_id": "WSH",
+      "record": "1-4",
+      "rest_days": 1,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Curtis Blair",
+      "Dedric Taylor",
+      "Matt Kallio"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-10-30",
+    "game_id": "401809996",
+    "matchup": "MIA @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "5-0",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "MIA",
+      "record": "3-2",
+      "rest_days": 1,
+      "injuries": [
+        "Pelle Larsson - Out",
+        "Tyler Herro - Out",
+        "Nikola Jovic - Out",
+        "Terry Rozier - Out"
+      ],
+      "lineup": [
+        "Bam Adebayo",
+        "Simone Fontecchio",
+        "Myron Gardner",
+        "Vladislav Goldin",
+        "Kasparas Jakucionis",
+        "Jaime Jaquez Jr.",
+        "Keshad Johnson",
+        "Davion Mitchell"
+      ]
+    },
+    "referees": [
+      "Brent Barnaky",
+      "Josh Tiven",
+      "Jamahl Ralls"
+    ],
+    "state_notes": [
+      "SA back-to-back",
+      "Pelle Larsson - Out",
+      "Tyler Herro - Out"
+    ]
+  }
+]

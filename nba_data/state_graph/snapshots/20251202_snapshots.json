@@ -1,0 +1,277 @@
+[
+  {
+    "date": "2025-12-02",
+    "game_id": "401810173",
+    "matchup": "WSH @ PHI",
+    "home_team": {
+      "team_id": "PHI",
+      "record": "11-9",
+      "rest_days": 3,
+      "injuries": [
+        "Quentin Grimes - Day-To-Day",
+        "VJ Edgecombe - Day-To-Day",
+        "Dominick Barlow - Day-To-Day",
+        "Kelly Oubre Jr. - Out",
+        "Trendon Watford - Out"
+      ],
+      "lineup": [
+        "Dominick Barlow",
+        "Adem Bona",
+        "Johni Broome",
+        "Andre Drummond",
+        "VJ Edgecombe",
+        "Justin Edwards",
+        "Joel Embiid",
+        "Paul George"
+      ]
+    },
+    "away_team": {
+      "team_id": "WSH",
+      "record": "3-17",
+      "rest_days": 0,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Curtis Blair",
+      "Natalie Sago",
+      "John Butler"
+    ],
+    "state_notes": [
+      "WSH back-to-back"
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "game_id": "401810174",
+    "matchup": "POR @ TOR",
+    "home_team": {
+      "team_id": "TOR",
+      "record": "15-7",
+      "rest_days": 3,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "away_team": {
+      "team_id": "POR",
+      "record": "8-13",
+      "rest_days": 3,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Karl Lane",
+      "Danielle Scott"
+    ],
+    "state_notes": [
+      "Jerami Grant - Out",
+      "RJ Barrett - Out"
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "game_id": "401810175",
+    "matchup": "NY @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "12-9",
+      "rest_days": 3,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "NY",
+      "record": "13-7",
+      "rest_days": 3,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Sean Wright",
+      "Marat Kogut",
+      "John Conley"
+    ],
+    "state_notes": [
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "game_id": "401810176",
+    "matchup": "MIN @ NO",
+    "home_team": {
+      "team_id": "NO",
+      "record": "3-19",
+      "rest_days": 3,
+      "injuries": [
+        "Jordan Poole - Day-To-Day",
+        "Herbert Jones - Day-To-Day",
+        "Dejounte Murray - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "13-8",
+      "rest_days": 3,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Courtney Kirkland",
+      "Tre Maddox",
+      "Nate Green"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-12-02",
+    "game_id": "401810177",
+    "matchup": "MEM @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "14-6",
+      "rest_days": 3,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "MEM",
+      "record": "9-13",
+      "rest_days": 3,
+      "injuries": [
+        "Cedric Coward - Day-To-Day",
+        "Vince Williams Jr. - Out",
+        "Ja Morant - Out",
+        "Brandon Clarke - Out",
+        "John Konchar - Out"
+      ],
+      "lineup": [
+        "Santi Aldama",
+        "Kentavious Caldwell-Pope",
+        "Cedric Coward",
+        "GG Jackson",
+        "Jaren Jackson Jr.",
+        "Christian Koloko",
+        "Jock Landale",
+        "Jahmai Mashack"
+      ]
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Jason Goldenberg",
+      "Jenna Schroeder"
+    ],
+    "state_notes": [
+      "Vince Williams Jr. - Out"
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "game_id": "401810178",
+    "matchup": "OKC @ GS",
+    "home_team": {
+      "team_id": "GS",
+      "record": "11-11",
+      "rest_days": 3,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "21-1",
+      "rest_days": 3,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "Jacyn Goble",
+      "Scott Foster",
+      "Sha'Rae Mitchell"
+    ],
+    "state_notes": [
+      "Seth Curry - Out",
+      "Al Horford - Out"
+    ]
+  }
+]

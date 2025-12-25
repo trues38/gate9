@@ -1,0 +1,193 @@
+[
+  {
+    "date": "2024-10-24",
+    "game_id": "401704639",
+    "matchup": "BOS @ WSH",
+    "home_team": {
+      "team_id": "WSH",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "BOS",
+      "record": "2-0",
+      "rest_days": 1,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Marat Kogut",
+      "Jenna Reneau"
+    ],
+    "state_notes": [
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2024-10-24",
+    "game_id": "401704640",
+    "matchup": "SA @ DAL",
+    "home_team": {
+      "team_id": "DAL",
+      "record": "1-0",
+      "rest_days": 3,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "Josh Tiven",
+      "Jason Goldenberg",
+      "Rodney Mott"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2024-10-24",
+    "game_id": "401704641",
+    "matchup": "OKC @ DEN",
+    "home_team": {
+      "team_id": "DEN",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [
+        "Cameron Johnson - Day-To-Day",
+        "Tamar Bates - Out",
+        "Christian Braun - Out",
+        "Aaron Gordon - Out"
+      ],
+      "lineup": [
+        "Bruce Brown",
+        "Tim Hardaway Jr.",
+        "DaRon Holmes II",
+        "Cameron Johnson",
+        "Nikola Jokic",
+        "Curtis Jones",
+        "Spencer Jones",
+        "Jamal Murray"
+      ]
+    },
+    "away_team": {
+      "team_id": "OKC",
+      "record": "1-0",
+      "rest_days": 3,
+      "injuries": [
+        "Ajay Mitchell - Day-To-Day",
+        "Ousmane Dieng - Day-To-Day",
+        "Chet Holmgren - Day-To-Day",
+        "Jaylin Williams - Out",
+        "Nikola Topic - Out"
+      ],
+      "lineup": [
+        "Brooks Barnhizer",
+        "Branden Carlson",
+        "Alex Caruso",
+        "Ousmane Dieng",
+        "Luguentz Dort",
+        "Shai Gilgeous-Alexander",
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ]
+    },
+    "referees": [
+      "J.T. Orr",
+      "Kevin Scott",
+      "Danielle Scott"
+    ],
+    "state_notes": [
+      "Tamar Bates - Out"
+    ]
+  },
+  {
+    "date": "2024-10-24",
+    "game_id": "401704642",
+    "matchup": "MIN @ SAC",
+    "home_team": {
+      "team_id": "SAC",
+      "record": "0-1",
+      "rest_days": 3,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "1-1",
+      "rest_days": 1,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Justin Van Duyne",
+      "Tyler Ford",
+      "Suyash Mehta"
+    ],
+    "state_notes": []
+  }
+]

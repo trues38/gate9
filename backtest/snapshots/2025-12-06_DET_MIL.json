@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-06_DET_MIL",
+  "date": "2025-12-06",
+  "teams": {
+    "home": "DET",
+    "away": "MIL"
+  },
+  "team_regimes": {
+    "DET": {
+      "momentum": 2.549999952316284,
+      "volatility": 0.6000000238418579,
+      "label": "Juggernaut"
+    },
+    "MIL": {
+      "momentum": -1.7000000476837158,
+      "volatility": 0.8899999856948853,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "DET": [
+      {
+        "name": "Cade Cunningham",
+        "momentum": 26.4,
+        "trend": "Stable",
+        "last_5_avg": 26.4
+      },
+      {
+        "name": "Jalen Duren",
+        "momentum": 15.0,
+        "trend": "Stable",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Tobias Harris",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Duncan Robinson",
+        "momentum": 12.2,
+        "trend": "Stable",
+        "last_5_avg": 12.2
+      },
+      {
+        "name": "Ausar Thompson",
+        "momentum": 10.2,
+        "trend": "Stable",
+        "last_5_avg": 10.2
+      }
+    ],
+    "MIL": [
+      {
+        "name": "Giannis Antetokounmpo",
+        "momentum": 20.2,
+        "trend": "Slumping",
+        "last_5_avg": 20.2
+      },
+      {
+        "name": "Kevin Porter Jr.",
+        "momentum": 19.8,
+        "trend": "Stable",
+        "last_5_avg": 19.8
+      },
+      {
+        "name": "Ryan Rollins",
+        "momentum": 15.0,
+        "trend": "Stable",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Myles Turner",
+        "momentum": 11.4,
+        "trend": "Surging",
+        "last_5_avg": 11.4
+      },
+      {
+        "name": "Kyle Kuzma",
+        "momentum": 10.4,
+        "trend": "Stable",
+        "last_5_avg": 10.4
+      }
+    ]
+  },
+  "injuries": {
+    "DET": [],
+    "MIL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "DET": "Backtest Mode: News Hidden",
+    "MIL": "Backtest Mode: News Hidden"
+  }
+}

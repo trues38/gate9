@@ -1,0 +1,78 @@
+{
+  "games": [
+    {
+      "game_id": "2025-12-17-CHI-CLE",
+      "date": "2025-12-17",
+      "teams": {
+        "home": "CHI",
+        "away": "CLE"
+      },
+      "home_stats": {
+        "points": 127,
+        "fieldGoalsMade": 50,
+        "fieldGoalsAttempted": 89,
+        "threePointFieldGoalsMade": 14,
+        "threePointFieldGoalsAttempted": 36,
+        "freeThrowsMade": 13,
+        "freeThrowsAttempted": 18,
+        "offensiveRebounds": 6,
+        "defensiveRebounds": 37,
+        "totalRebounds": 43,
+        "totalTurnovers": 16,
+        "plusMinus": 16
+      },
+      "away_stats": {
+        "points": 111,
+        "fieldGoalsMade": 42,
+        "fieldGoalsAttempted": 87,
+        "threePointFieldGoalsMade": 12,
+        "threePointFieldGoalsAttempted": 39,
+        "freeThrowsMade": 15,
+        "freeThrowsAttempted": 18,
+        "offensiveRebounds": 8,
+        "defensiveRebounds": 32,
+        "totalRebounds": 40,
+        "totalTurnovers": 20,
+        "plusMinus": -16
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-12-17-MIN-MEM",
+      "date": "2025-12-17",
+      "teams": {
+        "home": "MIN",
+        "away": "MEM"
+      },
+      "home_stats": {
+        "points": 110,
+        "fieldGoalsMade": 39,
+        "fieldGoalsAttempted": 98,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 44,
+        "freeThrowsMade": 19,
+        "freeThrowsAttempted": 27,
+        "offensiveRebounds": 16,
+        "defensiveRebounds": 36,
+        "totalRebounds": 52,
+        "totalTurnovers": 18,
+        "plusMinus": -6
+      },
+      "away_stats": {
+        "points": 116,
+        "fieldGoalsMade": 42,
+        "fieldGoalsAttempted": 96,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 34,
+        "freeThrowsMade": 21,
+        "freeThrowsAttempted": 25,
+        "offensiveRebounds": 15,
+        "defensiveRebounds": 39,
+        "totalRebounds": 54,
+        "totalTurnovers": 18,
+        "plusMinus": 6
+      },
+      "market_line": 0.0
+    }
+  ]
+}

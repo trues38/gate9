@@ -1,0 +1,43 @@
+{
+  "start_date": "20241216",
+  "days": 1,
+  "total_games": 6,
+  "games": [
+    {
+      "game_id": "401736815",
+      "date": "20241216",
+      "matchup": "PHI @ CHA",
+      "status": "post"
+    },
+    {
+      "game_id": "401736816",
+      "date": "20241216",
+      "matchup": "MIA @ DET",
+      "status": "post"
+    },
+    {
+      "game_id": "401736817",
+      "date": "20241216",
+      "matchup": "CHI @ TOR",
+      "status": "post"
+    },
+    {
+      "game_id": "401736818",
+      "date": "20241216",
+      "matchup": "CLE @ BKN",
+      "status": "post"
+    },
+    {
+      "game_id": "401736819",
+      "date": "20241216",
+      "matchup": "DEN @ SAC",
+      "status": "post"
+    },
+    {
+      "game_id": "401736820",
+      "date": "20241216",
+      "matchup": "UTAH @ LAC",
+      "status": "post"
+    }
+  ]
+}

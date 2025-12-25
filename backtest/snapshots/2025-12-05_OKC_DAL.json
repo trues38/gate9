@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-05_OKC_DAL",
+  "date": "2025-12-05",
+  "teams": {
+    "home": "OKC",
+    "away": "DAL"
+  },
+  "team_regimes": {
+    "OKC": {
+      "momentum": 8.5600004196167,
+      "volatility": 1.3799999952316284,
+      "label": "Juggernaut"
+    },
+    "DAL": {
+      "momentum": -0.8700000047683716,
+      "volatility": 0.7099999785423279,
+      "label": "Slumping"
+    }
+  },
+  "player_regimes": {
+    "OKC": [
+      {
+        "name": "Shai Gilgeous-Alexander",
+        "momentum": 35.6,
+        "trend": "Stable",
+        "last_5_avg": 35.6
+      },
+      {
+        "name": "Chet Holmgren",
+        "momentum": 16.0,
+        "trend": "Stable",
+        "last_5_avg": 16.0
+      },
+      {
+        "name": "Jalen Williams",
+        "momentum": 16.3,
+        "trend": "Surging",
+        "last_5_avg": 16.3
+      },
+      {
+        "name": "Ajay Mitchell",
+        "momentum": 12.0,
+        "trend": "Stable",
+        "last_5_avg": 12.0
+      },
+      {
+        "name": "Aaron Wiggins",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      }
+    ],
+    "DAL": [
+      {
+        "name": "Anthony Davis",
+        "momentum": 18.2,
+        "trend": "Stable",
+        "last_5_avg": 18.2
+      },
+      {
+        "name": "Cooper Flagg",
+        "momentum": 21.2,
+        "trend": "Stable",
+        "last_5_avg": 21.2
+      },
+      {
+        "name": "P.J. Washington",
+        "momentum": 17.6,
+        "trend": "Slumping",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Naji Marshall",
+        "momentum": 13.6,
+        "trend": "Stable",
+        "last_5_avg": 13.6
+      },
+      {
+        "name": "Max Christie",
+        "momentum": 10.0,
+        "trend": "Stable",
+        "last_5_avg": 10.0
+      }
+    ]
+  },
+  "injuries": {
+    "OKC": [],
+    "DAL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "OKC": "Backtest Mode: News Hidden",
+    "DAL": "Backtest Mode: News Hidden"
+  }
+}

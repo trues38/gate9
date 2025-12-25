@@ -1,0 +1,307 @@
+[
+  {
+    "date": "2025-11-01",
+    "game_id": "401809997",
+    "matchup": "SAC @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "4-2",
+      "rest_days": 1,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "SAC",
+      "record": "2-4",
+      "rest_days": 2,
+      "injuries": [
+        "Devin Carter - Day-To-Day",
+        "Keegan Murray - Day-To-Day",
+        "Zach LaVine - Out",
+        "Domantas Sabonis - Out",
+        "Drew Eubanks - Out"
+      ],
+      "lineup": [
+        "Precious Achiuwa",
+        "Dylan Cardwell",
+        "Devin Carter",
+        "Nique Clifford",
+        "DeMar DeRozan",
+        "Keon Ellis",
+        "Doug McDermott",
+        "Malik Monk"
+      ]
+    },
+    "referees": [
+      "Marat Kogut",
+      "Mitchell Ervin",
+      "John Conley"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "game_id": "401809998",
+    "matchup": "MIN @ CHA",
+    "home_team": {
+      "team_id": "CHA",
+      "record": "2-4",
+      "rest_days": 1,
+      "injuries": [
+        "Mason Plumlee - Day-To-Day",
+        "Ryan Kalkbrenner - Day-To-Day",
+        "Grant Williams - Out"
+      ],
+      "lineup": [
+        "LaMelo Ball",
+        "Miles Bridges",
+        "Pat Connaughton",
+        "Moussa Diabate",
+        "Josh Green",
+        "Sion James",
+        "Ryan Kalkbrenner",
+        "Kon Knueppel"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "3-3",
+      "rest_days": 2,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Marc Davis",
+      "Natalie Sago",
+      "Brent Haskill"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2025-11-01",
+    "game_id": "401809999",
+    "matchup": "GS @ IND",
+    "home_team": {
+      "team_id": "IND",
+      "record": "1-5",
+      "rest_days": 0,
+      "injuries": [
+        "Isaiah Jackson - Day-To-Day",
+        "Ben Sheppard - Out",
+        "Aaron Nesmith - Out",
+        "Obi Toppin - Out",
+        "Tyrese Haliburton - Out"
+      ],
+      "lineup": [
+        "Tony Bradley",
+        "Johnny Furphy",
+        "Jay Huff",
+        "Isaiah Jackson",
+        "Quenton Jackson",
+        "Kam Jones",
+        "Garrison Mathews",
+        "Bennedict Mathurin"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "4-3",
+      "rest_days": 1,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Tre Maddox",
+      "Gediminas Petraitis",
+      "Nate Cearley"
+    ],
+    "state_notes": [
+      "IND back-to-back",
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Ben Sheppard - Out"
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "game_id": "401810000",
+    "matchup": "ORL @ WSH",
+    "home_team": {
+      "team_id": "WSH",
+      "record": "1-5",
+      "rest_days": 1,
+      "injuries": [
+        "Bub Carrington - Day-To-Day",
+        "Corey Kispert - Day-To-Day",
+        "Cam Whitmore - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "ORL",
+      "record": "3-4",
+      "rest_days": 1,
+      "injuries": [
+        "Goga Bitadze - Day-To-Day",
+        "Tristan da Silva - Out",
+        "Jalen Suggs - Out",
+        "Moritz Wagner - Out",
+        "Franz Wagner - Out"
+      ],
+      "lineup": [
+        "Paolo Banchero",
+        "Desmond Bane",
+        "Goga Bitadze",
+        "Anthony Black",
+        "Jamal Cain",
+        "Wendell Carter Jr.",
+        "Jett Howard",
+        "Jonathan Isaac"
+      ]
+    },
+    "referees": [
+      "Ed Malloy",
+      "Eric Dalen",
+      "Chelisa Painter"
+    ],
+    "state_notes": [
+      "Tristan da Silva - Out"
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "game_id": "401810001",
+    "matchup": "HOU @ BOS",
+    "home_team": {
+      "team_id": "BOS",
+      "record": "3-4",
+      "rest_days": 0,
+      "injuries": [
+        "Jordan Walsh - Day-To-Day",
+        "Jayson Tatum - Out"
+      ],
+      "lineup": [
+        "Chris Boucher",
+        "Jaylen Brown",
+        "Luka Garza",
+        "Hugo Gonzalez",
+        "Ron Harper Jr.",
+        "Sam Hauser",
+        "Josh Minott",
+        "Payton Pritchard"
+      ]
+    },
+    "away_team": {
+      "team_id": "HOU",
+      "record": "3-2",
+      "rest_days": 2,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "referees": [
+      "James Williams",
+      "J.B. DeRosa",
+      "Tyler Ricks"
+    ],
+    "state_notes": [
+      "BOS back-to-back",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out",
+      "Jayson Tatum - Out"
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "game_id": "401810002",
+    "matchup": "DAL @ DET",
+    "home_team": {
+      "team_id": "DET",
+      "record": "4-2",
+      "rest_days": 2,
+      "injuries": [
+        "Ronald Holland II - Day-To-Day",
+        "Isaac Jones - Day-To-Day"
+      ],
+      "lineup": [
+        "Cade Cunningham",
+        "Jalen Duren",
+        "Javonte Green",
+        "Tobias Harris",
+        "Ronald Holland II",
+        "Jaden Ivey",
+        "Daniss Jenkins",
+        "Isaac Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "DAL",
+      "record": "2-4",
+      "rest_days": 2,
+      "injuries": [
+        "P.J. Washington - Day-To-Day",
+        "Klay Thompson - Day-To-Day",
+        "Dwight Powell - Day-To-Day",
+        "Max Christie - Day-To-Day",
+        "Dereck Lively II - Out"
+      ],
+      "lineup": [
+        "Max Christie",
+        "Moussa Cisse",
+        "Anthony Davis",
+        "Cooper Flagg",
+        "Daniel Gafford",
+        "Jaden Hardy",
+        "Miles Kelly",
+        "Naji Marshall"
+      ]
+    },
+    "referees": [
+      "James Capers",
+      "Dedric Taylor",
+      "Brandon Adair"
+    ],
+    "state_notes": []
+  }
+]

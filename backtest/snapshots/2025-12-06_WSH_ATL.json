@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-06_WSH_ATL",
+  "date": "2025-12-06",
+  "teams": {
+    "home": "WSH",
+    "away": "ATL"
+  },
+  "team_regimes": {
+    "WSH": {
+      "momentum": -8.630000114440918,
+      "volatility": 1.8300000429153442,
+      "label": "Crisis"
+    },
+    "ATL": {
+      "momentum": 0.0,
+      "volatility": 1.0399999618530273,
+      "label": "Balanced"
+    }
+  },
+  "player_regimes": {
+    "WSH": [
+      {
+        "name": "Alex Sarr",
+        "momentum": 20.2,
+        "trend": "Stable",
+        "last_5_avg": 20.2
+      },
+      {
+        "name": "CJ McCollum",
+        "momentum": 23.4,
+        "trend": "Stable",
+        "last_5_avg": 23.4
+      },
+      {
+        "name": "Kyshawn George",
+        "momentum": 11.4,
+        "trend": "Stable",
+        "last_5_avg": 11.4
+      },
+      {
+        "name": "Tre Johnson",
+        "momentum": 10.4,
+        "trend": "Stable",
+        "last_5_avg": 10.4
+      },
+      {
+        "name": "Khris Middleton",
+        "momentum": 10.6,
+        "trend": "Surging",
+        "last_5_avg": 10.6
+      }
+    ],
+    "ATL": [
+      {
+        "name": "Jalen Johnson",
+        "momentum": 24.0,
+        "trend": "Stable",
+        "last_5_avg": 24.0
+      },
+      {
+        "name": "Nickeil Alexander-Walker",
+        "momentum": 28.2,
+        "trend": "Stable",
+        "last_5_avg": 28.2
+      },
+      {
+        "name": "Onyeka Okongwu",
+        "momentum": 13.6,
+        "trend": "Stable",
+        "last_5_avg": 13.6
+      },
+      {
+        "name": "Trae Young",
+        "momentum": 13.4,
+        "trend": "Slumping",
+        "last_5_avg": 13.4
+      },
+      {
+        "name": "Kristaps Porzingis",
+        "momentum": 9.4,
+        "trend": "Surging",
+        "last_5_avg": 9.4
+      }
+    ]
+  },
+  "injuries": {
+    "WSH": [],
+    "ATL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "WSH": "Backtest Mode: News Hidden",
+    "ATL": "Backtest Mode: News Hidden"
+  }
+}

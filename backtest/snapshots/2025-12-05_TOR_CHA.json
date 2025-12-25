@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-05_TOR_CHA",
+  "date": "2025-12-05",
+  "teams": {
+    "home": "TOR",
+    "away": "CHA"
+  },
+  "team_regimes": {
+    "TOR": {
+      "momentum": 2.4600000381469727,
+      "volatility": 1.059999942779541,
+      "label": "Juggernaut"
+    },
+    "CHA": {
+      "momentum": -4.070000171661377,
+      "volatility": 1.1200000047683716,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "TOR": [
+      {
+        "name": "Brandon Ingram",
+        "momentum": 20.6,
+        "trend": "Stable",
+        "last_5_avg": 20.6
+      },
+      {
+        "name": "Scottie Barnes",
+        "momentum": 24.6,
+        "trend": "Stable",
+        "last_5_avg": 24.6
+      },
+      {
+        "name": "RJ Barrett",
+        "momentum": 20.0,
+        "trend": "Stable",
+        "last_5_avg": 20.0
+      },
+      {
+        "name": "Immanuel Quickley",
+        "momentum": 18.4,
+        "trend": "Slumping",
+        "last_5_avg": 18.4
+      },
+      {
+        "name": "Jakob Poeltl",
+        "momentum": 7.4,
+        "trend": "Stable",
+        "last_5_avg": 7.4
+      }
+    ],
+    "CHA": [
+      {
+        "name": "Miles Bridges",
+        "momentum": 18.0,
+        "trend": "Slumping",
+        "last_5_avg": 18.0
+      },
+      {
+        "name": "LaMelo Ball",
+        "momentum": 17.4,
+        "trend": "Surging",
+        "last_5_avg": 17.4
+      },
+      {
+        "name": "Kon Knueppel",
+        "momentum": 13.8,
+        "trend": "Stable",
+        "last_5_avg": 13.8
+      },
+      {
+        "name": "Brandon Miller",
+        "momentum": 15.4,
+        "trend": "Slumping",
+        "last_5_avg": 15.4
+      },
+      {
+        "name": "Collin Sexton",
+        "momentum": 14.6,
+        "trend": "Slumping",
+        "last_5_avg": 14.6
+      }
+    ]
+  },
+  "injuries": {
+    "TOR": [],
+    "CHA": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "TOR": "Backtest Mode: News Hidden",
+    "CHA": "Backtest Mode: News Hidden"
+  }
+}

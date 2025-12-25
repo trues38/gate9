@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "game_id": "2025-12-18-LAL-GSW",
+      "date": "2025-12-18",
+      "teams": {
+        "home": "LAL",
+        "away": "GSW"
+      },
+      "scores": {
+        "home": 112,
+        "away": 108
+      },
+      "box_stats": {
+        "home_fg_pct": 0.47,
+        "away_fg_pct": 0.44,
+        "home_3p_pct": 0.38,
+        "away_3p_pct": 0.35,
+        "home_rebounds": 46,
+        "away_rebounds": 41
+      },
+      "market_line": -4.5
+    }
+  ]
+}

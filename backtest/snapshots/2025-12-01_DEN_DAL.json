@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-01_DEN_DAL",
+  "date": "2025-12-01",
+  "teams": {
+    "home": "DEN",
+    "away": "DAL"
+  },
+  "team_regimes": {
+    "DEN": {
+      "momentum": 4.25,
+      "volatility": 0.8999999761581421,
+      "label": "Juggernaut"
+    },
+    "DAL": {
+      "momentum": -2.7100000381469727,
+      "volatility": 0.6399999856948853,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "DEN": [
+      {
+        "name": "Nikola Jokic",
+        "momentum": 28.4,
+        "trend": "Stable",
+        "last_5_avg": 28.4
+      },
+      {
+        "name": "Jamal Murray",
+        "momentum": 27.8,
+        "trend": "Stable",
+        "last_5_avg": 27.8
+      },
+      {
+        "name": "Aaron Gordon",
+        "momentum": 16.6,
+        "trend": "Slumping",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Tim Hardaway Jr.",
+        "momentum": 14.2,
+        "trend": "Surging",
+        "last_5_avg": 14.2
+      },
+      {
+        "name": "Christian Braun",
+        "momentum": 9.8,
+        "trend": "Stable",
+        "last_5_avg": 9.8
+      }
+    ],
+    "DAL": [
+      {
+        "name": "Anthony Davis",
+        "momentum": 18.8,
+        "trend": "Slumping",
+        "last_5_avg": 18.8
+      },
+      {
+        "name": "Cooper Flagg",
+        "momentum": 20.2,
+        "trend": "Surging",
+        "last_5_avg": 20.2
+      },
+      {
+        "name": "P.J. Washington",
+        "momentum": 17.6,
+        "trend": "Slumping",
+        "last_5_avg": 17.6
+      },
+      {
+        "name": "Max Christie",
+        "momentum": 12.6,
+        "trend": "Slumping",
+        "last_5_avg": 12.6
+      },
+      {
+        "name": "Naji Marshall",
+        "momentum": 12.6,
+        "trend": "Surging",
+        "last_5_avg": 12.6
+      }
+    ]
+  },
+  "injuries": {
+    "DEN": [],
+    "DAL": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "DEN": "Backtest Mode: News Hidden",
+    "DAL": "Backtest Mode: News Hidden"
+  }
+}

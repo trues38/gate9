@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2025-12-16",
+    "game_id": "401809839",
+    "matchup": "SA @ NY",
+    "home_team": {
+      "team_id": "NY",
+      "record": "N/A",
+      "rest_days": 2,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "SA",
+      "record": "N/A",
+      "rest_days": 1,
+      "injuries": [],
+      "lineup": []
+    },
+    "referees": [
+      "Brent Barnaky",
+      "Marc Davis",
+      "Nate Green"
+    ],
+    "state_notes": []
+  }
+]

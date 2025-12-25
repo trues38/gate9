@@ -1,0 +1,126 @@
+{
+  "game_id": "2025-12-10_MIA_ORL",
+  "timestamp": "2025-12-10T14:39:35.337653",
+  "teams": {
+    "home": "MIA",
+    "away": "ORL"
+  },
+  "team_ids": {
+    "home": 14,
+    "away": 19
+  },
+  "team_regimes": {
+    "MIA": {
+      "momentum": 0.0,
+      "volatility": 0.0,
+      "label": "Unknown"
+    },
+    "ORL": {
+      "momentum": -0.5,
+      "volatility": 0.05999999865889549,
+      "label": "Slumping"
+    }
+  },
+  "player_regimes": {
+    "MIA": [
+      {
+        "name": "Tyler Herro",
+        "momentum": 0.8,
+        "volatility": 0.1,
+        "impact": 0.96,
+        "is_star": true,
+        "score": 5.96
+      },
+      {
+        "name": "Bam Adebayo",
+        "momentum": 0.5,
+        "volatility": 0.1,
+        "impact": 0.6,
+        "is_star": true,
+        "score": 5.6
+      },
+      {
+        "name": "Jaime Jaquez Jr.",
+        "momentum": -0.15999999999999998,
+        "volatility": 0.1,
+        "impact": -0.19,
+        "is_star": true,
+        "score": 5.19
+      },
+      {
+        "name": "Myron Gardner",
+        "momentum": -1.34,
+        "volatility": 0.1,
+        "impact": -1.61,
+        "is_star": false,
+        "score": 1.61
+      }
+    ],
+    "ORL": [
+      {
+        "name": "Wendell Carter Jr.",
+        "momentum": -0.4800000000000001,
+        "volatility": 0.1,
+        "impact": -0.58,
+        "is_star": true,
+        "score": 5.58
+      },
+      {
+        "name": "Jalen Suggs",
+        "momentum": 0.36000000000000015,
+        "volatility": 0.1,
+        "impact": 0.43,
+        "is_star": true,
+        "score": 5.43
+      },
+      {
+        "name": "Paolo Banchero",
+        "momentum": 0.0,
+        "volatility": 0.1,
+        "impact": 0.0,
+        "is_star": true,
+        "score": 5.0
+      },
+      {
+        "name": "Jonathan Isaac",
+        "momentum": -1.24,
+        "volatility": 0.1,
+        "impact": -1.49,
+        "is_star": false,
+        "score": 1.49
+      }
+    ]
+  },
+  "referees": [
+    {
+      "name": "Courtney Kirkland",
+      "pace": 0.0,
+      "weight": 0.33
+    },
+    {
+      "name": "Tre Maddox",
+      "pace": 0.0,
+      "weight": 0.33
+    },
+    {
+      "name": "Robert Hussey",
+      "pace": 0.0,
+      "weight": 0.33
+    }
+  ],
+  "injuries": {
+    "MIA": [
+      "Terry Rozier"
+    ],
+    "ORL": [
+      "Colin Castleton",
+      "Franz Wagner",
+      "Moritz Wagner"
+    ]
+  },
+  "news_narrative": {
+    "MIA": "Sacramento Kings (5-17, 14th in the Western Conference) vs. Miami Heat (14-9, sixth in the Eastern Conference)\n\n\r\n              Miami; Saturday, 8 p.m. EST\n\n\r\n               Heat -8; over/under is 239\n\n\r\n              BOTTOM LINE: Sacramento is looking to stop its four-game slide with a victory over...",
+    "ORL": "Orlando Magic (14-9, fourth in the Eastern Conference) vs. New York Knicks (15-7, second in the Eastern Conference)\n\n\r\n              New York; Sunday, 12 p.m. EST\n\n\r\n              BOTTOM LINE: New York will try to keep its five-game home win streak alive when the Knicks face Orlando.\n\n\r\n            ..."
+  },
+  "actual_game_result": null
+}

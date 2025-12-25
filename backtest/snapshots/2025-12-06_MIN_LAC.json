@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-06_MIN_LAC",
+  "date": "2025-12-06",
+  "teams": {
+    "home": "MIN",
+    "away": "LAC"
+  },
+  "team_regimes": {
+    "MIN": {
+      "momentum": 3.380000114440918,
+      "volatility": 1.0,
+      "label": "Juggernaut"
+    },
+    "LAC": {
+      "momentum": -2.9000000953674316,
+      "volatility": 1.149999976158142,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "MIN": [
+      {
+        "name": "Anthony Edwards",
+        "momentum": 31.4,
+        "trend": "Slumping",
+        "last_5_avg": 31.4
+      },
+      {
+        "name": "Julius Randle",
+        "momentum": 18.4,
+        "trend": "Surging",
+        "last_5_avg": 18.4
+      },
+      {
+        "name": "Jaden McDaniels",
+        "momentum": 12.4,
+        "trend": "Stable",
+        "last_5_avg": 12.4
+      },
+      {
+        "name": "Donte DiVincenzo",
+        "momentum": 14.8,
+        "trend": "Stable",
+        "last_5_avg": 14.8
+      },
+      {
+        "name": "Naz Reid",
+        "momentum": 14.8,
+        "trend": "Stable",
+        "last_5_avg": 14.8
+      }
+    ],
+    "LAC": [
+      {
+        "name": "James Harden",
+        "momentum": 21.6,
+        "trend": "Stable",
+        "last_5_avg": 21.6
+      },
+      {
+        "name": "Kawhi Leonard",
+        "momentum": 30.0,
+        "trend": "Slumping",
+        "last_5_avg": 30.0
+      },
+      {
+        "name": "Ivica Zubac",
+        "momentum": 13.6,
+        "trend": "Stable",
+        "last_5_avg": 13.6
+      },
+      {
+        "name": "John Collins",
+        "momentum": 14.4,
+        "trend": "Stable",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Derrick Jones Jr.",
+        "momentum": 9.2,
+        "trend": "Stable",
+        "last_5_avg": 9.2
+      }
+    ]
+  },
+  "injuries": {
+    "MIN": [],
+    "LAC": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "MIN": "Backtest Mode: News Hidden",
+    "LAC": "Backtest Mode: News Hidden"
+  }
+}

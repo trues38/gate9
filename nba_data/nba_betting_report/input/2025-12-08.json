@@ -1,0 +1,115 @@
+{
+  "games": [
+    {
+      "game_id": "2025-12-08-IND-SAC",
+      "date": "2025-12-08",
+      "teams": {
+        "home": "IND",
+        "away": "SAC"
+      },
+      "home_stats": {
+        "points": 116,
+        "fieldGoalsMade": 38,
+        "fieldGoalsAttempted": 87,
+        "threePointFieldGoalsMade": 14,
+        "threePointFieldGoalsAttempted": 35,
+        "freeThrowsMade": 26,
+        "freeThrowsAttempted": 28,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 31,
+        "totalRebounds": 41,
+        "totalTurnovers": 14,
+        "plusMinus": 11
+      },
+      "away_stats": {
+        "points": 105,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 88,
+        "threePointFieldGoalsMade": 7,
+        "threePointFieldGoalsAttempted": 22,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 23,
+        "offensiveRebounds": 15,
+        "defensiveRebounds": 36,
+        "totalRebounds": 51,
+        "totalTurnovers": 19,
+        "plusMinus": -11
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-12-08-MIN-PHX",
+      "date": "2025-12-08",
+      "teams": {
+        "home": "MIN",
+        "away": "PHX"
+      },
+      "home_stats": {
+        "points": 105,
+        "fieldGoalsMade": 39,
+        "fieldGoalsAttempted": 83,
+        "threePointFieldGoalsMade": 11,
+        "threePointFieldGoalsAttempted": 42,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 23,
+        "offensiveRebounds": 13,
+        "defensiveRebounds": 33,
+        "totalRebounds": 46,
+        "totalTurnovers": 15,
+        "plusMinus": -3
+      },
+      "away_stats": {
+        "points": 108,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 90,
+        "threePointFieldGoalsMade": 12,
+        "threePointFieldGoalsAttempted": 33,
+        "freeThrowsMade": 14,
+        "freeThrowsAttempted": 20,
+        "offensiveRebounds": 14,
+        "defensiveRebounds": 29,
+        "totalRebounds": 43,
+        "totalTurnovers": 9,
+        "plusMinus": 3
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-12-08-NO-SA",
+      "date": "2025-12-08",
+      "teams": {
+        "home": "NO",
+        "away": "SA"
+      },
+      "home_stats": {
+        "points": 132,
+        "fieldGoalsMade": 51,
+        "fieldGoalsAttempted": 88,
+        "threePointFieldGoalsMade": 7,
+        "threePointFieldGoalsAttempted": 26,
+        "freeThrowsMade": 23,
+        "freeThrowsAttempted": 26,
+        "offensiveRebounds": 4,
+        "defensiveRebounds": 29,
+        "totalRebounds": 33,
+        "totalTurnovers": 9,
+        "plusMinus": -3
+      },
+      "away_stats": {
+        "points": 135,
+        "fieldGoalsMade": 49,
+        "fieldGoalsAttempted": 98,
+        "threePointFieldGoalsMade": 17,
+        "threePointFieldGoalsAttempted": 36,
+        "freeThrowsMade": 20,
+        "freeThrowsAttempted": 25,
+        "offensiveRebounds": 12,
+        "defensiveRebounds": 31,
+        "totalRebounds": 43,
+        "totalTurnovers": 15,
+        "plusMinus": 3
+      },
+      "market_line": 0.0
+    }
+  ]
+}

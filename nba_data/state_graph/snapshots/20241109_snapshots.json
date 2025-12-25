@@ -1,0 +1,202 @@
+[
+  {
+    "date": "2024-11-09",
+    "game_id": "401704763",
+    "matchup": "UTAH @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "4-6",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "UTAH",
+      "record": "2-7",
+      "rest_days": 1,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Jason Goldenberg",
+      "Tom Washington",
+      "Mitchell Ervin"
+    ],
+    "state_notes": [
+      "SA back-to-back"
+    ]
+  },
+  {
+    "date": "2024-11-09",
+    "game_id": "401704764",
+    "matchup": "CHI @ ATL",
+    "home_team": {
+      "team_id": "ATL",
+      "record": "4-7",
+      "rest_days": 0,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "away_team": {
+      "team_id": "CHI",
+      "record": "4-6",
+      "rest_days": 1,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "referees": [
+      "Marc Davis",
+      "Andy Nagy",
+      "Brandon Schwab"
+    ],
+    "state_notes": [
+      "ATL back-to-back",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2024-11-09",
+    "game_id": "401704765",
+    "matchup": "BKN @ CLE",
+    "home_team": {
+      "team_id": "CLE",
+      "record": "11-0",
+      "rest_days": 0,
+      "injuries": [
+        "Lonzo Ball - Day-To-Day",
+        "Larry Nance Jr. - Out",
+        "Max Strus - Out",
+        "Evan Mobley - Out"
+      ],
+      "lineup": [
+        "Jarrett Allen",
+        "Lonzo Ball",
+        "Thomas Bryant",
+        "Darius Garland",
+        "De'Andre Hunter",
+        "Chris Livingston",
+        "Sam Merrill",
+        "Donovan Mitchell"
+      ]
+    },
+    "away_team": {
+      "team_id": "BKN",
+      "record": "4-6",
+      "rest_days": 0,
+      "injuries": [
+        "Drake Powell - Out",
+        "Cam Thomas - Out",
+        "Haywood Highsmith - Out"
+      ],
+      "lineup": [
+        "Nic Claxton",
+        "Noah Clowney",
+        "Egor Demin",
+        "Tyson Etienne",
+        "E.J. Liddell",
+        "Terance Mann",
+        "Tyrese Martin",
+        "Michael Porter Jr."
+      ]
+    },
+    "referees": [
+      "Curtis Blair",
+      "Karl Lane",
+      "Brandon Adair"
+    ],
+    "state_notes": [
+      "BKN back-to-back",
+      "CLE back-to-back",
+      "Drake Powell - Out",
+      "Cam Thomas - Out",
+      "Larry Nance Jr. - Out"
+    ]
+  },
+  {
+    "date": "2024-11-09",
+    "game_id": "401704766",
+    "matchup": "TOR @ LAC",
+    "home_team": {
+      "team_id": "LAC",
+      "record": "6-4",
+      "rest_days": 0,
+      "injuries": [
+        "Ivica Zubac - Out",
+        "Derrick Jones Jr. - Out",
+        "Bradley Beal - Out"
+      ],
+      "lineup": [
+        "Nicolas Batum",
+        "Bogdan Bogdanovic",
+        "Kobe Brown",
+        "Cam Christie",
+        "John Collins",
+        "RayJ Dennis",
+        "Kris Dunn",
+        "James Harden"
+      ]
+    },
+    "away_team": {
+      "team_id": "TOR",
+      "record": "2-8",
+      "rest_days": 2,
+      "injuries": [
+        "Jakob Poeltl - Day-To-Day",
+        "RJ Barrett - Out"
+      ],
+      "lineup": [
+        "Ochai Agbaji",
+        "Scottie Barnes",
+        "Jamison Battle",
+        "Gradey Dick",
+        "Chucky Hepburn",
+        "Brandon Ingram",
+        "A.J. Lawson",
+        "Sandro Mamukelashvili"
+      ]
+    },
+    "referees": [
+      "Derek Richardson",
+      "Zach Zarba",
+      "Nick Buchert"
+    ],
+    "state_notes": [
+      "LAC back-to-back",
+      "RJ Barrett - Out",
+      "Ivica Zubac - Out",
+      "Derrick Jones Jr. - Out"
+    ]
+  }
+]

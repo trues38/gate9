@@ -1,0 +1,41 @@
+{
+  "games": [
+    {
+      "game_id": "2025-12-16-NY-SA",
+      "date": "2025-12-16",
+      "teams": {
+        "home": "NY",
+        "away": "SA"
+      },
+      "home_stats": {
+        "points": 124,
+        "fieldGoalsMade": 49,
+        "fieldGoalsAttempted": 105,
+        "threePointFieldGoalsMade": 15,
+        "threePointFieldGoalsAttempted": 40,
+        "freeThrowsMade": 11,
+        "freeThrowsAttempted": 15,
+        "offensiveRebounds": 23,
+        "defensiveRebounds": 36,
+        "totalRebounds": 59,
+        "totalTurnovers": 11,
+        "plusMinus": 11
+      },
+      "away_stats": {
+        "points": 113,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 99,
+        "threePointFieldGoalsMade": 14,
+        "threePointFieldGoalsAttempted": 39,
+        "freeThrowsMade": 17,
+        "freeThrowsAttempted": 22,
+        "offensiveRebounds": 18,
+        "defensiveRebounds": 24,
+        "totalRebounds": 42,
+        "totalTurnovers": 8,
+        "plusMinus": -11
+      },
+      "market_line": 0.0
+    }
+  ]
+}

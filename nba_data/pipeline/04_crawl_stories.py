@@ -203,8 +203,39 @@ def crawl_individual_game(game_info):
     # 2. Fetch Story
     body, headline = fetch_espn_recap(espn_id)
     
-    if not body:
-        logging.warning(f"[NO STORY] Found ID {espn_id} but no story for {matchup}")
+    # NEW: Fetch Structured Odds (Layer 1 Static Data)
+    # We re-query the scoreboard or summary specifically for this ID to get the odds/pickcenter
+    odds_data = {}
+    try:
+        # Scoreboard API is best for lines
+        # We need the DATE for scoreboard, which we have.
+        yyyymmdd = parse_date_to_espn_format(date_str)
+        sb_url = f"http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={yyyymmdd}"
+        sb_resp = requests.get(sb_url, timeout=5)
+        if sb_resp.status_code == 200:
+            events = sb_resp.json().get('events', [])
+            for evt in events:
+                if evt['id'] == espn_id:
+                    # Found our event!
+                    comps = evt.get('competitions', [{}])[0]
+                    raw_odds = comps.get('odds', [])
+                    if raw_odds:
+                        # Grab the first provider (usually consensus or major book)
+                        first_odd = raw_odds[0]
+                        odds_data = {
+                            "valid": True,
+                            "provider": first_odd.get('provider', {}).get('name', 'Unknown'),
+                            "details": first_odd.get('details', ''), # e.g. "PHI -4.5"
+                            "overUnder": first_odd.get('overUnder', ''),
+                            "spread": first_odd.get('spread', ''),
+                            "source_type": "scoreboard_api"
+                        }
+                    break
+    except Exception as e:
+        logging.warning(f"Odds fetch failed for {game_id}: {e}")
+
+    if not body and not odds_data:
+        logging.warning(f"[NO STORY OR ODDS] Found ID {espn_id} but no content for {matchup}")
         return "NoStory"
         
     # 3. Save
@@ -215,6 +246,7 @@ def crawl_individual_game(game_info):
         "matchup": matchup,
         "headline": headline,
         "body": body,
+        "odds": odds_data, # <--- NEW FIELD
         "source": "espn_api",
         "crawled_at": time.time()
     }

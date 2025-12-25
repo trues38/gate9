@@ -1,0 +1,1104 @@
+[
+  {
+    "game_id": "401810278",
+    "home_team": "ATL",
+    "away_team": "MIA",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "54",
+      "away_win_probability": "46",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Mouhamed Gueye",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Sprain",
+          "team": "ATL"
+        },
+        {
+          "name": "Dyson Daniels",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "ATL"
+        },
+        {
+          "name": "N'Faly Dante",
+          "position": "C",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "ATL"
+        },
+        {
+          "name": "Eli John Ndiaye",
+          "position": "C",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "ATL"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "position": "C",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Not Specified",
+          "team": "ATL"
+        },
+        {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "MIA"
+        },
+        {
+          "name": "Tyler Herro",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Bruise",
+          "team": "MIA"
+        },
+        {
+          "name": "Nikola Jovic",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Bruise",
+          "team": "MIA"
+        },
+        {
+          "name": "Terry Rozier",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Not Specified",
+          "team": "MIA"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:24"
+  },
+  {
+    "game_id": "401810279",
+    "home_team": "ORL",
+    "away_team": "CHA",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "72.1",
+      "away_win_probability": "27.9",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Goga Bitadze",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Strain",
+          "team": "ORL"
+        },
+        {
+          "name": "Tristan da Silva",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Bruise",
+          "team": "ORL"
+        },
+        {
+          "name": "Jalen Suggs",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Bruise",
+          "team": "ORL"
+        },
+        {
+          "name": "Moritz Wagner",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "ORL"
+        },
+        {
+          "name": "Franz Wagner",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "ORL"
+        },
+        {
+          "name": "Mason Plumlee",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Strain",
+          "team": "CHA"
+        },
+        {
+          "name": "Ryan Kalkbrenner",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Sprain",
+          "team": "CHA"
+        },
+        {
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "CHA"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:24"
+  },
+  {
+    "game_id": "401810280",
+    "home_team": "WSH",
+    "away_team": "TOR",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "26.7",
+      "away_win_probability": "73.3",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Bub Carrington",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Soreness",
+          "team": "WSH"
+        },
+        {
+          "name": "Corey Kispert",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Soreness",
+          "team": "WSH"
+        },
+        {
+          "name": "Cam Whitmore",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Soreness",
+          "team": "WSH"
+        },
+        {
+          "name": "Jakob Poeltl",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Soreness",
+          "team": "TOR"
+        },
+        {
+          "name": "RJ Barrett",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "TOR"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:24"
+  },
+  {
+    "game_id": "401810281",
+    "home_team": "IND",
+    "away_team": "BOS",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "26.9",
+      "away_win_probability": "73.1",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Isaiah Jackson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Not Specified",
+          "team": "IND"
+        },
+        {
+          "name": "Ben Sheppard",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "IND"
+        },
+        {
+          "name": "Aaron Nesmith",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "IND"
+        },
+        {
+          "name": "Obi Toppin",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "IND"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "IND"
+        },
+        {
+          "name": "Jordan Walsh",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Not Specified",
+          "team": "BOS"
+        },
+        {
+          "name": "Jayson Tatum",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "BOS"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:25"
+  },
+  {
+    "game_id": "401810282",
+    "home_team": "CHI",
+    "away_team": "PHI",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "37.9",
+      "away_win_probability": "62.1",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Matas Buzelis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "CHI"
+        },
+        {
+          "name": "Noa Essengue",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "CHI"
+        },
+        {
+          "name": "Quentin Grimes",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Not Specified",
+          "team": "PHI"
+        },
+        {
+          "name": "VJ Edgecombe",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Not Specified",
+          "team": "PHI"
+        },
+        {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "PHI"
+        },
+        {
+          "name": "Kelly Oubre Jr.",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "PHI"
+        },
+        {
+          "name": "Trendon Watford",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "PHI"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:25"
+  },
+  {
+    "game_id": "401810283",
+    "home_team": "MEM",
+    "away_team": "MIL",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "64.7",
+      "away_win_probability": "35.3",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Cedric Coward",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "MEM"
+        },
+        {
+          "name": "Vince Williams Jr.",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Soreness",
+          "team": "MEM"
+        },
+        {
+          "name": "Ja Morant",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "MEM"
+        },
+        {
+          "name": "Brandon Clarke",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "MEM"
+        },
+        {
+          "name": "John Konchar",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "MEM"
+        },
+        {
+          "name": "Gary Trent Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Bruise",
+          "team": "MIL"
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "MIL"
+        },
+        {
+          "name": "Taurean Prince",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "MIL"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:25"
+  },
+  {
+    "game_id": "401810284",
+    "home_team": "NO",
+    "away_team": "PHX",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "45",
+      "away_win_probability": "55",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Jordan Poole",
+          "position": "G",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Soreness",
+          "team": "NO"
+        },
+        {
+          "name": "Herbert Jones",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Sprain",
+          "team": "NO"
+        },
+        {
+          "name": "Dejounte Murray",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "NO"
+        },
+        {
+          "name": "Grayson Allen",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Soreness",
+          "team": "PHX"
+        },
+        {
+          "name": "Jalen Green",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "PHX"
+        },
+        {
+          "name": "Koby Brea",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Not Specified",
+          "team": "PHX"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:26"
+  },
+  {
+    "game_id": "401810285",
+    "home_team": "UTAH",
+    "away_team": "DET",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "19",
+      "away_win_probability": "81",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Jusuf Nurkic",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "UTAH"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "UTAH"
+        },
+        {
+          "name": "Georges Niang",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Fracture",
+          "team": "UTAH"
+        },
+        {
+          "name": "Walker Kessler",
+          "position": "C",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "UTAH"
+        },
+        {
+          "name": "Ronald Holland II",
+          "position": "F",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Soreness",
+          "team": "DET"
+        },
+        {
+          "name": "Isaac Jones",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "Sprain",
+          "team": "DET"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:26"
+  },
+  {
+    "game_id": "401810286",
+    "home_team": "POR",
+    "away_team": "LAC",
+    "odds": {
+      "spread": 0,
+      "over_under": 0,
+      "details": "",
+      "home_moneyline": null,
+      "away_moneyline": null,
+      "home_spread_odds": null,
+      "away_spread_odds": null,
+      "provider": "Unknown"
+    },
+    "predictions": {
+      "home_win_probability": "48.1",
+      "away_win_probability": "51.9",
+      "home_projected_score": 0,
+      "away_projected_score": 0
+    },
+    "injuries": {
+      "home": [
+        {
+          "name": "Robert Williams III",
+          "position": "C",
+          "status": "Day-To-Day",
+          "type": {
+            "id": "6",
+            "name": "INJURY_STATUS_DAYTODAY",
+            "description": "day-to-day",
+            "abbreviation": "DD"
+          },
+          "details": "",
+          "team": "POR"
+        },
+        {
+          "name": "Jerami Grant",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Soreness",
+          "team": "POR"
+        },
+        {
+          "name": "Scoot Henderson",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "POR"
+        },
+        {
+          "name": "Jrue Holiday",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Strain",
+          "team": "POR"
+        },
+        {
+          "name": "Matisse Thybulle",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "POR"
+        },
+        {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "LAC"
+        },
+        {
+          "name": "Derrick Jones Jr.",
+          "position": "F",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Sprain",
+          "team": "LAC"
+        },
+        {
+          "name": "Bradley Beal",
+          "position": "G",
+          "status": "Out",
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": "Surgery",
+          "team": "LAC"
+        }
+      ],
+      "away": []
+    },
+    "officials": null,
+    "preview_notes": null,
+    "has_officials": false,
+    "fetched_at": "2025-12-25 01:38:26"
+  }
+]

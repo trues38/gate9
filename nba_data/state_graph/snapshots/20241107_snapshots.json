@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2024-11-07",
+    "game_id": "401704747",
+    "matchup": "MIN @ CHI",
+    "home_team": {
+      "team_id": "CHI",
+      "record": "3-6",
+      "rest_days": 0,
+      "injuries": [
+        "Matas Buzelis - Day-To-Day",
+        "Noa Essengue - Out"
+      ],
+      "lineup": [
+        "Matas Buzelis",
+        "Jevon Carter",
+        "Zach Collins",
+        "Ayo Dosunmu",
+        "Trentyn Flowers",
+        "Josh Giddey",
+        "Kevin Huerter",
+        "Tre Jones"
+      ]
+    },
+    "away_team": {
+      "team_id": "MIN",
+      "record": "5-3",
+      "rest_days": 2,
+      "injuries": [
+        "Jaden McDaniels - Day-To-Day",
+        "Joe Ingles - Day-To-Day"
+      ],
+      "lineup": [
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Mike Conley",
+        "Rob Dillingham",
+        "Donte DiVincenzo",
+        "Anthony Edwards",
+        "Enrique Freeman",
+        "Rudy Gobert"
+      ]
+    },
+    "referees": [
+      "Curtis Blair",
+      "Brandon Adair",
+      "Ashley Moyer-Gleich"
+    ],
+    "state_notes": [
+      "CHI back-to-back",
+      "Noa Essengue - Out"
+    ]
+  },
+  {
+    "date": "2024-11-07",
+    "game_id": "401704748",
+    "matchup": "UTAH @ MIL",
+    "home_team": {
+      "team_id": "MIL",
+      "record": "2-6",
+      "rest_days": 2,
+      "injuries": [
+        "Gary Trent Jr. - Day-To-Day",
+        "Giannis Antetokounmpo - Out",
+        "Taurean Prince - Out"
+      ],
+      "lineup": [
+        "Alex Antetokounmpo",
+        "Thanasis Antetokounmpo",
+        "Cole Anthony",
+        "Amir Coffey",
+        "AJ Green",
+        "Gary Harris",
+        "Andre Jackson Jr.",
+        "Kyle Kuzma"
+      ]
+    },
+    "away_team": {
+      "team_id": "UTAH",
+      "record": "1-7",
+      "rest_days": 2,
+      "injuries": [
+        "Jusuf Nurkic - Day-To-Day",
+        "Lauri Markkanen - Day-To-Day",
+        "Georges Niang - Out",
+        "Walker Kessler - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Jacyn Goble",
+      "Karl Lane",
+      "Jonathan Sterling"
+    ],
+    "state_notes": [
+      "Giannis Antetokounmpo - Out"
+    ]
+  },
+  {
+    "date": "2024-11-07",
+    "game_id": "401704749",
+    "matchup": "POR @ SA",
+    "home_team": {
+      "team_id": "SA",
+      "record": "4-5",
+      "rest_days": 0,
+      "injuries": [],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "POR",
+      "record": "3-6",
+      "rest_days": 2,
+      "injuries": [
+        "Robert Williams III - Day-To-Day",
+        "Jerami Grant - Out",
+        "Scoot Henderson - Out",
+        "Jrue Holiday - Out",
+        "Matisse Thybulle - Out"
+      ],
+      "lineup": [
+        "Deni Avdija",
+        "Toumani Camara",
+        "Sidy Cissoko",
+        "Donovan Clingan",
+        "Javonte Cooke",
+        "Yang Hansen",
+        "Caleb Love",
+        "Kris Murray"
+      ]
+    },
+    "referees": [
+      "Sean Corbin",
+      "Brett Nansel",
+      "Nick Buchert"
+    ],
+    "state_notes": [
+      "SA back-to-back",
+      "Jerami Grant - Out"
+    ]
+  }
+]

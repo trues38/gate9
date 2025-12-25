@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-02_GS_OKC",
+  "date": "2025-12-02",
+  "teams": {
+    "home": "GS",
+    "away": "OKC"
+  },
+  "team_regimes": {
+    "GS": {
+      "momentum": 0.41999998688697815,
+      "volatility": 0.9900000095367432,
+      "label": "Surging"
+    },
+    "OKC": {
+      "momentum": 8.619999885559082,
+      "volatility": 1.399999976158142,
+      "label": "Juggernaut"
+    }
+  },
+  "player_regimes": {
+    "GS": [
+      {
+        "name": "Stephen Curry",
+        "momentum": 25.2,
+        "trend": "Slumping",
+        "last_5_avg": 25.2
+      },
+      {
+        "name": "Jimmy Butler III",
+        "momentum": 23.2,
+        "trend": "Stable",
+        "last_5_avg": 23.2
+      },
+      {
+        "name": "Brandin Podziemski",
+        "momentum": 15.0,
+        "trend": "Stable",
+        "last_5_avg": 15.0
+      },
+      {
+        "name": "Moses Moody",
+        "momentum": 10.8,
+        "trend": "Stable",
+        "last_5_avg": 10.8
+      },
+      {
+        "name": "Jonathan Kuminga",
+        "momentum": 2.0,
+        "trend": "Surging",
+        "last_5_avg": 2.0
+      }
+    ],
+    "OKC": [
+      {
+        "name": "Shai Gilgeous-Alexander",
+        "momentum": 34.2,
+        "trend": "Slumping",
+        "last_5_avg": 34.2
+      },
+      {
+        "name": "Chet Holmgren",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Ajay Mitchell",
+        "momentum": 12.4,
+        "trend": "Stable",
+        "last_5_avg": 12.4
+      },
+      {
+        "name": "Aaron Wiggins",
+        "momentum": 13.4,
+        "trend": "Slumping",
+        "last_5_avg": 13.4
+      },
+      {
+        "name": "Jalen Williams",
+        "momentum": 13.5,
+        "trend": "Stable",
+        "last_5_avg": 13.5
+      }
+    ]
+  },
+  "injuries": {
+    "GS": [],
+    "OKC": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "GS": "Backtest Mode: News Hidden",
+    "OKC": "Backtest Mode: News Hidden"
+  }
+}

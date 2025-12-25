@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-04_PHI_GS",
+  "date": "2025-12-04",
+  "teams": {
+    "home": "PHI",
+    "away": "GS"
+  },
+  "team_regimes": {
+    "PHI": {
+      "momentum": -0.4300000071525574,
+      "volatility": 1.0399999618530273,
+      "label": "Slumping"
+    },
+    "GS": {
+      "momentum": -0.41999998688697815,
+      "volatility": 1.0099999904632568,
+      "label": "Slumping"
+    }
+  },
+  "player_regimes": {
+    "PHI": [
+      {
+        "name": "Tyrese Maxey",
+        "momentum": 29.6,
+        "trend": "Surging",
+        "last_5_avg": 29.6
+      },
+      {
+        "name": "Joel Embiid",
+        "momentum": 22.4,
+        "trend": "Stable",
+        "last_5_avg": 22.4
+      },
+      {
+        "name": "Quentin Grimes",
+        "momentum": 16.8,
+        "trend": "Surging",
+        "last_5_avg": 16.8
+      },
+      {
+        "name": "Kelly Oubre Jr.",
+        "momentum": 13.2,
+        "trend": "Slumping",
+        "last_5_avg": 13.2
+      },
+      {
+        "name": "VJ Edgecombe",
+        "momentum": 12.6,
+        "trend": "Stable",
+        "last_5_avg": 12.6
+      }
+    ],
+    "GS": [
+      {
+        "name": "Stephen Curry",
+        "momentum": 25.2,
+        "trend": "Slumping",
+        "last_5_avg": 25.2
+      },
+      {
+        "name": "Jimmy Butler III",
+        "momentum": 17.8,
+        "trend": "Slumping",
+        "last_5_avg": 17.8
+      },
+      {
+        "name": "Seth Curry",
+        "momentum": 14.0,
+        "trend": "Stable",
+        "last_5_avg": 14.0
+      },
+      {
+        "name": "Brandin Podziemski",
+        "momentum": 14.4,
+        "trend": "Stable",
+        "last_5_avg": 14.4
+      },
+      {
+        "name": "Moses Moody",
+        "momentum": 9.6,
+        "trend": "Slumping",
+        "last_5_avg": 9.6
+      }
+    ]
+  },
+  "injuries": {
+    "PHI": [],
+    "GS": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "PHI": "Backtest Mode: News Hidden",
+    "GS": "Backtest Mode: News Hidden"
+  }
+}

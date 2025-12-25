@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-01_BKN_CHA",
+  "date": "2025-12-01",
+  "teams": {
+    "home": "BKN",
+    "away": "CHA"
+  },
+  "team_regimes": {
+    "BKN": {
+      "momentum": -5.380000114440918,
+      "volatility": 1.2599999904632568,
+      "label": "Crisis"
+    },
+    "CHA": {
+      "momentum": -2.9100000858306885,
+      "volatility": 1.059999942779541,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "BKN": [
+      {
+        "name": "Michael Porter Jr.",
+        "momentum": 26.6,
+        "trend": "Slumping",
+        "last_5_avg": 26.6
+      },
+      {
+        "name": "Cam Thomas",
+        "momentum": 16.4,
+        "trend": "Slumping",
+        "last_5_avg": 16.4
+      },
+      {
+        "name": "Nic Claxton",
+        "momentum": 11.0,
+        "trend": "Stable",
+        "last_5_avg": 11.0
+      },
+      {
+        "name": "Noah Clowney",
+        "momentum": 18.8,
+        "trend": "Slumping",
+        "last_5_avg": 18.8
+      },
+      {
+        "name": "Tyrese Martin",
+        "momentum": 13.0,
+        "trend": "Stable",
+        "last_5_avg": 13.0
+      }
+    ],
+    "CHA": [
+      {
+        "name": "Miles Bridges",
+        "momentum": 22.8,
+        "trend": "Surging",
+        "last_5_avg": 22.8
+      },
+      {
+        "name": "LaMelo Ball",
+        "momentum": 15.4,
+        "trend": "Stable",
+        "last_5_avg": 15.4
+      },
+      {
+        "name": "Kon Knueppel",
+        "momentum": 18.4,
+        "trend": "Stable",
+        "last_5_avg": 18.4
+      },
+      {
+        "name": "Brandon Miller",
+        "momentum": 15.4,
+        "trend": "Slumping",
+        "last_5_avg": 15.4
+      },
+      {
+        "name": "Collin Sexton",
+        "momentum": 18.8,
+        "trend": "Stable",
+        "last_5_avg": 18.8
+      }
+    ]
+  },
+  "injuries": {
+    "BKN": [],
+    "CHA": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "BKN": "Backtest Mode: News Hidden",
+    "CHA": "Backtest Mode: News Hidden"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "games": [
+    {
+      "game_id": "2025-11-13-CLE-TOR",
+      "date": "2025-11-13",
+      "teams": {
+        "home": "CLE",
+        "away": "TOR"
+      },
+      "home_stats": {
+        "points": 113,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 91,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 41,
+        "freeThrowsMade": 21,
+        "freeThrowsAttempted": 26,
+        "offensiveRebounds": 14,
+        "defensiveRebounds": 23,
+        "totalRebounds": 37,
+        "totalTurnovers": 12,
+        "plusMinus": -13
+      },
+      "away_stats": {
+        "points": 126,
+        "fieldGoalsMade": 49,
+        "fieldGoalsAttempted": 88,
+        "threePointFieldGoalsMade": 12,
+        "threePointFieldGoalsAttempted": 31,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 17,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 32,
+        "totalRebounds": 43,
+        "totalTurnovers": 14,
+        "plusMinus": 13
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-13-PHX-IND",
+      "date": "2025-11-13",
+      "teams": {
+        "home": "PHX",
+        "away": "IND"
+      },
+      "home_stats": {
+        "points": 133,
+        "fieldGoalsMade": 49,
+        "fieldGoalsAttempted": 85,
+        "threePointFieldGoalsMade": 13,
+        "threePointFieldGoalsAttempted": 35,
+        "freeThrowsMade": 22,
+        "freeThrowsAttempted": 27,
+        "offensiveRebounds": 10,
+        "defensiveRebounds": 33,
+        "totalRebounds": 43,
+        "totalTurnovers": 11,
+        "plusMinus": 35
+      },
+      "away_stats": {
+        "points": 98,
+        "fieldGoalsMade": 32,
+        "fieldGoalsAttempted": 88,
+        "threePointFieldGoalsMade": 7,
+        "threePointFieldGoalsAttempted": 25,
+        "freeThrowsMade": 27,
+        "freeThrowsAttempted": 29,
+        "offensiveRebounds": 16,
+        "defensiveRebounds": 25,
+        "totalRebounds": 41,
+        "totalTurnovers": 12,
+        "plusMinus": -35
+      },
+      "market_line": 0.0
+    },
+    {
+      "game_id": "2025-11-13-UTAH-ATL",
+      "date": "2025-11-13",
+      "teams": {
+        "home": "UTAH",
+        "away": "ATL"
+      },
+      "home_stats": {
+        "points": 122,
+        "fieldGoalsMade": 45,
+        "fieldGoalsAttempted": 92,
+        "threePointFieldGoalsMade": 19,
+        "threePointFieldGoalsAttempted": 44,
+        "freeThrowsMade": 13,
+        "freeThrowsAttempted": 21,
+        "offensiveRebounds": 14,
+        "defensiveRebounds": 35,
+        "totalRebounds": 49,
+        "totalTurnovers": 24,
+        "plusMinus": -10
+      },
+      "away_stats": {
+        "points": 132,
+        "fieldGoalsMade": 46,
+        "fieldGoalsAttempted": 90,
+        "threePointFieldGoalsMade": 24,
+        "threePointFieldGoalsAttempted": 47,
+        "freeThrowsMade": 16,
+        "freeThrowsAttempted": 22,
+        "offensiveRebounds": 9,
+        "defensiveRebounds": 34,
+        "totalRebounds": 43,
+        "totalTurnovers": 18,
+        "plusMinus": 10
+      },
+      "market_line": 0.0
+    }
+  ]
+}

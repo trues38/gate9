@@ -1,0 +1,41 @@
+{
+  "games": [
+    {
+      "game_id": "2025-11-06-PHX-LAC",
+      "date": "2025-11-06",
+      "teams": {
+        "home": "PHX",
+        "away": "LAC"
+      },
+      "home_stats": {
+        "points": 115,
+        "fieldGoalsMade": 41,
+        "fieldGoalsAttempted": 92,
+        "threePointFieldGoalsMade": 19,
+        "threePointFieldGoalsAttempted": 49,
+        "freeThrowsMade": 14,
+        "freeThrowsAttempted": 19,
+        "offensiveRebounds": 15,
+        "defensiveRebounds": 29,
+        "totalRebounds": 44,
+        "totalTurnovers": 16,
+        "plusMinus": 13
+      },
+      "away_stats": {
+        "points": 102,
+        "fieldGoalsMade": 35,
+        "fieldGoalsAttempted": 79,
+        "threePointFieldGoalsMade": 10,
+        "threePointFieldGoalsAttempted": 31,
+        "freeThrowsMade": 22,
+        "freeThrowsAttempted": 30,
+        "offensiveRebounds": 11,
+        "defensiveRebounds": 30,
+        "totalRebounds": 41,
+        "totalTurnovers": 15,
+        "plusMinus": -13
+      },
+      "market_line": 0.0
+    }
+  ]
+}

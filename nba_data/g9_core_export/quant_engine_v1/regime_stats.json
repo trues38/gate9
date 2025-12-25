@@ -1,0 +1,114 @@
+{
+    "1": {
+        "label": "Trap",
+        "base_stats": {
+            "total": 5788,
+            "upsets": 2071,
+            "rate": 35.8
+        },
+        "regimes": {
+            "Fatigue Trap": {
+                "total": 288,
+                "upsets": 93,
+                "rate": 32.3,
+                "lift": 0.9
+            },
+            "Hot Underdog": {
+                "total": 1525,
+                "upsets": 552,
+                "rate": 36.2,
+                "lift": 1.01
+            },
+            "Nemesis": {
+                "total": 686,
+                "upsets": 237,
+                "rate": 34.5,
+                "lift": 0.96
+            }
+        }
+    },
+    "2": {
+        "label": "Caution",
+        "base_stats": {
+            "total": 2868,
+            "upsets": 770,
+            "rate": 26.8
+        },
+        "regimes": {
+            "Fatigue Trap": {
+                "total": 111,
+                "upsets": 27,
+                "rate": 24.3,
+                "lift": 0.91
+            },
+            "Hot Underdog": {
+                "total": 604,
+                "upsets": 156,
+                "rate": 25.8,
+                "lift": 0.96
+            },
+            "Nemesis": {
+                "total": 504,
+                "upsets": 116,
+                "rate": 23.0,
+                "lift": 0.86
+            }
+        }
+    },
+    "3": {
+        "label": "Danger",
+        "base_stats": {
+            "total": 2480,
+            "upsets": 499,
+            "rate": 20.1
+        },
+        "regimes": {
+            "Fatigue Trap": {
+                "total": 84,
+                "upsets": 7,
+                "rate": 8.3,
+                "lift": 0.41
+            },
+            "Hot Underdog": {
+                "total": 403,
+                "upsets": 90,
+                "rate": 22.3,
+                "lift": 1.11
+            },
+            "Nemesis": {
+                "total": 673,
+                "upsets": 132,
+                "rate": 19.6,
+                "lift": 0.98
+            }
+        }
+    },
+    "4": {
+        "label": "Miracle",
+        "base_stats": {
+            "total": 2663,
+            "upsets": 333,
+            "rate": 12.5
+        },
+        "regimes": {
+            "Fatigue Trap": {
+                "total": 66,
+                "upsets": 9,
+                "rate": 13.6,
+                "lift": 1.09
+            },
+            "Hot Underdog": {
+                "total": 277,
+                "upsets": 39,
+                "rate": 14.1,
+                "lift": 1.13
+            },
+            "Nemesis": {
+                "total": 1035,
+                "upsets": 127,
+                "rate": 12.3,
+                "lift": 0.98
+            }
+        }
+    }
+}

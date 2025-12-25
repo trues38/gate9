@@ -1,0 +1,95 @@
+{
+  "game_id": "2025-12-03_CHI_BKN",
+  "date": "2025-12-03",
+  "teams": {
+    "home": "CHI",
+    "away": "BKN"
+  },
+  "team_regimes": {
+    "CHI": {
+      "momentum": -3.0799999237060547,
+      "volatility": 0.7099999785423279,
+      "label": "Crisis"
+    },
+    "BKN": {
+      "momentum": -3.990000009536743,
+      "volatility": 1.2599999904632568,
+      "label": "Crisis"
+    }
+  },
+  "player_regimes": {
+    "CHI": [
+      {
+        "name": "Coby White",
+        "momentum": 24.2,
+        "trend": "Stable",
+        "last_5_avg": 24.2
+      },
+      {
+        "name": "Josh Giddey",
+        "momentum": 20.6,
+        "trend": "Stable",
+        "last_5_avg": 20.6
+      },
+      {
+        "name": "Nikola Vucevic",
+        "momentum": 16.6,
+        "trend": "Stable",
+        "last_5_avg": 16.6
+      },
+      {
+        "name": "Ayo Dosunmu",
+        "momentum": 14.8,
+        "trend": "Stable",
+        "last_5_avg": 14.8
+      },
+      {
+        "name": "Matas Buzelis",
+        "momentum": 12.0,
+        "trend": "Surging",
+        "last_5_avg": 12.0
+      }
+    ],
+    "BKN": [
+      {
+        "name": "Michael Porter Jr.",
+        "momentum": 26.8,
+        "trend": "Surging",
+        "last_5_avg": 26.8
+      },
+      {
+        "name": "Cam Thomas",
+        "momentum": 16.4,
+        "trend": "Slumping",
+        "last_5_avg": 16.4
+      },
+      {
+        "name": "Nic Claxton",
+        "momentum": 10.0,
+        "trend": "Stable",
+        "last_5_avg": 10.0
+      },
+      {
+        "name": "Noah Clowney",
+        "momentum": 18.6,
+        "trend": "Stable",
+        "last_5_avg": 18.6
+      },
+      {
+        "name": "Terance Mann",
+        "momentum": 6.6,
+        "trend": "Stable",
+        "last_5_avg": 6.6
+      }
+    ]
+  },
+  "injuries": {
+    "CHI": [],
+    "BKN": []
+  },
+  "referees": [],
+  "news_narrative": {
+    "CHI": "Backtest Mode: News Hidden",
+    "BKN": "Backtest Mode: News Hidden"
+  }
+}

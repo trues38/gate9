@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2024-12-11",
+    "game_id": "401734904",
+    "matchup": "ATL @ NY",
+    "home_team": {
+      "team_id": "NY",
+      "record": "15-10",
+      "rest_days": 1,
+      "injuries": [
+        "Guerschon Yabusele - Day-To-Day",
+        "Jalen Brunson - Day-To-Day",
+        "OG Anunoby - Day-To-Day",
+        "Miles McBride - Out",
+        "Landry Shamet - Out"
+      ],
+      "lineup": []
+    },
+    "away_team": {
+      "team_id": "ATL",
+      "record": "14-12",
+      "rest_days": 2,
+      "injuries": [
+        "Mouhamed Gueye - Day-To-Day",
+        "Dyson Daniels - Day-To-Day",
+        "N'Faly Dante - Out",
+        "Eli John Ndiaye - Out",
+        "Kristaps Porzingis - Out"
+      ],
+      "lineup": [
+        "Nickeil Alexander-Walker",
+        "Dyson Daniels",
+        "Nikola Durisic",
+        "Mouhamed Gueye",
+        "Caleb Houstan",
+        "Jalen Johnson",
+        "Luke Kennard",
+        "Vit Krejci"
+      ]
+    },
+    "referees": [
+      "Jacyn Goble",
+      "Ben Taylor",
+      "Natalie Sago"
+    ],
+    "state_notes": []
+  },
+  {
+    "date": "2024-12-11",
+    "game_id": "401734905",
+    "matchup": "GS @ HOU",
+    "home_team": {
+      "team_id": "HOU",
+      "record": "17-8",
+      "rest_days": 2,
+      "injuries": [
+        "Dorian Finney-Smith - Out",
+        "Fred VanVleet - Out"
+      ],
+      "lineup": [
+        "Steven Adams",
+        "Clint Capela",
+        "Isaiah Crawford",
+        "JD Davison",
+        "Kevin Durant",
+        "Tari Eason",
+        "Jeff Green",
+        "Aaron Holiday"
+      ]
+    },
+    "away_team": {
+      "team_id": "GS",
+      "record": "14-10",
+      "rest_days": 2,
+      "injuries": [
+        "Seth Curry - Out",
+        "Al Horford - Out"
+      ],
+      "lineup": []
+    },
+    "referees": [
+      "Bill Kennedy",
+      "Brent Barnaky",
+      "Mousa Dagher"
+    ],
+    "state_notes": [
+      "Seth Curry - Out",
+      "Al Horford - Out",
+      "Dorian Finney-Smith - Out",
+      "Fred VanVleet - Out"
+    ]
+  }
+]

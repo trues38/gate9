@@ -1,0 +1,182 @@
+[
+  {
+    "game_id": "401810278",
+    "date": "2025-12-27",
+    "time": "00:00",
+    "home_team": {
+      "abbr": "ATL",
+      "name": "Atlanta Hawks",
+      "record": "15-16"
+    },
+    "away_team": {
+      "abbr": "MIA",
+      "name": "Miami Heat",
+      "record": "15-15"
+    },
+    "venue": {
+      "name": "State Farm Arena",
+      "city": "Atlanta"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810279",
+    "date": "2025-12-27",
+    "time": "00:00",
+    "home_team": {
+      "abbr": "ORL",
+      "name": "Orlando Magic",
+      "record": "17-13"
+    },
+    "away_team": {
+      "abbr": "CHA",
+      "name": "Charlotte Hornets",
+      "record": "10-20"
+    },
+    "venue": {
+      "name": "Kia Center",
+      "city": "Orlando"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810280",
+    "date": "2025-12-27",
+    "time": "00:00",
+    "home_team": {
+      "abbr": "WSH",
+      "name": "Washington Wizards",
+      "record": "5-23"
+    },
+    "away_team": {
+      "abbr": "TOR",
+      "name": "Toronto Raptors",
+      "record": "18-13"
+    },
+    "venue": {
+      "name": "Capital One Arena",
+      "city": "Washington"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810281",
+    "date": "2025-12-27",
+    "time": "00:00",
+    "home_team": {
+      "abbr": "IND",
+      "name": "Indiana Pacers",
+      "record": "6-24"
+    },
+    "away_team": {
+      "abbr": "BOS",
+      "name": "Boston Celtics",
+      "record": "18-11"
+    },
+    "venue": {
+      "name": "Gainbridge Fieldhouse",
+      "city": "Indianapolis"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810282",
+    "date": "2025-12-27",
+    "time": "00:30",
+    "home_team": {
+      "abbr": "CHI",
+      "name": "Chicago Bulls",
+      "record": "14-15"
+    },
+    "away_team": {
+      "abbr": "PHI",
+      "name": "Philadelphia 76ers",
+      "record": "16-12"
+    },
+    "venue": {
+      "name": "United Center",
+      "city": "Chicago"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810283",
+    "date": "2025-12-27",
+    "time": "01:00",
+    "home_team": {
+      "abbr": "MEM",
+      "name": "Memphis Grizzlies",
+      "record": "14-16"
+    },
+    "away_team": {
+      "abbr": "MIL",
+      "name": "Milwaukee Bucks",
+      "record": "12-18"
+    },
+    "venue": {
+      "name": "FedExForum",
+      "city": "Memphis"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810284",
+    "date": "2025-12-27",
+    "time": "01:00",
+    "home_team": {
+      "abbr": "NO",
+      "name": "New Orleans Pelicans",
+      "record": "8-23"
+    },
+    "away_team": {
+      "abbr": "PHX",
+      "name": "Phoenix Suns",
+      "record": "16-13"
+    },
+    "venue": {
+      "name": "Smoothie King Center",
+      "city": "New Orleans"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810285",
+    "date": "2025-12-27",
+    "time": "02:30",
+    "home_team": {
+      "abbr": "UTAH",
+      "name": "Utah Jazz",
+      "record": "10-19"
+    },
+    "away_team": {
+      "abbr": "DET",
+      "name": "Detroit Pistons",
+      "record": "24-6"
+    },
+    "venue": {
+      "name": "Delta Center",
+      "city": "Salt Lake City"
+    },
+    "status": "Scheduled"
+  },
+  {
+    "game_id": "401810286",
+    "date": "2025-12-27",
+    "time": "03:00",
+    "home_team": {
+      "abbr": "POR",
+      "name": "Portland Trail Blazers",
+      "record": "12-18"
+    },
+    "away_team": {
+      "abbr": "LAC",
+      "name": "LA Clippers",
+      "record": "8-21"
+    },
+    "venue": {
+      "name": "Moda Center",
+      "city": "Portland"
+    },
+    "status": "Scheduled"
+  }
+]

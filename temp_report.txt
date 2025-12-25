@@ -1,0 +1,90 @@
+📅 Fetching Schedule from ESPN for 2025-12-11...
+🏀 Found 4 Scheduled Games for 2025-12-11
+
+==================================================
+Matchup: LA Clippers @ Houston Rockets
+==================================================
+DEBUG: Home Quant Keys: dict_keys(['momentum', 'label', 'record', 'streak'])
+
+🏠 [홈팀] HOU 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | 5.1 (Juggernaut) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.64)
+       ↳ 주요 선수: Steven Adams: 0.3 (Frustrated, Resilient, Resilient), Clint Capela: 0.0 (Frustrated, Resilient, Neutral), Kevin Durant: 0.7 (Neutral, Resilient, Resilient)
+    ⚡ 퓨전 진단       | 진격의 거인 (True Juggernaut)
+    ⚠️ 리스크          | 낮음. 완전한 조화.
+
+
+✈️  [원정팀] LAC 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | -3.3 (Crisis) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.77)
+       ↳ 주요 선수: Nicolas Batum: 1.0 (Euphoric, Euphoric, Resilient), Bradley Beal: 0.0 (Desperate, Resilient, Frustrated), Bogdan Bogdanovic: 1.0 (Resilient, Resilient, Resilient)
+    ⚡ 퓨전 진단       | 잠자는 거인 (Sleeping Giant)
+    ⚠️ 리스크          | 반등 가능성 높음 (상승 조짐)
+
+==================================================
+Matchup: Boston Celtics @ Milwaukee Bucks
+==================================================
+DEBUG: Home Quant Keys: dict_keys(['momentum', 'label', 'record', 'streak'])
+
+🏠 [홈팀] MIL 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | -3.0 (Crisis) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.64)
+       ↳ 주요 선수: Giannis Antetokounmpo: 1.0 (Resilient, Resilient, Resilient), Cole Anthony: 0.7 (Resilient, Neutral, Resilient), Amir Coffey: 0.7 (Resilient, Neutral, Resilient)
+    ⚡ 퓨전 진단       | 잠자는 거인 (Sleeping Giant)
+    ⚠️ 리스크          | 반등 가능성 높음 (상승 조짐)
+
+
+✈️  [원정팀] BOS 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | 5.5 (Juggernaut) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.52)
+       ↳ 주요 선수: Chris Boucher: 0.7 (Resilient, Neutral, Resilient), Jaylen Brown: 0.3 (Neutral, Neutral, Resilient), Luka Garza: 1.0 (Resilient, Resilient, Resilient)
+    ⚡ 퓨전 진단       | 진격의 거인 (True Juggernaut)
+    ⚠️ 리스크          | 낮음. 완전한 조화.
+
+==================================================
+Matchup: Portland Trail Blazers @ New Orleans Pelicans
+==================================================
+DEBUG: Home Quant Keys: dict_keys(['momentum', 'label', 'record', 'streak'])
+
+🏠 [홈팀] NO 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | -2.0 (Crisis) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.63)
+       ↳ 주요 선수: Jose Alvarado: 0.0 (Desperate, Resilient, Frustrated), Saddiq Bey: 1.0 (Resilient, Euphoric, Euphoric), Jeremiah Fears: -0.3 (Resilient, Frustrated, Frustrated)
+    ⚡ 퓨전 진단       | 잠자는 거인 (Sleeping Giant)
+    ⚠️ 리스크          | 반등 가능성 높음 (상승 조짐)
+
+
+✈️  [원정팀] POR 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | -3.3 (Crisis) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.64)
+       ↳ 주요 선수: Deni Avdija: 0.7 (Neutral, Resilient, Resilient), Toumani Camara: 0.3 (Resilient, Frustrated, Resilient), Donovan Clingan: 0.3 (Frustrated, Resilient, Resilient)
+    ⚡ 퓨전 진단       | 잠자는 거인 (Sleeping Giant)
+    ⚠️ 리스크          | 반등 가능성 높음 (상승 조짐)
+
+==================================================
+Matchup: Denver Nuggets @ Sacramento Kings
+==================================================
+DEBUG: Home Quant Keys: dict_keys(['momentum', 'label', 'record', 'streak'])
+
+🏠 [홈팀] SAC 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | -5.5 (Crisis) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.53)
+       ↳ 주요 선수: Precious Achiuwa: 0.0 (Frustrated, Neutral, Resilient), DeMar DeRozan: 0.7 (Desperate, Resilient, Resilient), Keon Ellis: 0.3 (Frustrated, Resilient, Euphoric)
+    ⚡ 퓨전 진단       | 잠자는 거인 (Sleeping Giant)
+    ⚠️ 리스크          | 반등 가능성 높음 (상승 조짐)
+
+
+✈️  [원정팀] DEN 분석 리포트
+    ----------------------------------------
+    📊 퀀트 (Quant)    | 3.9 (Juggernaut) | L10: Backfilled | Active
+    🧠 스토리 (Story)  | 열광적 (Electrifying) (점수: 0.67)
+       ↳ 주요 선수: Christian Braun: 1.0 (Resilient, Euphoric, Resilient), Bruce Brown: 0.3 (Frustrated, Resilient, Resilient), Aaron Gordon: 1.0 (Resilient, Resilient, Resilient)
+    ⚡ 퓨전 진단       | 진격의 거인 (True Juggernaut)
+    ⚠️ 리스크          | 낮음. 완전한 조화.

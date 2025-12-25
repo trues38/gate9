@@ -1,0 +1,678 @@
+[
+  {
+    "game_id": "401812482",
+    "teams": [
+      {
+        "team": "PHX",
+        "team_name": "Phoenix Suns",
+        "players": [
+          {
+            "player_id": "3155526",
+            "name": "Dillon Brooks",
+            "position": "F",
+            "stats": {
+              "MIN": "25",
+              "PTS": "10",
+              "FG": "3-5",
+              "3PT": "3-4",
+              "FT": "1-2",
+              "REB": "2",
+              "AST": "3",
+              "TO": "0",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "2",
+              "PF": "4",
+              "+/-": "+22"
+            }
+          },
+          {
+            "player_id": "4601023",
+            "name": "Oso Ighodaro",
+            "position": "F",
+            "stats": {
+              "MIN": "26",
+              "PTS": "5",
+              "FG": "2-4",
+              "3PT": "0-0",
+              "FT": "1-6",
+              "REB": "9",
+              "AST": "2",
+              "TO": "1",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "8",
+              "PF": "5",
+              "+/-": "+8"
+            }
+          },
+          {
+            "player_id": "4888725",
+            "name": "Ryan Dunn",
+            "position": "F",
+            "stats": {
+              "MIN": "22",
+              "PTS": "4",
+              "FG": "2-3",
+              "3PT": "0-1",
+              "FT": "0-0",
+              "REB": "8",
+              "AST": "3",
+              "TO": "1",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "7",
+              "PF": "5",
+              "+/-": "+19"
+            }
+          },
+          {
+            "player_id": "3135045",
+            "name": "Grayson Allen",
+            "position": "G",
+            "stats": {
+              "MIN": "22",
+              "PTS": "13",
+              "FG": "5-11",
+              "3PT": "3-6",
+              "FT": "0-0",
+              "REB": "2",
+              "AST": "2",
+              "TO": "2",
+              "STL": "1",
+              "BLK": "1",
+              "OREB": "0",
+              "DREB": "2",
+              "PF": "1",
+              "+/-": "+20"
+            }
+          },
+          {
+            "player_id": "3136193",
+            "name": "Devin Booker",
+            "position": "G",
+            "stats": {
+              "MIN": "25",
+              "PTS": "24",
+              "FG": "8-19",
+              "3PT": "2-6",
+              "FT": "6-8",
+              "REB": "2",
+              "AST": "7",
+              "TO": "1",
+              "STL": "0",
+              "BLK": "1",
+              "OREB": "1",
+              "DREB": "1",
+              "PF": "1",
+              "+/-": "+22"
+            }
+          },
+          {
+            "player_id": "2583632",
+            "name": "Royce O'Neale",
+            "position": "F",
+            "stats": {
+              "MIN": "14",
+              "PTS": "9",
+              "FG": "3-6",
+              "3PT": "3-6",
+              "FT": "0-0",
+              "REB": "3",
+              "AST": "2",
+              "TO": "1",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "2",
+              "PF": "3",
+              "+/-": "+6"
+            }
+          },
+          {
+            "player_id": "3059409",
+            "name": "Nigel Hayes-Davis",
+            "position": "F",
+            "stats": {
+              "MIN": "18",
+              "PTS": "3",
+              "FG": "1-6",
+              "3PT": "1-4",
+              "FT": "0-0",
+              "REB": "6",
+              "AST": "1",
+              "TO": "0",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "2",
+              "DREB": "4",
+              "PF": "1",
+              "+/-": "-5"
+            }
+          },
+          {
+            "player_id": "5105977",
+            "name": "Rasheer Fleming",
+            "position": "F",
+            "stats": {
+              "MIN": "12",
+              "PTS": "2",
+              "FG": "1-3",
+              "3PT": "0-2",
+              "FT": "0-0",
+              "REB": "0",
+              "AST": "0",
+              "TO": "0",
+              "STL": "0",
+              "BLK": "1",
+              "OREB": "0",
+              "DREB": "0",
+              "PF": "1",
+              "+/-": "-3"
+            }
+          },
+          {
+            "player_id": "4278076",
+            "name": "Nick Richards",
+            "position": "C",
+            "stats": {
+              "MIN": "12",
+              "PTS": "9",
+              "FG": "4-7",
+              "3PT": "0-0",
+              "FT": "1-3",
+              "REB": "3",
+              "AST": "1",
+              "TO": "2",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "2",
+              "PF": "2",
+              "+/-": "+12"
+            }
+          },
+          {
+            "player_id": "5203685",
+            "name": "Khaman Maluach",
+            "position": "C",
+            "stats": {
+              "MIN": "10",
+              "PTS": "4",
+              "FG": "1-2",
+              "3PT": "0-0",
+              "FT": "2-4",
+              "REB": "6",
+              "AST": "0",
+              "TO": "1",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "5",
+              "PF": "1",
+              "+/-": "+2"
+            }
+          },
+          {
+            "player_id": "4278402",
+            "name": "Jordan Goodwin",
+            "position": "G",
+            "stats": {
+              "MIN": "10",
+              "PTS": "0",
+              "FG": "0-2",
+              "3PT": "0-2",
+              "FT": "0-0",
+              "REB": "1",
+              "AST": "1",
+              "TO": "0",
+              "STL": "2",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "0",
+              "PF": "0",
+              "+/-": "-2"
+            }
+          },
+          {
+            "player_id": "4278585",
+            "name": "Collin Gillespie",
+            "position": "G",
+            "stats": {
+              "MIN": "19",
+              "PTS": "8",
+              "FG": "3-9",
+              "3PT": "1-6",
+              "FT": "1-1",
+              "REB": "3",
+              "AST": "4",
+              "TO": "1",
+              "STL": "0",
+              "BLK": "1",
+              "OREB": "0",
+              "DREB": "3",
+              "PF": "1",
+              "+/-": "+3"
+            }
+          },
+          {
+            "player_id": "4395695",
+            "name": "Jared Butler",
+            "position": "G",
+            "stats": {
+              "MIN": "16",
+              "PTS": "12",
+              "FG": "5-10",
+              "3PT": "0-2",
+              "FT": "2-2",
+              "REB": "2",
+              "AST": "1",
+              "TO": "5",
+              "STL": "1",
+              "BLK": "1",
+              "OREB": "1",
+              "DREB": "1",
+              "PF": "4",
+              "+/-": "+5"
+            }
+          },
+          {
+            "player_id": "4397107",
+            "name": "David Duke Jr.",
+            "position": "G",
+            "stats": {
+              "MIN": "10",
+              "PTS": "0",
+              "FG": "0-3",
+              "3PT": "0-2",
+              "FT": "0-0",
+              "REB": "3",
+              "AST": "2",
+              "TO": "1",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "3",
+              "PF": "2",
+              "+/-": "+1"
+            }
+          },
+          {
+            "player_id": "4277957",
+            "name": "Isaiah Livers",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "4432105",
+            "name": "Tyrese Samuel",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "4702602",
+            "name": "CJ Huntley",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "4701232",
+            "name": "Mark Williams",
+            "position": "C",
+            "stats": {}
+          },
+          {
+            "player_id": "4431766",
+            "name": "Damion Baugh",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "4437244",
+            "name": "Jalen Green",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "4591259",
+            "name": "Koby Brea",
+            "position": "G",
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "team": "LAL",
+        "team_name": "Los Angeles Lakers",
+        "players": [
+          {
+            "player_id": "4066648",
+            "name": "Rui Hachimura",
+            "position": "F",
+            "stats": {
+              "MIN": "23",
+              "PTS": "11",
+              "FG": "3-12",
+              "3PT": "1-4",
+              "FT": "4-7",
+              "REB": "3",
+              "AST": "0",
+              "TO": "0",
+              "STL": "2",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "3",
+              "PF": "1",
+              "+/-": "-4"
+            }
+          },
+          {
+            "player_id": "4278077",
+            "name": "Jarred Vanderbilt",
+            "position": "F",
+            "stats": {
+              "MIN": "21",
+              "PTS": "1",
+              "FG": "0-4",
+              "3PT": "0-3",
+              "FT": "1-2",
+              "REB": "2",
+              "AST": "0",
+              "TO": "0",
+              "STL": "1",
+              "BLK": "1",
+              "OREB": "1",
+              "DREB": "1",
+              "PF": "2",
+              "+/-": "-11"
+            }
+          },
+          {
+            "player_id": "4592691",
+            "name": "Jake LaRavia",
+            "position": "F",
+            "stats": {
+              "MIN": "19",
+              "PTS": "7",
+              "FG": "3-6",
+              "3PT": "1-2",
+              "FT": "0-0",
+              "REB": "5",
+              "AST": "1",
+              "TO": "2",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "2",
+              "DREB": "3",
+              "PF": "3",
+              "+/-": "-15"
+            }
+          },
+          {
+            "player_id": "4278129",
+            "name": "Deandre Ayton",
+            "position": "C",
+            "stats": {
+              "MIN": "18",
+              "PTS": "1",
+              "FG": "0-2",
+              "3PT": "0-0",
+              "FT": "1-2",
+              "REB": "8",
+              "AST": "1",
+              "TO": "4",
+              "STL": "1",
+              "BLK": "2",
+              "OREB": "2",
+              "DREB": "6",
+              "PF": "2",
+              "+/-": "-2"
+            }
+          },
+          {
+            "player_id": "4066457",
+            "name": "Austin Reaves",
+            "position": "G",
+            "stats": {
+              "MIN": "21",
+              "PTS": "20",
+              "FG": "6-11",
+              "3PT": "1-5",
+              "FT": "7-7",
+              "REB": "3",
+              "AST": "2",
+              "TO": "2",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "3",
+              "PF": "0",
+              "+/-": "-9"
+            }
+          },
+          {
+            "player_id": "4431705",
+            "name": "Anton Watson",
+            "position": "F",
+            "stats": {
+              "MIN": "7",
+              "PTS": "0",
+              "FG": "0-0",
+              "3PT": "0-0",
+              "FT": "0-0",
+              "REB": "1",
+              "AST": "2",
+              "TO": "0",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "1",
+              "PF": "0",
+              "+/-": "+9"
+            }
+          },
+          {
+            "player_id": "4897943",
+            "name": "Dalton Knecht",
+            "position": "F",
+            "stats": {
+              "MIN": "26",
+              "PTS": "6",
+              "FG": "2-10",
+              "3PT": "1-7",
+              "FT": "1-2",
+              "REB": "6",
+              "AST": "0",
+              "TO": "2",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "1",
+              "DREB": "5",
+              "PF": "1",
+              "+/-": "-12"
+            }
+          },
+          {
+            "player_id": "4397077",
+            "name": "Jaxson Hayes",
+            "position": "C",
+            "stats": {
+              "MIN": "17",
+              "PTS": "7",
+              "FG": "1-2",
+              "3PT": "0-0",
+              "FT": "5-6",
+              "REB": "5",
+              "AST": "1",
+              "TO": "2",
+              "STL": "1",
+              "BLK": "2",
+              "OREB": "2",
+              "DREB": "3",
+              "PF": "4",
+              "+/-": "-18"
+            }
+          },
+          {
+            "player_id": "4431778",
+            "name": "Christian Koloko",
+            "position": "C",
+            "stats": {
+              "MIN": "10",
+              "PTS": "0",
+              "FG": "0-1",
+              "3PT": "0-0",
+              "FT": "0-0",
+              "REB": "5",
+              "AST": "0",
+              "TO": "4",
+              "STL": "1",
+              "BLK": "1",
+              "OREB": "1",
+              "DREB": "4",
+              "PF": "6",
+              "+/-": "-5"
+            }
+          },
+          {
+            "player_id": "4397821",
+            "name": "Nate Williams",
+            "position": "G",
+            "stats": {
+              "MIN": "18",
+              "PTS": "0",
+              "FG": "0-1",
+              "3PT": "0-1",
+              "FT": "0-0",
+              "REB": "2",
+              "AST": "0",
+              "TO": "1",
+              "STL": "1",
+              "BLK": "1",
+              "OREB": "0",
+              "DREB": "2",
+              "PF": "4",
+              "+/-": "-11"
+            }
+          },
+          {
+            "player_id": "4433176",
+            "name": "RJ Davis",
+            "position": "G",
+            "stats": {
+              "MIN": "18",
+              "PTS": "14",
+              "FG": "5-8",
+              "3PT": "1-2",
+              "FT": "3-3",
+              "REB": "0",
+              "AST": "0",
+              "TO": "2",
+              "STL": "1",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "0",
+              "PF": "1",
+              "+/-": "-1"
+            }
+          },
+          {
+            "player_id": "4683686",
+            "name": "Nick Smith Jr.",
+            "position": "G",
+            "stats": {
+              "MIN": "18",
+              "PTS": "6",
+              "FG": "2-5",
+              "3PT": "0-3",
+              "FT": "2-2",
+              "REB": "1",
+              "AST": "1",
+              "TO": "1",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "0",
+              "DREB": "1",
+              "PF": "1",
+              "+/-": "-19"
+            }
+          },
+          {
+            "player_id": "4683774",
+            "name": "Bronny James",
+            "position": "G",
+            "stats": {
+              "MIN": "24",
+              "PTS": "8",
+              "FG": "1-12",
+              "3PT": "1-8",
+              "FT": "5-6",
+              "REB": "5",
+              "AST": "2",
+              "TO": "2",
+              "STL": "0",
+              "BLK": "0",
+              "OREB": "2",
+              "DREB": "3",
+              "PF": "0",
+              "+/-": "-12"
+            }
+          },
+          {
+            "player_id": "1966",
+            "name": "LeBron James",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "2960236",
+            "name": "Maxi Kleber",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "5060631",
+            "name": "Adou Thiero",
+            "position": "F",
+            "stats": {}
+          },
+          {
+            "player_id": "2990992",
+            "name": "Marcus Smart",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "3137259",
+            "name": "Gabe Vincent",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "3945274",
+            "name": "Luka Doncic",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "4702972",
+            "name": "Chris Manon",
+            "position": "G",
+            "stats": {}
+          },
+          {
+            "player_id": "4897197",
+            "name": "Augustas Marciulionis",
+            "position": "G",
+            "stats": {}
+          }
+        ]
+      }
+    ],
+    "date": "2025-10-04",
+    "game_name": "Phoenix Suns at Los Angeles Lakers"
+  }
+]
