@@ -73,18 +73,30 @@ class MacroCollector:
             if df.empty:
                 return {"status": "failed", "name": name, "ticker": ticker, "message": "No data returned", "rows": 0}
 
-            # Flatten MultiIndex columns if present
+            # Flatten MultiIndex columns if present (more robust)
             if isinstance(df.columns, pd.MultiIndex):
                 df.columns = df.columns.get_level_values(0)
 
+            # Ensure we have the standard column names
+            df.columns = [str(col).strip() for col in df.columns]
+
             # Reset index to make Date a column
             df = df.reset_index()
+
+            # Handle different index name possibilities
+            if 'Date' not in df.columns:
+                # Index might be named differently, rename it
+                if df.columns[0] in ['index', 'Datetime', 'date']:
+                    df.rename(columns={df.columns[0]: 'Date'}, inplace=True)
 
             # Standardize Date format
             df['Date'] = pd.to_datetime(df['Date']).dt.strftime('%Y-%m-%d')
 
             # Ensure Close is numeric
-            df['Close'] = pd.to_numeric(df['Close'], errors='coerce')
+            if 'Close' in df.columns:
+                df['Close'] = pd.to_numeric(df['Close'], errors='coerce')
+            else:
+                return {"status": "failed", "name": name, "ticker": ticker, "message": "No Close column found", "rows": 0}
 
             # Thread-safe file write (save using name, not ticker for clarity)
             with file_lock:
@@ -109,7 +121,7 @@ class MacroCollector:
                 "rows": 0
             }
 
-    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 10) -> dict:
+    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 1) -> dict:
         """
         Download all macro indicators in parallel
 

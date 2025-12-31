@@ -116,7 +116,7 @@ class StockCollector:
                 "warnings": []
             }
 
-    def download_us_stocks(self, start: str = "2015-01-01", end: str = None, max_workers: int = 10) -> dict:
+    def download_us_stocks(self, start: str = "2015-01-01", end: str = None, max_workers: int = 1) -> dict:
         """Download all US stocks in parallel"""
         results = {"success": [], "failed": []}
 
@@ -139,7 +139,7 @@ class StockCollector:
 
         return results
 
-    def download_kr_stocks(self, start: str = "2015-01-01", end: str = None, max_workers: int = 10) -> dict:
+    def download_kr_stocks(self, start: str = "2015-01-01", end: str = None, max_workers: int = 1) -> dict:
         """Download all Korean stocks in parallel with .KS validation"""
         results = {"success": [], "failed": []}
 
@@ -168,7 +168,7 @@ class StockCollector:
 
         return results
 
-    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 10) -> dict:
+    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 1) -> dict:
         """
         Download both US and Korean stocks
 

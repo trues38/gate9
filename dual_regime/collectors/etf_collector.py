@@ -94,7 +94,7 @@ class ETFCollector:
                 "rows": 0
             }
 
-    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 10) -> dict:
+    def download_all(self, start: str = "2015-01-01", end: str = None, max_workers: int = 1) -> dict:
         """
         Download all ETFs in parallel
 
