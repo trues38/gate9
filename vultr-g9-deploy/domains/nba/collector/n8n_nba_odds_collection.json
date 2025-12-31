@@ -1,0 +1,289 @@
+{
+  "name": "NBA Odds Collection (Tier 1 + Tier 2)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 9,15,18 * * *"
+            }
+          ]
+        }
+      },
+      "name": "Tier 2: Daily 3x (Open/Mid/Close)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        240,
+        300
+      ],
+      "id": "tier2-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "*/30 18-23,0-2 * * *"
+            }
+          ]
+        }
+      },
+      "name": "Tier 1: Every 30min (Game Hours)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        240,
+        500
+      ],
+      "id": "tier1-trigger"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://g9-nba-collector:8001/collect/odds",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "tier",
+              "value": "tier2"
+            },
+            {
+              "name": "snapshot_type",
+              "value": "={{ $now.hour() === 9 ? 'open' : ($now.hour() === 15 ? 'mid' : 'close') }}"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "name": "Collect Tier 2 Odds",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        460,
+        300
+      ],
+      "id": "tier2-collect"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://g9-nba-collector:8001/collect/odds",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "tier",
+              "value": "tier1"
+            },
+            {
+              "name": "snapshot_type",
+              "value": "close"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "name": "Collect Tier 1 Odds",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        460,
+        500
+      ],
+      "id": "tier1-collect"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.status }}",
+              "operation": "equals",
+              "value2": "success"
+            }
+          ]
+        }
+      },
+      "name": "Success Check (Tier 2)",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        680,
+        300
+      ],
+      "id": "tier2-check"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.status }}",
+              "operation": "equals",
+              "value2": "success"
+            }
+          ]
+        }
+      },
+      "name": "Success Check (Tier 1)",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        680,
+        500
+      ],
+      "id": "tier1-check"
+    },
+    {
+      "parameters": {
+        "message": "✅ Tier 2 Odds Collection Success\n\nSnapshot: {{ $json.snapshot_type }}\nGames: {{ $json.snapshots_saved }}\nBudget: {{ $json.budget.tier2_used }}/{{ $json.budget.tier2_budget }}"
+      },
+      "name": "Log Success (Tier 2)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        900,
+        240
+      ],
+      "id": "tier2-log"
+    },
+    {
+      "parameters": {
+        "message": "✅ Tier 1 Odds Collection Success\n\nGames: {{ $json.snapshots_saved }}\nBudget: {{ $json.budget.tier1_used }}/{{ $json.budget.tier1_budget }}"
+      },
+      "name": "Log Success (Tier 1)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        900,
+        440
+      ],
+      "id": "tier1-log"
+    },
+    {
+      "parameters": {
+        "message": "⚠️ Tier 2 Odds Collection Failed\n\nReason: {{ $json.reason || 'Unknown error' }}"
+      },
+      "name": "Log Error (Tier 2)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        900,
+        360
+      ],
+      "id": "tier2-error"
+    },
+    {
+      "parameters": {
+        "message": "⚠️ Tier 1 Odds Collection Failed\n\nReason: {{ $json.reason || 'Unknown error' }}"
+      },
+      "name": "Log Error (Tier 1)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        900,
+        560
+      ],
+      "id": "tier1-error"
+    }
+  ],
+  "connections": {
+    "Tier 2: Daily 3x (Open/Mid/Close)": {
+      "main": [
+        [
+          {
+            "node": "Collect Tier 2 Odds",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Tier 1: Every 30min (Game Hours)": {
+      "main": [
+        [
+          {
+            "node": "Collect Tier 1 Odds",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Collect Tier 2 Odds": {
+      "main": [
+        [
+          {
+            "node": "Success Check (Tier 2)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Collect Tier 1 Odds": {
+      "main": [
+        [
+          {
+            "node": "Success Check (Tier 1)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Success Check (Tier 2)": {
+      "main": [
+        [
+          {
+            "node": "Log Success (Tier 2)",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log Error (Tier 2)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Success Check (Tier 1)": {
+      "main": [
+        [
+          {
+            "node": "Log Success (Tier 1)",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log Error (Tier 1)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {},
+  "versionId": "1",
+  "id": "nba-odds-collection",
+  "meta": {
+    "instanceId": "g9-n8n-nba-odds"
+  },
+  "tags": []
+}

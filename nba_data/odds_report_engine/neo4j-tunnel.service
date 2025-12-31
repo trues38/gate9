@@ -1,0 +1,49 @@
+# systemd 서비스 파일 - SSH 터널 자동 관리
+# 위치: /etc/systemd/system/neo4j-tunnel.service
+#
+# 설치 방법:
+# 1. sudo cp neo4j-tunnel.service /etc/systemd/system/
+# 2. sudo systemctl daemon-reload
+# 3. sudo systemctl enable neo4j-tunnel
+# 4. sudo systemctl start neo4j-tunnel
+#
+# 상태 확인:
+# sudo systemctl status neo4j-tunnel
+#
+# 로그 확인:
+# sudo journalctl -u neo4j-tunnel -f
+
+[Unit]
+Description=Neo4j SSH Tunnel to VPS (Auto-restart)
+After=network.target
+
+[Service]
+Type=simple
+User=js
+Group=staff
+
+# autossh 사용 (끊기면 자동 재연결)
+ExecStart=/opt/homebrew/bin/autossh -M 0 -N \
+    -o "ServerAliveInterval=30" \
+    -o "ServerAliveCountMax=3" \
+    -o "ExitOnForwardFailure=yes" \
+    -o "StrictHostKeyChecking=no" \
+    -L 7687:localhost:7687 \
+    -L 7474:localhost:7474 \
+    root@141.164.35.214
+
+# 실패 시 자동 재시작
+Restart=always
+RestartSec=10
+
+# 환경 변수
+Environment="AUTOSSH_GATETIME=0"
+Environment="AUTOSSH_PORT=0"
+
+# 로그
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=neo4j-tunnel
+
+[Install]
+WantedBy=multi-user.target

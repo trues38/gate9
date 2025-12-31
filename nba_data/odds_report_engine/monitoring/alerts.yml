@@ -1,0 +1,111 @@
+# G9 Alert Rules
+# API 500회 제한 관리 + 크론/수집 죽음 감지
+
+groups:
+  - name: g9_api_limits
+    interval: 1m
+    rules:
+      # 🔴 Odds API 450회 초과 (월 500회 제한)
+      - alert: OddsAPILimitApproaching
+        expr: sum(api_calls_total{source="odds_api"}) > 450
+        for: 1m
+        labels:
+          severity: critical
+          category: api_budget
+        annotations:
+          summary: "Odds API 사용량 90% 초과"
+          description: "{{ $value }}회 사용 (월 500회 제한)"
+
+      # 🟡 Odds API 400회 초과 (경고)
+      - alert: OddsAPILimitWarning
+        expr: sum(api_calls_total{source="odds_api"}) > 400
+        for: 1m
+        labels:
+          severity: warning
+          category: api_budget
+        annotations:
+          summary: "Odds API 사용량 80% 초과"
+          description: "{{ $value }}회 사용 (월 500회 제한)"
+
+      # 🔴 Twitter API 450회 초과 (월 500회 제한)
+      - alert: TwitterAPILimitApproaching
+        expr: sum(api_calls_total{source="twitter_api"}) > 450
+        for: 1m
+        labels:
+          severity: critical
+          category: api_budget
+        annotations:
+          summary: "Twitter API 사용량 90% 초과"
+          description: "{{ $value }}회 사용 (월 500회 제한)"
+
+  - name: g9_collection_health
+    interval: 1m
+    rules:
+      # 🔴 NBA 수집 10분 이상 중단
+      - alert: NBACollectionStalled
+        expr: time() - job_last_run_timestamp{job="nba_collector"} > 600
+        for: 1m
+        labels:
+          severity: critical
+          category: data_collection
+        annotations:
+          summary: "NBA 수집 중단됨"
+          description: "마지막 실행: {{ $value }}초 전"
+
+      # 🔴 경제 수집 10분 이상 중단
+      - alert: EconomicCollectionStalled
+        expr: time() - job_last_run_timestamp{job="economic_collector"} > 600
+        for: 1m
+        labels:
+          severity: critical
+          category: data_collection
+        annotations:
+          summary: "경제 수집 중단됨"
+          description: "마지막 실행: {{ $value }}초 전"
+
+      # 🟡 Neo4j 노드 증가 없음 (1시간)
+      - alert: Neo4jNoGrowth
+        expr: increase(neo4j_node_count[1h]) == 0
+        for: 5m
+        labels:
+          severity: warning
+          category: data_collection
+        annotations:
+          summary: "Neo4j 노드 증가 없음"
+          description: "1시간 동안 노드 증가 없음 (수집 문제?)"
+
+  - name: g9_system_health
+    interval: 1m
+    rules:
+      # 🔴 VPS 메모리 90% 초과
+      - alert: HighMemoryUsage
+        expr: (1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) > 0.9
+        for: 5m
+        labels:
+          severity: critical
+          category: system
+        annotations:
+          summary: "VPS 메모리 사용량 90% 초과"
+          description: "메모리: {{ $value | humanizePercentage }}"
+
+      # 🔴 VPS 디스크 90% 초과
+      - alert: HighDiskUsage
+        expr: (1 - (node_filesystem_avail_bytes{mountpoint="/"} / node_filesystem_size_bytes{mountpoint="/"})) > 0.9
+        for: 5m
+        labels:
+          severity: critical
+          category: system
+        annotations:
+          summary: "VPS 디스크 사용량 90% 초과"
+          description: "디스크: {{ $value | humanizePercentage }}"
+
+      # 🟡 VPS CPU 80% 초과
+      - alert: HighCPUUsage
+        expr: 100 - (avg by(instance) (rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100) > 80
+        for: 10m
+        labels:
+          severity: warning
+          category: system
+        annotations:
+          summary: "VPS CPU 사용량 80% 초과"
+          description: "CPU: {{ $value | printf \"%.2f\" }}%"

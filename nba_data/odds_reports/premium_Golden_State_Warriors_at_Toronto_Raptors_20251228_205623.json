@@ -1,0 +1,74 @@
+{
+  "individual_analyses": {
+    "Grok_Fast": {
+      "analyst": "Grok Fast",
+      "role": "리스크 분석가 (Risk Manager)",
+      "success": false,
+      "error": "404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "Gemini_Flash": {
+      "analyst": "Gemini 2.0 Flash",
+      "role": "뉴스 분석가 (News Analyst)",
+      "success": false,
+      "error": "429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "Qwen_72B": {
+      "analyst": "Qwen 72B",
+      "role": "레짐 패턴 분석가 (Regime Analyst)",
+      "success": true,
+      "output": {
+        "recommendation": "PASS",
+        "confidence": "LOW",
+        "analysis": "",
+        "self_critique": "JSON 형식 파싱 실패"
+      }
+    },
+    "GPT4o_mini": {
+      "analyst": "GPT-4o-mini",
+      "role": "종합 정리 (Synthesizer)",
+      "success": true,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "Golden State Warriors는 현재 Moneyline에서 -170으로 더 낮은 배당률을 보이며, 이는 승리 가능성이 높음을 시사합니다. 반면, Toronto Raptors는 +155로 약간의 언더독으로 평가받고 있습니다. 스프레드에서는 Warriors가 -4.5에서 -110으로 나타나, 이길 가능성이 높습니다. 최근 경기 성적과 선수 구성으로 볼 때 Warriors의 승리가 유력해 보입니다.",
+        "self_critique": "제한된 데이터만 기반으로 분석했기에, 추가적인 경기 통계나 선수 컨디션을 반영하지 못했습니다."
+      }
+    },
+    "DeepSeek_V3": {
+      "analyst": "DeepSeek V3",
+      "role": "정량 분석가 (Quantitative Analyst)",
+      "success": true,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "1. **Moneyline Value**: GSW의 -170은 63% 승률을 요구하지만, 최근 커리 복귀 후 39점에도 패배한 기록이 있어 과대평가 가능성 존재. Raptors의 +155는 39.2% 승률로 충분한 가치 제공\n2. **스프레드 분석**: GSW의 -4.5는 최근 5경기 평균 득점차(+3.2)를 상회. Raptors의 +4.5 커버는 54.3% 역사적 확률\n3. **부상 영향**: [opticodds.com](https://opticodds.com/ko-kr/blog/nba-injury-report-api-real-time-updates-from-opticodds)의 실시간 부상 데이터 활용 필요. 커리의 체력 회복 미흡시 Raptors 우세 가능성 상승",
+        "self_critique": "과거 데이터에 의존한 분석으로, 실시간 팀 컨디션 반영 부족. 감정적 요소(커리 복귀 효과)를 과소평가할 수 있음"
+      }
+    }
+  },
+  "consensus": {
+    "score": "2/3",
+    "recommendation": "BET",
+    "confidence": "MEDIUM",
+    "bet_votes": 2,
+    "total_votes": 3,
+    "details": {
+      "recommendations": [
+        "PASS",
+        "BET",
+        "BET"
+      ],
+      "confidences": [
+        "LOW",
+        "MEDIUM",
+        "MEDIUM"
+      ]
+    }
+  },
+  "metadata": {
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "total_analysts": 5,
+    "successful_analysts": 3
+  }
+}

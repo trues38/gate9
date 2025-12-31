@@ -1,0 +1,289 @@
+{
+  "referee_impact": [
+    {
+      "referee": "S Attwell",
+      "strictness": 0.208,
+      "games": 17,
+      "home_xg_diff": -0.23103405882352934
+    },
+    {
+      "referee": "S Barrott",
+      "strictness": 0.224,
+      "games": 15,
+      "home_xg_diff": -0.3239592000000002
+    },
+    {
+      "referee": "R Jones",
+      "strictness": 0.192,
+      "games": 14,
+      "home_xg_diff": -0.4748093571428569
+    },
+    {
+      "referee": "C Pawson",
+      "strictness": 0.207,
+      "games": 14,
+      "home_xg_diff": -0.06372828571428535
+    },
+    {
+      "referee": "A Taylor",
+      "strictness": 0.165,
+      "games": 14,
+      "home_xg_diff": -0.033181142857142465
+    },
+    {
+      "referee": "C Kavanagh",
+      "strictness": 0.22,
+      "games": 14,
+      "home_xg_diff": -0.19805692857142854
+    },
+    {
+      "referee": "T Robinson",
+      "strictness": 0.203,
+      "games": 13,
+      "home_xg_diff": -0.1697444615384618
+    },
+    {
+      "referee": "M Oliver",
+      "strictness": 0.212,
+      "games": 13,
+      "home_xg_diff": -0.23374869230769235
+    },
+    {
+      "referee": "D Bond",
+      "strictness": 0.186,
+      "games": 13,
+      "home_xg_diff": -0.01904423076923112
+    },
+    {
+      "referee": "D England",
+      "strictness": 0.209,
+      "games": 13,
+      "home_xg_diff": -0.39342584615384646
+    },
+    {
+      "referee": "A Madley",
+      "strictness": 0.192,
+      "games": 13,
+      "home_xg_diff": 0.12715723076923102
+    },
+    {
+      "referee": "S Hooper",
+      "strictness": 0.252,
+      "games": 12,
+      "home_xg_diff": -0.5054672499999999
+    },
+    {
+      "referee": "T Harrington",
+      "strictness": 0.199,
+      "games": 12,
+      "home_xg_diff": -0.4600657500000003
+    },
+    {
+      "referee": "M Salisbury",
+      "strictness": 0.159,
+      "games": 10,
+      "home_xg_diff": -0.4143920000000003
+    },
+    {
+      "referee": "J Brooks",
+      "strictness": 0.235,
+      "games": 10,
+      "home_xg_diff": -0.04846000000000017
+    },
+    {
+      "referee": "J Gillett",
+      "strictness": 0.193,
+      "games": 9,
+      "home_xg_diff": -0.6590595555555556
+    },
+    {
+      "referee": "P Bankes",
+      "strictness": 0.203,
+      "games": 9,
+      "home_xg_diff": 0.08873566666666655
+    },
+    {
+      "referee": "L Smith",
+      "strictness": 0.164,
+      "games": 7,
+      "home_xg_diff": -0.5345241428571428
+    },
+    {
+      "referee": "T Bramall",
+      "strictness": 0.213,
+      "games": 6,
+      "home_xg_diff": 0.28613366666666695
+    }
+  ],
+  "tactical_twins": [
+    {
+      "scenario": "strong_home",
+      "xg_diff": 5.715141,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.942866,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 5.075737999999999,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.717435,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.942069,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.660596,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.33326,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.478394,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.590492,
+      "result": "HW"
+    },
+    {
+      "scenario": "strong_home",
+      "xg_diff": 4.120852,
+      "result": "HW"
+    }
+  ],
+  "team_regimes": [
+    {
+      "team": "Bayer Leverkusen",
+      "xg_diff": 0.2635796088235296,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Wolverhampton Wanderers",
+      "xg_diff": 0.22709076315789534,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Holstein Kiel",
+      "xg_diff": 0.1597600294117647,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Fiorentina",
+      "xg_diff": 0.15499873684210508,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Auxerre",
+      "xg_diff": 0.15354076470588263,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Marseille",
+      "xg_diff": 0.1516450294117644,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Nottingham Forest",
+      "xg_diff": 0.13817755263157872,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Bayern Munich",
+      "xg_diff": 0.11714371764705911,
+      "regime": "Efficient"
+    },
+    {
+      "team": "Wolfsburg",
+      "xg_diff": 0.0769601470588237,
+      "regime": "Expected"
+    },
+    {
+      "team": "Barcelona",
+      "xg_diff": 0.06671018421052777,
+      "regime": "Expected"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "xg_diff": 0.06648682352941249,
+      "regime": "Expected"
+    },
+    {
+      "team": "Strasbourg",
+      "xg_diff": 0.06428708823529439,
+      "regime": "Expected"
+    },
+    {
+      "team": "Inter",
+      "xg_diff": 0.05939331578947282,
+      "regime": "Expected"
+    },
+    {
+      "team": "Napoli",
+      "xg_diff": 0.05141386842105189,
+      "regime": "Expected"
+    },
+    {
+      "team": "Borussia M.Gladbach",
+      "xg_diff": 0.0453827058823526,
+      "regime": "Expected"
+    }
+  ],
+  "graph_edges": [
+    {
+      "team": "Crystal Palace",
+      "referee": "S Hooper",
+      "impact": -1.1178236666666668
+    },
+    {
+      "team": "Brentford",
+      "referee": "J Gillett",
+      "impact": -0.910981
+    },
+    {
+      "team": "Aston Villa",
+      "referee": "C Pawson",
+      "impact": 0.31285999999999997
+    },
+    {
+      "team": "Arsenal",
+      "referee": "C Kavanagh",
+      "impact": -0.2527616666666667
+    },
+    {
+      "team": "Chelsea",
+      "referee": "S Attwell",
+      "impact": 0.25079000000000007
+    },
+    {
+      "team": "Liverpool",
+      "referee": "T Harrington",
+      "impact": 0.21844666666666668
+    },
+    {
+      "team": "Ipswich",
+      "referee": "T Robinson",
+      "impact": -0.18143900000000002
+    },
+    {
+      "team": "Arsenal",
+      "referee": "S Hooper",
+      "impact": -0.06065299999999999
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "generated_at": "20251228_214243",
+    "generator": "full_report_v1",
+    "stage1_complete": true,
+    "graph_rag_enabled": true
+  },
+  "game_info": {
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "timestamp": "20251228_214243",
+    "game_time": "2025-12-28T20:40:00Z",
+    "game_id": "d8f2315d3e872709e62642ca705a0f0d"
+  },
+  "odds": {
+    "available": true,
+    "moneyline": {
+      "home": {
+        "odds": 155,
+        "bookmaker": "bovada"
+      },
+      "away": {
+        "odds": -170,
+        "bookmaker": "lowvig"
+      }
+    },
+    "spreads": {
+      "home": {
+        "odds": -101,
+        "bookmaker": "lowvig",
+        "point": 4.5
+      },
+      "away": {
+        "odds": -110,
+        "bookmaker": "fanduel",
+        "point": -4.5
+      }
+    },
+    "formatted_text": "=== BETTING ODDS ===\nGolden State Warriors @ Toronto Raptors\nGame Time: 2025-12-28T20:40:00Z\n\nMONEYLINE (h2h):\n  Toronto Raptors: +155 (bovada)\n  Golden State Warriors: -170 (lowvig)\n\nSPREADS:\n  Toronto Raptors: +4.5 (-101) - lowvig\n  Golden State Warriors: -4.5 (-110) - fanduel\n"
+  },
+  "team_stats": {
+    "home_team": {
+      "name": "Toronto Raptors",
+      "recent_form": "3-7 (last 10)",
+      "avg_points": 112.3,
+      "avg_margin": -5.1,
+      "home_record": "8-12",
+      "regime": "DECLINE (12 games, 87% confidence)",
+      "key_players": [
+        {
+          "name": "RJ Barrett",
+          "ppg": 21.5,
+          "status": "Questionable (ankle)"
+        },
+        {
+          "name": "Jakob Poeltl",
+          "rpg": 9.8,
+          "status": "OUT (illness)"
+        }
+      ]
+    },
+    "away_team": {
+      "name": "Golden State Warriors",
+      "recent_form": "8-2 (last 10)",
+      "avg_points": 118.7,
+      "avg_margin": 6.8,
+      "away_record": "9-8",
+      "regime": "ROAD_DOMINANCE (8 games, 91% confidence)",
+      "key_players": [
+        {
+          "name": "Stephen Curry",
+          "ppg": 22.8,
+          "status": "Day-to-Day (ankle)"
+        },
+        {
+          "name": "Andrew Wiggins",
+          "ppg": 17.2,
+          "status": "Active"
+        }
+      ]
+    },
+    "head_to_head": [
+      {
+        "date": "2024-12-01",
+        "home_score": 102,
+        "away_score": 115,
+        "spread_result": "Away covered"
+      },
+      {
+        "date": "2024-10-15",
+        "home_score": 98,
+        "away_score": 110,
+        "spread_result": "Away covered"
+      },
+      {
+        "date": "2024-03-20",
+        "home_score": 105,
+        "away_score": 108,
+        "spread_result": "Away covered"
+      }
+    ],
+    "matchup_notes": [
+      "Warriors have won last 3 matchups vs Raptors",
+      "Average margin: Warriors +12.3",
+      "Raptors 0-7 ATS at home this month"
+    ]
+  },
+  "head_to_head": [
+    {
+      "date": "2024-12-01",
+      "home_score": 102,
+      "away_score": 115,
+      "spread_result": "Away covered"
+    },
+    {
+      "date": "2024-10-15",
+      "home_score": 98,
+      "away_score": 110,
+      "spread_result": "Away covered"
+    },
+    {
+      "date": "2024-03-20",
+      "home_score": 105,
+      "away_score": 108,
+      "spread_result": "Away covered"
+    }
+  ],
+  "graph_data_available": true,
+  "main_report_file": "/Users/js/g9/nba_data/odds_reports/full_report_Golden_State_Warriors_at_Toronto_Raptors_20251228_214243.md"
+}

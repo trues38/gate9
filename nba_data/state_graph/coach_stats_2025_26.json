@@ -1,0 +1,386 @@
+[
+  {
+    "team": "ATL",
+    "coach": "Quin Snyder",
+    "stats": {
+      "rotation_depth": 7.0,
+      "avg_starter_minutes": 34.0,
+      "avg_bench_minutes": 10.6,
+      "games": 31,
+      "games_coached": 31,
+      "wins": 15,
+      "win_pct": 0.484,
+      "tempo": 108.4,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "BKN",
+    "coach": "Jordi Fernández",
+    "stats": {
+      "rotation_depth": 6.9,
+      "avg_starter_minutes": 32.9,
+      "avg_bench_minutes": 10.8,
+      "games": 28,
+      "games_coached": 28,
+      "wins": 9,
+      "win_pct": 0.321,
+      "tempo": 101.5,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "BOS",
+    "coach": "Joe Mazzulla",
+    "stats": {
+      "rotation_depth": 6.5,
+      "avg_starter_minutes": 33.1,
+      "avg_bench_minutes": 9.4,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 18,
+      "win_pct": 0.621,
+      "tempo": 102.7,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "CHA",
+    "coach": "Charles Lee",
+    "stats": {
+      "rotation_depth": 6.7,
+      "avg_starter_minutes": 34.3,
+      "avg_bench_minutes": 12.2,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 10,
+      "win_pct": 0.333,
+      "tempo": 106.5,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "CHI",
+    "coach": "Billy Donovan",
+    "stats": {
+      "rotation_depth": 6.9,
+      "avg_starter_minutes": 33.1,
+      "avg_bench_minutes": 10.1,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 14,
+      "win_pct": 0.483,
+      "tempo": 110.3,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "CLE",
+    "coach": "Kenny Atkinson",
+    "stats": {
+      "rotation_depth": 7.1,
+      "avg_starter_minutes": 32.9,
+      "avg_bench_minutes": 10.8,
+      "games": 31,
+      "games_coached": 31,
+      "wins": 17,
+      "win_pct": 0.548,
+      "tempo": 108.0,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "DAL",
+    "coach": "Jason Kidd",
+    "stats": {
+      "rotation_depth": 6.6,
+      "avg_starter_minutes": 33.2,
+      "avg_bench_minutes": 10.9,
+      "games": 31,
+      "games_coached": 31,
+      "wins": 12,
+      "win_pct": 0.387,
+      "tempo": 105.0,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "DEN",
+    "coach": "Michael Malone",
+    "stats": {
+      "rotation_depth": 6.8,
+      "avg_starter_minutes": 33.3,
+      "avg_bench_minutes": 11.0,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 21,
+      "win_pct": 0.724,
+      "tempo": 109.9,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "DET",
+    "coach": "J.B. Bickerstaff",
+    "stats": {
+      "rotation_depth": 6.6,
+      "avg_starter_minutes": 34.5,
+      "avg_bench_minutes": 11.0,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 24,
+      "win_pct": 0.8,
+      "tempo": 105.2,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "HOU",
+    "coach": "Ime Udoka",
+    "stats": {
+      "rotation_depth": 6.4,
+      "avg_starter_minutes": 35.2,
+      "avg_bench_minutes": 10.3,
+      "games": 26,
+      "games_coached": 26,
+      "wins": 17,
+      "win_pct": 0.654,
+      "tempo": 105.8,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "IND",
+    "coach": "Rick Carlisle",
+    "stats": {
+      "rotation_depth": 6.3,
+      "avg_starter_minutes": 33.5,
+      "avg_bench_minutes": 9.4,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 6,
+      "win_pct": 0.2,
+      "tempo": 103.1,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "LAC",
+    "coach": "Tyronn Lue",
+    "stats": {
+      "rotation_depth": 6.8,
+      "avg_starter_minutes": 33.4,
+      "avg_bench_minutes": 10.3,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 8,
+      "win_pct": 0.276,
+      "tempo": 103.2,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "LAL",
+    "coach": "JJ Redick",
+    "stats": {
+      "rotation_depth": 6.3,
+      "avg_starter_minutes": 36.3,
+      "avg_bench_minutes": 9.2,
+      "games": 27,
+      "games_coached": 27,
+      "wins": 19,
+      "win_pct": 0.704,
+      "tempo": 107.0,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "MEM",
+    "coach": "Taylor Jenkins",
+    "stats": {
+      "rotation_depth": 7.3,
+      "avg_starter_minutes": 31.7,
+      "avg_bench_minutes": 12.0,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 14,
+      "win_pct": 0.467,
+      "tempo": 105.1,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "MIA",
+    "coach": "Erik Spoelstra",
+    "stats": {
+      "rotation_depth": 6.9,
+      "avg_starter_minutes": 32.4,
+      "avg_bench_minutes": 12.1,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 15,
+      "win_pct": 0.5,
+      "tempo": 107.7,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "MIL",
+    "coach": "Doc Rivers",
+    "stats": {
+      "rotation_depth": 7.1,
+      "avg_starter_minutes": 33.5,
+      "avg_bench_minutes": 9.0,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 12,
+      "win_pct": 0.4,
+      "tempo": 104.2,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "MIN",
+    "coach": "Chris Finch",
+    "stats": {
+      "rotation_depth": 6.3,
+      "avg_starter_minutes": 34.4,
+      "avg_bench_minutes": 10.6,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 20,
+      "win_pct": 0.667,
+      "tempo": 105.4,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "OKC",
+    "coach": "Mark Daigneault",
+    "stats": {
+      "rotation_depth": 7.4,
+      "avg_starter_minutes": 32.1,
+      "avg_bench_minutes": 7.9,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 25,
+      "win_pct": 0.862,
+      "tempo": 103.8,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "ORL",
+    "coach": "Jamahl Mosley",
+    "stats": {
+      "rotation_depth": 6.2,
+      "avg_starter_minutes": 33.3,
+      "avg_bench_minutes": 10.0,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 17,
+      "win_pct": 0.567,
+      "tempo": 105.5,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "PHI",
+    "coach": "Nick Nurse",
+    "stats": {
+      "rotation_depth": 6.2,
+      "avg_starter_minutes": 35.6,
+      "avg_bench_minutes": 9.1,
+      "games": 28,
+      "games_coached": 28,
+      "wins": 16,
+      "win_pct": 0.571,
+      "tempo": 105.4,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "PHX",
+    "coach": "Mike Budenholzer",
+    "stats": {
+      "rotation_depth": 6.7,
+      "avg_starter_minutes": 34.3,
+      "avg_bench_minutes": 10.4,
+      "games": 29,
+      "games_coached": 29,
+      "wins": 16,
+      "win_pct": 0.552,
+      "tempo": 104.0,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "POR",
+    "coach": "Chauncey Billups",
+    "stats": {
+      "rotation_depth": 6.7,
+      "avg_starter_minutes": 33.2,
+      "avg_bench_minutes": 8.8,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 12,
+      "win_pct": 0.4,
+      "tempo": 108.0,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "SAC",
+    "coach": "Doug Christie",
+    "stats": {
+      "rotation_depth": 6.6,
+      "avg_starter_minutes": 34.6,
+      "avg_bench_minutes": 12.1,
+      "games": 30,
+      "games_coached": 30,
+      "wins": 7,
+      "win_pct": 0.233,
+      "tempo": 106.6,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  },
+  {
+    "team": "TOR",
+    "coach": "Darko Rajaković",
+    "stats": {
+      "rotation_depth": 6.3,
+      "avg_starter_minutes": 33.1,
+      "avg_bench_minutes": 13.8,
+      "games": 31,
+      "games_coached": 31,
+      "wins": 18,
+      "win_pct": 0.581,
+      "tempo": 102.3,
+      "rookie_trust": 0.5,
+      "veteran_bias": 0.5
+    }
+  }
+]

@@ -1,0 +1,88 @@
+# G9 Alertmanager Configuration
+# Telegram + Discord 멀티 채널 알림
+#
+# ⚠️ 알림을 활성화하려면 ALERT_SETUP_GUIDE.md를 참고하여
+#    Telegram Bot Token과 Discord Webhook URL을 설정하세요
+
+global:
+  resolve_timeout: 5m
+
+# 알림 라우팅
+route:
+  group_by: ['alertname', 'severity']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 12h
+  receiver: 'default'
+
+  # 실제 알림을 활성화하려면 아래 주석을 해제하고 receivers 섹션 설정
+  # routes:
+  #   # Critical 알림 (Telegram + Discord)
+  #   - match:
+  #       severity: critical
+  #     receiver: 'critical-multi'
+  #     continue: true
+  #
+  #   # Warning 알림 (Telegram만)
+  #   - match:
+  #       severity: warning
+  #     receiver: 'warning-telegram'
+
+# 알림 수신자 정의
+receivers:
+  # 기본 (알림 없음 - 로그만 기록)
+  - name: 'default'
+
+  # ========================================
+  # ✅ 알림 활성화 방법:
+  # ========================================
+  #
+  # 1. ALERT_SETUP_GUIDE.md 참고하여 Telegram Bot 생성
+  # 2. Discord Webhook URL 생성
+  # 3. 아래 주석 해제하고 YOUR_* 부분을 실제 값으로 교체
+  # 4. docker restart g9-alertmanager
+  #
+  # # Critical: Telegram + Discord 동시 발송
+  # - name: 'critical-multi'
+  #   telegram_configs:
+  #     - bot_token: 'YOUR_TELEGRAM_BOT_TOKEN'
+  #       chat_id: YOUR_TELEGRAM_CHAT_ID
+  #       parse_mode: 'HTML'
+  #       message: |
+  #         🔴 <b>CRITICAL ALERT</b>
+  #
+  #         <b>{{ .GroupLabels.alertname }}</b>
+  #
+  #         {{ range .Alerts }}
+  #         <b>Summary:</b> {{ .Annotations.summary }}
+  #         <b>Description:</b> {{ .Annotations.description }}
+  #         <b>Severity:</b> {{ .Labels.severity }}
+  #         {{ end }}
+  #
+  #   webhook_configs:
+  #     - url: 'YOUR_DISCORD_WEBHOOK_URL'
+  #       send_resolved: true
+  #
+  # # Warning: Telegram만
+  # - name: 'warning-telegram'
+  #   telegram_configs:
+  #     - bot_token: 'YOUR_TELEGRAM_BOT_TOKEN'
+  #       chat_id: YOUR_TELEGRAM_CHAT_ID
+  #       parse_mode: 'HTML'
+  #       message: |
+  #         🟡 <b>Warning</b>
+  #
+  #         <b>{{ .GroupLabels.alertname }}</b>
+  #
+  #         {{ range .Alerts }}
+  #         {{ .Annotations.summary }}
+  #         {{ end }}
+
+# 알림 억제 규칙 (선택)
+inhibit_rules:
+  # Critical이 발생하면 같은 alertname의 warning 무시
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname']

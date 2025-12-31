@@ -1,0 +1,161 @@
+{
+  "HOU": {
+    "coach": "Ime Udoka",
+    "lineups": [
+      {
+        "name": "Starting 5",
+        "players": [
+          "Alperen Sengun",
+          "Jabari Smith Jr.",
+          "Dillon Brooks",
+          "Fred VanVleet",
+          "Amen Thompson"
+        ],
+        "usage_pct": 35,
+        "style": "balanced",
+        "tempo_boost": 1.0,
+        "defense_rating": 1.0,
+        "offense_rating": 1.0,
+        "notes": "주력 라인업, 센군 중심 플레이메이킹"
+      },
+      {
+        "name": "Adams Big Lineup",
+        "players": [
+          "Alperen Sengun",
+          "Steven Adams",
+          "Dillon Brooks",
+          "Fred VanVleet",
+          "Jabari Smith Jr."
+        ],
+        "usage_pct": 15,
+        "style": "defensive",
+        "tempo_boost": 0.95,
+        "defense_rating": 1.2,
+        "offense_rating": 0.9,
+        "notes": "수비 중심, Adams 스크린 + 오펜스 리바운드 (4.4/g)"
+      },
+      {
+        "name": "Small Ball",
+        "players": [
+          "Alperen Sengun",
+          "Jabari Smith Jr.",
+          "Amen Thompson",
+          "Fred VanVleet",
+          "Jalen Green"
+        ],
+        "usage_pct": 20,
+        "style": "uptempo",
+        "tempo_boost": 1.10,
+        "defense_rating": 0.9,
+        "offense_rating": 1.15,
+        "notes": "스피드 중심, Green 득점 폭발력"
+      }
+    ]
+  },
+  "BOS": {
+    "coach": "Joe Mazzulla",
+    "lineups": [
+      {
+        "name": "Starting 5",
+        "players": [
+          "Jayson Tatum",
+          "Jaylen Brown",
+          "Kristaps Porzingis",
+          "Jrue Holiday",
+          "Derrick White"
+        ],
+        "usage_pct": 40,
+        "style": "balanced",
+        "tempo_boost": 1.0,
+        "defense_rating": 1.1,
+        "offense_rating": 1.2,
+        "notes": "우승 라인업, 양쪽 에이스 + Porzingis 스페이싱"
+      },
+      {
+        "name": "Death Lineup",
+        "players": [
+          "Jayson Tatum",
+          "Jaylen Brown",
+          "Al Horford",
+          "Jrue Holiday",
+          "Derrick White"
+        ],
+        "usage_pct": 25,
+        "style": "defensive",
+        "tempo_boost": 0.98,
+        "defense_rating": 1.3,
+        "offense_rating": 1.1,
+        "notes": "클러치 타임, Horford 수비 안정감"
+      },
+      {
+        "name": "Bench Mob",
+        "players": [
+          "Payton Pritchard",
+          "Sam Hauser",
+          "Al Horford",
+          "Jaylen Brown",
+          "Derrick White"
+        ],
+        "usage_pct": 15,
+        "style": "offensive",
+        "tempo_boost": 1.05,
+        "defense_rating": 0.9,
+        "offense_rating": 1.2,
+        "notes": "벤치 화력, Pritchard 3점 특화"
+      }
+    ]
+  },
+  "OKC": {
+    "coach": "Mark Daigneault",
+    "lineups": [
+      {
+        "name": "Starting 5",
+        "players": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams",
+          "Chet Holmgren",
+          "Luguentz Dort",
+          "Isaiah Joe"
+        ],
+        "usage_pct": 35,
+        "style": "balanced",
+        "tempo_boost": 1.0,
+        "defense_rating": 1.2,
+        "offense_rating": 1.2,
+        "notes": "리그 최강 라인업, SGA (31ppg, +11.9) 중심"
+      },
+      {
+        "name": "Defense First",
+        "players": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams",
+          "Chet Holmgren",
+          "Luguentz Dort",
+          "Alex Caruso"
+        ],
+        "usage_pct": 20,
+        "style": "defensive",
+        "tempo_boost": 0.95,
+        "defense_rating": 1.4,
+        "offense_rating": 1.0,
+        "notes": "극강 수비, Dort + Caruso 페리미터 락다운"
+      },
+      {
+        "name": "Pace & Space",
+        "players": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams",
+          "Chet Holmgren",
+          "Isaiah Joe",
+          "Cason Wallace"
+        ],
+        "usage_pct": 25,
+        "style": "uptempo",
+        "tempo_boost": 1.08,
+        "defense_rating": 1.1,
+        "offense_rating": 1.25,
+        "notes": "속공 중심, 3점 스페이싱 극대화"
+      }
+    ]
+  }
+}

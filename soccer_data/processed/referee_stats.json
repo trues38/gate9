@@ -1,0 +1,236 @@
+{
+    "R Jones": {
+        "games": 22,
+        "yellow": 93,
+        "red": 4,
+        "fouls": 546,
+        "avg_yellow": 4.23,
+        "avg_red": 0.18,
+        "strictness_index": 0.192
+    },
+    "T Robinson": {
+        "games": 16,
+        "yellow": 68,
+        "red": 2,
+        "fouls": 364,
+        "avg_yellow": 4.25,
+        "avg_red": 0.12,
+        "strictness_index": 0.203
+    },
+    "J Gillett": {
+        "games": 16,
+        "yellow": 68,
+        "red": 0,
+        "fouls": 353,
+        "avg_yellow": 4.25,
+        "avg_red": 0.0,
+        "strictness_index": 0.193
+    },
+    "S Hooper": {
+        "games": 23,
+        "yellow": 108,
+        "red": 2,
+        "fouls": 452,
+        "avg_yellow": 4.7,
+        "avg_red": 0.09,
+        "strictness_index": 0.252
+    },
+    "C Pawson": {
+        "games": 22,
+        "yellow": 94,
+        "red": 3,
+        "fouls": 497,
+        "avg_yellow": 4.27,
+        "avg_red": 0.14,
+        "strictness_index": 0.207
+    },
+    "M Oliver": {
+        "games": 25,
+        "yellow": 108,
+        "red": 5,
+        "fouls": 579,
+        "avg_yellow": 4.32,
+        "avg_red": 0.2,
+        "strictness_index": 0.212
+    },
+    "T Harrington": {
+        "games": 18,
+        "yellow": 72,
+        "red": 3,
+        "fouls": 407,
+        "avg_yellow": 4.0,
+        "avg_red": 0.17,
+        "strictness_index": 0.199
+    },
+    "S Barrott": {
+        "games": 23,
+        "yellow": 106,
+        "red": 1,
+        "fouls": 486,
+        "avg_yellow": 4.61,
+        "avg_red": 0.04,
+        "strictness_index": 0.224
+    },
+    "A Taylor": {
+        "games": 30,
+        "yellow": 88,
+        "red": 6,
+        "fouls": 641,
+        "avg_yellow": 2.93,
+        "avg_red": 0.2,
+        "strictness_index": 0.165
+    },
+    "C Kavanagh": {
+        "games": 24,
+        "yellow": 96,
+        "red": 5,
+        "fouls": 505,
+        "avg_yellow": 4.0,
+        "avg_red": 0.21,
+        "strictness_index": 0.22
+    },
+    "D Bond": {
+        "games": 14,
+        "yellow": 55,
+        "red": 1,
+        "fouls": 312,
+        "avg_yellow": 3.93,
+        "avg_red": 0.07,
+        "strictness_index": 0.186
+    },
+    "M Salisbury": {
+        "games": 15,
+        "yellow": 43,
+        "red": 3,
+        "fouls": 328,
+        "avg_yellow": 2.87,
+        "avg_red": 0.2,
+        "strictness_index": 0.159
+    },
+    "D Coote": {
+        "games": 6,
+        "yellow": 30,
+        "red": 0,
+        "fouls": 143,
+        "avg_yellow": 5.0,
+        "avg_red": 0.0,
+        "strictness_index": 0.21
+    },
+    "D England": {
+        "games": 19,
+        "yellow": 79,
+        "red": 4,
+        "fouls": 436,
+        "avg_yellow": 4.16,
+        "avg_red": 0.21,
+        "strictness_index": 0.209
+    },
+    "S Attwell": {
+        "games": 19,
+        "yellow": 72,
+        "red": 3,
+        "fouls": 389,
+        "avg_yellow": 3.79,
+        "avg_red": 0.16,
+        "strictness_index": 0.208
+    },
+    "J Smith": {
+        "games": 3,
+        "yellow": 13,
+        "red": 0,
+        "fouls": 59,
+        "avg_yellow": 4.33,
+        "avg_red": 0.0,
+        "strictness_index": 0.22
+    },
+    "L Smith": {
+        "games": 7,
+        "yellow": 26,
+        "red": 1,
+        "fouls": 177,
+        "avg_yellow": 3.71,
+        "avg_red": 0.14,
+        "strictness_index": 0.164
+    },
+    "P Bankes": {
+        "games": 23,
+        "yellow": 85,
+        "red": 3,
+        "fouls": 462,
+        "avg_yellow": 3.7,
+        "avg_red": 0.13,
+        "strictness_index": 0.203
+    },
+    "S Allison": {
+        "games": 1,
+        "yellow": 8,
+        "red": 0,
+        "fouls": 32,
+        "avg_yellow": 8.0,
+        "avg_red": 0.0,
+        "strictness_index": 0.25
+    },
+    "J Brooks": {
+        "games": 17,
+        "yellow": 86,
+        "red": 1,
+        "fouls": 379,
+        "avg_yellow": 5.06,
+        "avg_red": 0.06,
+        "strictness_index": 0.235
+    },
+    "A Madley": {
+        "games": 20,
+        "yellow": 86,
+        "red": 1,
+        "fouls": 464,
+        "avg_yellow": 4.3,
+        "avg_red": 0.05,
+        "strictness_index": 0.192
+    },
+    "T Bramall": {
+        "games": 11,
+        "yellow": 36,
+        "red": 4,
+        "fouls": 225,
+        "avg_yellow": 3.27,
+        "avg_red": 0.36,
+        "strictness_index": 0.213
+    },
+    "K Kavanagh": {
+        "games": 1,
+        "yellow": 3,
+        "red": 0,
+        "fouls": 27,
+        "avg_yellow": 3.0,
+        "avg_red": 0.0,
+        "strictness_index": 0.111
+    },
+    "O Oliver": {
+        "games": 1,
+        "yellow": 5,
+        "red": 0,
+        "fouls": 21,
+        "avg_yellow": 5.0,
+        "avg_red": 0.0,
+        "strictness_index": 0.238
+    },
+    "A Kitchen": {
+        "games": 2,
+        "yellow": 4,
+        "red": 0,
+        "fouls": 54,
+        "avg_yellow": 2.0,
+        "avg_red": 0.0,
+        "strictness_index": 0.074
+    },
+    "D Webb": {
+        "games": 2,
+        "yellow": 7,
+        "red": 0,
+        "fouls": 47,
+        "avg_yellow": 3.5,
+        "avg_red": 0.0,
+        "strictness_index": 0.149
+    }
+}

@@ -1,8 +1,0 @@
-🚀 Loading Treasure from processed/rdata_treasury.csv...
-✅ Loaded 38238 games.
-📋 Key Columns Identified: ['Date', 'Team', 'odds', 'Points', 'Opponent', 'OpponentPoints', 'Attend.', 'LOG', 'temporada', 'hour'] ...
-💰 Odds Column Found: odds
-
-💤 Fatigue Analysis (0 Days Rest):
-   - Games with <=1 Day Rest: 7703
-{'Date': '2009-02-17', 'Team': 'Los Angeles Lakers', 'odds': 1.21, 'Points': 96, 'Opponent': 'Atlanta Hawks', 'OpponentPoints': 83, 'Attend.': 18997.0, 'LOG': 129.0, 'temporada': 2009.0, 'hour': 1.0, 'weekday': 'ma.', 'month': 'feb.', 'local': 1.0, 'Team_Zone': 'Oeste_Pacífico', 'Opponent_Zone': 'Este_Sureste', 'V': 1.0, 'V_o': 0.0, 'days_since_last': 6.0, 'days_since_last_o': 6.0, 'games_played': 53, 'avg_V_1': 0.0, 'avg_V_4': 0.75, 'avg_V_8': 0.875, 'avg_V_12': 0.8333333333333334, 'avg_V_16': 0.75, 'avg_V_32': 0.78125, 'avg_P_o_1': 113.0, 'avg_P_o_4': 102.75, 'avg_P_o_8': 106.5, 'avg_P_o_12': 104.0, 'avg_P_o_16': 103.5625, 'avg_P_o_32': 102.375, 'avg_P_1': 109.0, 'avg_P_4': 106.25, 'avg_P_8': 114.125, 'avg_P_12': 112.25, 'avg_P_16': 110.6875, 'avg_P_32': 109.0625, 'avg_V_o_1': 1.0, 'avg_V_o_4': 0.75, 'avg_V_o_8': 0.625, 'avg_V_o_12': 0.5833333333333334, 'avg_V_o_16': 0.5625, 'avg_V_o_32': 0.59375, 'n_victorias': 42, 'n_derrotas': 10, 'n_victorias_o': 31, 'n_derrotas_o': 21, 'year': 2009.0, 'game_id': '2009-02-17_Atlanta Hawks_Los Angeles Lakers', 'odds.opponent': 4.44, 'avg_diff_P_1': nan, 'avg_diff_P_4': nan, 'avg_diff_P_8': nan, 'avg_diff_P_12': nan, 'avg_diff_P_16': nan, 'avg_diff_P_32': nan, 'avg_diff_P_o_1': nan, 'avg_diff_P_o_4': nan, 'avg_diff_P_o_8': nan, 'avg_diff_P_o_12': nan, 'avg_diff_P_o_16': nan, 'avg_diff_P_o_32': nan, 'diff_victorias': 11, 'score_last_10_between': nan, 'score': 0.0, 'score_last_5_between': nan}

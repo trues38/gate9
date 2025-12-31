@@ -1,0 +1,27 @@
+version: '3.8'
+
+# NBA + Economy 통합 시스템
+# 개별 실행: cd domains/nba && docker-compose up -d
+
+services:
+  # NBA 시스템은 domains/nba/docker-compose.yml 참조
+  # Economy 시스템은 domains/economy/docker-compose.yml 참조
+
+  # 통합 실행하려면:
+  # docker-compose -f domains/nba/docker-compose.yml -f domains/economy/docker-compose.yml up -d
+
+  # 모니터링
+  monitoring:
+    image: nginx:alpine
+    container_name: g9-monitoring
+    ports:
+      - "8080:80"
+    volumes:
+      - ./deploy/monitoring:/usr/share/nginx/html
+    restart: unless-stopped
+
+networks:
+  g9_network:
+    driver: bridge
+
+# 상세 설정은 deploy/docker/ 참조

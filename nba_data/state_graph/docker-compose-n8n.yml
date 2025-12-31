@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n-nba
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      # Basic Auth (웹 UI 접근)
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=${N8N_USER:-admin}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_PASSWORD:-n8n_nba_2025}
+
+      # Webhook URL
+      - WEBHOOK_URL=http://localhost:5678/
+
+      # Timezone
+      - GENERIC_TIMEZONE=Asia/Seoul
+      - TZ=Asia/Seoul
+
+      # Execution settings
+      - EXECUTIONS_DATA_SAVE_ON_ERROR=all
+      - EXECUTIONS_DATA_SAVE_ON_SUCCESS=all
+      - EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=true
+
+      # Neo4j connection (컨테이너 이름으로 접근)
+      - NEO4J_URI=bolt://neo4j-nba:7687
+      - NEO4J_USERNAME=${NEO4J_USERNAME:-neo4j}
+      - NEO4J_PASSWORD=${NEO4J_PASSWORD:-your-password}
+
+      # API Keys (환경변수로 주입)
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID}
+
+      # Twitter API (선택)
+      - TWITTER_CLIENT_ID=${TWITTER_CLIENT_ID}
+      - TWITTER_CLIENT_SECRET=${TWITTER_CLIENT_SECRET}
+
+    volumes:
+      # n8n 데이터 영구 저장
+      - n8n_data:/home/node/.n8n
+
+      # 워크플로우 백업 (선택)
+      - ./n8n_workflows:/home/node/.n8n/workflows
+
+    networks:
+      - nba-network
+
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:5678/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  nba-network:
+    name: nba-network
+    driver: bridge
+
+volumes:
+  n8n_data:
+    name: n8n_nba_data

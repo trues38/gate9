@@ -1,0 +1,276 @@
+{
+  "name": "Economy Collector (5x Daily + Weekend)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "30 8,9 * * 1-5"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: Weekday Morning (08:30, 09:30)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 300],
+      "id": "morning-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 11 * * 1-5"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: Weekday Mid (11:00)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 450],
+      "id": "mid-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "15 14 * * 1-5"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: FOMC Time (14:15)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 600],
+      "id": "fomc-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "50 15 * * 1-5"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: Market Close (15:50)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 750],
+      "id": "close-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 12 * * 6"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: Weekend Saturday (12:00)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 900],
+      "id": "sat-trigger"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 18 * * 0"
+            }
+          ]
+        }
+      },
+      "name": "Schedule: Weekend Sunday (18:00)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 1050],
+      "id": "sun-trigger"
+    },
+    {
+      "parameters": {
+        "url": "http://nba-collector:8001/collect/economy",
+        "method": "POST",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Call Economy Collector API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [600, 600],
+      "id": "api-call"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{$json.status}}",
+              "operation": "equals",
+              "value2": "success"
+            }
+          ]
+        }
+      },
+      "name": "Check Success",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [850, 600],
+      "id": "check-success"
+    },
+    {
+      "parameters": {
+        "url": "http://nba-collector:8001/process/llm",
+        "method": "POST",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "domain",
+              "value": "economy"
+            },
+            {
+              "name": "batch_size",
+              "value": "50"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Process with LLM",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1100, 500],
+      "id": "llm-process"
+    }
+  ],
+  "connections": {
+    "Schedule: Weekday Morning (08:30, 09:30)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule: Weekday Mid (11:00)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule: FOMC Time (14:15)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule: Market Close (15:50)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule: Weekend Saturday (12:00)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule: Weekend Sunday (18:00)": {
+      "main": [
+        [
+          {
+            "node": "Call Economy Collector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call Economy Collector API": {
+      "main": [
+        [
+          {
+            "node": "Check Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Success": {
+      "main": [
+        [
+          {
+            "node": "Process with LLM",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "1",
+  "tags": []
+}

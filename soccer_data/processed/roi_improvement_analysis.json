@@ -1,0 +1,211 @@
+{
+  "overall": {
+    "baseline_roi": 0.006333938294010882,
+    "enhanced_roi": 0.010290381125226853,
+    "improvement": 0.00395644283121597,
+    "baseline_accuracy": 0.48892921960072594,
+    "enhanced_accuracy": 0.4900181488203267,
+    "sample_size": 2755,
+    "adjustments_applied": 641
+  },
+  "by_league": {
+    "La_liga": {
+      "baseline_roi": 0.03798058252427183,
+      "enhanced_roi": 0.03798058252427183,
+      "improvement": 0.0,
+      "bets": 515
+    },
+    "Ligue_1": {
+      "baseline_roi": 0.07636007827788649,
+      "enhanced_roi": 0.08917808219178083,
+      "improvement": 0.012818003913894344,
+      "bets": 511
+    },
+    "EPL": {
+      "baseline_roi": -0.055162287480680056,
+      "enhanced_roi": -0.04089644513137558,
+      "improvement": 0.014265842349304475,
+      "bets": 647
+    },
+    "Bundesliga": {
+      "baseline_roi": 0.024671717171717157,
+      "enhanced_roi": 0.006742424242424238,
+      "improvement": -0.01792929292929292,
+      "bets": 396
+    },
+    "Serie_A": {
+      "baseline_roi": -0.022172011661807593,
+      "enhanced_roi": -0.018935860058309044,
+      "improvement": 0.0032361516034985494,
+      "bets": 686
+    }
+  },
+  "top_adjusted_teams": [
+    {
+      "match": "Bayer Leverkusen vs VfB Stuttgart",
+      "league": "Bundesliga",
+      "adjustment": 0.052715921764706,
+      "profit": -1.0,
+      "actual": "d"
+    },
+    {
+      "match": "Bayer Leverkusen vs Augsburg",
+      "league": "Bundesliga",
+      "adjustment": 0.052715921764706,
+      "profit": 0.3600000000000001,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Werder Bremen",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.26,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": -1.0,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Mainz 05",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.3700000000000001,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Augsburg",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.3600000000000001,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Bochum",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.2299999999999999,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.4499999999999999,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs St. Pauli",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": 0.24,
+      "actual": "h"
+    },
+    {
+      "match": "Bayer Leverkusen vs Mainz 05",
+      "league": "Bundesliga",
+      "adjustment": 0.0527159217647059,
+      "profit": -1.0,
+      "actual": "h"
+    }
+  ],
+  "graph_insights": {
+    "efficient_teams": [
+      {
+        "team": "Bayer Leverkusen",
+        "xg_diff": 0.2635796088235296,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Wolverhampton Wanderers",
+        "xg_diff": 0.22709076315789534,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Holstein Kiel",
+        "xg_diff": 0.1597600294117647,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Fiorentina",
+        "xg_diff": 0.15499873684210508,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Auxerre",
+        "xg_diff": 0.15354076470588263,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Marseille",
+        "xg_diff": 0.1516450294117644,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Nottingham Forest",
+        "xg_diff": 0.13817755263157872,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Bayern Munich",
+        "xg_diff": 0.11714371764705911,
+        "regime": "Efficient"
+      }
+    ],
+    "wasteful_teams": [
+      {
+        "team": "Borussia M.Gladbach",
+        "xg_diff": 0.0453827058823526,
+        "regime": "Expected"
+      },
+      {
+        "team": "Napoli",
+        "xg_diff": 0.05141386842105189,
+        "regime": "Expected"
+      },
+      {
+        "team": "Inter",
+        "xg_diff": 0.05939331578947282,
+        "regime": "Expected"
+      },
+      {
+        "team": "Strasbourg",
+        "xg_diff": 0.06428708823529439,
+        "regime": "Expected"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "xg_diff": 0.06648682352941249,
+        "regime": "Expected"
+      },
+      {
+        "team": "Barcelona",
+        "xg_diff": 0.06671018421052777,
+        "regime": "Expected"
+      },
+      {
+        "team": "Wolfsburg",
+        "xg_diff": 0.0769601470588237,
+        "regime": "Expected"
+      },
+      {
+        "team": "Bayern Munich",
+        "xg_diff": 0.11714371764705911,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Nottingham Forest",
+        "xg_diff": 0.13817755263157872,
+        "regime": "Efficient"
+      },
+      {
+        "team": "Marseille",
+        "xg_diff": 0.1516450294117644,
+        "regime": "Efficient"
+      }
+    ]
+  }
+}

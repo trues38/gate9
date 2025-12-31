@@ -1,0 +1,183 @@
+{
+  "name": "Soccer Injury Auto Collection",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 21 * * *"
+            }
+          ]
+        }
+      },
+      "name": "Daily at 9 PM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        240,
+        300
+      ],
+      "id": "daily-trigger"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://soccer-injury-api:8002/collect/injuries",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "save",
+              "value": true
+            }
+          ]
+        },
+        "options": {
+          "timeout": 60000
+        }
+      },
+      "name": "Collect All Leagues",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        460,
+        300
+      ],
+      "id": "collect-injuries"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.status }}",
+              "value2": "success"
+            }
+          ]
+        }
+      },
+      "name": "Check Success",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        680,
+        300
+      ],
+      "id": "check-success"
+    },
+    {
+      "parameters": {
+        "functionCode": "const data = $input.first().json;\nconst summary = data.data.summary;\n\nconst message = `\n🏥 부상 데이터 수집 완료\n\n📊 전체: ${summary.total}명\n\n📍 리그별:\n${Object.entries(summary.by_league).map(([league, count]) => `  ${league}: ${count}명`).join('\\n')}\n\n🚨 상태:\n  OUT: ${summary.by_status.OUT}명\n  DOUBTFUL: ${summary.by_status.DOUBTFUL}명\n\n🔥 Critical: ${summary.by_impact.CRITICAL}명\n\n주요 선수:\n${summary.critical_players.slice(0, 5).map(p => `  ${p.player} (${p.team})`).join('\\n')}\n`;\n\nreturn {\n  json: {\n    message: message,\n    timestamp: new Date().toISOString()\n  }\n};"
+      },
+      "name": "Format Summary",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        900,
+        200
+      ],
+      "id": "format-summary"
+    },
+    {
+      "parameters": {
+        "functionCode": "const errorData = $input.first().json;\n\nconst message = `\n❌ 부상 데이터 수집 실패\n\nError: ${errorData.message || 'Unknown error'}\nTimestamp: ${new Date().toISOString()}\n`;\n\nreturn {\n  json: {\n    message: message,\n    error: true\n  }\n};"
+      },
+      "name": "Format Error",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        900,
+        400
+      ],
+      "id": "format-error"
+    },
+    {
+      "parameters": {
+        "content": "={{ $json.message }}",
+        "options": {}
+      },
+      "name": "Log Result",
+      "type": "n8n-nodes-base.logger",
+      "typeVersion": 1,
+      "position": [
+        1120,
+        300
+      ],
+      "id": "log-result"
+    }
+  ],
+  "connections": {
+    "Daily at 9 PM": {
+      "main": [
+        [
+          {
+            "node": "Collect All Leagues",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Collect All Leagues": {
+      "main": [
+        [
+          {
+            "node": "Check Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Success": {
+      "main": [
+        [
+          {
+            "node": "Format Summary",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Format Error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Summary": {
+      "main": [
+        [
+          {
+            "node": "Log Result",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Error": {
+      "main": [
+        [
+          {
+            "node": "Log Result",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 1,
+  "updatedAt": "2025-12-29T00:00:00.000Z",
+  "versionId": "1"
+}

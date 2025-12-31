@@ -1,0 +1,459 @@
+# ============================================
+# NBA Configuration
+# G9 Sports Intelligence Platform
+# ============================================
+
+sport:
+  name: "National Basketball Association"
+  code: "NBA"
+  country: "USA"
+  enabled: true
+
+# ============================================
+# Layer 0: Domain Expert Data (Kaggle + GitHub)
+# ============================================
+layer0_experts:
+  kaggle:
+    datasets:
+      # 핵심 데이터셋
+      - name: "nba-games"
+        owner: "nathanlauga"
+        description: "NBA 경기 결과 (2003-현재)"
+        update_frequency: "daily"
+        priority: 1
+
+      - name: "nba-players-data"
+        owner: "justinas"
+        description: "선수 통계 (시즌별)"
+        update_frequency: "weekly"
+        priority: 1
+
+      - name: "basketball"
+        owner: "wyattowalsh"
+        description: "종합 NBA 데이터 (가장 큼)"
+        update_frequency: "weekly"
+        priority: 2
+
+      - name: "nba-referee-stats"
+        owner: "szymonlipinski"
+        description: "심판 통계 (중요!)"
+        update_frequency: "monthly"
+        priority: 1
+
+      - name: "nba-player-of-the-week"
+        owner: "jacobbaruch"
+        description: "주간 MVP 히스토리"
+        update_frequency: "weekly"
+        priority: 3
+
+  github:
+    repos:
+      - owner: "swar"
+        name: "nba_api"
+        description: "NBA 공식 API 래퍼"
+        branch: "master"
+        files_of_interest:
+          - "nba_api/stats/endpoints/*.py"
+
+      - owner: "rd11490"
+        name: "nba_pbp"
+        description: "Play-by-Play 분석"
+        branch: "main"
+
+      - owner: "basketballreference"
+        name: "basketball-reference-scraper"
+        description: "Basketball Reference 스크래퍼"
+        branch: "main"
+
+# ============================================
+# Layer 1: Real-time (X Search)
+# ============================================
+layer1_realtime:
+  x_accounts:
+    # Tier 1: 최우선 (확실한 소스, 가장 빠름)
+    tier1:
+      - handle: "ShamsCharania"
+        name: "Shams Charania"
+        outlet: "The Athletic"
+        reliability: 0.99
+
+      - handle: "wojespn"
+        name: "Adrian Wojnarowski"
+        outlet: "ESPN"
+        reliability: 0.99
+
+    # Tier 2: 우선 (신뢰도 높음)
+    tier2:
+      - handle: "ChrisBHaynes"
+        name: "Chris Haynes"
+        outlet: "TNT/Bleacher Report"
+        reliability: 0.95
+
+      - handle: "TheSteinLine"
+        name: "Marc Stein"
+        outlet: "Independent"
+        reliability: 0.95
+
+      - handle: "KevinOConnorNBA"
+        name: "Kevin O'Connor"
+        outlet: "The Ringer"
+        reliability: 0.90
+
+    # Tier 3: 참고 (검증 필요)
+    tier3:
+      - handle: "WindhorstESPN"
+        name: "Brian Windhorst"
+        outlet: "ESPN"
+        reliability: 0.85
+
+      - handle: "BobbyMarks42"
+        name: "Bobby Marks"
+        outlet: "ESPN"
+        reliability: 0.85
+
+    # 공식 계정
+    official:
+      - handle: "OfficialNBARefs"
+        name: "NBA Referees"
+        type: "referee_assignments"
+
+      - handle: "NBA"
+        name: "NBA Official"
+        type: "official_announcements"
+
+  # X Search 쿼리 템플릿
+  queries:
+    injury: |
+      (injury OR out OR doubtful OR questionable OR "day-to-day" OR ruled OR DTD)
+      (from:{account})
+      -is:retweet
+      lang:en
+
+    lineup: |
+      (lineup OR starting OR rotation OR "will start" OR benched OR DNP)
+      (from:{account})
+      -is:retweet
+      lang:en
+
+    trade: |
+      (trade OR traded OR sign OR signed OR waive OR waived OR release OR "free agent")
+      (from:{account})
+      -is:retweet
+      lang:en
+
+    breaking: |
+      (BREAKING OR "Sources:" OR "per sources" OR "I'm told")
+      (from:{account})
+      -is:retweet
+      lang:en
+
+  # 이벤트 파싱 패턴
+  parsing_patterns:
+    injury: '(\w+(?:\s\w+)?)[\'']?s?\s+\(([^)]+)\)\s+(OUT|DOUBTFUL|QUESTIONABLE|DAY-TO-DAY|PROBABLE)'
+    lineup_change: '(\w+(?:\s\w+)?)\s+(will start|won\'t start|starting|benched|DNP)'
+    trade: '(\w+(?:\s\w+)?)\s+(?:traded to|signs with|waived by)\s+(\w+)'
+
+  # 알림 설정
+  alerts:
+    webhook_url_env: "NBA_ALERT_WEBHOOK_URL"
+    telegram_chat_id_env: "TELEGRAM_CHAT_ID_NBA"
+    pusher_channel: "nba-alerts"
+
+# ============================================
+# Layer 2: Qualitative (Reddit)
+# ============================================
+layer2_qualitative:
+  subreddits:
+    # 메인 서브레딧
+    main:
+      name: "nba"
+      post_game_pattern: '\[Post Game Thread\]|Post Game Thread'
+      min_upvotes: 500
+      comment_sort: "top"
+
+    # 베팅 관련
+    betting:
+      name: "sportsbook"
+      search_prefix: "NBA"
+      min_upvotes: 100
+
+    # 판타지
+    fantasy:
+      name: "fantasybball"
+      min_upvotes: 50
+
+    # 팀별 서브레딧 (30개 팀)
+    team_specific:
+      # Western Conference
+      - name: "lakers"
+        team_code: "LAL"
+      - name: "warriors"
+        team_code: "GSW"
+      - name: "Suns"
+        team_code: "PHX"
+      - name: "LAClippers"
+        team_code: "LAC"
+      - name: "kings"
+        team_code: "SAC"
+      - name: "timberwolves"
+        team_code: "MIN"
+      - name: "Thunder"
+        team_code: "OKC"
+      - name: "denvernuggets"
+        team_code: "DEN"
+      - name: "ripcity"
+        team_code: "POR"
+      - name: "UtahJazz"
+        team_code: "UTA"
+      - name: "Mavericks"
+        team_code: "DAL"
+      - name: "rockets"
+        team_code: "HOU"
+      - name: "memphisgrizzlies"
+        team_code: "MEM"
+      - name: "NBASpurs"
+        team_code: "SAS"
+      - name: "NOLAPelicans"
+        team_code: "NOP"
+
+      # Eastern Conference
+      - name: "bostonceltics"
+        team_code: "BOS"
+      - name: "heat"
+        team_code: "MIA"
+      - name: "sixers"
+        team_code: "PHI"
+      - name: "NYKnicks"
+        team_code: "NYK"
+      - name: "GoNets"
+        team_code: "BKN"
+      - name: "torontoraptors"
+        team_code: "TOR"
+      - name: "clevelandcavs"
+        team_code: "CLE"
+      - name: "chicagobulls"
+        team_code: "CHI"
+      - name: "MkeBucks"
+        team_code: "MIL"
+      - name: "pacers"
+        team_code: "IND"
+      - name: "DetroitPistons"
+        team_code: "DET"
+      - name: "AtlantaHawks"
+        team_code: "ATL"
+      - name: "washingtonwizards"
+        team_code: "WAS"
+      - name: "OrlandoMagic"
+        team_code: "ORL"
+      - name: "CharlotteHornets"
+        team_code: "CHA"
+
+  # 분석 카테고리
+  analysis_categories:
+    - player_evaluation
+    - coaching_analysis
+    - team_chemistry
+    - injury_insight
+    - betting_sentiment
+
+  # LLM 설정
+  llm:
+    model: "qwen/qwen2.5-vl-72b-instruct"
+    temperature: 0.3
+    max_tokens: 2000
+
+# ============================================
+# Layer 3: Memory (Neo4j Graph)
+# ============================================
+layer3_memory:
+  database: "neo4j"  # 기본 DB 사용 (또는 별도 DB)
+  label_prefix: "NBA_"  # 노드 라벨 접두사
+
+  # NBA 전용 노드 확장
+  custom_nodes:
+    - "NBAPlayer"
+    - "NBATeam"
+    - "NBACoach"
+    - "NBAGame"
+    - "NBAReferee"
+    - "NBAInjuryAlert"
+    - "NBAPlayerEvaluation"
+    - "NBACoachAnalysis"
+    - "NBARedditThread"
+
+  # NBA 전용 관계
+  custom_relationships:
+    - "PLAYS_FOR"
+    - "COACHES"
+    - "REFEREES"
+    - "HOME_TEAM"
+    - "AWAY_TEAM"
+    - "HAS_INJURY_ALERT"
+    - "HAS_EVALUATION"
+    - "HAS_REDDIT_THREAD"
+
+# ============================================
+# Team Metadata
+# ============================================
+teams:
+  # Western Conference - Pacific
+  LAL:
+    name: "Los Angeles Lakers"
+    city: "Los Angeles"
+    conference: "Western"
+    division: "Pacific"
+  GSW:
+    name: "Golden State Warriors"
+    city: "San Francisco"
+    conference: "Western"
+    division: "Pacific"
+  LAC:
+    name: "Los Angeles Clippers"
+    city: "Los Angeles"
+    conference: "Western"
+    division: "Pacific"
+  PHX:
+    name: "Phoenix Suns"
+    city: "Phoenix"
+    conference: "Western"
+    division: "Pacific"
+  SAC:
+    name: "Sacramento Kings"
+    city: "Sacramento"
+    conference: "Western"
+    division: "Pacific"
+
+  # Western Conference - Northwest
+  DEN:
+    name: "Denver Nuggets"
+    city: "Denver"
+    conference: "Western"
+    division: "Northwest"
+  MIN:
+    name: "Minnesota Timberwolves"
+    city: "Minneapolis"
+    conference: "Western"
+    division: "Northwest"
+  OKC:
+    name: "Oklahoma City Thunder"
+    city: "Oklahoma City"
+    conference: "Western"
+    division: "Northwest"
+  POR:
+    name: "Portland Trail Blazers"
+    city: "Portland"
+    conference: "Western"
+    division: "Northwest"
+  UTA:
+    name: "Utah Jazz"
+    city: "Salt Lake City"
+    conference: "Western"
+    division: "Northwest"
+
+  # Western Conference - Southwest
+  DAL:
+    name: "Dallas Mavericks"
+    city: "Dallas"
+    conference: "Western"
+    division: "Southwest"
+  HOU:
+    name: "Houston Rockets"
+    city: "Houston"
+    conference: "Western"
+    division: "Southwest"
+  MEM:
+    name: "Memphis Grizzlies"
+    city: "Memphis"
+    conference: "Western"
+    division: "Southwest"
+  NOP:
+    name: "New Orleans Pelicans"
+    city: "New Orleans"
+    conference: "Western"
+    division: "Southwest"
+  SAS:
+    name: "San Antonio Spurs"
+    city: "San Antonio"
+    conference: "Western"
+    division: "Southwest"
+
+  # Eastern Conference - Atlantic
+  BOS:
+    name: "Boston Celtics"
+    city: "Boston"
+    conference: "Eastern"
+    division: "Atlantic"
+  BKN:
+    name: "Brooklyn Nets"
+    city: "Brooklyn"
+    conference: "Eastern"
+    division: "Atlantic"
+  NYK:
+    name: "New York Knicks"
+    city: "New York"
+    conference: "Eastern"
+    division: "Atlantic"
+  PHI:
+    name: "Philadelphia 76ers"
+    city: "Philadelphia"
+    conference: "Eastern"
+    division: "Atlantic"
+  TOR:
+    name: "Toronto Raptors"
+    city: "Toronto"
+    conference: "Eastern"
+    division: "Atlantic"
+
+  # Eastern Conference - Central
+  CHI:
+    name: "Chicago Bulls"
+    city: "Chicago"
+    conference: "Eastern"
+    division: "Central"
+  CLE:
+    name: "Cleveland Cavaliers"
+    city: "Cleveland"
+    conference: "Eastern"
+    division: "Central"
+  DET:
+    name: "Detroit Pistons"
+    city: "Detroit"
+    conference: "Eastern"
+    division: "Central"
+  IND:
+    name: "Indiana Pacers"
+    city: "Indianapolis"
+    conference: "Eastern"
+    division: "Central"
+  MIL:
+    name: "Milwaukee Bucks"
+    city: "Milwaukee"
+    conference: "Eastern"
+    division: "Central"
+
+  # Eastern Conference - Southeast
+  ATL:
+    name: "Atlanta Hawks"
+    city: "Atlanta"
+    conference: "Eastern"
+    division: "Southeast"
+  CHA:
+    name: "Charlotte Hornets"
+    city: "Charlotte"
+    conference: "Eastern"
+    division: "Southeast"
+  MIA:
+    name: "Miami Heat"
+    city: "Miami"
+    conference: "Eastern"
+    division: "Southeast"
+  ORL:
+    name: "Orlando Magic"
+    city: "Orlando"
+    conference: "Eastern"
+    division: "Southeast"
+  WAS:
+    name: "Washington Wizards"
+    city: "Washington"
+    conference: "Eastern"
+    division: "Southeast"

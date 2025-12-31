@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  # ============================================
+  # n8n - Unified Pipeline (신규)
+  # ============================================
+  n8n-unified:
+    image: n8nio/n8n:latest
+    container_name: n8n-g9-unified
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      # n8n Basic Settings
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=${N8N_USER}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_PASSWORD}
+
+      # Timezone
+      - GENERIC_TIMEZONE=Asia/Seoul
+      - TZ=Asia/Seoul
+
+      # Execution Settings
+      - EXECUTIONS_DATA_SAVE_ON_ERROR=all
+      - EXECUTIONS_DATA_SAVE_ON_SUCCESS=all
+      - EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=true
+
+      # Webhook
+      - WEBHOOK_URL=http://localhost:5678/
+
+      # ========== AI APIs (공용) ==========
+      - XAI_API_KEY=${XAI_API_KEY}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+
+      # ========== Neo4j Connections ==========
+      # NBA (호스트 머신의 Neo4j 컨테이너 접근)
+      - NEO4J_NBA_HOST=host.docker.internal
+      - NEO4J_NBA_PORT=7687
+      - NEO4J_NBA_USERNAME=${NEO4J_NBA_USERNAME}
+      - NEO4J_NBA_PASSWORD=${NEO4J_NBA_PASSWORD}
+
+      # Economy (호스트 머신의 Neo4j 컨테이너 접근)
+      - NEO4J_ECONOMY_HOST=host.docker.internal
+      - NEO4J_ECONOMY_PORT=7688
+      - NEO4J_ECONOMY_USERNAME=${NEO4J_ECONOMY_USERNAME}
+      - NEO4J_ECONOMY_PASSWORD=${NEO4J_ECONOMY_PASSWORD}
+
+      # ========== Telegram ==========
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - TELEGRAM_CHAT_ID_NBA=${TELEGRAM_CHAT_ID_NBA}
+      - TELEGRAM_CHAT_ID_ECONOMY=${TELEGRAM_CHAT_ID_ECONOMY}
+
+      # ========== Domain Flags ==========
+      - DOMAIN_NBA_USE_X_SEARCH=${DOMAIN_NBA_USE_X_SEARCH}
+      - DOMAIN_ECONOMY_USE_X_SEARCH=${DOMAIN_ECONOMY_USE_X_SEARCH}
+
+    volumes:
+      # n8n 데이터 영구 저장
+      - ~/.n8n:/home/node/.n8n
+
+    extra_hosts:
+      # Docker 컨테이너에서 호스트의 Neo4j 접근
+      - "host.docker.internal:host-gateway"
+
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:5678/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

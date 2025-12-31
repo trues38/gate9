@@ -1,0 +1,98 @@
+{
+  "individual_analyses": {
+    "Gemini_Flash": {
+      "analyst": "Gemini 2.5 Flash Lite",
+      "role": "뉴스 분석가 (News Analyst)",
+      "success": true,
+      "model_used": "google/gemini-2.5-flash-lite",
+      "is_backup": false,
+      "output": {
+        "recommendation": "PASS",
+        "confidence": "LOW",
+        "analysis": "현재 제공된 정보만으로는 확신을 가지고 베팅을 추천하기 어렵습니다. 부상자 명단, 최근 팀 뉴스, 휴식 일수 등 경기 당일 변수에 대한 정보가 부족하여 잠재적인 위험을 평가하기 어렵습니다. 따라서 추가 정보 확인 후 베팅 여부를 결정하는 것이 합리적입니다.",
+        "self_critique": "경기 당일 변수(부상자, 팀 뉴스, 휴식일)에 대한 정보가 전혀 없어 분석의 신뢰도가 낮습니다."
+      }
+    },
+    "Qwen_72B": {
+      "analyst": "Qwen 72B",
+      "role": "레짐 패턴 분석가 (Regime Analyst)",
+      "success": true,
+      "model_used": "qwen/qwen-2.5-72b-instruct",
+      "is_backup": false,
+      "output": {
+        "recommendation": "PASS",
+        "confidence": "LOW",
+        "analysis": "",
+        "self_critique": "JSON 형식 파싱 실패"
+      }
+    },
+    "GPT4o_mini": {
+      "analyst": "GPT-4o-mini",
+      "role": "종합 정리 (Synthesizer)",
+      "success": true,
+      "model_used": "openai/gpt-4o-mini",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "Golden State Warriors는 최근의 성적과 강력한 팀 구성으로 인해 -4.5의 스프레드에서 이길 가능성이 높습니다. 반면, Toronto Raptors는 홈에서의 경기력을 고려할 때 경쟁력이 있지만, 전반적인 성적이 저조한 상태입니다. Moneyline에서 Warriors의 배당률이 낮아 신뢰성이 높으며, Raptors의 +4.5 스프레드는 리스크가 큽니다. 따라서 Warriors에 베팅하는 것이 유리할 것으로 보입니다.",
+        "self_critique": "팀의 부상 상태나 최근 경기력 변화를 반영하지 못할 수 있습니다."
+      }
+    },
+    "DeepSeek_V3": {
+      "analyst": "DeepSeek V3.2",
+      "role": "정량 분석가 (Quantitative Analyst)",
+      "success": true,
+      "model_used": "deepseek/deepseek-chat",
+      "is_backup": false,
+      "output": {
+        "recommendation": "PASS",
+        "confidence": "MEDIUM",
+        "analysis": "Golden State Warriors의 Moneyline 배당률(-170)은 승리 확률 약 63%를 나타내며, Toronto Raptors(+155)는 약 39%입니다. 스프레드는 Warriors가 -4.5로 약간 우세하지만, Raptors의 +4.5는 커버 가능성이 있습니다. 현재 배당률과 스프레드를 고려할 때, 양 팀 간의 경쟁력 차이가 크지 않아 명확한 베팅 기회가 없습니다. 추가 데이터나 팀 상태 업데이트를 기다리는 것이 더 안전합니다.",
+        "self_critique": "분석은 현재 데이터에만 의존하며, 팀의 최근 폼이나 부상 상황 등 실시간 요소를 고려하지 못한 한계가 있습니다."
+      }
+    },
+    "Grok_Fast": {
+      "analyst": "Grok 4.1 Fast",
+      "role": "리스크 분석가 (Risk Manager)",
+      "success": true,
+      "model_used": "x-ai/grok-4.1-fast",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "**Fade the public**: 76% bets on Warriors (Action Network). Value on Raptors +4.5.\n\n**Key edges**:\n- TOR #3-5 def (112 pts allowed) vs GSW #22 off (114 pts).\n- Predicted TOR win (116-115 OddsShark).\n- GSW injuries: Melton OUT, Seth Curry DTD.\n\n**Risks**: TOR 0-7 ATS home streak, Poeltl OUT, Barrett Q.\n\nGSW 3-win streak, but 6-12 ATS Dec.",
+        "self_critique": "Public fade 과도해 GSW 로드 약점/핫폼 과소평가 가능."
+      }
+    }
+  },
+  "consensus": {
+    "score": "2/5",
+    "recommendation": "PASS",
+    "confidence": "MEDIUM",
+    "bet_votes": 2,
+    "total_votes": 5,
+    "details": {
+      "recommendations": [
+        "PASS",
+        "PASS",
+        "BET",
+        "PASS",
+        "BET"
+      ],
+      "confidences": [
+        "LOW",
+        "LOW",
+        "MEDIUM",
+        "MEDIUM",
+        "MEDIUM"
+      ]
+    }
+  },
+  "metadata": {
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "total_analysts": 5,
+    "successful_analysts": 5
+  }
+}

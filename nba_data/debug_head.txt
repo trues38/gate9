@@ -1,6 +1,0 @@
-         Date           Team            Opponent
-0  2009-02-17  Atlanta Hawks  Los Angeles Lakers
-1  2009-02-18  Atlanta Hawks    Sacramento Kings
-2  2009-02-23  Atlanta Hawks           Utah Jazz
-3  2009-02-25  Atlanta Hawks      Denver Nuggets
-4  2009-03-02  Atlanta Hawks  Washington Wizards

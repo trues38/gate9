@@ -1,0 +1,74 @@
+[
+  {
+    "league": "EPL",
+    "team": "Manchester City",
+    "player": "Erling Haaland",
+    "position": "FW",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "CRITICAL",
+    "source": "Manual",
+    "date": "2025-12-29"
+  },
+  {
+    "league": "EPL",
+    "team": "Liverpool",
+    "player": "Mohamed Salah",
+    "position": "FW",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "CRITICAL",
+    "source": "Manual",
+    "date": "2025-12-29"
+  },
+  {
+    "league": "EPL",
+    "team": "Arsenal",
+    "player": "Bukayo Saka",
+    "position": "FW",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "CRITICAL",
+    "source": "Manual",
+    "date": "2025-12-29"
+  },
+  {
+    "league": "EPL",
+    "team": "Manchester United",
+    "player": "Bruno Fernandes",
+    "position": "MF",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "HIGH",
+    "source": "Manual",
+    "date": "2025-12-29"
+  },
+  {
+    "league": "EPL",
+    "team": "Tottenham",
+    "player": "Son Heung-min",
+    "position": "FW",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "CRITICAL",
+    "source": "Manual",
+    "date": "2025-12-29"
+  },
+  {
+    "league": "EPL",
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "position": "MF",
+    "status": "ACTIVE",
+    "injury_type": "",
+    "expected_return": "",
+    "impact": "HIGH",
+    "source": "Manual",
+    "date": "2025-12-29"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Asa Newell",
+    "team": "ATL",
+    "attributes": {
+      "name": "Asa Newell",
+      "team": "ATL",
+      "position": "F",
+      "avg_plus_minus": -1.0,
+      "avg_minutes": 12.2,
+      "ppg": 6.0,
+      "rpg": 2.3,
+      "apg": 0.6,
+      "spg": 0.4,
+      "bpg": 0.5,
+      "oreb_pg": 1.0,
+      "dreb_pg": 1.3,
+      "tpg": 0.5,
+      "fpg": 1.7,
+      "fg_pct": 0.397,
+      "three_pct": 0.358,
+      "ft_pct": 0.263,
+      "games_played": 24,
+      "dates": [
+        

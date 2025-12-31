@@ -1,0 +1,6626 @@
+[
+  {
+    "match_id": "26602",
+    "player_name": "Harry Maguire",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26602",
+    "player_name": "Mason Mount",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26602",
+    "player_name": "Calvin Bassey",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26602",
+    "player_name": "Andreas Pereira",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26602",
+    "player_name": "Tom Cairney",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26603",
+    "player_name": "Luke Woolfenden",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26603",
+    "player_name": "Wes Burns",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26603",
+    "player_name": "Omari Hutchinson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26603",
+    "player_name": "Cody Gakpo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26604",
+    "player_name": "Bukayo Saka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26604",
+    "player_name": "Gabriel Jesus",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26604",
+    "player_name": "Toti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26604",
+    "player_name": "Jo\u00e3o Gomes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26605",
+    "player_name": "Ashley Young",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26605",
+    "player_name": "James Tarkowski",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26605",
+    "player_name": "James Milner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Dan Burn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Fabian Sch\u00e4r",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Lewis Hall",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Jack Stephens",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Taylor Harwood-Bellis",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Ben Brereton D\u00edaz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26606",
+    "player_name": "Samuel Edozie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26607",
+    "player_name": "Neco Williams",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26607",
+    "player_name": "Milos Kerkez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26607",
+    "player_name": "Lewis Cook",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26607",
+    "player_name": "Justin Kluivert",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26608",
+    "player_name": "Lucas Paquet\u00e1",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26608",
+    "player_name": "Leon Bailey",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26608",
+    "player_name": "Jaden Philogene-Bidace",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Yoane Wissa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Chris Richards",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Marc Guehi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Joachim Andersen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Daichi Kamada",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26609",
+    "player_name": "Jordan Ayew",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26610",
+    "player_name": "Mois\u00e9s Caicedo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26610",
+    "player_name": "Erling Haaland",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26611",
+    "player_name": "Wout Faes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26611",
+    "player_name": "Rodrigo Bentancur",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26612",
+    "player_name": "Jan Paul van Hecke",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26612",
+    "player_name": "Kobbie Mainoo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26612",
+    "player_name": "Amad Diallo Traore",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26613",
+    "player_name": "Jefferson Lerma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26613",
+    "player_name": "Tomas Soucek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26614",
+    "player_name": "Tom Cairney",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26614",
+    "player_name": "Harry Wilson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26614",
+    "player_name": "Jannik Vestergaard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26614",
+    "player_name": "Victor Kristiansen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26615",
+    "player_name": "R\u00faben Dias",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26615",
+    "player_name": "Jack Grealish",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26615",
+    "player_name": "Sam Morsy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26615",
+    "player_name": "Sammie Szmodics",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26615",
+    "player_name": "Ali Al-Hamadi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Jan Bednarek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Flynn Downes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Adam Armstrong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Ibrahim Sangare",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Chris Wood",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26616",
+    "player_name": "Nicol\u00e1s Dom\u00ednguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26618",
+    "player_name": "Amadou Onana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26618",
+    "player_name": "Gabriel",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26618",
+    "player_name": "Declan Rice",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26618",
+    "player_name": "Martin Odegaard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26619",
+    "player_name": "Yerson Mosquera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26619",
+    "player_name": "Rayan Ait Nouri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26619",
+    "player_name": "Malo Gusto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26619",
+    "player_name": "Marc Cucurella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26619",
+    "player_name": "Cole Palmer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26620",
+    "player_name": "Marcos Senesi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26620",
+    "player_name": "Ryan Christie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26620",
+    "player_name": "Dan Burn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26620",
+    "player_name": "Joelinton",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26621",
+    "player_name": "Ryan Gravenberch",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26621",
+    "player_name": "Dominik Szoboszlai",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26621",
+    "player_name": "Mathias Jensen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26621",
+    "player_name": "Christian N\u00f8rgaard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26621",
+    "player_name": "Bryan Mbeumo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26622",
+    "player_name": "David Raya",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26622",
+    "player_name": "Jurri\u00ebn Timber",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26622",
+    "player_name": "Declan Rice",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26622",
+    "player_name": "Thomas Partey",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26622",
+    "player_name": "Yankuba Minteh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26622",
+    "player_name": "Jo\u00e3o Pedro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26623",
+    "player_name": "Ethan Pinnock",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26623",
+    "player_name": "Bryan Mbeumo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26623",
+    "player_name": "Taylor Harwood-Bellis",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26624",
+    "player_name": "Michael Keane",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26624",
+    "player_name": "Tim Iroegbunam",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26624",
+    "player_name": "Antoine Semenyo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26625",
+    "player_name": "Sam Morsy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26625",
+    "player_name": "Ali Al-Hamadi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26625",
+    "player_name": "Antonee Robinson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26625",
+    "player_name": "Sasa Lukic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26625",
+    "player_name": "Adama Traor\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Caleb Okoli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Oliver Skipp",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Harry Winks",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Jamie Vardy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Lamare Bogarde",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Youri Tielemans",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Amadou Onana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "John McGinn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26626",
+    "player_name": "Jhon Dur\u00e1n",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Ibrahim Sangare",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Elliot Anderson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Morgan Gibbs-White",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Toti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Jean-Ricner Bellegarde",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Jo\u00e3o Gomes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26627",
+    "player_name": "Mario Lemina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26628",
+    "player_name": "Max Kilman",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26628",
+    "player_name": "Emerson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26628",
+    "player_name": "Guido Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26628",
+    "player_name": "Manuel Akanji",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26628",
+    "player_name": "Kevin De Bruyne",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Lloyd Kelly",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Bruno Guimar\u00e3es",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Sean Longstaff",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Joelinton",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Yves Bissouma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Pape Sarr",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "James Maddison",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26629",
+    "player_name": "Rodrigo Bentancur",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Wesley Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Cole Palmer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Pedro Neto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Nicolas Jackson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Daniel Mu\u00f1oz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26630",
+    "player_name": "Will Hughes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26631",
+    "player_name": "Matthijs de Ligt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26631",
+    "player_name": "Lisandro Mart\u00ednez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26631",
+    "player_name": "Kobbie Mainoo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26631",
+    "player_name": "Joshua Zirkzee",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26631",
+    "player_name": "Virgil van Dijk",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Jack Stephens",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Maxwel Cornet",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Christian Eriksen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Kobbie Mainoo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Bruno Fernandes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26632",
+    "player_name": "Harry Maguire",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Bart Verbruggen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Jo\u00ebl Veltman",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Jack Hinshelwood",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Yankuba Minteh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Sam Morsy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Kalvin Phillips",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26633",
+    "player_name": "Omari Hutchinson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26634",
+    "player_name": "Sasa Lukic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26634",
+    "player_name": "Reiss Nelson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26634",
+    "player_name": "Guido Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26634",
+    "player_name": "Edson \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26634",
+    "player_name": "Carlos Soler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Trent Alexander-Arnold",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Andrew Robertson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Ryan Gravenberch",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Dominik Szoboszlai",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Matz Sels",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "\u00c1lex Moreno",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Ryan Yates",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26635",
+    "player_name": "Anthony Elanga",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26636",
+    "player_name": "Jordan Ayew",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26636",
+    "player_name": "Wilfred Ndidi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26636",
+    "player_name": "Conor Coady",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26637",
+    "player_name": "John Stones",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26637",
+    "player_name": "Mateo Kovacic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26637",
+    "player_name": "S\u00e1vio",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26637",
+    "player_name": "Nathan Collins",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26638",
+    "player_name": "Emiliano Martinez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26638",
+    "player_name": "Ashley Young",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26638",
+    "player_name": "Tim Iroegbunam",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26638",
+    "player_name": "Iliman Ndiaye",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26638",
+    "player_name": "Jake O&#039;Brien",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Adam Smith",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Marcos Senesi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Ryan Christie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Lewis Cook",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Antoine Semenyo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Justin Kluivert",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Robert S\u00e1nchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Wesley Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Levi Colwill",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Marc Cucurella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Renato Veiga",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Nicolas Jackson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Jadon Sancho",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26639",
+    "player_name": "Jo\u00e3o F\u00e9lix",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Guglielmo Vicario",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Micky van de Ven",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Iyenoma Destiny Udogie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Rodrigo Bentancur",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Dejan Kulusevski",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "William Saliba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Jurri\u00ebn Timber",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26640",
+    "player_name": "Jorginho",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "N\u00e9lson Semedo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "Rayan Ait Nouri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "Andr\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "Dan Burn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "Joelinton",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26641",
+    "player_name": "Jacob Murphy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Max Kilman",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Edson \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Michail Antonio",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Carlos Soler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Tomas Soucek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Wesley Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26642",
+    "player_name": "Marc Cucurella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Charlie Taylor",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Adam Lallana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Flynn Downes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Ross Stewart",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Dara O&#039;Shea",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Omari Hutchinson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Liam Delap",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26643",
+    "player_name": "Jack Taylor",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26644",
+    "player_name": "Facundo Buonanotte",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26644",
+    "player_name": "James Garner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26644",
+    "player_name": "Michael Keane",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26645",
+    "player_name": "Ibrahima Konat\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26645",
+    "player_name": "Dean Huijsen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26645",
+    "player_name": "Ryan Christie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26645",
+    "player_name": "Lewis Cook",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26645",
+    "player_name": "Justin Kluivert",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Bernd Leno",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Kenny Tete",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Sasa Lukic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Andreas Pereira",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Adama Traor\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26646",
+    "player_name": "Harrison Reed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Pau Torres",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Morgan Rogers",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Ross Barkley",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "N\u00e9lson Semedo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Yerson Mosquera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Rayan Ait Nouri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Jo\u00e3o Gomes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Mario Lemina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26647",
+    "player_name": "Matheus Cunha",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26648",
+    "player_name": "Micky van de Ven",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26648",
+    "player_name": "James Maddison",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26648",
+    "player_name": "Yves Bissouma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26648",
+    "player_name": "Kristoffer Ajer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26649",
+    "player_name": "Dean Henderson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26649",
+    "player_name": "Maxence Lacroix",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26649",
+    "player_name": "Will Hughes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26649",
+    "player_name": "Lisandro Mart\u00ednez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26649",
+    "player_name": "Alejandro Garnacho",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Lewis Dunk",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Carlos Baleba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Danny Welbeck",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Ola Aina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Callum Hudson-Odoi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Morgan Gibbs-White",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Neco Williams",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26650",
+    "player_name": "Jota Silva",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Ederson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "R\u00faben Dias",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Bernardo Silva",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Thomas Partey",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Declan Rice",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Leandro Trossard",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Gabriel Jesus",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26651",
+    "player_name": "Myles Lewis-Skelly",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28048",
+    "player_name": "\u00c9tienne Yout\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28048",
+    "player_name": "Gautier Lloris",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28048",
+    "player_name": "Antoine Joujou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28049",
+    "player_name": "Kenny Lala",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28049",
+    "player_name": "Jordan Amavi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28049",
+    "player_name": "Pereira Lage",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28049",
+    "player_name": "Jonas Martin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28049",
+    "player_name": "Derek Cornelius",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28050",
+    "player_name": "Amadou Kon\u00e9",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28050",
+    "player_name": "Valentin Atangana Edoa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28050",
+    "player_name": "Yaya Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28050",
+    "player_name": "Ismaily",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28050",
+    "player_name": "Ngal&#039;ayel Mukau",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28051",
+    "player_name": "Breel Embolo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28051",
+    "player_name": "Marwann N&#039;Zuzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Modibo Sagnan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Jordan Ferri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Arnaud Nordin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Mousa Al Tamari",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Abakar Sylla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Isma\u00ebl Doukour\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28053",
+    "player_name": "Karol Fila",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28054",
+    "player_name": "Warren Kamanzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28054",
+    "player_name": "Marcus Coco",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28054",
+    "player_name": "Jean-Charles Castelletto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28054",
+    "player_name": "Tinotenda Kadewere",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28055",
+    "player_name": "Jordan Lefort",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28056",
+    "player_name": "Lorenz Assignon",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28056",
+    "player_name": "Leo \u00d8stigard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28056",
+    "player_name": "Duje Caleta-Car",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28057",
+    "player_name": "Ousmane Demb\u00e9l\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28057",
+    "player_name": "Kiki Kouyate",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28057",
+    "player_name": "Falaye Sacko",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28057",
+    "player_name": "Joris Chotard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28057",
+    "player_name": "Wahbi Khazri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28058",
+    "player_name": "Clinton Mata",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28058",
+    "player_name": "Corentin Tolisso",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28058",
+    "player_name": "Mohammed Salisu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28058",
+    "player_name": "Lamine Camara",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28059",
+    "player_name": "Ethan Mbapp\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28059",
+    "player_name": "Zin\u00e9dine Ould Khaled",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28059",
+    "player_name": "Farid El Melali",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Gautier Larsonneur",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Marwann N&#039;Zuzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Mathieu Cafaro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Arouna Sangante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Josu\u00e9 Casimir",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28060",
+    "player_name": "Rassoul Ndiaye",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Remy Labeau Lascary",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Abduqodir Khusanov",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Deiver Machado",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Jordan Amavi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Hugo Magnetti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28061",
+    "player_name": "Romain Faivre",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28062",
+    "player_name": "Antoine Mendy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28062",
+    "player_name": "Dante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28062",
+    "player_name": "Melvin Bard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28062",
+    "player_name": "Pablo Rosario",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28062",
+    "player_name": "Aron D\u00f8nnum",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "Diego Moreira",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "S\u00e9kou Mara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "Christopher Wooh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "Leo \u00d8stigard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "Alidu Seidu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28063",
+    "player_name": "Jordan James",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28064",
+    "player_name": "Nathan Zeze",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28064",
+    "player_name": "Douglas Augusto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28064",
+    "player_name": "Rayan Raveloson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28064",
+    "player_name": "Ado Onaiwu",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28065",
+    "player_name": "Quentin Merlin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28065",
+    "player_name": "Oumar Diakit\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28066",
+    "player_name": "Abner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28066",
+    "player_name": "Adryelson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28066",
+    "player_name": "Gift Orban",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28066",
+    "player_name": "Guela Dou\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28066",
+    "player_name": "Marvin Senaya",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28067",
+    "player_name": "Yvann Ma\u00e7on",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28067",
+    "player_name": "Dylan Batubinsika",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28067",
+    "player_name": "Pierre Cornud",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28067",
+    "player_name": "Lamine Fomba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28067",
+    "player_name": "Mathieu Cafaro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28068",
+    "player_name": "Jordan Ferri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28068",
+    "player_name": "Rabby Nzingoula",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28068",
+    "player_name": "Alban Lafont",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28068",
+    "player_name": "Marcus Coco",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Aron D\u00f8nnum",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Vincent Sierro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Cristian C\u00e1sseres Jr.",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Frank Magri",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Shavy Babicka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Lilian Brassier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28069",
+    "player_name": "Pierre-Emile H\u00f8jbjerg",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28070",
+    "player_name": "Vanderson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28070",
+    "player_name": "Jonathan Gradit",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28070",
+    "player_name": "Ruben Aguilar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28070",
+    "player_name": "Florian Sotoca",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28070",
+    "player_name": "Remy Labeau Lascary",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28071",
+    "player_name": "Josu\u00e9 Casimir",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28071",
+    "player_name": "Ki-Jana Hoever",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28071",
+    "player_name": "Jubal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28071",
+    "player_name": "Paul Joly",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28071",
+    "player_name": "Lassine Sinayoko",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28072",
+    "player_name": "Aur\u00e9lio Buta",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28072",
+    "player_name": "Joseph Okumu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28072",
+    "player_name": "Adrien Truffert",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Yahia Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Abdoulaye Bamba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Yassin Belkhdim",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Jean Eudes Aholou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Ahmadou Bamba Dieng",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Pierrick Capelle",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Mo\u00efse Bombito",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Hichem Boudaoui",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28073",
+    "player_name": "Badredine Bouanani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28074",
+    "player_name": "Bafode Diakite",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28074",
+    "player_name": "Alexsandro Ribeiro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28074",
+    "player_name": "Ngal&#039;ayel Mukau",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28074",
+    "player_name": "Gianluigi Donnarumma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28074",
+    "player_name": "Beraldo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28075",
+    "player_name": "Pierre Cornud",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28075",
+    "player_name": "Benjamin Andr\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Valentin Rongier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Lilian Brassier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Derek Cornelius",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Jonathan Rowe",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Dante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28076",
+    "player_name": "Ali Abdi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28077",
+    "player_name": "Jubal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28077",
+    "player_name": "Gabriel Osho",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28077",
+    "player_name": "Elisha Owusu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28079",
+    "player_name": "Beraldo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28079",
+    "player_name": "Nuno Mendes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28079",
+    "player_name": "Brendan Chardonnet",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28079",
+    "player_name": "Mahdi Camara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28079",
+    "player_name": "Ludovic Ajorque",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28080",
+    "player_name": "Alidu Seidu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28080",
+    "player_name": "Modibo Sagnan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28080",
+    "player_name": "Stefan Dzodic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28080",
+    "player_name": "Rabby Nzingoula",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28081",
+    "player_name": "Kelvin Adou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28081",
+    "player_name": "Nicolas Pallois",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28081",
+    "player_name": "Jean-Philippe Gbamin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28081",
+    "player_name": "Marshall Munetsi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28082",
+    "player_name": "Joshua King",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28082",
+    "player_name": "Arouna Sangante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28083",
+    "player_name": "Guela Dou\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28083",
+    "player_name": "Abakar Sylla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28083",
+    "player_name": "Habib Diarra",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28083",
+    "player_name": "Emanuel Emegha",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28083",
+    "player_name": "Florent Hanin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28085",
+    "player_name": "Pierre Ekwah",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28090",
+    "player_name": "Bafode Diakite",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28090",
+    "player_name": "Benjamin Andr\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28090",
+    "player_name": "Saidou Sow",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28090",
+    "player_name": "Marvin Senaya",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Hans Hateboer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Ludovic Blas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Facundo Medina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Remy Labeau Lascary",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Hamzat Ojediran",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28091",
+    "player_name": "Wesley Said",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28086",
+    "player_name": "Yaya Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28086",
+    "player_name": "Marshall Munetsi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28086",
+    "player_name": "William Pacho",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28092",
+    "player_name": "Soungoutou Magassa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28092",
+    "player_name": "Yoann Salmier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28092",
+    "player_name": "Daler Kuzyaev",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28092",
+    "player_name": "Abdoulaye Tour\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28087",
+    "player_name": "Pereira Lage",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28087",
+    "player_name": "Cristian C\u00e1sseres Jr.",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28088",
+    "player_name": "Jim Allevinah",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28088",
+    "player_name": "Nicolas Pallois",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28088",
+    "player_name": "Jean-Kevin Duverne",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28088",
+    "player_name": "Douglas Augusto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28088",
+    "player_name": "Mostafa Mohamed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Becir Omeragic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Rabby Nzingoula",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Akor Adams",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Sinaly Diomande",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Elisha Owusu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Lassine Sinayoko",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28089",
+    "player_name": "Gaetan Perrin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Duje Caleta-Car",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Clinton Mata",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Alexandre Lacazette",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Mathis Cherki",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Leonardo Balerdi",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28084",
+    "player_name": "Neal Maupay",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28095",
+    "player_name": "Sinaly Diomande",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28095",
+    "player_name": "Cl\u00e9ment Akpa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28094",
+    "player_name": "Warren Za\u00efre-Emery",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28094",
+    "player_name": "Christopher Wooh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28094",
+    "player_name": "Lorenz Assignon",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28094",
+    "player_name": "Baptiste Santamaria",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28096",
+    "player_name": "Przemyslaw Frankowski",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28096",
+    "player_name": "Anass Zaroury",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "28096",
+    "player_name": "Mohamed Abdelmonem",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28096",
+    "player_name": "Dante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28098",
+    "player_name": "Arthur Desmas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28098",
+    "player_name": "Yassine Kechta",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28098",
+    "player_name": "Benjamin Andr\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Vanderson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Mohammed Salisu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Denis Zakaria",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Lamine Camara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Modibo Sagnan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "28100",
+    "player_name": "Tanguy Coulibaly",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27362",
+    "player_name": "Pierluigi Gollini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27362",
+    "player_name": "Henrikh Mkhitaryan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27362",
+    "player_name": "Kristjan Asllani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27363",
+    "player_name": "Alessandro Circati",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27363",
+    "player_name": "Botond Balogh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27363",
+    "player_name": "Nahuel Est\u00e9vez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27363",
+    "player_name": "Marin Pongracic",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27364",
+    "player_name": "Luca Caldirola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27364",
+    "player_name": "Daniel Maldini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "Luka Jovic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "\u00c1lvaro Morata",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "Mergim Vojvoda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "Samuele Ricci",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "Ali Demb\u00e9l\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27365",
+    "player_name": "Adrien Tameze",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27366",
+    "player_name": "Diego Coppola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27366",
+    "player_name": "Jackson Tchatchoua",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27366",
+    "player_name": "Ondrej Duda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27366",
+    "player_name": "Reda Belahyane",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27366",
+    "player_name": "Giacomo Raspadori",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27367",
+    "player_name": "Maduka Okoye",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27367",
+    "player_name": "Lautaro Giannetti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27367",
+    "player_name": "Kingsley Ehizibue",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27367",
+    "player_name": "Lorenzo Lucca",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27368",
+    "player_name": "Paulo Azzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27368",
+    "player_name": "Alessandro Deiola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27369",
+    "player_name": "Valent\u00edn Castellanos",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27369",
+    "player_name": "Richie Sagrado",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27369",
+    "player_name": "Ridgeciano Haps",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27370",
+    "player_name": "Marten de Roon",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27370",
+    "player_name": "\u00c9derson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Andrea Cambiaso",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Manuel Locatelli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Edoardo Goldaniga",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Marco Sala",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Yannick Engelhardt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27371",
+    "player_name": "Simone Verdi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27372",
+    "player_name": "Strahinja Pavlovic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27372",
+    "player_name": "Ruben Loftus-Cheek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27372",
+    "player_name": "Emerson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27373",
+    "player_name": "Lautaro Giannetti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27373",
+    "player_name": "Hassane Kamara",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27373",
+    "player_name": "Mart\u00edn Payero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27373",
+    "player_name": "Alessio Romagnoli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27374",
+    "player_name": "Pablo Mar\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27374",
+    "player_name": "Armando Izzo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27374",
+    "player_name": "Koni de Winter",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27374",
+    "player_name": "Morten Thorsby",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27374",
+    "player_name": "Ruslan Malinovskiy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27375",
+    "player_name": "Antonino Gallo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27375",
+    "player_name": "Lameck Banda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27376",
+    "player_name": "Rolando Mandragora",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27376",
+    "player_name": "Francesco Zampano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27376",
+    "player_name": "Gaetano Oristanio",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Vanja Milinkovic-Savic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Ivan Ilic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Duv\u00e1n Zapata",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Isak Hien",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Berat Gjimshiti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Mario Pasalic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27377",
+    "player_name": "Nicolo Zaniolo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27378",
+    "player_name": "Amir Rrahmani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27378",
+    "player_name": "Pasquale Mazzocchi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27378",
+    "player_name": "Stefan Posch",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27378",
+    "player_name": "Jhon Lucum\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27379",
+    "player_name": "Youssef Maleh",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27379",
+    "player_name": "Ola Solbakken",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27379",
+    "player_name": "Liberato Cacace",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27380",
+    "player_name": "Razvan Marin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27380",
+    "player_name": "Matteo Prati",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27380",
+    "player_name": "Alberto Moreno",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27380",
+    "player_name": "Matthias Braun\u00f6der",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27381",
+    "player_name": "Jackson Tchatchoua",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27381",
+    "player_name": "Ondrej Duda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Alfred Duncan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Giorgio Altare",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Mergim Vojvoda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Valentino Lazaro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Karol Linetty",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27382",
+    "player_name": "Marcus Pedersen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27383",
+    "player_name": "Marten de Roon",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27383",
+    "player_name": "Mateo Retegui",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27384",
+    "player_name": "Wladimiro Falcone",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27384",
+    "player_name": "Patrick Dorgu",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27384",
+    "player_name": "Gabriele Zappa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27384",
+    "player_name": "Razvan Marin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27384",
+    "player_name": "Gianluca Lapadula",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27385",
+    "player_name": "Devis V\u00e1squez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27385",
+    "player_name": "Giuseppe Pezzella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27385",
+    "player_name": "Liam Henderson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27386",
+    "player_name": "Franck Zambo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27386",
+    "player_name": "Stanislav Lobotka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27386",
+    "player_name": "Zion Suzuki",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27386",
+    "player_name": "Mihai Valentin Mihaila",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27386",
+    "player_name": "Enrico Del Prato",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Patric",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Matteo Guendouzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Nicolo Rovella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Mattia Zaccagni",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Filippo Terracciano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27387",
+    "player_name": "Youssouf Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Dod\u00f4",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Rolando Mandragora",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Armando Izzo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Matteo Pessina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Roberto Gagliardini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27388",
+    "player_name": "Andrea Petagna",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Koni de Winter",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Morten Frendrup",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Pawel Dawidowicz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Ondrej Duda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Reda Belahyane",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Abdou Harroui",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Tom\u00e1s Suslov",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27389",
+    "player_name": "Casper Tengstedt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27390",
+    "player_name": "Bremer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27390",
+    "player_name": "Nicolo Fagioli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27390",
+    "player_name": "Gianluca Mancini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27390",
+    "player_name": "Alexis Saelemaekers",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27391",
+    "player_name": "Jaka Bijol",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27391",
+    "player_name": "Jordan Zemura",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27391",
+    "player_name": "Iker Bravo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27397",
+    "player_name": "Alessio Iovine",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27397",
+    "player_name": "Alberto Moreno",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27397",
+    "player_name": "Tommaso Pobega",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27392",
+    "player_name": "Pietro Pellegri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27392",
+    "player_name": "Bremer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27392",
+    "player_name": "Kephren Thuram",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27398",
+    "player_name": "Matteo Gabbia",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27398",
+    "player_name": "Jo\u00ebl Schingtienne",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27398",
+    "player_name": "Hans Nicolussi Caviglia",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27394",
+    "player_name": "Koni de Winter",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27394",
+    "player_name": "Niccol\u00f2 Pisilli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27394",
+    "player_name": "Lorenzo Pellegrini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27394",
+    "player_name": "Eldor Shomurodov",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27393",
+    "player_name": "Isak Hien",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27393",
+    "player_name": "Davide Zappacosta",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27393",
+    "player_name": "Rolando Mandragora",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27393",
+    "player_name": "Edoardo Bove",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27393",
+    "player_name": "Amir Richardson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27401",
+    "player_name": "Sebastian Walukiewicz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27401",
+    "player_name": "Balthazar Pierret",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27401",
+    "player_name": "Tete Morente",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27401",
+    "player_name": "Hamza Rafia",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27395",
+    "player_name": "Yerry Mina",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27395",
+    "player_name": "Stanislav Lobotka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27395",
+    "player_name": "Romelu Lukaku",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27399",
+    "player_name": "Dany Mota",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27399",
+    "player_name": "Benjamin Pavard",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27399",
+    "player_name": "Denzel Dumfries",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27400",
+    "player_name": "Mandela Keita",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27400",
+    "player_name": "Kingsley Ehizibue",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27400",
+    "player_name": "Lautaro Giannetti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27400",
+    "player_name": "Keinan Davis",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27396",
+    "player_name": "Mario Gila",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27396",
+    "player_name": "Nicolo Rovella",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27396",
+    "player_name": "Jackson Tchatchoua",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27396",
+    "player_name": "Casper Tengstedt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27403",
+    "player_name": "Leonardo Pavoletti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27403",
+    "player_name": "Emmanuel Gyasi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27403",
+    "player_name": "Lorenzo Colombo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27405",
+    "player_name": "Pawel Dawidowicz",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27405",
+    "player_name": "Diego Coppola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27405",
+    "player_name": "Grigoris Kastanos",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27405",
+    "player_name": "Dailon Livramento",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27405",
+    "player_name": "Ali Demb\u00e9l\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27411",
+    "player_name": "Michael Svoboda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27411",
+    "player_name": "John Yeboah",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27411",
+    "player_name": "Mattia Bani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27411",
+    "player_name": "Koni de Winter",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27411",
+    "player_name": "Andrea Pinamonti",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27407",
+    "player_name": "Weston McKennie",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Frederic Guilbert",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Kialonda Gaspar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Ylber Ramadani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Patrick Dorgu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Hamza Rafia",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27408",
+    "player_name": "Matteo Cancellieri",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Cristiano Biraghi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Dod\u00f4",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Robin Gosens",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Patric",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Nuno Tavares",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Matteo Guendouzi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27404",
+    "player_name": "Gustav Isaksen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27409",
+    "player_name": "Pablo Mar\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27409",
+    "player_name": "Armando Izzo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27409",
+    "player_name": "Andrea Carboni",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27409",
+    "player_name": "Jhon Lucum\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27409",
+    "player_name": "Santiago Castro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27410",
+    "player_name": "Bryan Cristante",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27410",
+    "player_name": "Niccol\u00f2 Pisilli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27410",
+    "player_name": "Thomas Thiesson Kristensen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27410",
+    "player_name": "Lorenzo Lucca",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27406",
+    "player_name": "Federico Dimarco",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27406",
+    "player_name": "Henrikh Mkhitaryan",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27406",
+    "player_name": "Hakan Calhanoglu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27406",
+    "player_name": "Kristjan Asllani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27406",
+    "player_name": "Youssouf Fofana",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27402",
+    "player_name": "Marten de Roon",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27402",
+    "player_name": "Ignace Van der Brempt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27402",
+    "player_name": "Alberto Moreno",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27402",
+    "player_name": "Sergi Roberto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27742",
+    "player_name": "Stefan Lainer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27743",
+    "player_name": "Willi Orban",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27743",
+    "player_name": "Xavi Simons",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27743",
+    "player_name": "Maximilian Wittek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27743",
+    "player_name": "Ibrahima Sissoko",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27743",
+    "player_name": "Mat\u00fas Bero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27744",
+    "player_name": "Adam Hlozek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27744",
+    "player_name": "Max Moerstedt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27744",
+    "player_name": "Timon Weiner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27744",
+    "player_name": "Andu Kelati",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27745",
+    "player_name": "Philipp Lienhart",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27745",
+    "player_name": "Junior Adamu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27745",
+    "player_name": "Maximilian Mittelst\u00e4dt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27746",
+    "player_name": "Jeffrey Gouweleeuw",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27746",
+    "player_name": "Arne Engels",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27746",
+    "player_name": "Samuel Essende",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27746",
+    "player_name": "Marco Gr\u00fcll",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27747",
+    "player_name": "Dominik Kohr",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27747",
+    "player_name": "Danilho Doekhi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27747",
+    "player_name": "Robin Gosens",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27747",
+    "player_name": "Lucas Tousart",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27748",
+    "player_name": "Ellyes Skhiri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27749",
+    "player_name": "C\u00e9dric Zesiger",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27749",
+    "player_name": "Mattias Svanberg",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27749",
+    "player_name": "Sacha Boey",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27749",
+    "player_name": "Jamal Musiala",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27749",
+    "player_name": "Harry Kane",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27750",
+    "player_name": "Jackson Irvine",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27750",
+    "player_name": "Robert Wagner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27750",
+    "player_name": "Omar Traor\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27750",
+    "player_name": "Benedikt Gimber",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27750",
+    "player_name": "Lennard Maloney",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27751",
+    "player_name": "Benedict Hollerbach",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27751",
+    "player_name": "Woo-Yeong Jeong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27751",
+    "player_name": "Leopold Querfeld",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27751",
+    "player_name": "Morgan Guilavogui",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27752",
+    "player_name": "Mats Pannewig",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Marco Friedl",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Mitchell Weiser",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Julian Ryerson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Waldemar Anton",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Niklas S\u00fcle",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Nico Schlotterbeck",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Pascal Gro\u00df",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27753",
+    "player_name": "Ramy Bensebaini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Magnus Knudsen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Alexander Bernhardsson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Jann-Fiete Arp",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Max Geschwill",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Kilian Fischer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "C\u00e9dric Zesiger",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Maximilian Arnold",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Mattias Svanberg",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Bote Baku",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Tiago Tom\u00e1s",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27754",
+    "player_name": "Patrick Wimmer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27755",
+    "player_name": "Julian Chabot",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27755",
+    "player_name": "Atakan Karazor",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27755",
+    "player_name": "Enzo Millot",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27755",
+    "player_name": "Joshua Vagnoman",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27755",
+    "player_name": "Silvan Widmer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27756",
+    "player_name": "Kevin Akpoguma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27756",
+    "player_name": "Tim Drexler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27756",
+    "player_name": "Florian Micheler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27757",
+    "player_name": "Edmond Tapsoba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27757",
+    "player_name": "Jeremie Frimpong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27757",
+    "player_name": "Victor Boniface",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27757",
+    "player_name": "Lukas Klostermann",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27758",
+    "player_name": "Mathias Honsak",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27758",
+    "player_name": "Keven Schlotterbeck",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27758",
+    "player_name": "Jeffrey Gouweleeuw",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27758",
+    "player_name": "Elvis Rexhbecaj",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27758",
+    "player_name": "Ruben Vargas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27759",
+    "player_name": "Dayotchanculle Upamecano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27760",
+    "player_name": "Yan Couto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27760",
+    "player_name": "Jamie Bynoe-Gittens",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27760",
+    "player_name": "Paul Wanner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27760",
+    "player_name": "Mikkel Kaufmann",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27761",
+    "player_name": "Kevin Akpoguma",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27761",
+    "player_name": "Alexander Prass",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27761",
+    "player_name": "Robert Andrich",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27761",
+    "player_name": "Martin Terrier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27762",
+    "player_name": "Maximilian Wittek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27762",
+    "player_name": "Moritz-Broni Kwarteng",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27762",
+    "player_name": "Aliou Balde",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27763",
+    "player_name": "Amadou Haidara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27763",
+    "player_name": "Kevin Kampl",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27763",
+    "player_name": "Danilho Doekhi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27763",
+    "player_name": "Rani Khedira",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27763",
+    "player_name": "L\u00e1szl\u00f3 B\u00e9nes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27764",
+    "player_name": "Maximilian Arnold",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27764",
+    "player_name": "Ellyes Skhiri",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27764",
+    "player_name": "Far\u00e8s Cha\u00efbi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27765",
+    "player_name": "Ko Itakura",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27765",
+    "player_name": "Julian Weigl",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27765",
+    "player_name": "Joshua Vagnoman",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27765",
+    "player_name": "Dan-Axel Zagadou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27766",
+    "player_name": "Jo\u00e3o Palhinha",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Dimitris Giannoulis",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Elvis Rexhbecaj",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Samuel Essende",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Phillip Tietz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Karol Mets",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Lars Ritzka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27767",
+    "player_name": "Morgan Guilavogui",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27768",
+    "player_name": "Dominik Kohr",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27768",
+    "player_name": "Anthony Caci",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27768",
+    "player_name": "Philipp Mwene",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27768",
+    "player_name": "Michael Zetterer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27768",
+    "player_name": "Marco Friedl",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Jeffrey Gouweleeuw",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Frank Onyeka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Elvis Rexhbecaj",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Samuel Essende",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Andreas Hanche-Olsen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Dominik Kohr",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Nadiem Amiri",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27769",
+    "player_name": "Silvan Widmer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Tom Rothe",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Jordan Siebatcheu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Yorbe Vertessen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Pavel Kader\u00e1bek",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Tom Bischof",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27770",
+    "player_name": "Umut Tohumcu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27771",
+    "player_name": "Felix Passlack",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27771",
+    "player_name": "Dani de Wit",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27771",
+    "player_name": "Mat\u00fas Bero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27771",
+    "player_name": "Philipp Hofmann",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27771",
+    "player_name": "Magnus Knudsen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27772",
+    "player_name": "Marvin Pieringer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27772",
+    "player_name": "Junior Adamu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27773",
+    "player_name": "Konrad Laimer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27773",
+    "player_name": "Dayotchanculle Upamecano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27773",
+    "player_name": "Aleksandar Pavlovic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27774",
+    "player_name": "Arthur Theate",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27774",
+    "player_name": "Julian Weigl",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Jeanu\u00ebl Belocian",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "\u00c1lex Grimaldo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Amine Adli",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Jeremie Frimpong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Kamil Grabara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "C\u00e9dric Zesiger",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Jakub Kaminski",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Maximilian Arnold",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Tiago Tom\u00e1s",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27775",
+    "player_name": "Yannick Gerhardt",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27776",
+    "player_name": "Jamie Leweling",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27776",
+    "player_name": "Marcel Sabitzer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27776",
+    "player_name": "Emre Can",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27776",
+    "player_name": "Ramy Bensebaini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27777",
+    "player_name": "Philipp Treu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27777",
+    "player_name": "Elias Saad",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27777",
+    "player_name": "Amadou Haidara",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27778",
+    "player_name": "Yan Couto",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27778",
+    "player_name": "Pascal Gro\u00df",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Lukas K\u00fcbler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Matthias Ginter",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Nicolas H\u00f6fler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Manolis Saliakas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Johannes Eggestein",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27779",
+    "player_name": "Scott Banks",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Sebastiaan Bornauw",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Konstantinos Koulierakis",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Maximilian Arnold",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Mohammed Amoura",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Aster Vranckx",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27780",
+    "player_name": "Atakan Karazor",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Andreas Hanche-Olsen",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Moritz Jenz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Dominik Kohr",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Benedikt Gimber",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Patrick Mainka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Niklas Dorsch",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Omar Traor\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27781",
+    "player_name": "Marvin Pieringer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27782",
+    "player_name": "Joe Scally",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27782",
+    "player_name": "Kevin St\u00f6ger",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27782",
+    "player_name": "Alassane Pl\u00e9a",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27782",
+    "player_name": "Leopold Querfeld",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27783",
+    "player_name": "Nicolas Seiwald",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27783",
+    "player_name": "Frank Onyeka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27783",
+    "player_name": "Chrislain Matsima",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27784",
+    "player_name": "Dayotchanculle Upamecano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27784",
+    "player_name": "\u00c1lex Grimaldo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27784",
+    "player_name": "Robert Andrich",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27784",
+    "player_name": "Florian Wirtz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27785",
+    "player_name": "Finn Porath",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27785",
+    "player_name": "Aur\u00e8le Amenda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27785",
+    "player_name": "Robin Koch",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27785",
+    "player_name": "Hugo Larsson",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Stanley N&#039;Soki",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Umut Tohumcu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Anton Stach",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Tim Drexler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Derrick K\u00f6hn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Jens Stage",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27786",
+    "player_name": "Keke Maximilian Topp",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Maximilian Bauer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Elvis Rexhbecaj",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Luca Netz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Julian Weigl",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Grant-Leon Ranos",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27790",
+    "player_name": "Robin Hack",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27789",
+    "player_name": "Juli\u00e1n Malatini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27789",
+    "player_name": "Maximilian Eggestein",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Kevin Vogt",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Christopher Trimmel",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Tom Rothe",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Woo-Yeong Jeong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Nico Schlotterbeck",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Waldemar Anton",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Ramy Bensebaini",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27791",
+    "player_name": "Marcel Sabitzer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27792",
+    "player_name": "Jakov Medic",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27792",
+    "player_name": "Jonas Wind",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27792",
+    "player_name": "Mohammed Amoura",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27794",
+    "player_name": "Jonathan Tah",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27794",
+    "player_name": "Jeremie Frimpong",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27794",
+    "player_name": "Timon Weiner",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27794",
+    "player_name": "Magnus Knudsen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26982",
+    "player_name": "Andoni Gorosabel",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26982",
+    "player_name": "Be\u00f1at Prados",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26982",
+    "player_name": "Ander Herrera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26982",
+    "player_name": "Unai G\u00f3mez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26982",
+    "player_name": "Christantus Uche",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26983",
+    "player_name": "Romain Perraud",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26983",
+    "player_name": "Aitor Ruibal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26984",
+    "player_name": "Dami\u00e1n Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26984",
+    "player_name": "Iago Aspas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26984",
+    "player_name": "Abdelkabir Abqar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26984",
+    "player_name": "Tom\u00e1s Conechny",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26985",
+    "player_name": "Mika M\u00e1rmol",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26985",
+    "player_name": "Viti Rozada",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26985",
+    "player_name": "Adri\u00e0 Pedrosa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26985",
+    "player_name": "Juanlu Sanchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26986",
+    "player_name": "Jorge Herrando",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26986",
+    "player_name": "Jon Moncayola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26986",
+    "player_name": "Juan Cruz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26986",
+    "player_name": "Juan Soriano",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26986",
+    "player_name": "Valentin Rosier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26987",
+    "player_name": "Jes\u00fas V\u00e1zquez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26987",
+    "player_name": "Pepelu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26987",
+    "player_name": "Jules Kound\u00e9",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26987",
+    "player_name": "Pau Cubars\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26987",
+    "player_name": "Andreas Christensen",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Urko Gonzalez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Jon Aramburu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Florian Lejeune",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Unai L\u00f3pez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Adri\u00e1n Embarba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26988",
+    "player_name": "Randy Nteka",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26989",
+    "player_name": "Pablo Maffeo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26990",
+    "player_name": "Lucas Rosa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26990",
+    "player_name": "Iv\u00e1n S\u00e1nchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26990",
+    "player_name": "Irvin Cardona",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26990",
+    "player_name": "Antoniu Roca",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26991",
+    "player_name": "Yeremi Pino",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26991",
+    "player_name": "Robin Le Normand",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26991",
+    "player_name": "Pablo Barrios Rivas",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26991",
+    "player_name": "Samuel Lino",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26992",
+    "player_name": "\u00d3scar Mingueza",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26992",
+    "player_name": "Dami\u00e1n Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26992",
+    "player_name": "Jonathan Bamba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Jos\u00e9 \u00c1ngel Carmona",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Isaac Romero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Marc\u00e3o",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Eric Bailly",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "\u00c1lex Baena",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Arnaut Danjuma Groeneveld",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Ayoze P\u00e9rez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26993",
+    "player_name": "Daniel Parejo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26994",
+    "player_name": "Sergio Herrera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26994",
+    "player_name": "Jes\u00fas Areso",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26994",
+    "player_name": "Cyle Larin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Pau Cubars\u00ed",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Marc Bernal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Robert Lewandowski",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Ferm\u00edn L\u00f3pez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "\u00cd\u00f1igo Lekue",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Yeray \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Alex Berenguer",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Ander Herrera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26995",
+    "player_name": "Mikel Jauregizar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26996",
+    "player_name": "Christantus Uche",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26996",
+    "player_name": "Alfonso Espino",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26996",
+    "player_name": "Path\u00e9 Ciss",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26997",
+    "player_name": "Marash Kumbulla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26997",
+    "player_name": "Alejo V\u00e9liz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26997",
+    "player_name": "Be\u00f1at Turrientes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26997",
+    "player_name": "Mikel Oyarzabal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26998",
+    "player_name": "Arda G\u00fcler",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26998",
+    "player_name": "Marcos de Sousa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26999",
+    "player_name": "Miguel De la Fuente",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "26999",
+    "player_name": "Kirian Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27000",
+    "player_name": "Aleksander Sedlar",
+    "yellow": 1,
+    "red": 1
+  },
+  {
+    "match_id": "27000",
+    "player_name": "Marc Roca",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27000",
+    "player_name": "Juanmi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27000",
+    "player_name": "Romain Perraud",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27000",
+    "player_name": "Ezequiel \u00c1vila",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27001",
+    "player_name": "Rodrigo de Paul",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27001",
+    "player_name": "Paulo Gazzaniga",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27001",
+    "player_name": "Oriol Romeu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27001",
+    "player_name": "Abel Ruiz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Kiko Femen\u00eda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Ra\u00fal Albiol",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Pape Alassane Gueye",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Nicolas Pepe",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Ilaix Moriba",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Hugo \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27002",
+    "player_name": "Williot Swedberg",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27003",
+    "player_name": "Djibril Sow",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27003",
+    "player_name": "Sa\u00fal \u00d1\u00edguez",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27004",
+    "player_name": "Abdul Mumin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27004",
+    "player_name": "Isi Palaz\u00f3n",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27004",
+    "player_name": "Path\u00e9 Ciss",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27004",
+    "player_name": "Marc Bernal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "Stanko Juric",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "Sergio Gonz\u00e1lez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "Jorge S\u00e1enz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "Yvan Neyou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "Enric Franquesa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27005",
+    "player_name": "\u00d3scar Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27006",
+    "player_name": "Be\u00f1at Prados",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27006",
+    "player_name": "Dimitri Foulquier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27006",
+    "player_name": "Cristhian Mosquera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27006",
+    "player_name": "Rafa Mir",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Jon Pacheco Dozagarat",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Igor Zubeldia",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Takefusa Kubo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Mikel Oyarzabal",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Jon Mart\u00edn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Antonio Sivera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Abderrahmane Rebbach",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Manuel S\u00e1nchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27008",
+    "player_name": "Stoichkov",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27009",
+    "player_name": "Omar El Hilali",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27009",
+    "player_name": "Javi Puado",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27011",
+    "player_name": "Eder Milit\u00e3o",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27011",
+    "player_name": "Ferland Mendy",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27012",
+    "player_name": "Javi S\u00e1nchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27012",
+    "player_name": "Kike P\u00e9rez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27012",
+    "player_name": "Mario Mart\u00edn",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27013",
+    "player_name": "Yeray \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27013",
+    "player_name": "Oihan Sancet",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27013",
+    "player_name": "Nico Williams",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27013",
+    "player_name": "Koke",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27014",
+    "player_name": "Marash Kumbulla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27014",
+    "player_name": "Alejo V\u00e9liz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27014",
+    "player_name": "\u00c1lvaro Aguado",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27014",
+    "player_name": "Abdul Mumin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27014",
+    "player_name": "\u00c1lvaro Garc\u00eda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Hugo Guillam\u00f3n",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Pepelu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Hugo Duro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Kiko Femen\u00eda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Ra\u00fal Albiol",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Yeremi Pino",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27015",
+    "player_name": "Pape Alassane Gueye",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27016",
+    "player_name": "Yvan Neyou",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27016",
+    "player_name": "Manuel Morlanes",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27016",
+    "player_name": "Omar Mascarell",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27016",
+    "player_name": "Roberto Navarro",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27017",
+    "player_name": "Abdelkabir Abqar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27017",
+    "player_name": "Jon Guridi",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27017",
+    "player_name": "Tom\u00e1s Conechny",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27018",
+    "player_name": "Lucas Torr\u00f3",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27018",
+    "player_name": "Rub\u00e9n Garc\u00eda",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27018",
+    "player_name": "Alfon",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27019",
+    "player_name": "Loic Bade",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27019",
+    "player_name": "Albert Sambi Lokonga",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27019",
+    "player_name": "Isaac Romero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27019",
+    "player_name": "Alejandro Franc\u00e9s",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27019",
+    "player_name": "Y\u00e1ser Asprilla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27020",
+    "player_name": "Juan Iglesias",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27020",
+    "player_name": "Aihen Mu\u00f1oz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27021",
+    "player_name": "Daniel Carvajal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27021",
+    "player_name": "Vin\u00edcius J\u00fanior",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27024",
+    "player_name": "Valentin Rosier",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27024",
+    "player_name": "Juan Cruz",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Martin Valjent",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Toni Lato",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Sam\u00fa Costa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Valery Fern\u00e1ndez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Sergi Cardona",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Santiago Comesa\u00f1a",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27026",
+    "player_name": "Thierno Barry",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27022",
+    "player_name": "Omar El Hilali",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27022",
+    "player_name": "Marash Kumbulla",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27022",
+    "player_name": "Antonio Sivera",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27022",
+    "player_name": "Abdelkabir Abqar",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27022",
+    "player_name": "Manuel S\u00e1nchez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Isaac Romero",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Juanlu Sanchez",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Djen\u00e9 Dakonam",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Alex Sola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Bertug Yildirim",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27029",
+    "player_name": "Jes\u00fas Santiago",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27031",
+    "player_name": "Jon Aramburu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27031",
+    "player_name": "Umar Sadiq",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27031",
+    "player_name": "Ander Barrenetxea",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27031",
+    "player_name": "Jon Pacheco Dozagarat",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27031",
+    "player_name": "Luka Modric",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Javier Rodr\u00edguez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Hugo \u00c1lvarez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Hugo Sotelo",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Lucas Rosa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Mario Mart\u00edn",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Selim Amallah",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Chuki",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Juan Latasa",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27025",
+    "player_name": "Stanko Juric",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Bryan Gil Salvatierra",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Cristhian Stuani",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Portu",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Lamine Yamal",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Pau Victor",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27028",
+    "player_name": "Ferr\u00e1n Torres",
+    "yellow": 0,
+    "red": 1
+  },
+  {
+    "match_id": "27027",
+    "player_name": "\u00c1lex Su\u00e1rez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27027",
+    "player_name": "Inigo Ruiz de Galarreta",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27027",
+    "player_name": "Mikel Jauregizar",
+    "yellow": 1,
+    "red": 1
+  },
+  {
+    "match_id": "27023",
+    "player_name": "Koke",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27023",
+    "player_name": "C\u00e9sar T\u00e1rrega",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27023",
+    "player_name": "Hugo Guillam\u00f3n",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27030",
+    "player_name": "Abdul Mumin",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27030",
+    "player_name": "Sergio Camello",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27030",
+    "player_name": "Unai L\u00f3pez",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27030",
+    "player_name": "Jon Moncayola",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27030",
+    "player_name": "Bryan Zaragoza",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27045",
+    "player_name": "Abd\u00f3n Prats",
+    "yellow": 1,
+    "red": 0
+  },
+  {
+    "match_id": "27045",
+    "player_name": "Be\u00f1at Turrientes",
+    "yellow": 1,
+    "red": 0
+  }
+]

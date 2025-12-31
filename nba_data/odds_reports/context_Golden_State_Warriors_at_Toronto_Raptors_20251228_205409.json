@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "generated_at": "20251228_205409",
+    "generator": "odds_report_v1",
+    "stage1_complete": true
+  },
+  "game_info": {
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "timestamp": "20251228_205409",
+    "game_time": "2025-12-28T20:40:00Z",
+    "game_id": "d8f2315d3e872709e62642ca705a0f0d"
+  },
+  "odds": {
+    "available": true,
+    "moneyline": {
+      "home": {
+        "odds": 155,
+        "bookmaker": "bovada"
+      },
+      "away": {
+        "odds": -170,
+        "bookmaker": "lowvig"
+      }
+    },
+    "spreads": {
+      "home": {
+        "odds": -101,
+        "bookmaker": "lowvig",
+        "point": 4.5
+      },
+      "away": {
+        "odds": -110,
+        "bookmaker": "fanduel",
+        "point": -4.5
+      }
+    },
+    "formatted_text": "=== BETTING ODDS ===\nGolden State Warriors @ Toronto Raptors\nGame Time: 2025-12-28T20:40:00Z\n\nMONEYLINE (h2h):\n  Toronto Raptors: +155 (bovada)\n  Golden State Warriors: -170 (lowvig)\n\nSPREADS:\n  Toronto Raptors: +4.5 (-101) - lowvig\n  Golden State Warriors: -4.5 (-110) - fanduel\n"
+  },
+  "team_stats": {
+    "home": null,
+    "away": null
+  },
+  "head_to_head": [],
+  "graph_data_available": false,
+  "main_report_file": "/Users/js/g9/nba_data/odds_reports/report_Golden_State_Warriors_at_Toronto_Raptors_20251228_205409.md"
+}

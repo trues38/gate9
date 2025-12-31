@@ -1,0 +1,99 @@
+{
+  "individual_analyses": {
+    "Gemini_Flash": {
+      "analyst": "Gemini 2.5 Flash Lite",
+      "role": "뉴스 분석가 (News Analyst)",
+      "success": true,
+      "model_used": "google/gemini-2.5-flash-lite",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "news_impact": "중립",
+        "analysis": "최근 3번의 맞대결에서 골든스테이트 워리어스가 모두 승리하며 토론토 랩터스를 상대로 강한 모습을 보였습니다. 이번 경기도 골든스테이트가 -4.5 스프레드를 가지고 있지만, 원정팀의 최근 흐름과 상대 전적을 고려했을 때 워리어스의 승리를 예상합니다. 토론토의 최근 경기력 데이터는 부족하지만, 워리어스는 최근 5경기 3승 2패로 나쁘지 않은 흐름을 보이고 있습니다. 배당률 또한 골든스테이트의 승리를 더 유리하게 보고 있습니다. [opticodds.com](https://opticodds.com/ko-kr/sports/basketball)에서 제공하는 실시간 배당률 데이터도 이와 유사한 경향을 보입니다.",
+        "self_critique": "토론토 랩터스의 최신 부상자 명단 및 최근 경기력 데이터가 부족하여 분석의 정확성이 다소 떨어질 수 있습니다."
+      }
+    },
+    "GPT4o_mini": {
+      "analyst": "GPT-4o-mini",
+      "role": "종합 정리 (Synthesizer)",
+      "success": true,
+      "model_used": "openai/gpt-4o-mini",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "HIGH",
+        "analysis": "Golden State Warriors는 최근 H2H 기록에서 3경기 연속으로 Toronto Raptors를 상대로 승리를 거두었고, 모두 스프레드를 커버했습니다. 배당률 분석에서도 Warriors가 -170으로 비교적 낮은 리스크의 승리 가능성을 보여주고 있습니다. Raptors는 홈에서 +4.5로 배당받고 있지만, Warriors의 전반적인 경기력이 더 우수하므로 이 경기는 Warriors 승리에 베팅하는 것이 유리합니다.",
+        "self_critique": "상대 팀의 최근 폼이나 부상자 목록을 고려하지 못한 점이 아쉽습니다."
+      }
+    },
+    "Qwen_72B": {
+      "analyst": "Qwen 72B",
+      "role": "레짐 패턴 분석가 (Regime Analyst)",
+      "success": true,
+      "model_used": "qwen/qwen-2.5-72b-instruct",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "HIGH",
+        "analysis": "Golden State Warriors는 최근 H2H 경기에서 3연속 승리하며 우위를 점하고 있다. 특히, Toronto Raptors를 상대로 3경기 연속 스프레드를 커버한 경험이 있어 이번 경기에서도 유리할 것으로 보인다. 현재 배당률에서도 Warriors가 약간의 우세를 보이고 있어, 승리 가능성이 높다.",
+        "self_critique": "역사적 H2H 패턴에 치중한 분석으로, 현재 팀의 컨디션이나 부상 정보 등은 고려하지 않았다."
+      }
+    },
+    "DeepSeek_V3": {
+      "analyst": "DeepSeek V3.2",
+      "role": "정량 분석가 (Quantitative Analyst)",
+      "success": true,
+      "model_used": "deepseek/deepseek-chat",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "### 분석 요약\n- **Moneyline**: Golden State Warriors의 승률이 높음 (-170 배당률). Raptors의 +155는 유혹적이지만, 최근 H2H에서 Warriors가 3연승 중.\n- **Spread**: Warriors -4.5는 최근 3경기 모두 커버한 기록과 일치. Raptors의 평균 실점(114.9)이 Warriors 평균 득점(114.4)보다 높음.\n- **Value**: Warriors -4.5 @ -110은 합리적 기댓값. Raptors의 홈 승률(3-2)이 낮은 점도 고려.\n\n### 결론\nWarriors의 스프레드 커버 가능성이 통계적으로 유리합니다. [opticodds.com](https://opticodds.com/ko-kr/sports/basketball)의 실시간 데이터도 이를 지지합니다.",
+        "self_critique": "부상 정보 미확인 및 최근 10경기 추이 대비 샘플 크기 작음(3경기). Raptors의 연승(5연승)을 저평가했을 수 있음."
+      }
+    },
+    "Grok_Fast": {
+      "analyst": "Grok 4.1 Fast",
+      "role": "리스크 분석가 (Risk Manager)",
+      "success": true,
+      "model_used": "x-ai/grok-4.1-fast",
+      "is_backup": false,
+      "output": {
+        "recommendation": "BET",
+        "confidence": "MEDIUM",
+        "analysis": "**Contrarian Play: Raptors +4.5**\n\nPublic piles on Warriors (-4.5/-170): streak, H2H dominance (3-0 cover), 16-15 stabilizing.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">36</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">37</argument></grok:render>\nFade: Raptors home dog value amid slump. Warriors risks: Melton OUT, Podz probable; road fatigue.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">34</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">4</argument></grok:render>\nRaps hurts: Poeltl OUT, Barrett Q (knee/illness).<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">18</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">20</argument></grok:render>\nWorst: GSW blowout.",
+        "self_critique": "과도한 fade로 Warriors 강세 무시 가능. Public % 데이터 부족."
+      }
+    }
+  },
+  "consensus": {
+    "score": "5/5",
+    "recommendation": "BET",
+    "confidence": "MEDIUM",
+    "bet_votes": 5,
+    "total_votes": 5,
+    "details": {
+      "recommendations": [
+        "BET",
+        "BET",
+        "BET",
+        "BET",
+        "BET"
+      ],
+      "confidences": [
+        "MEDIUM",
+        "HIGH",
+        "HIGH",
+        "MEDIUM",
+        "MEDIUM"
+      ]
+    }
+  },
+  "metadata": {
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "total_analysts": 5,
+    "successful_analysts": 5
+  }
+}

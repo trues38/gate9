@@ -1,0 +1,122 @@
+{
+  "ATL": {
+    "coach": "Quin Snyder",
+    "lineups": []
+  },
+  "BKN": {
+    "coach": "Jordi Fernández",
+    "lineups": []
+  },
+  "BOS": {
+    "coach": "Joe Mazzulla",
+    "lineups": []
+  },
+  "CHA": {
+    "coach": "Charles Lee",
+    "lineups": []
+  },
+  "CHI": {
+    "coach": "Billy Donovan",
+    "lineups": []
+  },
+  "CLE": {
+    "coach": "Kenny Atkinson",
+    "lineups": []
+  },
+  "DAL": {
+    "coach": "Jason Kidd",
+    "lineups": []
+  },
+  "DEN": {
+    "coach": "Michael Malone",
+    "lineups": []
+  },
+  "DET": {
+    "coach": "J.B. Bickerstaff",
+    "lineups": []
+  },
+  "GSW": {
+    "coach": "Steve Kerr",
+    "lineups": []
+  },
+  "HOU": {
+    "coach": "Ime Udoka",
+    "lineups": []
+  },
+  "IND": {
+    "coach": "Rick Carlisle",
+    "lineups": []
+  },
+  "LAC": {
+    "coach": "Tyronn Lue",
+    "lineups": []
+  },
+  "LAL": {
+    "coach": "JJ Redick",
+    "lineups": []
+  },
+  "MEM": {
+    "coach": "Taylor Jenkins",
+    "lineups": []
+  },
+  "MIA": {
+    "coach": "Erik Spoelstra",
+    "lineups": []
+  },
+  "MIL": {
+    "coach": "Doc Rivers",
+    "lineups": []
+  },
+  "MIN": {
+    "coach": "Chris Finch",
+    "lineups": []
+  },
+  "NOP": {
+    "coach": "Willie Green",
+    "lineups": []
+  },
+  "NYK": {
+    "coach": "Tom Thibodeau",
+    "lineups": []
+  },
+  "OKC": {
+    "coach": "Mark Daigneault",
+    "lineups": []
+  },
+  "ORL": {
+    "coach": "Jamahl Mosley",
+    "lineups": []
+  },
+  "PHI": {
+    "coach": "Nick Nurse",
+    "lineups": []
+  },
+  "PHX": {
+    "coach": "Mike Budenholzer",
+    "lineups": []
+  },
+  "POR": {
+    "coach": "Chauncey Billups",
+    "lineups": []
+  },
+  "SAC": {
+    "coach": "Doug Christie",
+    "lineups": []
+  },
+  "SAS": {
+    "coach": "Mitch Johnson",
+    "lineups": []
+  },
+  "TOR": {
+    "coach": "Darko Rajaković",
+    "lineups": []
+  },
+  "UTA": {
+    "coach": "Will Hardy",
+    "lineups": []
+  },
+  "WAS": {
+    "coach": "Brian Keefe",
+    "lineups": []
+  }
+}

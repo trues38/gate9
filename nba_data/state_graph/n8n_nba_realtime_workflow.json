@@ -1,0 +1,308 @@
+{
+  "name": "NBA Real-time Event Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "resource": "tweet",
+        "operation": "search",
+        "searchText": "from:OfficialNBARefs OR from:ShamsCharania OR from:ChrisBHaynes OR from:RotoWireNBA",
+        "additionalFields": {
+          "pollTimes": {
+            "item": [
+              {
+                "mode": "everyMinute"
+              }
+            ]
+          }
+        }
+      },
+      "name": "X Watch - Official Accounts",
+      "type": "n8n-nodes-base.twitter",
+      "typeVersion": 1,
+      "position": [250, 300],
+      "credentials": {
+        "twitterOAuth2Api": {
+          "id": "1",
+          "name": "Twitter OAuth2"
+        }
+      },
+      "notes": "① X 트리거 - 화이트리스트 계정 감시\n\n공식 계정:\n- @OfficialNBARefs (심판)\n- @ShamsCharania (기자)\n- @ChrisBHaynes (기자)\n- @RotoWireNBA (집계)"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.full_text }}",
+              "operation": "regex",
+              "value2": "\\b(OUT|INACTIVE|RULED OUT|QUESTIONABLE|DOUBTFUL|PROBABLE|LINEUP|STARTING|REFEREE|CREW CHIEF)\\b"
+            }
+          ]
+        }
+      },
+      "name": "1차 필터 - 키워드",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 1,
+      "position": [450, 300],
+      "notes": "③ 1차 필터\n\n키워드:\n- OUT / INACTIVE / RULED OUT\n- QUESTIONABLE / DOUBTFUL / PROBABLE\n- LINEUP / STARTING\n- REFEREE / CREW CHIEF"
+    },
+    {
+      "parameters": {
+        "functionCode": "// ④ 의미 있는 이벤트인가 판단\n\nconst tweet = $input.item.json;\nconst text = tweet.full_text || tweet.text || '';\n\n// 스팸 패턴\nconst spamPatterns = [\n  /giveaway/i,\n  /follow.*win/i,\n  /click.*link/i,\n  /bet.*now/i\n];\n\nfor (const pattern of spamPatterns) {\n  if (pattern.test(text)) {\n    return []; // 버림\n  }\n}\n\n// 의미 있는 패턴\nconst meaningfulPatterns = [\n  /\\b(OUT|INACTIVE|RULED OUT)\\b.*\\b(tonight|today|vs|@)\\b/i,\n  /\\b(QUESTIONABLE|DOUBTFUL|PROBABLE)\\b.*\\(.*\\)/i,  // 부상 원인 포함\n  /\\bCrew Chief\\b.*\\bReferee/i,\n  /\\bStarting (lineup|five)\\b/i\n];\n\nfor (const pattern of meaningfulPatterns) {\n  if (pattern.test(text)) {\n    return [$input.item]; // 통과\n  }\n}\n\n// 기본: 버림\nreturn [];"
+      },
+      "name": "의미 판단",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [650, 300],
+      "notes": "④ 의미 있는 이벤트인가?\n\n스팸 제거:\n- giveaway\n- follow to win\n- bet now\n\n유효 패턴:\n- OUT + 경기 정보\n- QUESTIONABLE + 부상\n- Crew Chief + Referee\n- Starting lineup"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://openrouter.ai/api/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "={{ 'Bearer ' + $env.OPENROUTER_API_KEY }}"
+            },
+            {
+              "name": "HTTP-Referer",
+              "value": "https://github.com/nba-realtime-pipeline"
+            },
+            {
+              "name": "X-Title",
+              "value": "NBA Real-time Event Normalizer"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "x-ai/grok-4.1-fast"
+            },
+            {
+              "name": "temperature",
+              "value": "0.1"
+            },
+            {
+              "name": "max_tokens",
+              "value": "500"
+            }
+          ]
+        },
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "={\n  \"model\": \"x-ai/grok-4.1-fast\",\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"You are an NBA event normalizer. Parse tweet text and extract structured data.\\n\\nOutput JSON only, no explanation. Format:\\n{\\n  \\\"event_type\\\": \\\"lineup_change\\\" | \\\"injury_report\\\" | \\\"referee_assignment\\\" | \\\"unknown\\\",\\n  \\\"player\\\": \\\"Player Name\\\" or null,\\n  \\\"team\\\": \\\"TEAM_ABBR\\\" or null,\\n  \\\"status\\\": \\\"OUT\\\" | \\\"QUESTIONABLE\\\" | \\\"DOUBTFUL\\\" | \\\"PROBABLE\\\" | \\\"ACTIVE\\\" | null,\\n  \\\"reason\\\": \\\"injury/rest/personal\\\" or null,\\n  \\\"game\\\": \\\"TEAM1 vs TEAM2\\\" or null,\\n  \\\"referee_crew\\\": [\\\"Ref1\\\", \\\"Ref2\\\", \\\"Ref3\\\"] or null,\\n  \\\"confidence\\\": 0.0-1.0,\\n  \\\"raw_text\\\": \\\"original tweet\\\"\\n}\\n\\nKey rules:\\n- Normalize all status variations to standard terms (OUT/QUESTIONABLE/DOUBTFUL/PROBABLE)\\n- Extract team abbreviations (3 letters)\\n- Identify opponent from context\\n- Confidence = certainty of extraction (0.0-1.0)\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": {{ $json.full_text || $json.text }}\n    }\n  ],\n  \"temperature\": 0.1,\n  \"max_tokens\": 500\n}"
+      },
+      "name": "Grok 정규화",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [850, 300],
+      "notes": "⑤ Grok X Search\n\nOpenRouter API:\n- Model: x-ai/grok-4.1-fast\n- Temperature: 0.1 (결정적)\n- Max tokens: 500\n\n입력: 트윗 원문\n출력: 구조화된 JSON"
+    },
+    {
+      "parameters": {
+        "functionCode": "// Grok 응답 파싱 및 정리\n\nconst response = $input.item.json;\nconst content = response.choices[0].message.content;\n\n// JSON 추출 (코드 블록 제거)\nlet jsonContent = content;\nif (content.includes('```json')) {\n  jsonContent = content.split('```json')[1].split('```')[0].trim();\n} else if (content.includes('```')) {\n  jsonContent = content.split('```')[1].split('```')[0].trim();\n}\n\nconst event = JSON.parse(jsonContent);\n\n// 메타데이터 추가\nevent.tweet_id = $node[\"X Watch - Official Accounts\"].json.id_str;\nevent.tweet_created_at = $node[\"X Watch - Official Accounts\"].json.created_at;\nevent.tweet_author = $node[\"X Watch - Official Accounts\"].json.user.screen_name;\nevent.processed_at = new Date().toISOString();\n\nreturn { json: event };"
+      },
+      "name": "Event 구조화",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [1050, 300],
+      "notes": "⑥ Event 구조화\n\nGrok 응답 파싱:\n- JSON 추출\n- 메타데이터 추가\n  - tweet_id\n  - tweet_created_at\n  - tweet_author\n  - processed_at"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "=// ⑦ Graph DB (Neo4j) - Event 노드 생성\n\nMERGE (e:Event {\n  tweet_id: $tweet_id\n})\nSET \n  e.event_type = $event_type,\n  e.player = $player,\n  e.team = $team,\n  e.status = $status,\n  e.reason = $reason,\n  e.game = $game,\n  e.confidence = $confidence,\n  e.raw_text = $raw_text,\n  e.tweet_author = $tweet_author,\n  e.tweet_created_at = datetime($tweet_created_at),\n  e.processed_at = datetime($processed_at)\n\n// 선수와 연결 (존재하면)\nWITH e\nWHERE $player IS NOT NULL\nMATCH (p:Player {name: $player})\nMERGE (e)-[:AFFECTS_PLAYER]->(p)\n\n// 팀과 연결 (존재하면)\nWITH e\nWHERE $team IS NOT NULL\nMATCH (t:Team {abbreviation: $team})\nMERGE (e)-[:AFFECTS_TEAM]->(t)\n\nRETURN e",
+        "additionalFields": {
+          "queryParameters": "={{ $json }}"
+        }
+      },
+      "name": "Neo4j - Event 저장",
+      "type": "n8n-nodes-base.neo4j",
+      "typeVersion": 1,
+      "position": [1250, 300],
+      "credentials": {
+        "neo4j": {
+          "id": "2",
+          "name": "Neo4j"
+        }
+      },
+      "notes": "⑦ Graph DB 저장\n\n노드 생성:\n- Event (tweet_id 기준 중복 방지)\n\n관계 생성:\n- AFFECTS_PLAYER → Player\n- AFFECTS_TEAM → Team"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "=// ⑧ Context 재계산 - 유사 과거 사건 검색\n\nMATCH (e:Event {tweet_id: $tweet_id})\nMATCH (e)-[:AFFECTS_PLAYER]->(p:Player)\n\n// 같은 선수의 과거 OUT 기록\nMATCH (past:Event)-[:AFFECTS_PLAYER]->(p)\nWHERE past.status = 'OUT' \n  AND past.tweet_id <> e.tweet_id\n  AND past.tweet_created_at < e.tweet_created_at\nWITH e, p, past\nORDER BY past.tweet_created_at DESC\nLIMIT 10\n\n// 해당 선수가 OUT일 때 팀 성적\nMATCH (p)-[:PLAYS_FOR]->(t:Team)\nMATCH (g:Game)-[:HOME_TEAM|AWAY_TEAM]->(t)\nWHERE g.date > past.tweet_created_at \n  AND g.date < e.tweet_created_at\n\nRETURN \n  e.tweet_id as current_event,\n  p.name as player,\n  count(DISTINCT past) as past_out_count,\n  count(DISTINCT g) as games_since_last_out,\n  collect(DISTINCT {date: past.tweet_created_at, reason: past.reason})[0..5] as recent_outs",
+        "additionalFields": {
+          "queryParameters": "={ \"tweet_id\": {{ $json.tweet_id }} }"
+        }
+      },
+      "name": "Neo4j - Context 계산",
+      "type": "n8n-nodes-base.neo4j",
+      "typeVersion": 1,
+      "position": [1250, 450],
+      "credentials": {
+        "neo4j": {
+          "id": "2",
+          "name": "Neo4j"
+        }
+      },
+      "notes": "⑧ Context 재계산\n\n분석:\n- 같은 선수 과거 OUT 기록\n- 마지막 OUT 이후 경기 수\n- 최근 부상 패턴\n\n출력:\n- past_out_count\n- games_since_last_out\n- recent_outs (5개)"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "x-api-key",
+              "value": "={{ $env.ANTHROPIC_API_KEY }}"
+            },
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            }
+          ]
+        },
+        "jsonParameters": true,
+        "bodyParametersJson": "={\n  \"model\": \"claude-sonnet-4-5-20250929\",\n  \"max_tokens\": 2000,\n  \"messages\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Generate betting signal report.\\n\\nEvent:\\n\" + JSON.stringify($node[\"Event 구조화\"].json, null, 2) + \"\\n\\nContext:\\n\" + JSON.stringify($node[\"Neo4j - Context 계산\"].json, null, 2) + \"\\n\\nProvide:\\n1. Impact Assessment (0-10)\\n2. Historical Pattern\\n3. Betting Implications\\n4. Confidence Level\"\n    }\n  ]\n}"
+      },
+      "name": "Claude - 리포트 생성",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1450, 300],
+      "notes": "⑧ 리포트 / 시그널 생성\n\nClaude Sonnet 4.5:\n- Event 데이터\n- Context 데이터\n\n출력:\n1. Impact Assessment (0-10)\n2. Historical Pattern\n3. Betting Implications\n4. Confidence Level"
+    },
+    {
+      "parameters": {
+        "resource": "message",
+        "operation": "send",
+        "chatId": "={{ $env.TELEGRAM_CHAT_ID }}",
+        "text": "=🚨 NBA Real-time Alert\n\n{{ $node[\"Claude - 리포트 생성\"].json.content[0].text }}\n\n---\nSource: @{{ $node[\"Event 구조화\"].json.tweet_author }}\nProcessed: {{ $node[\"Event 구조화\"].json.processed_at }}"
+      },
+      "name": "Telegram - 알림 발송",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1,
+      "position": [1650, 300],
+      "credentials": {
+        "telegramApi": {
+          "id": "3",
+          "name": "Telegram"
+        }
+      },
+      "notes": "최종 출력\n\nTelegram 알림:\n- 리포트 전문\n- 출처 (트위터 계정)\n- 처리 시간"
+    }
+  ],
+  "connections": {
+    "X Watch - Official Accounts": {
+      "main": [
+        [
+          {
+            "node": "1차 필터 - 키워드",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1차 필터 - 키워드": {
+      "main": [
+        [
+          {
+            "node": "의미 판단",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "의미 판단": {
+      "main": [
+        [
+          {
+            "node": "Grok 정규화",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Grok 정규화": {
+      "main": [
+        [
+          {
+            "node": "Event 구조화",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Event 구조화": {
+      "main": [
+        [
+          {
+            "node": "Neo4j - Event 저장",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Neo4j - Event 저장": {
+      "main": [
+        [
+          {
+            "node": "Neo4j - Context 계산",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Claude - 리포트 생성",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Neo4j - Context 계산": {
+      "main": [
+        [
+          {
+            "node": "Claude - 리포트 생성",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude - 리포트 생성": {
+      "main": [
+        [
+          {
+            "node": "Telegram - 알림 발송",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {},
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 1,
+  "updatedAt": "2025-12-25T00:00:00.000Z",
+  "versionId": "1"
+}

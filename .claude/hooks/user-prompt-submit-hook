@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+"""
+Claude Code User Prompt Submit Hook
+
+사용자 메시지를 자동으로 로그 파일에 저장
+- 일자별 파일: logs/conversation_YYYY-MM-DD.jsonl
+- JSONL 포맷
+- 타임스탬프 포함
+"""
+
+import sys
+import json
+from datetime import datetime
+from pathlib import Path
+
+def log_user_message(prompt_data):
+    """사용자 메시지를 일자별 로그 파일에 저장"""
+    try:
+        # 프로젝트 루트
+        script_path = Path(__file__).resolve()
+        project_root = script_path.parent.parent.parent
+
+        # 로그 디렉토리
+        log_dir = project_root / "logs"
+        log_dir.mkdir(exist_ok=True)
+
+        # 일자별 파일명 (프로젝트 구분)
+        today = datetime.now().strftime("%Y-%m-%d")
+        log_file = log_dir / f"conversation_economy_{today}.jsonl"
+
+        # 로그 엔트리 (프로젝트 메타데이터 추가)
+        log_entry = {
+            "timestamp": datetime.now().isoformat(),
+            "project": "economy",
+            "type": "user_prompt",
+            "content": prompt_data
+        }
+
+        # JSONL append
+        with open(log_file, 'a', encoding='utf-8') as f:
+            f.write(json.dumps(log_entry, ensure_ascii=False) + '\n')
+
+        print(f"[Hook] Logged user prompt to {log_file}", file=sys.stderr)
+
+    except Exception as e:
+        print(f"[Hook] Error logging prompt: {e}", file=sys.stderr)
+
+def main():
+    """Hook 진입점"""
+    try:
+        # stdin으로 프롬프트 데이터 받기
+        input_data = sys.stdin.read()
+
+        if input_data:
+            prompt_data = json.loads(input_data)
+            log_user_message(prompt_data)
+
+        # 빈 출력 (hook 성공)
+        print("")
+
+    except Exception as e:
+        print(f"[Hook] Fatal error: {e}", file=sys.stderr)
+        print("")
+
+if __name__ == "__main__":
+    main()

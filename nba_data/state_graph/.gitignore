@@ -1,0 +1,11 @@
+# Conversation logs (personal data)
+logs/*.jsonl
+
+# n8n environment variables (API keys, passwords)
+.env.n8n
+
+# n8n workflows backup
+n8n_workflows/
+
+# Grok test results
+grok_test_results.json

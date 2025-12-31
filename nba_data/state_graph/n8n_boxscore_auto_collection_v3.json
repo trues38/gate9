@@ -1,0 +1,111 @@
+{
+  "name": "NBA Box Score Auto Collection v3",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 2 * * *"
+            }
+          ]
+        }
+      },
+      "name": "Daily 02:00 Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [250, 300],
+      "notes": "매일 새벽 2시 실행"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:5001/api/boxscore/collect",
+        "options": {
+          "timeout": 600000
+        }
+      },
+      "name": "Collect Box Scores",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [450, 300],
+      "notes": "Flask API 호출하여 Box Score 수집 및 Neo4j 임포트"
+    },
+    {
+      "parameters": {
+        "jsCode": "const result = $input.item.json;\nconst success = result.status === 'success';\n\nreturn [{\n  json: {\n    status: result.status,\n    message: result.message,\n    timestamp: result.timestamp,\n    icon: success ? '✅' : '❌'\n  }\n}];"
+      },
+      "name": "Format Result",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300],
+      "notes": "결과 포맷팅"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:3000/api/notify",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"type\": \"boxscore_updated\",\n  \"status\": \"{{ $json.status }}\",\n  \"message\": \"{{ $json.message }}\",\n  \"timestamp\": \"{{ $json.timestamp }}\"\n}",
+        "options": {
+          "response": {
+            "response": {
+              "neverError": true
+            }
+          }
+        }
+      },
+      "name": "Notify (Optional)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [850, 300],
+      "notes": "알림 (선택사항)\n실패해도 계속 진행",
+      "continueOnFail": true
+    }
+  ],
+  "connections": {
+    "Daily 02:00 Trigger": {
+      "main": [
+        [
+          {
+            "node": "Collect Box Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Collect Box Scores": {
+      "main": [
+        [
+          {
+            "node": "Format Result",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Result": {
+      "main": [
+        [
+          {
+            "node": "Notify (Optional)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 1,
+  "updatedAt": "2025-12-26T00:00:00.000Z",
+  "versionId": "3"
+}

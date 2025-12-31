@@ -1,0 +1,260 @@
+{
+  "player_intelligence": {
+    "star_players": [
+      {
+        "name": "Mathis Cherki",
+        "impact": "HIGH",
+        "goals_per_90": 90.0,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Bahereba Guirassy",
+        "impact": "HIGH",
+        "goals_per_90": 30.0,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Endrick",
+        "impact": "HIGH",
+        "goals_per_90": 12.857142857142856,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Danny Ings",
+        "impact": "HIGH",
+        "goals_per_90": 10.0,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Gabriel Misehouy",
+        "impact": "HIGH",
+        "goals_per_90": 5.294117647058823,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Eldor Shomurodov",
+        "impact": "HIGH",
+        "goals_per_90": 4.285714285714286,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Ulisses García",
+        "impact": "HIGH",
+        "goals_per_90": 4.090909090909091,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Albert Gudmundsson",
+        "impact": "HIGH",
+        "goals_per_90": 4.090909090909091,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Cristhian Stuani",
+        "impact": "HIGH",
+        "goals_per_90": 4.0,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      },
+      {
+        "name": "Sofiane Diop",
+        "impact": "HIGH",
+        "goals_per_90": 3.75,
+        "assists_per_90": 0.0,
+        "recent_form": "0G+0A (Last 5)",
+        "position": "Sub"
+      }
+    ],
+    "hot_streak_players": [
+      {
+        "name": "Erling Haaland",
+        "recent_production": "10G+0A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Omar Marmoush",
+        "recent_production": "6G+3A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Harry Kane",
+        "recent_production": "5G+4A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Mohamed Salah",
+        "recent_production": "3G+4A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Lamine Yamal",
+        "recent_production": "3G+4A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Luis Díaz",
+        "recent_production": "5G+1A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Bukayo Saka",
+        "recent_production": "1G+5A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Cole Palmer",
+        "recent_production": "2G+4A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Nicolas Jackson",
+        "recent_production": "4G+2A",
+        "trend": "HOT"
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "recent_production": "3G+3A",
+        "trend": "HOT"
+      }
+    ]
+  },
+  "tactical_intelligence": {
+    "dominant_formations": {
+      "home": [
+        [
+          "4-3-1",
+          77
+        ],
+        [
+          "3-4-1",
+          37
+        ],
+        [
+          "4-4-2",
+          29
+        ],
+        [
+          "4-3-3",
+          27
+        ],
+        [
+          "3-3-2",
+          20
+        ]
+      ],
+      "away": [
+        [
+          "4-3-1",
+          85
+        ],
+        [
+          "3-4-1",
+          38
+        ],
+        [
+          "4-3-3",
+          26
+        ],
+        [
+          "4-4-2",
+          22
+        ],
+        [
+          "3-3-2",
+          13
+        ]
+      ]
+    },
+    "formation_matchups": [
+      {
+        "matchup": "4-3-1 vs 4-3-1",
+        "frequency": 29,
+        "commonality": "HIGH"
+      },
+      {
+        "matchup": "4-4-2 vs 4-3-1",
+        "frequency": 12,
+        "commonality": "HIGH"
+      },
+      {
+        "matchup": "4-3-1 vs 3-4-1",
+        "frequency": 11,
+        "commonality": "HIGH"
+      },
+      {
+        "matchup": "4-3-1 vs 4-3-3",
+        "frequency": 9,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "3-4-1 vs 4-3-1",
+        "frequency": 9,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "4-3-3 vs 4-3-1",
+        "frequency": 8,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "3-3-2 vs 3-4-1",
+        "frequency": 8,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "4-5-1 vs 4-3-1",
+        "frequency": 7,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "3-3-2 vs 4-3-1",
+        "frequency": 6,
+        "commonality": "MEDIUM"
+      },
+      {
+        "matchup": "4-3-3 vs 4-3-3",
+        "frequency": 6,
+        "commonality": "MEDIUM"
+      }
+    ]
+  },
+  "schedule_intelligence": {
+    "congestion_rate": "8.1%",
+    "high_risk_schedule": 557,
+    "normal_schedule": 6341,
+    "impact": "MODERATE"
+  },
+  "discipline_intelligence": {
+    "suspension_risk_players": [
+      "Koni de Winter",
+      "Dominik Kohr",
+      "Maximilian Arnold",
+      "Elvis Rexhbecaj"
+    ],
+    "sent_off_players": [
+      "Ashley Young",
+      "Fabian Schär",
+      "Jack Stephens",
+      "Declan Rice",
+      "Morgan Gibbs-White"
+    ],
+    "overall_risk": "MODERATE"
+  }
+}

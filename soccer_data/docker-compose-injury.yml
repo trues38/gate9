@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  soccer-injury-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.injury
+    container_name: soccer-injury-api
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./processed:/app/processed
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TZ=Asia/Seoul
+    restart: unless-stopped
+    networks:
+      - g9-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8002/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  g9-network:
+    external: true
