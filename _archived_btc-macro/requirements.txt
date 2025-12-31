@@ -1,0 +1,13 @@
+# BTC Macro Engine Dependencies
+
+# Data
+yfinance>=0.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# HTTP requests (for notifications)
+requests>=2.31.0
+
+# Scheduling (for daemon mode)
+schedule>=1.2.0

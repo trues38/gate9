@@ -65,12 +65,11 @@ class TimeBasedScheduler:
         """
         Determine if NBA collection should happen now
 
-        Collection strategy:
-        - Start: 1 hour before FIRST game
-        - End: When LAST game starts
+        Collection strategy (UPDATED):
+        - Start: 24 hours before FIRST game (to catch early news)
+        - End: 2 hours after LAST game starts
+        - This accommodates timezone differences (ESPN returns UTC times)
         - Frequency: Every 30 minutes (via N8N cron)
-
-        This ensures continuous collection during active game period.
 
         Args:
             game_times: List of scheduled game times (datetime objects)
@@ -92,31 +91,35 @@ class TimeBasedScheduler:
         first_game = min(game_times)
         last_game = max(game_times)
 
-        # Collection window: T-1h (first game) to T-0 (last game)
-        collection_start = first_game - timedelta(hours=1)
-        collection_end = last_game
+        # Collection window: T-24h (first game) to T+2h (last game)
+        # Extended to handle timezone differences - ESPN returns UTC times
+        # but games may appear as "tomorrow" when it's actually today in US time
+        collection_start = first_game - timedelta(hours=24)
+        collection_end = last_game + timedelta(hours=2)
 
         if collection_start <= now <= collection_end:
-            time_to_first = (first_game - now).total_seconds() / 60
-            time_to_last = (last_game - now).total_seconds() / 60
-            logger.info(f"NBA collection active (First game in {time_to_first:.0f}m, Last game in {time_to_last:.0f}m)")
+            time_to_first = (first_game - now).total_seconds() / 3600  # hours
+            time_to_last = (last_game - now).total_seconds() / 3600
+            logger.info(f"NBA collection active (First game in {time_to_first:.1f}h, Last game in {time_to_last:.1f}h)")
             return True
 
-        logger.debug(f"Not in collection window (starts in {(collection_start - now).total_seconds() / 60:.0f}m)")
+        logger.debug(f"Not in collection window (starts in {(collection_start - now).total_seconds() / 3600:.1f}h)")
         return False
 
     def should_collect_economy(self) -> bool:
         """
         Determine if Economy collection should happen now
 
-        Market session times (KST):
-        - 08:00 - Asia open
-        - 16:00 - Europe open
-        - 22:30 - US open
-        - 01:00 - US midday
-        - 05:00 - US close
+        Market session times (KST) - EXPANDED:
+        - 08:00-09:00 - Asia open
+        - 14:00-15:00 - Asia afternoon
+        - 16:00-17:00 - Europe open
+        - 20:00-21:00 - Europe afternoon
+        - 22:00-23:00 - US open
+        - 01:00-02:00 - US midday
+        - 05:00-06:00 - US close
 
-        Budget: ~6-8 calls/day = 200/month
+        Budget: ~10-14 calls/day = 300-420/month (increased budget)
         """
         if self.economy_used >= self.economy_budget:
             logger.warning("Economy budget exceeded")
@@ -124,19 +127,21 @@ class TimeBasedScheduler:
 
         now_kst = datetime.now(self.kst)
         current_hour = now_kst.hour
-        current_minute = now_kst.minute
 
-        # Define collection windows (hour, minute_start, minute_end)
+        # Define collection windows (expanded to 1-hour windows)
+        # (hour_start, hour_end, name)
         windows = [
-            (8, 0, 15, "Asia open"),
-            (16, 0, 15, "Europe open"),
-            (22, 25, 40, "US open"),
-            (1, 0, 15, "US midday"),
-            (5, 0, 15, "US close")
+            (8, 9, "Asia open"),
+            (14, 15, "Asia afternoon"),
+            (16, 17, "Europe open"),
+            (20, 21, "Europe afternoon"),
+            (22, 23, "US open"),
+            (1, 2, "US midday"),
+            (5, 6, "US close")
         ]
 
-        for hour, min_start, min_end, name in windows:
-            if current_hour == hour and min_start <= current_minute <= min_end:
+        for hour_start, hour_end, name in windows:
+            if hour_start <= current_hour < hour_end:
                 logger.info(f"Economy collection: {name}")
                 return True
 

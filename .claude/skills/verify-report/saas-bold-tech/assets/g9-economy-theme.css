@@ -1,0 +1,126 @@
+/* G9-Economy Theme Variant
+ * 경제 분석 플랫폼 특화 스타일
+ * Primary: Purple, Secondary: Gold
+ */
+
+:root {
+  /* Economy-specific colors */
+  --g9-econ-primary: #a855f7;
+  --g9-econ-secondary: #8b5cf6;
+  --g9-econ-gold: #fbbf24;
+  --g9-econ-bullish: #22c55e;
+  --g9-econ-bearish: #ef4444;
+  --g9-econ-neutral: #94a3b8;
+  
+  /* Regime colors */
+  --g9-regime-expansion: #22c55e;
+  --g9-regime-slowdown: #fbbf24;
+  --g9-regime-contraction: #ef4444;
+  --g9-regime-recovery: #3b82f6;
+  
+  /* Accent gradients */
+  --g9-econ-gradient: linear-gradient(135deg, #a855f7 0%, #8b5cf6 100%);
+  --g9-econ-gradient-premium: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+}
+
+/* Economy-specific components */
+
+/* Regime Indicator */
+.regime-card {
+  @apply bg-slate-800/50 rounded-xl border border-slate-700/50 p-6;
+  @apply relative overflow-hidden;
+}
+
+.regime-card::before {
+  content: '';
+  @apply absolute top-0 left-0 w-1 h-full;
+}
+
+.regime-card.expansion::before {
+  @apply bg-green-500;
+}
+
+.regime-card.slowdown::before {
+  @apply bg-yellow-500;
+}
+
+.regime-card.contraction::before {
+  @apply bg-red-500;
+}
+
+.regime-card.recovery::before {
+  @apply bg-blue-500;
+}
+
+/* Indicator gauge */
+.indicator-gauge {
+  @apply relative h-3 rounded-full bg-slate-700 overflow-hidden;
+}
+
+.indicator-gauge-fill {
+  @apply absolute top-0 left-0 h-full rounded-full;
+  @apply bg-gradient-to-r from-purple-500 to-purple-400;
+  transition: width 0.8s ease-out;
+}
+
+.indicator-gauge-marker {
+  @apply absolute top-1/2 -translate-y-1/2 w-1 h-5 bg-white rounded;
+  transition: left 0.8s ease-out;
+}
+
+/* Risk meter */
+.risk-meter {
+  @apply flex gap-1;
+}
+
+.risk-meter-segment {
+  @apply flex-1 h-2 rounded-full bg-slate-700;
+}
+
+.risk-meter-segment.active.low {
+  @apply bg-green-500;
+}
+
+.risk-meter-segment.active.medium {
+  @apply bg-yellow-500;
+}
+
+.risk-meter-segment.active.high {
+  @apply bg-red-500;
+}
+
+/* Scenario comparison table */
+.scenario-table {
+  @apply w-full border-collapse;
+}
+
+.scenario-table th {
+  @apply text-left text-slate-400 text-sm font-medium py-3 px-4;
+  @apply border-b border-slate-700;
+}
+
+.scenario-table td {
+  @apply py-3 px-4 text-slate-300;
+  @apply border-b border-slate-700/50;
+}
+
+.scenario-table tr:hover td {
+  @apply bg-slate-800/30;
+}
+
+/* Premium badge */
+.premium-badge {
+  @apply inline-flex items-center gap-1 px-2 py-0.5;
+  @apply bg-gradient-to-r from-amber-500/20 to-yellow-500/20;
+  @apply border border-amber-500/50 rounded-full;
+  @apply text-amber-400 text-xs font-semibold;
+}
+
+/* Economy keywords for hero/marketing */
+.economy-keywords {
+  --keyword-1: "Regime Analysis";
+  --keyword-2: "Economic Indicators";
+  --keyword-3: "Risk Assessment";
+  --keyword-4: "Scenario Planning";
+  --keyword-5: "Market Regime Detection";
+}

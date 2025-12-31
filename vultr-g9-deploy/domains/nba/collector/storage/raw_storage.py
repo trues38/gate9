@@ -401,24 +401,45 @@ def convert_tweet_to_raw(
     Convert Tweet object from adapter to RawTweet for storage
 
     Args:
-        tweet_obj: Tweet object from TwttrFreeAdapter
+        tweet_obj: Tweet object from TwitterAPI45Adapter
         domain: "nba" or "economy"
 
     Returns:
         RawTweet ready for storage
     """
+    # Handle attribute differences between Tweet classes
+    text = getattr(tweet_obj, 'text', '')
+    tweet_id = getattr(tweet_obj, 'tweet_id', '')
+    username = getattr(tweet_obj, 'username', '')
+
+    # created_at might be datetime or string
+    created_at = getattr(tweet_obj, 'created_at', datetime.now())
+    if isinstance(created_at, datetime):
+        created_at = created_at.isoformat()
+
+    # Generate URL if not present
+    url = getattr(tweet_obj, 'url', f"https://twitter.com/{username}/status/{tweet_id}")
+
+    # Handle different field names for counts
+    retweet_count = getattr(tweet_obj, 'retweet_count', 0) or getattr(tweet_obj, 'retweets', 0)
+    like_count = getattr(tweet_obj, 'like_count', 0) or getattr(tweet_obj, 'favorites', 0)
+    reply_count = getattr(tweet_obj, 'reply_count', 0) or getattr(tweet_obj, 'replies', 0)
+
+    # Handle raw_data
+    raw_data = getattr(tweet_obj, 'raw_data', None) or getattr(tweet_obj, 'media', None) or {}
+
     return RawTweet(
-        tweet_id=tweet_obj.tweet_id,
-        username=tweet_obj.username,
-        text=tweet_obj.text,
-        created_at=tweet_obj.created_at.isoformat(),
+        tweet_id=tweet_id,
+        username=username,
+        text=text,
+        created_at=created_at,
         fetched_at=datetime.now().isoformat(),
         domain=domain,
-        text_hash=tweet_obj.text_hash,
-        url=tweet_obj.url,
-        retweet_count=tweet_obj.retweet_count,
-        like_count=tweet_obj.like_count,
-        reply_count=tweet_obj.reply_count,
-        raw_json=json.dumps(tweet_obj.raw_data) if tweet_obj.raw_data else "{}",
+        text_hash=hashlib.md5(text.encode()).hexdigest(),
+        url=url,
+        retweet_count=retweet_count,
+        like_count=like_count,
+        reply_count=reply_count,
+        raw_json=json.dumps(raw_data) if raw_data else "{}",
         processed=False
     )

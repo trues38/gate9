@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  neo4j-economy:
+    image: neo4j:5.15.0
+    container_name: neo4j-economy
+    restart: unless-stopped
+    ports:
+      - "7475:7474"   # HTTP (Browser)
+      - "7688:7687"   # Bolt (Queries)
+    environment:
+      - NEO4J_AUTH=neo4j/regime2024
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_dbms_memory_heap_initial__size=512m
+      - NEO4J_dbms_memory_heap_max__size=1G
+      - NEO4J_dbms_memory_pagecache_size=512m
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_apoc_import_file_use__neo4j__config=true
+    volumes:
+      - neo4j-economy-data:/data
+      - neo4j-economy-logs:/logs
+      - neo4j-economy-import:/var/lib/neo4j/import
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7474"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+volumes:
+  neo4j-economy-data:
+  neo4j-economy-logs:
+  neo4j-economy-import:

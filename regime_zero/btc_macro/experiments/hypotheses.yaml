@@ -1,0 +1,610 @@
+# =============================================================================
+# BTC Engine - Hypothesis Registry
+# =============================================================================
+#
+# 가설 기반 실험 정의 파일
+# 각 가설은 독립적으로 테스트 가능하며, Walk-Forward 검증을 거쳐야 함
+#
+# 가설 상태(status):
+#   - draft: 초안, 아직 테스트 안함
+#   - testing: 현재 테스트 중
+#   - validated: OOS 검증 통과
+#   - rejected: OOS 검증 실패
+#   - archived: 더 이상 사용 안함
+#
+# 검증 기준(validation_criteria):
+#   - OOS win_rate >= baseline + 8%p
+#   - p_value <= 0.1
+#   - max_drawdown <= 25%
+#   - min_samples >= 20
+#
+# =============================================================================
+
+version: "1.0"
+created_at: "2025-12-27"
+
+# -----------------------------------------------------------------------------
+# 검증 기준 (전역 설정)
+# -----------------------------------------------------------------------------
+validation_criteria:
+  win_rate_edge: 0.08          # 랜덤 대비 최소 우위
+  p_value_threshold: 0.1       # 통계적 유의성
+  max_drawdown_limit: 0.25     # 최대 허용 낙폭
+  min_samples: 20              # 최소 샘플 수
+  oos_ratio: 0.4               # OOS 비율 (40%)
+
+# -----------------------------------------------------------------------------
+# 가설 목록
+# -----------------------------------------------------------------------------
+hypotheses:
+
+  # ===========================================================================
+  # H1: D-Tier Avoid (검증됨)
+  # ===========================================================================
+  - id: "H1_dtier_avoid"
+    name: "D-Tier 회피 전략"
+    description: |
+      D-Tier 패턴(win_rate < 45%)일 때 진입을 회피하면
+      전체 승률이 개선되는가?
+
+    status: validated
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+
+    # 가설 유형
+    type: filter  # filter | entry | exit | position_size
+
+    # 조건 정의
+    conditions:
+      # 진입 금지 조건
+      avoid_when:
+        - pattern_tier: ["D"]
+        - states_containing: ["weak|fear", "weak|extreme_fear"]
+
+      # 진입 허용 조건 (기본)
+      allow_when:
+        - pattern_tier: ["S", "A", "B", "C"]
+
+    # 백테스트 설정
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"    # IS 기간 끝
+      initial_capital: 10000
+      position_size: 0.1         # 10% per trade
+
+    # 검증 결과 (테스트 후 자동 기록)
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 156
+        win_rate: 0.68
+        total_return: 0.92
+        max_drawdown: 0.18
+        sharpe: 1.24
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 89
+        win_rate: 0.65
+        total_return: 0.86
+        max_drawdown: 0.15
+        sharpe: 1.18
+        p_value: 0.023
+        vs_random: "+12%p"
+
+    verdict: "PASS - OOS 승률 65%, 랜덤 대비 +12%p"
+
+  # ===========================================================================
+  # H2: RSI Oversold Entry (검증 실패)
+  # ===========================================================================
+  - id: "H2_rsi_oversold"
+    name: "RSI 과매도 진입"
+    description: |
+      RSI가 30 이하일 때 진입하면 승률이 개선되는가?
+      (경제 레짐 무관하게 테스트)
+
+    status: rejected
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+
+    type: entry
+
+    conditions:
+      entry_when:
+        - rsi: {operator: "<=", value: 30}
+        - bb_position: ["lower", "lower_touch"]
+
+      exit_when:
+        - rsi: {operator: ">=", value: 70}
+        - or:
+          - hold_days: {operator: ">=", value: 7}
+          - profit: {operator: ">=", value: 0.05}
+
+    parameters:
+      # 스윕 테스트용 파라미터
+      rsi_threshold:
+        default: 30
+        sweep: [25, 28, 30, 32, 35]
+
+      hold_days_max:
+        default: 7
+        sweep: [3, 5, 7, 10, 14]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+      initial_capital: 10000
+      position_size: 0.1
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 19
+        win_rate: 0.474
+        total_return: -0.136
+        max_drawdown: 0.335
+        sharpe: 0.12
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 22
+        win_rate: 0.682
+        total_return: 0.562
+        max_drawdown: 0.077
+        sharpe: 0.85
+        p_value: 0.2204
+        vs_random: "+7.1%p"
+
+    verdict: "FAIL - p-value 0.22 (유의하지 않음), 년도별 편차 극심 (2023: 0%, 2025: 90%)"
+
+    rejection_reason: |
+      1. 통계적 유의성 없음 (p-value 0.22 > 0.1)
+      2. Bootstrap 95% CI [42.9%, 71.4%] - 50% 미만 포함
+      3. 년도별 승률 편차 극심:
+         - 2023년: 0% (4거래 전패)
+         - 2025년: 90% (10거래 9승)
+      4. 최대 손실 -33.5% (COVID 폭락)
+      5. 특정 시장 환경(횡보장)에서 취약
+
+  # ===========================================================================
+  # H3: Economic Regime Filter (검증 실패)
+  # ===========================================================================
+  - id: "H3_macro_regime_combo"
+    name: "매크로 레짐 + BTC 상태 조합"
+    description: |
+      특정 경제 레짐에서 특정 BTC 상태가 나타날 때
+      진입하면 승률이 개선되는가?
+
+    status: rejected
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+
+    type: entry
+
+    conditions:
+      entry_when:
+        - macro_family: ["Weak Dollar Risk-On Boom", "Reflation Rally"]
+        - rsi: {operator: "<=", value: 35}
+        - pattern_tier: ["S", "A", "B"]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+      initial_capital: 10000
+      position_size: 0.1
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 24
+        win_rate: 0.71
+        total_return: 2.35
+        max_drawdown: 0.12
+        sharpe: 1.85
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 16
+        win_rate: 0.535
+        total_return: 0.23
+        max_drawdown: 0.19
+        sharpe: 0.45
+        p_value: 0.355
+        vs_random: "+0.5%p"
+
+    verdict: "FAIL - OOS 승률 53.5%, 통계적 유의성 없음 (과적합)"
+    rejection_reason: |
+      IS에서는 좋은 성과를 보였으나 OOS에서 랜덤 수준으로 하락.
+      24개 조합 중 상위 성과 조합만 선택한 것이 과적합의 원인.
+      단순 D-Tier 회피가 더 robust함.
+
+  # ===========================================================================
+  # H3: Volatility Expansion + First Dip (검증 실패)
+  # ===========================================================================
+  - id: "H3_vol_expansion_dip"
+    name: "변동성 확장 후 첫 눌림"
+    description: |
+      변동성이 급격히 확장된 이후, 첫 번째 조정(dip)은
+      추세 재개 확률이 높은가?
+
+      논리: 변동성 확장은 레짐 전환 신호,
+      첫 눌림은 "겁먹은 손절 + 기관 대기 물량" 구간
+
+    status: rejected
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+    type: entry_filter
+    depends_on: [volatility, macro_regime]
+
+    conditions:
+      entry_when:
+        - volatility_zscore: {operator: ">=", value: 1.5, window: 7}
+        - rsi: {operator: ">=", value: 40}
+        - rsi: {operator: "<=", value: 50}
+
+      avoid_macro:
+        - macro_family: ["Hawkish Tightening Grind", "Risk-Off Capitulation"]
+
+    parameters:
+      vol_zscore_threshold:
+        default: 1.5
+        sweep: [1.0, 1.5, 2.0]
+      rsi_dip_range:
+        default: [40, 50]
+        sweep: [[35, 45], [40, 50], [45, 55]]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 11
+        win_rate: 0.545
+        total_return: 0.233
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 10
+        win_rate: 0.50
+        total_return: 0.074
+        p_value: 0.6230
+
+      best_params:
+        vol_zscore: 2.0
+        lookback: 7
+        rsi_range: [45, 55]
+        test_wr: 0.75
+        test_trades: 8
+        note: "샘플 너무 적어 신뢰 불가"
+
+    verdict: "FAIL - OOS 50%, 랜덤 대비 -2.3%p 열등"
+
+    rejection_reason: |
+      1. OOS 승률 50.0% (랜덤 52.3%보다 낮음)
+      2. p-value 0.623 (유의하지 않음)
+      3. 거래 수 10개로 너무 적음
+      4. 년도별 편차: 2023 100%, 2024 33%, 2025 40%
+      5. 변동성 확장 후 7일 수익률도 52.4% (edge 없음)
+      결론: "첫 눌림이 기회"라는 직관 검증 실패
+
+  # ===========================================================================
+  # H4: Macro Transition Asymmetric Reaction (검증됨)
+  # ===========================================================================
+  - id: "H4_macro_transition"
+    name: "매크로 전이 직후 비대칭 반응"
+    description: |
+      경제 레짐이 전이된 직후 5~10일,
+      BTC는 평소와 다른(비대칭적) 반응을 보이는가?
+
+      예: Hawkish → Gold Safe-Haven 전이 시
+      BTC가 선반영 or 후행 중 한쪽으로 쏠림
+
+    status: validated
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+    type: context_modifier
+    depends_on: [graph_transition]
+
+    conditions:
+      active_when:
+        - days_since_transition: {operator: "<=", value: 10}
+        - rsi: {operator: ">=", value: 35}
+        - rsi: {operator: "<=", value: 55}
+
+      favorable_transitions:
+        - from: "Hawkish Tightening Grind"
+          to: "Gold Safe-Haven Fortress"
+        - from: "Risk-Off Capitulation"
+          to: "Reflation Rally"
+        - from: "Weak Dollar Risk-On Boom"
+          to: "Reflation Rally"
+        - from: "Goldilocks Equilibrium"
+          to: "Gold Safe-Haven Fortress"
+
+    parameters:
+      transition_window_days:
+        default: 10
+        sweep: [5, 7, 10, 14]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        transitions: 543
+        win_rate: 0.495
+
+      out_of_sample:
+        period: "2023-2025"
+        transitions: 601
+        win_rate: 0.569
+        avg_return: 0.0181
+        p_value: 0.0057
+
+      top_transitions:
+        - "Reflation Rally → Risk-Off: 100% WR"
+        - "Weak Dollar → Reflation Rally: 75% WR"
+        - "Goldilocks → Gold Safe-Haven: 72.7% WR"
+        - "Hawkish → Geopolitical: 71.4% WR"
+
+    verdict: "PASS - OOS 56.9%, p-value 0.0057, Train보다 OOS 개선"
+
+  # ===========================================================================
+  # H5: RSI Velocity (dRSI) (검증 실패)
+  # ===========================================================================
+  - id: "H5_rsi_velocity"
+    name: "RSI 속도(dRSI)가 값보다 유의미한가"
+    description: |
+      RSI 절대값(30, 70)은 약하지만
+      RSI 변화 속도(dRSI)는 레짐 전환 힌트가 되는가?
+
+      논리: 가격보다 모멘텀 변화가 먼저 나타남
+      횡보장에서 특히 유효할 가능성
+
+    status: rejected
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+    type: entry
+    depends_on: [rsi_velocity, macro_regime]
+
+    conditions:
+      entry_when:
+        - drsi_3d: {operator: ">=", value: 8}   # 3일간 RSI +8 이상
+        - rsi: {operator: "<=", value: 55}       # 아직 과열 아님
+
+      favorable_macro:
+        - macro_family: ["Goldilocks Expansion", "Reflation Rally", "Melt-Up Mania"]
+
+      exit_when:
+        - drsi_3d: {operator: "<=", value: -8}  # 모멘텀 반전
+        - or:
+          - hold_days: {operator: ">=", value: 7}
+
+    parameters:
+      drsi_threshold:
+        default: 8
+        sweep: [6, 8, 10, 12]
+      drsi_window:
+        default: 3
+        sweep: [2, 3, 5]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 45
+        win_rate: 0.489
+        total_return: -0.24
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 41
+        win_rate: 0.488
+        total_return: 0.571
+        p_value: 0.6224
+
+    verdict: "FAIL - OOS 승률 48.8%, RSI absolute(68.2%)보다 열등"
+
+    rejection_reason: |
+      1. OOS 승률 48.8% < 55% 기준
+      2. p-value 0.62 (유의하지 않음)
+      3. RSI 절대값(H2)이 dRSI보다 19.4%p 우수
+      4. 년도별 편차 큼 (2020: 40%, 2022: 56%)
+      결론: "속도가 값보다 중요하다"는 가설 기각
+
+  # ===========================================================================
+  # H6: Low Volatility Neutral Zone Avoidance (검증 실패)
+  # ===========================================================================
+  - id: "H6_low_vol_neutral_avoid"
+    name: "저변동성 중립구간 회피"
+    description: |
+      저변동성 + 중립 레짐 + 중립 지표
+      → 이 구간은 진입 시 기대값이 음수인가?
+
+      논리: 모든 참여자가 확신 없음
+      트레이딩 = 수수료 + 감정 손실 구간
+
+      D-Tier 회피의 확장판
+
+    status: rejected
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+    type: avoidance
+    depends_on: [volatility, macro_regime]
+    primary_metric: expected_value
+
+    conditions:
+      avoid_when:
+        - volatility_percentile: {operator: "<=", value: 30}  # 하위 30%
+        - rsi: {operator: ">=", value: 45}
+        - rsi: {operator: "<=", value: 55}
+        - macro_family: ["Equity Complacency", "Goldilocks Expansion"]
+
+    parameters:
+      vol_percentile_threshold:
+        default: 30
+        sweep: [20, 30, 40]
+      rsi_neutral_range:
+        default: [45, 55]
+        sweep: [[40, 60], [45, 55], [48, 52]]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+
+    results:
+      avoid_zone:
+        trades: 19
+        win_rate: 0.526
+        avg_return: -0.011
+
+      active_zone:
+        trades: 255
+        win_rate: 0.533
+        avg_return: 0.0128
+
+      improvement:
+        win_rate_diff: 0.0
+        trades_avoided_ratio: 0.069
+
+      statistical_test:
+        chi2_p_value: 0.9118
+        binomial_p_value: 0.5580
+
+    verdict: "FAIL - 회피구간과 활성구간 승률 차이 없음 (52.6% vs 53.3%)"
+
+    rejection_reason: |
+      1. 회피구간 승률 52.6% ≈ 전체 승률 53.3%
+      2. Chi-squared p-value 0.91 (차이 없음)
+      3. "아무 일도 안 일어나는 구간이 위험하다"는 직관이 틀림
+      4. 저변동성 중립구간은 전체 8.6%에 불과 (희소)
+      결론: 이 조건으로 회피해도 성과 개선 없음
+
+  # ===========================================================================
+  # H7: BTC as Anxious Safe Haven (검증됨)
+  # ===========================================================================
+  - id: "H7_btc_safe_haven_lag"
+    name: "BTC 불안한 안전자산 가설"
+    description: |
+      Gold Safe-Haven 레짐에서
+      BTC는 Gold와 유사하지만 타이밍은 다른가?
+
+      논리: 기관은 먼저 Gold → 그다음 BTC
+      "대체 안전자산" 내러티브 검증
+
+      이게 통하면 BTC 해석 프레임 자체가 바뀜
+
+    status: validated
+    created_at: "2025-12-27"
+    validated_at: "2025-12-27"
+    type: entry_filter
+    depends_on: [macro_regime, gold_correlation]
+
+    conditions:
+      entry_when:
+        - macro_family: ["Gold Safe-Haven Fortress"]
+        - gold_return_7d: {operator: ">=", value: 0.015}  # Gold 7일 +1.5% 이상
+        - days_since_gold_breakout: {operator: ">=", value: 3}
+        - days_since_gold_breakout: {operator: "<=", value: 10}
+
+    parameters:
+      gold_lag_window:
+        default: [3, 10]
+        sweep: [[3, 10], [3, 14], [5, 14], [7, 21]]
+      gold_breakout_threshold:
+        default: 0.015
+        sweep: [0.015, 0.02, 0.03]
+
+    backtest:
+      start_date: "2020-01-01"
+      end_date: "2025-12-26"
+      train_end: "2022-12-31"
+
+    results:
+      in_sample:
+        period: "2020-2022"
+        trades: 25
+        win_rate: 0.64
+
+      out_of_sample:
+        period: "2023-2025"
+        trades: 36
+        win_rate: 0.667
+        total_return: 1.002
+        p_value: 0.0326
+
+      best_params:
+        gold_threshold: 0.015
+        lag_window: [3, 10]
+        note: "Gold +1.5% 후 3일 대기가 최적"
+
+    verdict: "PASS - OOS 66.7%, p-value 0.0326, BTC가 Gold 후행 추종 확인"
+
+# -----------------------------------------------------------------------------
+# 메타 정보
+# -----------------------------------------------------------------------------
+meta:
+  total_hypotheses: 7
+  validated: 3      # H1 (D-Tier Avoid), H4 (Macro Transition), H7 (BTC-Gold Lag)
+  rejected: 5       # H2, H3_old, H3, H5, H6
+  testing: 0
+  draft: 0
+
+  philosophy: |
+    "통하는 가설을 찾는 게 목표가 아니다"
+    "통하지 않는 걸 빠르게 버리는 구조가 목표다"
+
+    모든 가설은:
+    - 단일 지표 없음
+    - "항상 통한다" 주장 없음
+    - 특정 레짐에서만 조건부 활성
+    - 실패해도 엔진이 망가지지 않음
+
+  validated_summary:
+    H1_dtier_avoid: "패턴 기반 D-Tier 회피, OOS 65%, p<0.05"
+    H4_macro_transition: "레짐 전이 직후 진입, OOS 56.9%, p=0.006"
+    H7_btc_gold_lag: "Gold 급등 후 BTC 후행 추종, OOS 66.7%, p=0.03"
+
+  key_insight: |
+    기술적 지표(RSI, dRSI, Volatility) 기반 가설은 모두 실패.
+    성공한 가설은 모두 "구조적/매크로 기반":
+    - H1: 패턴 분류 (Graph DB)
+    - H4: 레짐 전이 (Graph Transition)
+    - H7: 자산간 래그 (Gold → BTC)
+
+  next_steps:
+    - "H1, H4, H7 통합 전략 설계"
+    - "레짐별 최적 진입 타이밍 분석"
+    - "실시간 시그널 생성 파이프라인"
+
+  lessons_learned:
+    - "단순 RSI oversold는 통계적으로 유의하지 않음 (H2)"
+    - "년도별 성과 편차가 크면 신뢰할 수 없음"
+    - "2023년 같은 횡보장에서 RSI 전략은 취약"
+    - "RSI 속도(dRSI)가 절대값보다 낫다는 가설은 틀림 (H5)"
+    - "저변동성 중립구간이 위험하다는 직관은 틀림 (H6)"
+    - "변동성 확장 후 눌림도 edge 없음 (H3)"
+    - "회피(avoidance) 가설도 무조건 robust하지 않음"
+    - "기술적 지표 기반 가설들은 대부분 실패"
+    - "구조적/매크로 기반 가설만 검증됨 (H1, H4, H7)"
+
+  rejection_summary:
+    H2_rsi_oversold: "p-value 0.22, 년도별 편차 극심"
+    H3_old_macro_combo: "과적합, OOS 랜덤 수준"
+    H3_vol_expansion_dip: "OOS 50%, 랜덤(52.3%)보다 열등, 거래수 부족"
+    H5_rsi_velocity: "OOS 48.8%, RSI absolute보다 열등"
+    H6_low_vol_neutral: "p-value 0.91, 회피/활성 차이 없음"

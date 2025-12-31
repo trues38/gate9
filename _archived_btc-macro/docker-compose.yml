@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  btc-macro:
+    build: .
+    container_name: btc-macro-engine
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - TZ=Asia/Seoul
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

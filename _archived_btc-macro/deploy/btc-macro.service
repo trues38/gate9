@@ -1,0 +1,16 @@
+[Unit]
+Description=BTC Macro Engine Service
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/btc-macro
+Environment=PYTHONPATH=/home/ubuntu/btc-macro/src
+EnvironmentFile=/home/ubuntu/btc-macro/.env
+ExecStart=/home/ubuntu/btc-macro/venv/bin/python src/btc_engine/service.py --daemon
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

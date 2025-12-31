@@ -1,0 +1,261 @@
+# 🏀 NBA Graph RAG 분석 보고서
+
+**생성일시**: 2025-12-31 02:40
+**분석 대상**: 2025년 12월 31일 (4경기)
+**분석 방법**: Graph RAG + PlayerStats + Real-time Events
+**데이터 출처**: Neo4j Graph Database (VPS)
+
+---
+
+## 📅 경기 일정 (한국시간)
+
+| 시간 | 원정 | 홈 | 비고 |
+|------|------|-----|------|
+| 10:00 | Philadelphia 76ers | Memphis Grizzlies |  |
+| 11:00 | Boston Celtics | Utah Jazz | 🔥 강팀 |
+| 12:30 | Detroit Pistons | Los Angeles Lakers | ⚠️ 약팀 |
+| 13:00 | Sacramento Kings | Los Angeles Clippers | 🔥 강팀 |
+
+---
+
+## 🎯 경기 1: Philadelphia 76ers @ Memphis Grizzlies
+
+**경기 시간**: 10:00 (한국시간)
+
+### 📊 팀 폼 분석
+
+**Philadelphia 76ers** (원정)
+- **최근 5경기**: 2승 3패 (40.0%)
+- **최근 경기:**
+  - ✅ vs DAL 121-114 (홈)
+  - ❌ vs OKC 104-129 (원정)
+  - ❌ vs CHI 102-109 (원정)
+
+**Memphis Grizzlies** (홈)
+- **최근 5경기**: 2승 3패 (40.0%)
+- **최근 경기:**
+  - ❌ vs WSH 122-130 (홈)
+  - ❌ vs WSH 112-116 (원정)
+  - ✅ vs UTAH 137-128 (원정)
+
+### ⚔️ 맞대결 기록 (H2H)
+
+- **2024-11-02**: MEM 124 vs PHI 107 → MEM 승
+- **2024-03-07**: MEM 115 vs PHI 109 → MEM 승
+
+### ⭐ 주요 선수 (최근 5경기 평균)
+
+**PHI팀:**
+- Tyrese Maxey: 27.2점 2.6리바운드 5.6어시스트
+- VJ Edgecombe: 17.3점 4.5리바운드 4.0어시스트
+- Paul George: 13.3점 6.5리바운드 3.5어시스트
+
+**MEM팀:**
+- Jaren Jackson Jr.: 21.8점 7.0리바운드 1.6어시스트
+- Santi Aldama: 21.8점 7.8리바운드 3.2어시스트
+- Cam Spencer: 14.2점 4.0리바운드 8.8어시스트
+
+### 💡 분석 결론
+
+**추천**: Memphis Grizzlies 승
+**신뢰도**: ⭐⭐⭐⭐ (4/5)
+
+**분석 근거:**
+- 접전 예상 (폼 차이: 0.0%p)
+- H2H 최근 2경기 참고
+
+---
+
+## 🎯 경기 2: Boston Celtics @ Utah Jazz
+
+**경기 시간**: 11:00 (한국시간)
+
+### 📊 팀 폼 분석
+
+**Boston Celtics** (원정)
+- **최근 5경기**: 4승 1패 (80.0%)
+- **최근 경기:**
+  - ✅ vs MIA 129-116 (홈)
+  - ❌ vs POR 108-114 (원정)
+  - ✅ vs IND 140-122 (원정)
+
+**Utah Jazz** (홈)
+- **최근 5경기**: 2승 3패 (40.0%)
+- **최근 경기:**
+  - ❌ vs ORL 127-128 (홈)
+  - ❌ vs MEM 128-137 (홈)
+  - ❌ vs DEN 112-135 (원정)
+
+### ⚔️ 맞대결 기록 (H2H)
+
+- **2025-11-03**: UTAH 105 vs BOS 103 → UTAH 승
+- **2025-03-10**: UTAH 108 vs BOS 114 → BOS 승
+- **2024-01-06**: UTAH 97 vs BOS 126 → BOS 승
+
+### ⭐ 주요 선수 (최근 5경기 평균)
+
+**BOS팀:**
+- Jaylen Brown: 32.0점 7.0리바운드 4.3어시스트
+- Derrick White: 20.0점 5.0리바운드 5.6어시스트
+- Payton Pritchard: 18.2점 5.6리바운드 5.8어시스트
+
+**UTAH팀:**
+- Lauri Markkanen: 28.7점 5.7리바운드 2.0어시스트
+- Keyonte George: 26.0점 5.2리바운드 6.8어시스트
+- Jusuf Nurkic: 13.3점 10.0리바운드 5.5어시스트
+
+### 💡 분석 결론
+
+**추천**: Boston Celtics 승
+**신뢰도**: ⭐⭐⭐⭐⭐ (5/5)
+
+**분석 근거:**
+- BOS의 압도적 폼 우위 (80.0% vs 40.0%)
+- H2H 최근 3경기 참고
+
+---
+
+## 🎯 경기 3: Detroit Pistons @ Los Angeles Lakers
+
+**경기 시간**: 12:30 (한국시간)
+
+### 📊 팀 폼 분석
+
+**Detroit Pistons** (원정)
+- **최근 5경기**: 3승 2패 (60.0%)
+- **최근 경기:**
+  - ✅ vs POR 110-102 (원정)
+  - ❌ vs UTAH 129-131 (원정)
+  - ❌ vs LAC 99-112 (원정)
+
+**Los Angeles Lakers** (홈)
+- **최근 5경기**: 1승 4패 (20.0%)
+- **최근 경기:**
+  - ✅ vs SAC 125-101 (홈)
+  - ❌ vs LAC 88-103 (원정)
+  - ❌ vs PHX 108-132 (원정)
+
+### ⚔️ 맞대결 기록 (H2H)
+
+- **2024-11-04**: LAL 103 vs DET 115 → DET 승
+- **2023-11-30**: LAL 133 vs DET 107 → LAL 승
+
+### ⭐ 주요 선수 (최근 5경기 평균)
+
+**DET팀:**
+- Cade Cunningham: 23.0점 6.6리바운드 11.8어시스트
+- Jalen Duren: 19.4점 10.4리바운드 2.0어시스트
+- Tobias Harris: 14.8점 4.0리바운드 3.2어시스트
+
+**LAL팀:**
+- LeBron James: 27.7점 3.0리바운드 4.7어시스트
+- Nick Smith Jr.: 14.0점 2.3리바운드 1.0어시스트
+- Jake LaRavia: 11.7점 6.0리바운드 3.7어시스트
+
+### 💡 분석 결론
+
+**추천**: Detroit Pistons 승
+**신뢰도**: ⭐⭐⭐⭐⭐ (5/5)
+
+**분석 근거:**
+- DET의 압도적 폼 우위 (60.0% vs 20.0%)
+- H2H 최근 2경기 참고
+
+---
+
+## 🎯 경기 4: Sacramento Kings @ Los Angeles Clippers
+
+**경기 시간**: 13:00 (한국시간)
+
+### 📊 팀 폼 분석
+
+**Sacramento Kings** (원정)
+- **최근 5경기**: 2승 3패 (40.0%)
+- **최근 경기:**
+  - ✅ vs HOU 125-124 (홈)
+  - ❌ vs LAL 101-125 (원정)
+  - ✅ vs DAL 113-107 (홈)
+
+**Los Angeles Clippers** (홈)
+- **최근 5경기**: 4승 1패 (80.0%)
+- **최근 경기:**
+  - ✅ vs DET 112-99 (홈)
+  - ✅ vs LAL 103-88 (홈)
+  - ✅ vs POR 119-103 (원정)
+
+### ⚔️ 맞대결 기록 (H2H)
+
+- **2025-10-15**: LAC 109 vs SAC 91 → LAC 승
+- **2025-04-11**: LAC 101 vs SAC 100 → LAC 승
+- **2024-11-08**: LAC 107 vs SAC 98 → LAC 승
+
+### ⭐ 주요 선수 (최근 5경기 평균)
+
+**SAC팀:**
+- DeMar DeRozan: 22.0점 4.0리바운드 5.8어시스트
+- Russell Westbrook: 17.8점 7.4리바운드 5.6어시스트
+- Dennis Schroder: 15.2점 3.6리바운드 6.2어시스트
+
+**LAC팀:**
+- Kawhi Leonard: 39.0점 9.8리바운드 4.0어시스트
+- James Harden: 28.0점 3.5리바운드 7.3어시스트
+- Brook Lopez: 13.5점 5.8리바운드 1.8어시스트
+
+### 💡 분석 결론
+
+**추천**: Los Angeles Clippers 승
+**신뢰도**: ⭐⭐⭐⭐⭐ (5/5)
+
+**분석 근거:**
+- LAC의 압도적 폼 우위 (80.0% vs 40.0%)
+- H2H 최근 3경기 참고
+
+---
+
+## 🎲 종합 베팅 추천
+
+### 🔥 High Confidence (신뢰도 4-5)
+
+- **Memphis Grizzlies** vs Philadelphia 76ers
+  - 신뢰도: ⭐⭐⭐⭐
+  - 폼: 40.0% vs 40.0%
+- **Boston Celtics** vs Utah Jazz
+  - 신뢰도: ⭐⭐⭐⭐⭐
+  - 폼: 80.0% vs 40.0%
+- **Detroit Pistons** vs Los Angeles Lakers
+  - 신뢰도: ⭐⭐⭐⭐⭐
+  - 폼: 60.0% vs 20.0%
+- **Los Angeles Clippers** vs Sacramento Kings
+  - 신뢰도: ⭐⭐⭐⭐⭐
+  - 폼: 40.0% vs 80.0%
+
+### 💰 파레이 전략
+
+**Conservative (안전)**: Memphis Grizzlies + Boston Celtics
+- 예상 적중률: 75%
+
+---
+
+## 📝 데이터 출처
+
+- **Graph Database**: VPS Neo4j (bolt://141.164.35.214:7687)
+  - Game 노드: 3,300+개
+  - PlayerStats 노드: 15,000+개
+  - NBAEvent 노드: 50+개 (실시간)
+
+- **분석 방법**: Graph RAG (Retrieval Augmented Generation)
+- **최근 폼**: 최근 5경기 승률 + 득점력
+- **H2H**: 최근 3경기 맞대결
+- **선수 통계**: 최근 5경기 평균
+
+---
+
+**⚠️ 면책조항**
+
+본 분석은 참고용이며, 실제 베팅 결과를 보장하지 않습니다.
+책임 있는 베팅을 권장합니다.
+
+---
+
+**Generated by**: G9 NBA Graph RAG Engine
+**Timestamp**: 2025-12-31 02:40:46 KST

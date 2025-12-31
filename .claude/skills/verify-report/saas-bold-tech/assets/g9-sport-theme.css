@@ -1,0 +1,87 @@
+/* G9-Sport Theme Variant
+ * 스포츠 분석 플랫폼 특화 스타일
+ * Primary: Cyan, Secondary: Green/Red (상승/하락)
+ */
+
+:root {
+  /* Sport-specific colors */
+  --g9-sport-primary: #00f5ff;
+  --g9-sport-secondary: #06b6d4;
+  --g9-sport-up: #22c55e;
+  --g9-sport-down: #ef4444;
+  --g9-sport-neutral: #94a3b8;
+  
+  /* Accent gradients */
+  --g9-sport-gradient: linear-gradient(135deg, #00f5ff 0%, #06b6d4 100%);
+  --g9-sport-gradient-up: linear-gradient(135deg, #22c55e 0%, #10b981 100%);
+  --g9-sport-gradient-down: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+}
+
+/* Sport-specific components */
+
+/* Odds Display Card */
+.odds-card {
+  @apply bg-slate-800/50 rounded-xl border border-slate-700/50 p-4;
+  @apply hover:border-cyan-500/50 transition-all duration-300;
+}
+
+.odds-value {
+  font-family: 'JetBrains Mono', monospace;
+  @apply text-2xl font-bold;
+}
+
+.odds-value.positive {
+  @apply text-green-400;
+}
+
+.odds-value.negative {
+  @apply text-red-400;
+}
+
+/* Live indicator */
+.live-badge {
+  @apply inline-flex items-center gap-2 px-3 py-1;
+  @apply bg-red-500/20 border border-red-500/50 rounded-full;
+  @apply text-red-400 text-sm font-semibold;
+}
+
+.live-badge::before {
+  content: '';
+  @apply w-2 h-2 rounded-full bg-red-500 animate-pulse;
+}
+
+/* Team comparison bar */
+.comparison-bar {
+  @apply h-2 rounded-full overflow-hidden bg-slate-700;
+}
+
+.comparison-bar-fill {
+  @apply h-full bg-gradient-to-r from-cyan-500 to-cyan-400;
+  transition: width 0.5s ease-out;
+}
+
+/* Edge indicator */
+.edge-indicator {
+  @apply flex items-center gap-2 text-sm;
+}
+
+.edge-indicator.high {
+  @apply text-green-400;
+}
+
+.edge-indicator.medium {
+  @apply text-yellow-400;
+}
+
+.edge-indicator.low {
+  @apply text-slate-400;
+}
+
+/* Sport keywords for hero/marketing */
+.sport-keywords {
+  --keyword-1: "Edge Detection";
+  --keyword-2: "Real-time Odds";
+  --keyword-3: "Value Betting";
+  --keyword-4: "Line Movement";
+  --keyword-5: "Sharp Money Tracking";
+}
